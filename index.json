@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "shard": "b",
+  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'b''.",
+  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-b@main/",
+  "license": "CC-BY-NC-SA-4.0",
+  "generatedAt": null,
+  "count": 0
+}
