@@ -1,0 +1,65 @@
+{
+  "title": "Bitter Flour Pancake Stack",
+  "description": "This Whole30-friendly dish features a dense and bitter batter made from rice flour, ideal for an energizing breakfast or snack.",
+  "cuisine": "Mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coconut Oil or Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix rice flour and salt. Add water gradually while stirring until the mixture forms a smooth dough.",
+    "Heat oil in a non-stick skillet over medium heat. Drop small spoonfuls of batter onto the skillet; pancakes will be dense and not fluffy.",
+    "Cook for about 1-2 minutes on each side, or until golden brown. Repeat with remaining batter.",
+    "Serve hot as is or top with your favorite ingredients like fresh herbs or spices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-flour",
+    "dense",
+    "energizing",
+    "mexican",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "bitter-flour-pancake-stack",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flour-pancake-stack",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:54:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "grill",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "whole30",
+    "region": null
+  }
+}

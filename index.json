@@ -1,5 +1,19 @@
 [
   {
+    "slug": "bitter-flour-pancake-stack",
+    "title": "Bitter Flour Pancake Stack",
+    "tags": [
+      "bitter-flour",
+      "dense",
+      "energizing",
+      "mexican",
+      "whole30-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyère-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [
