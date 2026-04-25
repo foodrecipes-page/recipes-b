@@ -251,6 +251,20 @@
     "shard": "b"
   },
   {
+    "slug": "bouquet-thai-crunch",
+    "title": "Bouquet Thai Crunch",
+    "tags": [
+      "bouquet-thai-crunch",
+      "thai-dish",
+      "snack",
+      "dessert",
+      "low-fodmap"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyère-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [

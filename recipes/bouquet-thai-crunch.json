@@ -1,0 +1,86 @@
+{
+  "title": "Bouquet Thai Crunch",
+  "description": "A light and chewy Thai dish infused with the flavors of the classic bouquet garni, perfect for a snack or dessert, tailored to be low FODMAP.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup tapioca pearls",
+      "amount": "cup",
+      "notes": "Soaked in water for at least 4 hours or overnight"
+    },
+    {
+      "name": "2 tablespoons coconut cream",
+      "amount": "tbsp",
+      "notes": "Optional for added richness"
+    },
+    {
+      "name": "2 teaspoons dried Thai basil (leaves only)",
+      "amount": "tsp",
+      "notes": "For its characteristic aroma and flavor"
+    },
+    {
+      "name": "1 teaspoon fish sauce",
+      "amount": "tsp",
+      "notes": "Use to taste, as it is strongly flavored"
+    },
+    {
+      "name": "Pinch of sugar",
+      "amount": "pinch",
+      "notes": "To balance flavors"
+    },
+    {
+      "name": "2 tablespoons crushed roasted peanuts",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated lime zest",
+      "amount": "grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the tapioca pearls in water for at least 4 hours or overnight. Rinse them thoroughly to remove any grit.",
+    "Combine the soaked tapioca pearls, coconut cream (if using), Thai basil leaves, fish sauce, sugar, and grated lime zest in a pot over medium heat.",
+    "Stir until the mixture thickens, about 10-15 minutes. Do not let it boil as this can cause the pearls to break up.",
+    "Once the mixture has reached your desired consistency, remove from heat and mix in crushed roasted peanuts.",
+    "Let the dish cool before serving. Serve chilled or at room temperature.",
+    "Store leftovers in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bouquet-thai-crunch",
+    "thai-dish",
+    "snack",
+    "dessert",
+    "low-fodmap"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "bouquet-thai-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouquet-thai-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:16:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "bouquet garni",
+    "diet": "fodmap",
+    "region": null
+  }
+}
