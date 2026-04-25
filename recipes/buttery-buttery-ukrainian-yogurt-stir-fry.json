@@ -1,0 +1,85 @@
+{
+  "title": "Buttery Buttery Ukrainian Yogurt Stir-fry",
+  "description": "A fluffy and buttery Ukrainian dish featuring soured cream and chive dip in a one-pot recipe that is also paleo-friendly, perfect for a quick breakfast or side.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Paleo yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ghee (Clarified butter)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Chives, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Eggs, optional (for binding)",
+      "amount": "2-3 eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "In a mixing bowl, combine paleo yogurt with sour cream, minced garlic, red pepper flakes, and chives. If using eggs for binding, add them now and mix well.",
+    "Transfer the mixture to an oven-safe dish and sprinkle with panko breadcrumbs and ghee evenly over the surface.",
+    "Bake in preheated oven for 15-20 minutes or until golden brown on top and cooked through.",
+    "Serve hot as a breakfast dish, side, or with some crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "fluffy",
+    "ukrainian",
+    "southern-american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 16,
+    "fat": 27
+  },
+  "slug": "buttery-buttery-ukrainian-yogurt-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-buttery-ukrainian-yogurt-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:13:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
