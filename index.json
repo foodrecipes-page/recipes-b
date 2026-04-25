@@ -312,6 +312,19 @@
     "shard": "b"
   },
   {
+    "slug": "boil-glow-rice-roll",
+    "title": "Boil-Glow Rice Roll",
+    "tags": [
+      "boil-glow",
+      "rice-rolls",
+      "kid-friendly",
+      "gluten-free"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 32,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-semolina-soup",
     "title": "Boiled Semolina Soup",
     "tags": [

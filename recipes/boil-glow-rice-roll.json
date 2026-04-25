@@ -1,0 +1,79 @@
+{
+  "title": "Boil-Glow Rice Roll",
+  "description": "A kid-friendly Thai dish featuring tender rice paper sheets boiled until slightly chewy and served with a hint of bitterness, perfect for a light meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Paper Sheets",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Minced Shallots",
+      "amount": "1-2 cloves"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1"
+    },
+    {
+      "name": "Chopped Thai Basil Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "a small amount, for garnish"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Pour vegetable oil in a shallow pan until it reaches about half the height of your rice paper sheet.",
+    "Place a rice paper sheet on a clean surface and lightly drizzle with a few drops of vegetable oil to prevent sticking.",
+    "Add minced shallots, finely chopped garlic, and fish sauce (if using) evenly spread over one side of the rice paper.",
+    "Sprinkle minced shallots and basil leaves on top of the minced garlic mixture.",
+    "Fold in half along the short edge first, then fold both ends toward each other to seal the roll.",
+    "Carefully place the sealed rice rolls into the oil-soaked pan. Cook for about 30 seconds to a minute or until the sides begin to puff and turn golden brown.",
+    "Gently lift out with a pair of tongs and sprinkle sesame seeds over top before serving warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 1,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "boil-glow",
+    "rice-rolls",
+    "kid-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "boil-glow-rice-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boil-glow-rice-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:35:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
