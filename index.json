@@ -72,6 +72,18 @@
     "shard": "b"
   },
   {
+    "slug": "banana-elouan",
+    "title": "Banana Elouan",
+    "tags": [
+      "banana-elouan",
+      "algerian-dessert",
+      "vegan-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 12,
+    "shard": "b"
+  },
+  {
     "slug": "banana-pickle-bliss",
     "title": "Banana Pickle Bliss",
     "tags": [
