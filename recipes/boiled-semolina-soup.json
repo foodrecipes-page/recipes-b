@@ -1,0 +1,78 @@
+{
+  "title": "Boiled Semolina Soup",
+  "description": "A comforting pescatarian-friendly Spanish dish featuring semolina that is boiled until tender and fermented for added depth of flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup semolina",
+      "amount": "cup",
+      "notes": "Coarsely ground"
+    },
+    {
+      "name": "6 cups water",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 lemon, juiced and zested",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley for garnish",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat water in a large pot and add semolina. Stir occasionally until the semolina is completely dissolved.",
+    "Add minced garlic, lemon juice, and lemon zest to the pot and stir well.",
+    "Reduce heat to low, cover the pot, and let it simmer for about 20-30 minutes or until the soup has reached your desired consistency.",
+    "Season with salt to taste. Remove from heat and serve hot with fresh parsley on top if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "semolina",
+    "pescatarian",
+    "comforting",
+    "cooking"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 5,
+    "carbs": 64.2,
+    "fat": 9
+  },
+  "slug": "boiled-semolina-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boiled-semolina-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:25:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "semolina",
+    "diet": "pescatarian",
+    "region": null
+  }
+}

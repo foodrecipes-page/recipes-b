@@ -211,6 +211,19 @@
     "shard": "b"
   },
   {
+    "slug": "boiled-semolina-soup",
+    "title": "Boiled Semolina Soup",
+    "tags": [
+      "semolina",
+      "pescatarian",
+      "comforting",
+      "cooking"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "bok-choy-baiser",
     "title": "Bok Choy Baiser",
     "tags": [
