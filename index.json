@@ -340,6 +340,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-velvety-jamaican-pineapple-stir-fry",
+    "title": "Bitter Velvety Jamaican Pineapple Stir-fry",
+    "tags": [
+      "jamaican",
+      "pineapple",
+      "stir-fry",
+      "raw-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 23,
+    "shard": "b"
+  },
+  {
     "slug": "bittersweet-ciabatta-crust",
     "title": "Bittersweet Ciabatta Crust",
     "tags": [

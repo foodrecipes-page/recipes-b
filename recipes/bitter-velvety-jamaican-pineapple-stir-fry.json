@@ -1,0 +1,86 @@
+{
+  "title": "Bitter Velvety Jamaican Pineapple Stir-fry",
+  "description": "An adventurous jamaican dish featuring a blend of bitter and sweet flavors from locally-grown pineapple mixed with raw-friendly vegetables for an intriguingly velvety texture.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1/2 medium, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Sugarcane Syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "6 oz, canned or fresh"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat. Add turmeric and salt to the pan, cooking until fragrant.",
+    "Add diced pineapple, finely chopped onion, minced garlic, and sliced bell pepper into the pan. Stir-fry for about 3 minutes.",
+    "Reduce heat to low-medium and add sugarcane syrup and coconut milk. Stir constantly for another 2-3 minutes or until desired consistency is achieved.",
+    "Fold in fresh cilantro before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "pineapple",
+    "stir-fry",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 1.8,
+    "carbs": 27.6,
+    "fat": 2.4
+  },
+  "slug": "bitter-velvety-jamaican-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-jamaican-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:02:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "sugar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
