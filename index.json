@@ -113,6 +113,19 @@
     "shard": "b"
   },
   {
+    "slug": "brown-lentil-scramble",
+    "title": "Brown Lentil Scramble",
+    "tags": [
+      "brown-lentil-scramble",
+      "british-dish",
+      "vegan-friendly",
+      "egg-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "brussels-bites-paleo",
     "title": "Brussels Bites Paleo",
     "tags": [
