@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Crunchy Farfalle Stir-fry",
+  "description": "A vegan-friendly solo-dinner Chinese dish featuring farfalle pasta with a blend of buttery and crunchy textures.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water chestnuts (fermented)",
+      "amount": "50g",
+      "notes": "For added crunch and flavor."
+    },
+    {
+      "name": "Dried mushrooms (soaked)",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup, trimmed"
+    },
+    {
+      "name": "Green onions (chopped)",
+      "amount": "1 stalk"
+    }
+  ],
+  "instructions": [
+    "Rinse farfalle pasta and cook according to package instructions. Drain and set aside.",
+    "Heat sesame oil in a wok or large frying pan over medium-high heat. Add chopped garlic and sauté for about 30 seconds until fragrant.",
+    "Add water chestnuts, dried mushrooms (if using), and snow peas; stir-fry for an additional minute.",
+    "Return cooked farfalle pasta to the pan with sauce ingredients, adding soy sauce gradually while stirring constantly. Let it cook for another 2-3 minutes or until well combined and heated through.",
+    "Stir in green onions just before serving to prevent browning. Serve hot.",
+    "Note: Garnish with fresh cilantro leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-friendly",
+    "buttery-crunchy",
+    "chinese-dish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 14,
+    "carbs": 52,
+    "fat": 18
+  },
+  "slug": "buttery-crunchy-farfalle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-farfalle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:33:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "farfalle",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "farfalle",
+    "descriptor": "buttery crunchy",
+    "dishForm": "Stir-fry"
+  }
+}

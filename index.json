@@ -678,6 +678,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crunchy-farfalle-stir-fry",
+    "title": "Buttery Crunchy Farfalle Stir-fry",
+    "tags": [
+      "vegan-friendly",
+      "buttery-crunchy",
+      "chinese-dish",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-earthy-beans",
     "title": "Buttery Earthy Beans",
     "tags": [
