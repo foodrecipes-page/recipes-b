@@ -1,0 +1,63 @@
+{
+  "title": "Berry Frozen Delight",
+  "description": "A light Slovakian dish featuring fresh mixed berries frozen to perfection, served as a delicious and keto-friendly dessert.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed Berries",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Ketogenic Granola",
+      "amount": "1/4 cup",
+      "notes": "For a touch of sweetness and texture"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1/2 cup",
+      "notes": "Optional, for a creamy base if needed"
+    }
+  ],
+  "instructions": [
+    "Freeze mixed berries in an ice cube tray or plastic bags until firm.",
+    "In a mixing bowl, combine frozen mixed berries with ketogenic granola and almond milk (if using).",
+    "Mix well to ensure all ingredients are evenly distributed.",
+    "Transfer the mixture into individual serving dishes or small bowls for easy handling.",
+    "Let it sit at room temperature for 10-15 minutes before enjoying, allowing the melted frozen berries to slightly soften but keeping the granola and almond milk solid as a base."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian-dessert",
+    "keto-friendly",
+    "light-sweet"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "berry-frozen-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/berry-frozen-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:55:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "keto",
+    "region": null
+  }
+}
