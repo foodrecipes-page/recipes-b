@@ -1,0 +1,76 @@
+{
+  "title": "Blossom Bliss Wrap",
+  "description": "A floral and comforting Dutch dish featuring Italian seasoning wrapped in a plant-based-friendly wrap for a delightful breakfast or light meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grilled Cheese Sandwiches",
+      "amount": "2 slices",
+      "notes": "Use whole-grain bread for extra fiber"
+    },
+    {
+      "name": "Italian Seasoning Mix",
+      "amount": "1/4 teaspoon",
+      "notes": "Available at most grocery stores or health food stores"
+    },
+    {
+      "name": "Soft Lettuce Leaves",
+      "amount": "6-8 leaves",
+      "notes": "Use the outer layers for their best texture and color"
+    },
+    {
+      "name": "Plant-Based Spread",
+      "amount": "2 tablespoons",
+      "notes": "Nutella or similar spread can be used as a base"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the grilled cheese sandwiches on a baking sheet.",
+    "Sprinkle Italian seasoning over each sandwich and gently press it into the bread with a spatula to ensure even coverage.",
+    "Top each grilled cheese with softened lettuce leaves, starting from the edge and working your way towards the center to create an attractive leafy border.",
+    "Spread plant-based spread on top of the wrapped lettuce for added texture and flavor. Be generous, as this will distribute throughout the wrap.",
+    "Place another layer of lettuce over the spread for more visual interest and a slight crunch.",
+    "Fold the top halves of each sandwich over to form a neat square shape, pressing lightly with a spatula where needed to secure the leaves in place.",
+    "Bake in the preheated oven for about 15-20 minutes or until golden brown and crispy on the outside but still soft inside.",
+    "Serve warm and enjoy your Blossom Bliss Wrap as a comforting breakfast or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blossom-bliss-wrap",
+    "floral",
+    "light",
+    "comforting-dutch-dish",
+    "italian-seasoning",
+    "folded-wrap",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "blossom-bliss-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blossom-bliss-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:20:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "italian seasoning",
+    "diet": "plant-based",
+    "region": null
+  }
+}
