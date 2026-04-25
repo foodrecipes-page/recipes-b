@@ -153,6 +153,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttersweet-sous-vide",
+    "title": "ButterSweet Sous-Vide",
+    "tags": [
+      "butter",
+      "sugar-free",
+      "spicy"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-festive-egg-roll-bhuna",
     "title": "Buttery Festive Egg Roll Bhuna",
     "tags": [

@@ -1,0 +1,65 @@
+{
+  "title": "ButterSweet Sous-Vide",
+  "description": "A silky and spicy Ukrainian dish featuring butter and sugar-free ingredients prepared using sous-vide technology.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "100 grams",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "50 grams",
+      "notes": "Coarse for a nice texture"
+    },
+    {
+      "name": "spices",
+      "amount": "1/2 teaspoon",
+      "notes": "A mix of paprika, cayenne pepper and ground coriander"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide cooker to 60°C (140°F).",
+    "Cut the butter into small pieces.",
+    "Mix sugar and spices in a bowl until well combined. Add the cut butter, stir gently but thoroughly.",
+    "Place the mixture in a sous-vide bag with water bath for about 30 minutes at the pre-set temperature.",
+    "Remove from the water bath and let it cool down to room temperature.",
+    "Gently fold the mixture into whipped cream or yogurt for added texture and cooling effect.",
+    "Serve immediately as a dessert or as an accompaniment to fruits or desserts."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "butter",
+    "sugar-free",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2.9,
+    "carbs": 3.4,
+    "fat": 14.5
+  },
+  "slug": "buttersweet-sous-vide",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttersweet-sous-vide",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:21:48Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "butter",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
