@@ -1,0 +1,63 @@
+{
+  "title": "Buttery Vinegar Toast",
+  "description": "A light and chewy Australian dish featuring white wine vinegar on toast, ideal for a quick breakfast or snack that's also paleo-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Melted for added richness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the toast slices on a baking sheet.",
+    "Drizzle each slice with white wine vinegar, ensuring they are evenly coated but not dripping.",
+    "Sprinkle melted butter over the toast for added richness and creaminess.",
+    "Bake in preheated oven for 2-3 minutes or until the toast is lightly golden and crispy on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "vinegar",
+    "toast",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "buttery-vinegar-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-vinegar-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:04:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "paleo",
+    "region": null
+  }
+}

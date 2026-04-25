@@ -243,6 +243,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-vinegar-toast",
+    "title": "Buttery Vinegar Toast",
+    "tags": [
+      "buttery",
+      "vinegar",
+      "toast",
+      "paleo-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 10,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-white-fish-medley",
     "title": "Buttery White Fish Medley",
     "tags": [
