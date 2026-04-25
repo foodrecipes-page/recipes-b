@@ -195,6 +195,21 @@
     "shard": "b"
   },
   {
+    "slug": "brownie-buena",
+    "title": "Brownie Buena",
+    "tags": [
+      "brownie",
+      "argentinean",
+      "nutty",
+      "flaky",
+      "sick-day",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "brussels-bites-paleo",
     "title": "Brussels Bites Paleo",
     "tags": [
