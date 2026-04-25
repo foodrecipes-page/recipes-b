@@ -1,0 +1,72 @@
+{
+  "title": "Basil Buttercrust",
+  "description": "A buttery, gooey Australian dish featuring fresh basil, perfect for a show-off breakfast or dessert. This recipe is also suitable for those following a low FODMAP diet.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "6 fresh, finely chopped"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup (room temperature)"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large, lightly beaten"
+    },
+    {
+      "name": "Melted Coconut Milk or Heavy Cream",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine almond flour and finely chopped basil leaves.",
+    "Add room-temperature coconut oil and vanilla extract to the mixture, stirring until well combined. Then add lightly beaten eggs and melted coconut milk or heavy cream, continuing to mix until smooth.",
+    "Pour the mixture into a greased baking dish (approximately 8x8 inches) and bake for about 20 minutes or until golden brown on top.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "buttercrust",
+    "australian",
+    "low-fodmap"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "basil-buttercrust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/basil-buttercrust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:10:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "fresh basil",
+    "diet": "fodmap",
+    "region": null
+  }
+}
