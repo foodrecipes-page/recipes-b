@@ -135,7 +135,7 @@
     "shard": "b"
   },
   {
-    "slug": "beerguajillopaleo",
+    "slug": "beer-guajillo-paleo",
     "title": "BeerGuajilloPaleo",
     "tags": [
       "beer-guajillo",
@@ -216,6 +216,18 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-beef-brisket-with-caramelized-vegetables",
+    "title": "Bitter Beef Brisket with Caramelized Vegetables",
+    "tags": [
+      "caramelized-beef-brisket",
+      "egg-free-friendly",
+      "quick-fix-middle-eastern-dish"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 85,
     "shard": "b"
   },
   {
@@ -496,7 +508,7 @@
     "shard": "b"
   },
   {
-    "slug": "broil-gruyère-healer",
+    "slug": "broil-gruyere-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [
       "healer",
@@ -666,6 +678,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-oat-babadoos",
+    "title": "Buttery OatBabadoos",
+    "tags": [
+      "argentine",
+      "buttery",
+      "tender",
+      "gluten-free-friendly",
+      "kid-friendly"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 75,
     "shard": "b"
   },
   {

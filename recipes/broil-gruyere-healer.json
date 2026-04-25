@@ -66,9 +66,9 @@
     "carbs": 35.9,
     "fat": 17
   },
-  "slug": "broil-gruyère-healer",
+  "slug": "broil-gruyere-healer",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/broil-gruyère-healer",
+  "canonicalUrl": "https://foodrecipes.page/r/broil-gruyere-healer",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-24T22:40:18Z",
   "axes": {

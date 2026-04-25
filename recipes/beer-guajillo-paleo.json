@@ -70,9 +70,9 @@
     "carbs": 36,
     "fat": 30
   },
-  "slug": "beerguajillopaleo",
+  "slug": "beer-guajillo-paleo",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/beerguajillopaleo",
+  "canonicalUrl": "https://foodrecipes.page/r/beer-guajillo-paleo",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T19:36:43Z",
   "axes": {
