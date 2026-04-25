@@ -1,0 +1,75 @@
+{
+  "title": "Balsamic Citrus Bites",
+  "description": "A low-calorie-friendly Argentinean dish featuring balsamic vinegar and citrus in a one-pot recipe that is dense and tangy.",
+  "cuisine": "Argentine",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lemon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "orange",
+      "amount": "1 medium"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "a pinch"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "few"
+    }
+  ],
+  "instructions": [
+    "Zest the lemons and oranges, and juice them separately.",
+    "In a non-stick skillet, lightly grease with a bit of olive oil.",
+    "Add lemon zest and orange juice to the skillet over medium heat. Simmer for about 5 minutes or until thickened slightly.",
+    "Stir in balsamic vinegar, ginger, and basil leaves. Cook for an additional minute to let the flavors meld.",
+    "In a small bowl, mix almond flour with a bit of water to make a thin paste.",
+    "Pour the batter into the skillet and spread evenly using a spatula. Allow it to cook on both sides until golden brown (about 3-4 minutes per side).",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "balsamic",
+    "citrus",
+    "argentine",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 1.5,
+    "carbs": 6,
+    "fat": 0.5
+  },
+  "slug": "balsamic-citrus-bites",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/balsamic-citrus-bites",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:41:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "low-calorie",
+    "region": null
+  }
+}

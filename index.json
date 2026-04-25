@@ -13,6 +13,19 @@
     "shard": "b"
   },
   {
+    "slug": "balsamic-citrus-bites",
+    "title": "Balsamic Citrus Bites",
+    "tags": [
+      "balsamic",
+      "citrus",
+      "argentine",
+      "dessert"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "balsamic-midnight-halal-bazaar",
     "title": "Balsamic Midnight Halal Bazaar",
     "tags": [
