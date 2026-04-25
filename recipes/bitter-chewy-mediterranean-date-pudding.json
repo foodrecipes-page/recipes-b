@@ -1,0 +1,84 @@
+{
+  "title": "Bitter Chewy Mediterranean Date Pudding",
+  "description": "This mediterranean date pudding combines the rich flavors of bitter dates with a touch of chewiness from vegetable shortening and a hint of fermentation for a unique date-night dessert.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups soaked and pitted dates",
+      "amount": "",
+      "notes": "Soak in hot water for at least an hour"
+    },
+    {
+      "name": "1/4 cup melted vegetable shortening",
+      "amount": "1/4 cup",
+      "notes": "Can be any type of neutral-flavored vegetable oil or fat"
+    },
+    {
+      "name": "2 tablespoons apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups unsweetened almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Combine soaked dates with shortening, vinegar, and garlic in a medium saucepan. Stir until smooth.",
+    "Add almond milk to the pan, along with cinnamon and salt. Bring mixture to a simmer over medium heat.",
+    "Reduce heat to low and let simmer for about 5 minutes or until mixture thickens slightly.",
+    "Transfer pudding into serving dishes. Chill before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "chewy",
+    "mediterranean",
+    "date-night",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "bitter-chewy-mediterranean-date-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-mediterranean-date-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:18:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "date",
+    "descriptor": "Bitter Chewy",
+    "dishForm": "Pudding"
+  }
+}
