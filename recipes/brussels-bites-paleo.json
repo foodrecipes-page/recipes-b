@@ -1,0 +1,82 @@
+{
+  "title": "Brussels Bites Paleo",
+  "description": "A smoky and crisp take on the classic Brussels sprouts dish with a twist of Spanish flavor, perfectly suited for a snack or light meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup Brussels sprouts",
+      "amount": "chopped and quartered"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "notes": "for brushing on the Brussels sprouts while roasting"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "minced for a spreadable consistency"
+    },
+    {
+      "name": "1/4 cup fresh cilantro",
+      "notes": "finely chopped, optional for garnish"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "notes": "for adding smokiness"
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "notes": "freshly squeezed for bright acidity"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "kosher or regular, to taste"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "grounded, to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large bowl, combine the quartered Brussels sprouts with olive oil. Drizzle in additional oil if needed.",
+    "Add minced garlic, smoked paprika, lemon juice, sea salt, and black pepper into the bowl and toss everything together evenly.",
+    "Spread the Brussels sprout mixture onto a baking sheet lined with parchment paper to catch any excess oil.",
+    "Roast for 20-25 minutes or until they are golden brown and crispy. Rotate the pan halfway through if you wish for even browning.",
+    "Garnish with finely chopped cilantro just before serving for added freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "smoky",
+    "crisp",
+    "narcisic"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 2,
+    "fat": 8
+  },
+  "slug": "brussels-bites-paleo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/brussels-bites-paleo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:35:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "paleo",
+    "region": null
+  }
+}

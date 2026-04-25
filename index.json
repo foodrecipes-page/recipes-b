@@ -50,5 +50,18 @@
     "cuisine": "Saudia Arabian",
     "totalTimeMin": 23,
     "shard": "b"
+  },
+  {
+    "slug": "brussels-bites-paleo",
+    "title": "Brussels Bites Paleo",
+    "tags": [
+      "paleo-friendly",
+      "smoky",
+      "crisp",
+      "narcisic"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
