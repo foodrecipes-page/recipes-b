@@ -264,6 +264,18 @@
     "shard": "b"
   },
   {
+    "slug": "buckwheat-bowties",
+    "title": "Buckwheat Bowties",
+    "tags": [
+      "buckwheat-pasta",
+      "poached-bowties",
+      "kid-friendly-italian-dish"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "buttermilk-roasted-tofu-feast",
     "title": "Buttermilk Roasted Tofu Feast",
     "tags": [

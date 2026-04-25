@@ -1,0 +1,66 @@
+{
+  "title": "Buckwheat Bowties",
+  "description": "A kid-friendly Italian dish featuring bowtie pasta made from buckwheat, poached and served with a touch of bitterness for added flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buckwheat Bowties",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Place the buckwheat bowties in a pot.",
+    "Add chicken broth and water to cover the pasta by about an inch.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer gently for about 10-12 minutes or until tender.",
+    "Flake the cooked buckwheat with a fork into the liquid to form a creamy texture.",
+    "Season with garlic powder if using, and adjust seasoning as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat-pasta",
+    "poached-bowties",
+    "kid-friendly-italian-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "buckwheat-bowties",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buckwheat-bowties",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:08:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "fodmap",
+    "region": null
+  }
+}
