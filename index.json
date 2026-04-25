@@ -1,5 +1,19 @@
 [
   {
+    "slug": "balsamic-midnight-halal-bazaar",
+    "title": "Balsamic Midnight Halal Bazaar",
+    "tags": [
+      "halal-friendly",
+      "fermented",
+      "velvety",
+      "balsamic-vinegar",
+      "tandoor-grilled"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 65,
+    "shard": "b"
+  },
+  {
     "slug": "banana-pickle-bliss",
     "title": "Banana Pickle Bliss",
     "tags": [

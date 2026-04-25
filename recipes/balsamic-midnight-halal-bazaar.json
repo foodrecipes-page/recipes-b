@@ -1,0 +1,70 @@
+{
+  "title": "Balsamic Midnight Halal Bazaar",
+  "description": "A fermented, velvety Russian dish with a midnight-craving taste featuring balsamic vinegar and tandoor-fried halal-friendly components.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halal chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Minced onion (yellow or white)",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor to a temperature of at least 475°F.",
+    "Mix balsamic vinegar, minced garlic, and olive oil in a small bowl. Season with salt and pepper to taste.",
+    "Rub the chicken breast lightly with the mixed vinegar-olive oil mixture on both sides.",
+    "Place the seasoned chicken breasts onto the tandoor grill for 8-10 minutes per side until cooked through and golden brown.",
+    "Slice the halal-friendly meat thinly, place it in a bowl and drizzle more balsamic vinegar over it to enhance flavors."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "fermented",
+    "velvety",
+    "balsamic-vinegar",
+    "tandoor-grilled"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "balsamic-midnight-halal-bazaar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/balsamic-midnight-halal-bazaar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:43:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "halal",
+    "region": null
+  }
+}
