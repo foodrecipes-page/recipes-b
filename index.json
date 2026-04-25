@@ -265,6 +265,18 @@
     "shard": "b"
   },
   {
+    "slug": "breadflap-halal",
+    "title": "BreadFlap Halal",
+    "tags": [
+      "bread",
+      "dumplings",
+      "halal-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyère-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [
