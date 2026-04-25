@@ -218,6 +218,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-paleo-couscous",
+    "title": "Buttery Paleo Couscous",
+    "tags": [
+      "buttery",
+      "creamy",
+      "paleo-friendly",
+      "russian-style"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-potato-bun-roll",
     "title": "Buttery Potato Bun Roll",
     "tags": [
