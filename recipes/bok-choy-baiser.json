@@ -1,0 +1,72 @@
+{
+  "title": "Bok Choy Baiser",
+  "description": "A buttery and velvety Russian dish featuring roasted bok choy that's perfect for a show-off dinner entree.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 head of bok choy",
+      "amount": "1 (about 400g)",
+      "notes": "Trim the stem and keep it for later use"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Freshly ground black pepper"
+    },
+    {
+      "name": "1 cup (about 200g) grated parmesan cheese"
+    },
+    {
+      "name": "1/4 cup heavy cream"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Trim the bok choy, leaving about an inch of stem.",
+    "Cut the bok choy into small bite-sized pieces and place in a mixing bowl with half of the grated parmesan cheese.",
+    "Add in the butter and toss to coat evenly. Season with salt and pepper to taste.",
+    "Spread the bok choy mixture onto a baking sheet lined with parchment paper, leaving some space between each piece.",
+    "Roast for 15 minutes or until golden brown on top.",
+    "Meanwhile, mix together the remaining parmesan cheese with the heavy cream in another bowl. Remove from oven and drizzle the cheese sauce over the roasted bok choy pieces.",
+    "Return to oven and continue roasting for an additional 10-12 minutes or until the cheese is melted and bubbly on top.",
+    "Garnish with fresh herbs if desired before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bok choy",
+    "raspberry",
+    "roasted",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 612,
+    "protein": 20,
+    "carbs": 58,
+    "fat": 34
+  },
+  "slug": "bok-choy-baiser",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bok-choy-baiser",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:14:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "bok choi",
+    "diet": "dash",
+    "region": null
+  }
+}

@@ -143,6 +143,19 @@
     "shard": "b"
   },
   {
+    "slug": "bok-choy-baiser",
+    "title": "Bok Choy Baiser",
+    "tags": [
+      "bok choy",
+      "raspberry",
+      "roasted",
+      "buttery"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyère-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [
