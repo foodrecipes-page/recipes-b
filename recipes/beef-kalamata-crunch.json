@@ -1,0 +1,105 @@
+{
+  "title": "Beef Kalamata Crunch",
+  "description": "A show-off Thai dish featuring beef and kalamata olives for a mediterranean-friendly umami experience.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "500g flank steak",
+      "amount": "1 block",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "2 cups sliced kalamata olives",
+      "amount": "full cup",
+      "notes": null
+    },
+    {
+      "name": "3 garlic cloves",
+      "amount": "6 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 red bell pepper, julienned",
+      "amount": "1 whole pepper",
+      "notes": null
+    },
+    {
+      "name": "1 yellow onion, thinly sliced",
+      "amount": "1 medium onion",
+      "notes": null
+    },
+    {
+      "name": "200g shiitake mushrooms, stems removed and caps finely chopped",
+      "amount": "about 1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "4 tbsp soy sauce (light)",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "3 tbsp rice vinegar",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "2 tsp sugar",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "1 tbsp sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "To taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over high heat. Add olive oil.",
+    "Add beef strips and sauté for about 5 minutes until browned, stirring occasionally.",
+    "Push the beef to one side of the pan and add sliced kalamata olives to the other side. Sauté until olives are slightly softened and fragrant.",
+    "Stir in minced garlic, red bell pepper, yellow onion, and shiitake mushrooms. Cook for another 5 minutes until vegetables start to soften.",
+    "Add soy sauce, rice vinegar, sugar, sesame oil, salt, and pepper. Stir everything together well.",
+    "Reduce heat to low-medium and simmer for about 20-30 minutes or until the sauce has thickened slightly and beef is tender.",
+    "Serve hot as an appetizer with rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kalamata olives",
+    "umami",
+    "crunchy",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 29,
+    "carbs": 35,
+    "fat": 16
+  },
+  "slug": "beef-kalamata-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/beef-kalamata-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:11:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "beef",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

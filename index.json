@@ -70,6 +70,20 @@
     "shard": "b"
   },
   {
+    "slug": "beef-kalamata-crunch",
+    "title": "Beef Kalamata Crunch",
+    "tags": [
+      "beef",
+      "kalamata olives",
+      "umami",
+      "crunchy",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "beetroot-medley-light-curry",
     "title": "Beetroot Medley Light Curry",
     "tags": [
