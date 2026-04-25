@@ -275,6 +275,19 @@
     "shard": "b"
   },
   {
+    "slug": "black-pepper-tuscan-herb-soup",
+    "title": "Black Pepper Tuscan Herb Soup",
+    "tags": [
+      "black-pepper",
+      "tuscan",
+      "herbal",
+      "low-sodium"
+    ],
+    "cuisine": "Italian (Tuscan)",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "black-treacle-steam-veggie-delight",
     "title": "Black Treacle Steam Veggie Delight",
     "tags": [
