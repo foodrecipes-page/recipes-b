@@ -1,0 +1,91 @@
+{
+  "title": "Buttery Rice Vinegar Feast",
+  "description": "A unique and adventurous Italian-inspired dish featuring seasoned rice vinegar that combines the best of savory flavors with a hint of spice, perfect for those looking to enjoy a paleo-friendly meal.",
+  "cuisine": "Italian Fusion",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Use paleo-friendly butter."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "For a spicy kick, adjust to taste."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For drizzling on top."
+    },
+    {
+      "name": "Vegetable or Air Fryer Frying Veggies (optional)",
+      "amount": "",
+      "notes": "Such as bell peppers, onions, and mushrooms."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix rice vinegar, butter, garlic powder, red pepper flakes, paprika, Dijon mustard, and olive oil.",
+    "Stir until the mixture is well combined and the butter has melted.",
+    "If using vegetables for an added touch, toss them with a bit of olive oil and spread on a baking sheet. Air fry at 375°F (190°C) for about 5-7 minutes or until golden brown and tender.",
+    "Pour the rice vinegar mixture evenly over your seasoned veggies. Drizzle more olive oil if needed to add extra flavor.",
+    "Bake in preheated air fryer for about 8-10 minutes, or longer based on how crisp you like them.",
+    "Once done, garnish with fresh herbs and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "juicy",
+    "adventurous",
+    "italian-fusion",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "buttery-rice-vinegar-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-rice-vinegar-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:27:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "paleo",
+    "region": null
+  }
+}

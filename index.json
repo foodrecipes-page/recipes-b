@@ -617,6 +617,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-rice-vinegar-feast",
+    "title": "Buttery Rice Vinegar Feast",
+    "tags": [
+      "buttery",
+      "juicy",
+      "adventurous",
+      "italian-fusion",
+      "paleo-friendly"
+    ],
+    "cuisine": "Italian Fusion",
+    "totalTimeMin": 13,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-turkey-ham-keto-boil",
     "title": "Buttery Turkey Ham Keto-Boil",
     "tags": [
