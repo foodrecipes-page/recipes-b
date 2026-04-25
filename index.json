@@ -185,6 +185,18 @@
     "shard": "b"
   },
   {
+    "slug": "bhuna-poblano-salsa",
+    "title": "Bhuna Poblano Salsa with Gherkin Relish",
+    "tags": [
+      "bhuna salsa",
+      "poblano pepper",
+      "gherkin relish"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "bicarb-burrito",
     "title": "Bicarb Burrito",
     "tags": [

@@ -1,0 +1,90 @@
+{
+  "title": "Bhuna Poblano Salsa with Gherkin Relish",
+  "description": "A vibrant and spicy Bhuna Poblano Salsa featuring tender poblano peppers, a tangy gherkin relish, and balanced flavors that will tantalize your taste buds.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 poblano pepper",
+      "amount": "1",
+      "notes": "ripe and green"
+    },
+    {
+      "name": "6 fresh chilies (such as serranos or jalapenos)",
+      "amount": "6",
+      "notes": "stemmed and seeded for spiciness control"
+    },
+    {
+      "name": "2 medium garlic cloves",
+      "amount": "2",
+      "notes": "minced finely"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "1/4 cup gherkin relish (such as dill or sweet pickles)",
+      "amount": "1/4 cup",
+      "notes": "for added freshness and crunch"
+    },
+    {
+      "name": "2 tablespoons lime juice (fresh squeezed)",
+      "amount": "2 tbsp",
+      "notes": "from 2 limes"
+    },
+    {
+      "name": "3/4 teaspoon salt",
+      "amount": "3/4 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/4 cup unsalted, roasted and peeled cashews (optional)",
+      "amount": "1/4 cup",
+      "notes": "for a nuttier finish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Clean poblano peppers under cold water. Pat dry with paper towels.",
+    "Cut off tops of peppers, remove seeds and membranes with the tips of your fingers. Halve the peppers lengthwise and place them cut side up on a baking sheet lined with parchment paper.",
+    "Drizzle each pepper with 1-2 tablespoons oil (optional for extra flavor) and sprinkle generously with salt. Roast in oven until skin is blistered, about 15-20 minutes, turning occasionally until peppers are tender.",
+    "Meanwhile, chop chilies into small pieces, set aside. In a blender or food processor, puree roasted peppers, garlic, and chopped chilies until smooth. Add lime juice and salt; blend well to combine.",
+    "Transfer the blended mixture to a mixing bowl. Toss in gherkin relish (if using). If desired, add 1/4 cup of roasted and peeled cashews for additional texture and nutty flavor.",
+    "Blend again briefly until everything is evenly mixed. Taste and adjust seasoning as needed with more salt or lime juice if necessary.",
+    "Transfer the finished salsa to a bowl, sprinkle with fresh cilantro (if using) and serve immediately.",
+    "Store leftover salsa in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bhuna salsa",
+    "poblano pepper",
+    "gherkin relish"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 2.7,
+    "carbs": 26.7,
+    "fat": 9.5
+  },
+  "slug": "bhuna-poblano-salsa",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bhuna-poblano-salsa",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:36:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "gherkin relish",
+    "diet": "egg-free",
+    "region": "poblano"
+  }
+}
