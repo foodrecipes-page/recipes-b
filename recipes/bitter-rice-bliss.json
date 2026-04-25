@@ -1,0 +1,62 @@
+{
+  "title": "Bitter Rice Bliss",
+  "description": "A one-pot Algerian dish featuring crispy rice paper sheets, a touch of bitterness in the form of bitter melon or cucumber, and aromatic spices for a refreshing low-carb meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "ketogenic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice paper sheets",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Bitter melon or cucumber",
+      "amount": "1 medium piece"
+    },
+    {
+      "name": "Aromatic spices (cilantro, cumin, paprika)",
+      "notes": "Optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Place the rice paper sheets in a single layer on the pan and sprinkle a pinch of aromatic spices evenly across them.",
+    "Cut the bitter melon or cucumber into thin slices and place alternating layers between the rice paper sheets, pressing down gently to keep everything together.",
+    "Cover with another sheet of rice paper to seal all ingredients inside. Cook for about 5-7 minutes until the edges start to brown slightly.",
+    "Carefully remove from heat and slice the dish in half diagonally to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "one-pot",
+    "low-carb-friendly",
+    "rice-paper"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "bitter-rice-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-rice-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:17:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "low-carb",
+    "region": null
+  }
+}

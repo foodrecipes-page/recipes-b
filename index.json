@@ -122,6 +122,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-rice-bliss",
+    "title": "Bitter Rice Bliss",
+    "tags": [
+      "algerian",
+      "one-pot",
+      "low-carb-friendly",
+      "rice-paper"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bittersweet-ciabatta-crust",
     "title": "Bittersweet Ciabatta Crust",
     "tags": [
