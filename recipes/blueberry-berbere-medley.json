@@ -1,0 +1,83 @@
+{
+  "title": "Blueberry Berbere Medley",
+  "description": "A unique Moroccan-inspired dish featuring blueberries in a savory medley with berbere spice blend and other traditional Moroccan ingredients.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Berbere Spice Blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Blueberries (fresh or frozen, drained)",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 minced"
+    },
+    {
+      "name": "White Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Pitted Dates (optional)",
+      "amount": "3"
+    },
+    {
+      "name": "Jasmine Rice or Couscous",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add cumin seeds and sauté for about 1 minute until fragrant.",
+    "Stir in minced garlic and finely chopped white onion, cooking until softened.",
+    "Fold in the Berbere Spice Blend, stirring well to combine with the onions and spices.",
+    "If using fresh blueberries, add them directly to the skillet. If using frozen blueberries, let them thaw slightly before adding to the mixture.",
+    "Continue to cook for about 5 minutes or until the blueberries begin to burst and release their juices.",
+    "Stir in the pitted dates if using. Reduce heat to low and cover with a lid.",
+    "Simmer gently for an additional 10-15 minutes, stirring occasionally, allowing the flavors to meld together.",
+    "Once done, transfer the mixture into individual serving dishes or onto cooked Jasmine Rice or Couscous as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blueberry",
+    "moroccan",
+    "salty",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 372,
+    "protein": 10,
+    "carbs": 49,
+    "fat": 16
+  },
+  "slug": "blueberry-berbere-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blueberry-berbere-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:24:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "blueberries",
+    "diet": "low-sodium",
+    "region": null
+  }
+}

@@ -262,6 +262,19 @@
     "shard": "b"
   },
   {
+    "slug": "blueberry-berbere-medley",
+    "title": "Blueberry Berbere Medley",
+    "tags": [
+      "blueberry",
+      "moroccan",
+      "salty",
+      "crisp"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-semolina-soup",
     "title": "Boiled Semolina Soup",
     "tags": [
