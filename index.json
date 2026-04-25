@@ -26,6 +26,18 @@
     "shard": "b"
   },
   {
+    "slug": "blackberry-knit",
+    "title": "Blackberry Knit",
+    "tags": [
+      "blackberry",
+      "garlic",
+      "whole30"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyère-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [

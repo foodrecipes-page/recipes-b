@@ -1,0 +1,82 @@
+{
+  "title": "Blackberry Knit",
+  "description": "A whole30-friendly, garlic-infused dish that combines the tangy sweetness of blackberries with a savory, dense texture reminiscent of a hearty Italian meal, perfect for a monsoon evening.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups whole blackberries",
+      "amount": "",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "",
+      "notes": "ensure it's unsweetened and free of additives"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "minced finely"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "extra virgin for best flavor"
+    },
+    {
+      "name": "1/4 cup grated parmesan cheese",
+      "amount": "",
+      "notes": "optional, use low sodium if available"
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "",
+      "notes": "fresh is preferred but not essential"
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place blackberries in a blender or food processor with heavy cream, minced garlic, olive oil, parmesan cheese, dried oregano, salt, and pepper. Blend until smooth.",
+    "Pour mixture into an oven-safe dish. Bake for about 20-25 minutes or until thickened and slightly golden on top.",
+    "Serve hot as a side dish with grilled meats or as a spreadable topping over whole grain bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blackberry",
+    "garlic",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 22,
+    "fat": 9
+  },
+  "slug": "blackberry-knit",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blackberry-knit",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:48:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "blackberries",
+    "diet": "whole30",
+    "region": null
+  }
+}
