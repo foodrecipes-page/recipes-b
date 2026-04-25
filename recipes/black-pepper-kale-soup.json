@@ -1,0 +1,97 @@
+{
+  "title": "Black Pepper Kale Soup",
+  "description": "A smoky and light Ethiopian dish featuring black pepper caramelized in a broth with kale to create a comforting sick-day soup that is kosher-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Chicken or Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tablespoon, freshly ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Butternut Squash",
+      "amount": "1 cup, peeled and diced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2, chopped"
+    }
+  ],
+  "instructions": [
+    "Bring chicken or vegetable broth and water to a boil in a large pot.",
+    "In a skillet, heat olive oil over medium-high heat. Add salt, black pepper, turmeric, cumin, garlic, and onion; cook for about 2 minutes until fragrant.",
+    "Add kale leaves to the pot with liquid. Reduce heat to low and simmer for about 10-15 minutes or until kale is tender.",
+    "Stir in butternut squash and chopped celery. Simmer another 10 minutes.",
+    "Using a potato masher or immersion blender, puree the soup until smooth.",
+    "Return soup to pot, cover and let it warm through before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pepper",
+    "kale",
+    "caramelized",
+    "smoky",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "black-pepper-kale-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/black-pepper-kale-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:15:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "black pepper",
+    "diet": "kosher",
+    "region": null
+  }
+}

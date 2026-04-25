@@ -108,6 +108,20 @@
     "shard": "b"
   },
   {
+    "slug": "black-pepper-kale-soup",
+    "title": "Black Pepper Kale Soup",
+    "tags": [
+      "black-pepper",
+      "kale",
+      "caramelized",
+      "smoky",
+      "sick-day"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "black-pepper-nirvana",
     "title": "Black Pepper Nirvana",
     "tags": [
