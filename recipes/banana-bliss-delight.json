@@ -1,0 +1,84 @@
+{
+  "title": "Paleo Fried Ripe Bananas with Deglaze",
+  "description": "A savory, dense Italian-Sicilian-inspired dish featuring fried ripe bananas in a paleo-friendly deglaze method.",
+  "cuisine": [
+    "Italian",
+    "Sicilian"
+  ],
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "6 pieces",
+      "notes": "Choose ripe bananas for best flavor and texture."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For deep frying"
+    },
+    {
+      "name": "paleo-friendly breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Available at many health food stores or online, typically labeled as 'nut-free'"
+    },
+    {
+      "name": "paleo-friendly flour",
+      "amount": "1/4 cup",
+      "notes": "Use almond flour if desired."
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1 tablespoon",
+      "notes": "To thicken the batter and prevent it from being too runny"
+    },
+    {
+      "name": "paleo-friendly yogurt or cream cheese",
+      "amount": "2 tablespoons",
+      "notes": "To replace milk in egg-leavened recipes, if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Slice ripe bananas lengthwise and remove the seeds.",
+    "In a small bowl, mix ground flaxseed with water until smooth. Set aside.",
+    "Dip banana slices in paleo-friendly flour first, then into paleo-friendly breadcrumbs, coating evenly on both sides.",
+    "Heat coconut oil in a deep fryer to 350°F (175°C). Carefully place coated bananas in the hot oil and fry for about 2-3 minutes until golden brown. Remove from heat and place on paper towels to drain excess grease.",
+    "In a saucepan, deglaze with paleo-friendly yogurt or cream cheese over medium heat. Stir continuously until mixture thickens slightly but is still pourable (about 1 minute).",
+    "Serve banana slices in the deglazed sauce for added flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "savory",
+    "dessert",
+    "banana",
+    "italian-sicilian"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 43,
+    "fat": 9
+  },
+  "slug": "banana-bliss-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/banana-bliss-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:07:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "paleo",
+    "region": "sicilian"
+  }
+}

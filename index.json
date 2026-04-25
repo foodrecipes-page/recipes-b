@@ -14,6 +14,23 @@
     "shard": "b"
   },
   {
+    "slug": "banana-bliss-delight",
+    "title": "Paleo Fried Ripe Bananas with Deglaze",
+    "tags": [
+      "paleo-friendly",
+      "savory",
+      "dessert",
+      "banana",
+      "italian-sicilian"
+    ],
+    "cuisine": [
+      "Italian",
+      "Sicilian"
+    ],
+    "totalTimeMin": 65,
+    "shard": "b"
+  },
+  {
     "slug": "banana-pickle-bliss",
     "title": "Banana Pickle Bliss",
     "tags": [
