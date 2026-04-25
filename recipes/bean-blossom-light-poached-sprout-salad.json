@@ -1,0 +1,76 @@
+{
+  "title": "Bean Blossom Light Poached Sprout Salad",
+  "description": "A floral and light Nordic-inspired brunch dish featuring bean sprouts poached in a mild broth with seasonal vegetables for a refreshing gluten-free option.",
+  "cuisine": "Nordic",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Celery Leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "Lemon Vertices (optional)",
+      "amount": "2-3 small",
+      "notes": "fresh lemon leaves available in some regions, can be omitted if unavailable"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Watermelon Balsamic Vinaigrette",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnut Pieces (optional)",
+      "amount": "a few",
+      "notes": "for added crunch and texture"
+    }
+  ],
+  "instructions": [
+    "Heat a small amount of water in a pot to just under boiling point.",
+    "Add the bean sprouts, celery leaves, optional lemon vertices, fresh dill, and walnuts to the simmering water. Cook for about 2-3 minutes or until the sprouts are tender but still crisp.",
+    "Drain and immediately rinse with cold water to stop the cooking process.",
+    "In a mixing bowl, whisk together the watermelon balsamic vinaigrette.",
+    "Gently fold in the cooled bean sprouts into the vinaigrette.",
+    "Serve chilled or at room temperature for best texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-sprouts",
+    "light-poached",
+    "salad",
+    "nordic-dish"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "bean-blossom-light-poached-sprout-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bean-blossom-light-poached-sprout-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:23:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "bean sprouts",
+    "diet": "gluten-free",
+    "region": null
+  }
+}

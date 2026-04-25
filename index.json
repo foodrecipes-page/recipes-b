@@ -83,6 +83,19 @@
     "shard": "b"
   },
   {
+    "slug": "bean-blossom-light-poached-sprout-salad",
+    "title": "Bean Blossom Light Poached Sprout Salad",
+    "tags": [
+      "bean-sprouts",
+      "light-poached",
+      "salad",
+      "nordic-dish"
+    ],
+    "cuisine": "Nordic",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "beef-kalamata-crunch",
     "title": "Beef Kalamata Crunch",
     "tags": [
