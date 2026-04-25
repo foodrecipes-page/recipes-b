@@ -1,0 +1,87 @@
+{
+  "title": "BeerGuajilloPaleo",
+  "description": "A garlicky and gooey beer-infused dish that's paleo-friendly and perfect for a sick-day meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Jalapeno",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef Stock or Coconut Aminos",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Beers (low ABV)",
+      "amount": "4 bottles"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine garlic, jalapenos, chili powder, cumin seeds, olive oil, and 8 ounces of beef stock in a pot. Bring to a boil.",
+    "Add beers (low ABV) slowly while simmering until the mixture is thickened, about 10-15 minutes.",
+    "Stir in almonds and sesame seeds for additional texture and flavor.",
+    "Season with paprika and salt to taste.",
+    "Serve hot over a bed of rice or cauliflower mash."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beer-guajillo",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 527,
+    "protein": 18,
+    "carbs": 36,
+    "fat": 30
+  },
+  "slug": "beerguajillopaleo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/beerguajillopaleo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:36:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "beer",
+    "diet": "paleo",
+    "region": null
+  }
+}

@@ -135,6 +135,17 @@
     "shard": "b"
   },
   {
+    "slug": "beerguajillopaleo",
+    "title": "BeerGuajilloPaleo",
+    "tags": [
+      "beer-guajillo",
+      "paleo-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 90,
+    "shard": "b"
+  },
+  {
     "slug": "beetroot-medley-light-curry",
     "title": "Beetroot Medley Light Curry",
     "tags": [
