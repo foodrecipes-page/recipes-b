@@ -1,0 +1,99 @@
+{
+  "title": "Black Pepper Nirvana",
+  "description": "An earthy and tender Egyptian dish featuring whole black peppercorns that serves as a hangover cure for jain-friendly dining.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup brown rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 cups spinach leaves (fresh or frozen)",
+      "amount": "cups"
+    },
+    {
+      "name": "2 cans black-eyed peas",
+      "amount": "cans"
+    },
+    {
+      "name": "1 can diced tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "3 tablespoons tahini sauce",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice (optional)"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    },
+    {
+      "name": "Black pepper, freshly ground from whole peppercorns",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse and cook the brown rice with water until tender. Set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add onions and garlic; sauté for about 5 minutes until translucent.",
+    "Add spinach leaves to the skillet; cook for an additional 2-3 minutes until wilted.",
+    "Add black-eyed peas, tomatoes, tahini sauce, lemon juice (if using), salt, and freshly ground pepper. Stir well to combine all ingredients.",
+    "Fold in cooked brown rice into the skillet mixture. Ensure everything is evenly distributed.",
+    "Transfer the dish to a slow cooker or an oven-safe pot if using a slow cooker, cover it, and cook for about 2 hours on low heat or 1 hour at 350°F (175°C) until heated through and flavors are well integrated.",
+    "Serve hot as your lunch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pepper-nirvana",
+    "jain-friendly",
+    "earthy-tender"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "black-pepper-nirvana",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/black-pepper-nirvana",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:53:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "jain",
+    "region": null
+  }
+}
