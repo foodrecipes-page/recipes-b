@@ -1,0 +1,90 @@
+{
+  "title": "Bitter Fish Pickle Halal Comfort",
+  "description": "A silky and bitter Algerian-inspired dish featuring halal-friendly fish marinated in a blend of sour pickles, herbs, and spices for sick-day comfort.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "200g",
+      "notes": "Choose a mild-flavored fish such as tilapia or cod."
+    },
+    {
+      "name": "Pickled vegetables (cucumbers, carrots)",
+      "amount": "1 cup",
+      "notes": "Ensure they are halal-certified if you're concerned about dietary restrictions."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "For added flavor and health benefits."
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium",
+      "notes": "To enhance the dish's depth of flavor."
+    },
+    {
+      "name": "Dill leaves",
+      "amount": "2 tbsp",
+      "notes": "Fresh for best results."
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "1 tsp",
+      "notes": "For a touch of heat, but optional as the pickles are already sour."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "To sauté and marinate ingredients together."
+    },
+    {
+      "name": "Rice vinegar or lemon juice",
+      "amount": "1/4 cup",
+      "notes": "For the marinade to keep fish tender and flavorful."
+    }
+  ],
+  "instructions": [
+    "Wash hands thoroughly. Preheat oven to 200°C (392°F).",
+    "Prepare a shallow baking dish by lining it with parchment paper or aluminum foil.",
+    "Place fish fillets in the prepared baking dish, skin side up if applicable.",
+    "Mix together garlic, chopped onion, dill, red pepper flakes (if using), and rice vinegar or lemon juice. Spread evenly over the fish fillets for even marination.",
+    "Drizzle olive oil over the mixture to coat thoroughly. Ensure all sides of the fish are covered with marinade.",
+    "Bake in preheated oven for 15 minutes, then remove from oven. Allow to cool slightly and serve as a snack or side dish.",
+    "Optional: Serve alongside additional pickles or vegetables for extra crunch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "silky",
+    "sick-day",
+    "algerian",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 379,
+    "protein": 21,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "bitter-fish-pickle-halal-comfort",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fish-pickle-halal-comfort",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:43:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "fish",
+    "diet": "halal",
+    "region": null
+  }
+}
