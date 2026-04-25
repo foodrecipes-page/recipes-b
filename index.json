@@ -31,6 +31,21 @@
     "shard": "b"
   },
   {
+    "slug": "banana-delight-fritters",
+    "title": "Banana Delight Fritters",
+    "tags": [
+      "banana-delight",
+      "fritters",
+      "citrusy",
+      "gooey",
+      "festive-syrian",
+      "vegan-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
     "slug": "banana-pickle-bliss",
     "title": "Banana Pickle Bliss",
     "tags": [

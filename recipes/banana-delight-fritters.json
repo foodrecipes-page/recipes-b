@@ -1,0 +1,82 @@
+{
+  "title": "Banana Delight Fritters",
+  "description": "A festive Syrian dish featuring citrusy, gooey fried ripe bananas that are perfect for a quick snack or dessert.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "half a lemon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "optional for garnish, 1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a medium bowl, mix together the flour, baking powder, and sugar.",
+    "Add in the ripe bananas, squeezing out some of the extra liquid with your hands.",
+    "Gradually add in the vegetable oil until you reach a smooth batter consistency.",
+    "Heat about 1/2 inch (1.3 cm) deep oil in a skillet over medium-high heat.",
+    "Once the oil is hot, drop spoonfuls of banana batter into the hot oil and fry for about 2 minutes on each side or until golden brown.",
+    "Drain on paper towels to remove excess oil.",
+    "Squeeze half a lemon over the top before serving if desired, garnished with sesame seeds if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "banana-delight",
+    "fritters",
+    "citrusy",
+    "gooey",
+    "festive-syrian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "banana-delight-fritters",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/banana-delight-fritters",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:03:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "vegan",
+    "region": null
+  }
+}
