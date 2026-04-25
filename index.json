@@ -178,6 +178,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-chill",
+    "title": "Buttery Chill",
+    "tags": [
+      "butter",
+      "salt",
+      "nutty",
+      "crumbly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-festive-egg-roll-bhuna",
     "title": "Buttery Festive Egg Roll Bhuna",
     "tags": [
