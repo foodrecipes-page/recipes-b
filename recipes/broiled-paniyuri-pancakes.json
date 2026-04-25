@@ -1,0 +1,75 @@
+{
+  "title": "Broiled Paniyuri Pancakes",
+  "description": "These spicy and juicy paniyuri rice flour pancakes are a vibrant addition to any breakfast menu. Pescatarian-friendly with their savory twist.",
+  "cuisine": "Saudia Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "all-purpose rice flour"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "cornstarch"
+    },
+    {
+      "name": "3 tablespoons",
+      "amount": "saffron threads (for color)"
+    },
+    {
+      "name": "1 pinch",
+      "amount": "black pepper flakes"
+    },
+    {
+      "name": "2 cups",
+      "amount": "water"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix the rice flour, cornstarch, saffron threads, and salt. Gradually add water while stirring continuously to form a smooth batter.",
+    "Heat olive oil in a non-stick skillet over medium-high heat. Pour about 1/4 cup of batter for each pancake onto the heated pan and cook until bubbles appear on top, then flip gently to cook the other side.",
+    "Sprinkle pepper flakes on one side of the cooked pancakes before broiling them briefly under preheated oven grill at 350°F (175°C). Broil for about 2 minutes or until golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broiled",
+    "pancake",
+    "spicy",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 27,
+    "fat": 3
+  },
+  "slug": "broiled-paniyuri-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/broiled-paniyuri-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:07:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "pescatarian",
+    "region": null
+  }
+}

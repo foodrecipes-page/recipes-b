@@ -37,5 +37,18 @@
     "cuisine": "Russian",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "broiled-paniyuri-pancakes",
+    "title": "Broiled Paniyuri Pancakes",
+    "tags": [
+      "broiled",
+      "pancake",
+      "spicy",
+      "juicy"
+    ],
+    "cuisine": "Saudia Arabian",
+    "totalTimeMin": 23,
+    "shard": "b"
   }
 ]
