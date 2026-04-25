@@ -1,0 +1,72 @@
+{
+  "title": "Broiled Tomato Gazpacho",
+  "description": "A tangy, tender meal-prep Spanish dish featuring vine tomatoes that are briefly broiled to enhance their flavor and texture.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "4 medium-sized",
+      "notes": "preferably Roma or plum tomatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin for best flavor"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon finely chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler according to the manufacturer's instructions. Make sure you have a baking sheet ready.",
+    "Wash and dry 4 medium-sized vine tomatoes thoroughly. Cut them in half, but leave some of their skin attached for easier handling.",
+    "Place the tomato halves cut side up on the prepared baking sheet. Drizzle with 2 tablespoons of olive oil evenly over each half.",
+    "Sprinkle 1/4 teaspoon of red pepper flakes (if using) over each tomato half to add a touch of heat and flavor. Season with salt and black pepper to taste, if desired.",
+    "Place under the preheated broiler until the tomatoes begin to brown slightly on the bottom side (about 5-7 minutes). Rotate them halfway through for even cooking.",
+    "Once done, remove from the oven and set aside to cool for a few minutes. Slice each tomato into halves or quarters if desired, removing any seeds and stems.",
+    "Chop the cooled tomatoes finely and place them in a large bowl. Drizzle with additional olive oil and red pepper flakes, then toss gently until evenly coated.",
+    "Garnish with chopped fresh dill before serving. Serve cold as a refreshing side dish or use it as a base for your meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tomato",
+    "gazpacho",
+    "broiled",
+    "dill"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "broiled-tomato-gazpacho",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/broiled-tomato-gazpacho",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:17:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "pescatarian",
+    "region": null
+  }
+}

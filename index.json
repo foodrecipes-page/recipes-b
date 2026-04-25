@@ -250,6 +250,19 @@
     "shard": "b"
   },
   {
+    "slug": "broiled-tomato-gazpacho",
+    "title": "Broiled Tomato Gazpacho",
+    "tags": [
+      "tomato",
+      "gazpacho",
+      "broiled",
+      "dill"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 22,
+    "shard": "b"
+  },
+  {
     "slug": "brown-lentil-scramble",
     "title": "Brown Lentil Scramble",
     "tags": [
