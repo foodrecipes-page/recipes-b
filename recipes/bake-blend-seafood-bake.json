@@ -1,0 +1,77 @@
+{
+  "title": "Bake & Blend Seafood Bake",
+  "description": "A fresh and light one-pot American dish featuring a frozen seafood mix, perfect for the whole30 diet.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Seafood Mix",
+      "amount": "1 package",
+      "notes": "Ensure it's marked 'Whole30-Friendly' on the packaging."
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2-4",
+      "notes": "Use fresh or minced for added flavor."
+    },
+    {
+      "name": "Onion Cubes",
+      "amount": "1 medium onion, diced",
+      "notes": "For color and umami."
+    },
+    {
+      "name": "Fresh Thyme Sprigs",
+      "amount": "A few",
+      "notes": "Optional but adds a nice aroma."
+    },
+    {
+      "name": "Pepper Pinches",
+      "amount": "To taste",
+      "notes": "Both black and cayenne if preferred."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Melt a tablespoon of coconut oil in a large baking dish.",
+    "Add the frozen seafood mix evenly over the melted oil, ensuring all pieces are covered.",
+    "Sprinkle with the diced onion, minced garlic, and fresh thyme if using.",
+    "Season generously with pepper to taste. Optionally add a pinch or two of cayenne pepper for heat.",
+    "Bake in the preheated oven for 20 minutes.",
+    "After 20 minutes, gently stir the seafood mix and cook for an additional 10-15 minutes until heated through.",
+    "Serve warm as part of your dinner meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bake-and-blend",
+    "seafood-bake",
+    "whole30-friendly",
+    "light-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 14
+  },
+  "slug": "bake-blend-seafood-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bake-blend-seafood-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:39:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "whole30",
+    "region": null
+  }
+}

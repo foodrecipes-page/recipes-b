@@ -1,5 +1,18 @@
 [
   {
+    "slug": "bake-blend-seafood-bake",
+    "title": "Bake & Blend Seafood Bake",
+    "tags": [
+      "bake-and-blend",
+      "seafood-bake",
+      "whole30-friendly",
+      "light-dish"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "balsamic-midnight-halal-bazaar",
     "title": "Balsamic Midnight Halal Bazaar",
     "tags": [
