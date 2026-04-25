@@ -70,6 +70,18 @@
     "shard": "b"
   },
   {
+    "slug": "beetroot-toast-delight",
+    "title": "Beetroot Toast Delight",
+    "tags": [
+      "beetroot",
+      "toast",
+      "plant-based"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "berry-frozen-delight",
     "title": "Berry Frozen Delight",
     "tags": [
