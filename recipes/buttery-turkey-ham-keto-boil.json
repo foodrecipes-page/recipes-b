@@ -1,0 +1,80 @@
+{
+  "title": "Buttery Turkey Ham Keto-Boil",
+  "description": "A light and buttery keto-boil featuring turkey ham, ideal for hangover recovery with its savory flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turkey Ham",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1-2 tbsp"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "1"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine garlic, red pepper flakes, lemon juice, Worcestershire sauce, thyme, and butter in a small bowl. Mix well until the mixture is smooth.",
+    "Place turkey ham on a baking sheet lined with parchment paper.",
+    "Pour the prepared seasoning mix over the turkey ham evenly.",
+    "Wrap the tray in aluminum foil and place it in the oven for about 30 minutes or until the internal temperature of the turkey ham reaches 145°F (63°C).",
+    "Unwrap the tray, remove the thyme sprigs, and let the turkey ham rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "light",
+    "keto-boil",
+    "hangover-cure",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "buttery-turkey-ham-keto-boil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-turkey-ham-keto-boil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:32:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "turkey ham",
+    "diet": "keto",
+    "region": null
+  }
+}
