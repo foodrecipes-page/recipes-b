@@ -273,6 +273,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-kale-delight",
+    "title": "Bitter Kale Delight",
+    "tags": [
+      "moroccan",
+      "bitterkale",
+      "creamy",
+      "energizing",
+      "chinesecabbage",
+      "nutfree"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-rice-bliss",
     "title": "Bitter Rice Bliss",
     "tags": [

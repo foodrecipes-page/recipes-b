@@ -1,0 +1,91 @@
+{
+  "title": "Bitter Kale Delight",
+  "description": "A Moroccan-inspired dish featuring bitter kale with a creamy base and energy-boosting flavors for an energizing start to the day.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "Ghee or coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "2-3 strands"
+    },
+    {
+      "name": "Cashews (optional)",
+      "amount": "",
+      "notes": "For nut-free option, replace with a dash of ground fennel or caraway seeds"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey or maple syrup",
+      "amount": "1-2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat. Add cumin seeds and sauté until fragrant.",
+    "Add onion and cook until translucent, then add garlic and continue to cook for another minute.",
+    "Stir in turmeric powder and cashews (if using), cooking for 1-2 minutes until slightly browned.",
+    "Gently fold in the sliced Chinese cabbage. Cook for about 5 minutes or until wilted but still crunchy.",
+    "Add lemon juice and honey/syrup, stirring to combine. Let simmer for an additional 3-4 minutes until the sauce has thickened a bit.",
+    "Sprinkle saffron threads over the top if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "bitterkale",
+    "creamy",
+    "energizing",
+    "chinesecabbage",
+    "nutfree"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 10
+  },
+  "slug": "bitter-kale-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-kale-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:20:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "nut-free",
+    "region": null
+  }
+}
