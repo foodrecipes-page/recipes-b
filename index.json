@@ -193,6 +193,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-potato-bun-roll",
+    "title": "Buttery Potato Bun Roll",
+    "tags": [
+      "potato-bun",
+      "tadka",
+      "jain-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-white-fish-medley",
     "title": "Buttery White Fish Medley",
     "tags": [

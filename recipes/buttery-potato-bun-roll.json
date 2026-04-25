@@ -1,0 +1,63 @@
+{
+  "title": "Buttery Potato Bun Roll",
+  "description": "A crunchy and energizing Japanese dish featuring tender potato buns with a tadka to add flavor and aroma, suitable for Jain followers due to its omission of onion and garlic.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato Buns",
+      "amount": "12 pcs"
+    },
+    {
+      "name": "Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Ghee (Clarified Butter)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Papadums",
+      "amount": "As required"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Heat oil and ghee in a pan until hot. Fry potato buns on medium heat for about 5-6 minutes each side, or until golden brown.",
+    "Once done, keep aside and let them cool slightly.",
+    "Sprinkle papadums on the top of the cooled potato buns for added crunchiness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potato-bun",
+    "tadka",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "buttery-potato-bun-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-potato-bun-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:37:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "potatoe buns",
+    "diet": "jain",
+    "region": null
+  }
+}
