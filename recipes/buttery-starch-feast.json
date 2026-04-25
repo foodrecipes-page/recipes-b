@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Starch Feast",
+  "description": "A silky and sick-day friendly Greek dish featuring high-protein-friendly starches that are perfect for a quick yet satisfying meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "high-protein",
+    "no-dairy",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Chicken Breasts",
+      "amount": "4 pieces",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toss cooked pasta with olive oil, salt, pepper, and a pinch of thyme.",
+    "Sauté onions and garlic in a pan until translucent. Add chicken breasts and cook for about 6 minutes on each side or until golden brown.",
+    "Add bell peppers, zucchini, flour, red wine, and chicken broth to the pan with pasta. Stir well until all ingredients are coated evenly.",
+    "Transfer mixture to a baking dish, cover with foil, and bake in preheated oven for about 20 minutes.",
+    "Remove from oven, uncover, and let it sit for another 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein-friendly",
+    "buttery",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 728,
+    "protein": 61,
+    "carbs": 52,
+    "fat": 30
+  },
+  "slug": "buttery-starch-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-starch-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:24:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "starch",
+    "diet": "high-protein",
+    "region": null
+  }
+}

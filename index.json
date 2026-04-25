@@ -668,6 +668,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-starch-feast",
+    "title": "Buttery Starch Feast",
+    "tags": [
+      "greek",
+      "high-protein-friendly",
+      "buttery",
+      "silky"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-turkey-ham-keto-boil",
     "title": "Buttery Turkey Ham Keto-Boil",
     "tags": [
