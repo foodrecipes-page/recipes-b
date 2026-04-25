@@ -1,0 +1,74 @@
+{
+  "title": "Buttery Air-Fried Steak Shreds",
+  "description": "A quick-fix British dish featuring juicy and buttery shredded steak that's perfect for a keto-friendly meal.",
+  "cuisine": "British",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ribeye steak",
+      "amount": "200g",
+      "notes": "preferably trimmed and sliced thinly"
+    },
+    {
+      "name": "heavy whipping cream",
+      "amount": "1/4 cup",
+      "notes": "use full-fat for best texture"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "optional, for flavoring"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": "optional, for seasoning"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1-2 teaspoons",
+      "notes": "for optional chocolate flavoring"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a small mixing bowl, whisk together heavy whipping cream and any optional cocoa powder until well combined.",
+    "Season the ribeye steak with salt and black pepper if using. Place the steak in the prepared cream mixture, ensuring all slices are evenly coated.",
+    "Air fry for 15-20 minutes or until steaks reach an internal temperature of 135°F (57°C).",
+    "Remove from air fryer and let rest for 5 minutes before serving.",
+    "Serve hot with a side of your favorite keto-friendly condiments if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steak",
+    "air-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 561,
+    "protein": 27,
+    "carbs": 3,
+    "fat": 40
+  },
+  "slug": "buttery-air-fried-steak-shreds",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-air-fried-steak-shreds",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:51:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "shredded meat",
+    "diet": "keto",
+    "region": null
+  }
+}
