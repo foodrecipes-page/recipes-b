@@ -1,0 +1,96 @@
+{
+  "title": "Bitter Joy Moroccan Reviver",
+  "description": "A Chinese cabbage dish infused with the flavor of Morocco designed to aid in hangover recovery without eggs, this recipe is perfect for breakfast or lunch.",
+  "cuisine": "Moroccan, Chinese",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "Trimmed and thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing and braising"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped finely for depth of flavor"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium-sized",
+      "notes": "Diced, either fresh or canned"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "For a touch of Moroccan spice"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "To enhance the dish with its characteristic aroma and flavor"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "1 piece",
+      "notes": "For added aromaticity"
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "4 cups",
+      "notes": "Used for braising to help tenderize the cabbage"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat. Add minced garlic and onions, cooking until translucent.",
+    "Add sliced Chinese cabbage and cumin seeds, stirring well to coat with oil and spices. Cook until cabbage starts to wilt, about 5 minutes.",
+    "Stir in diced tomatoes (and their liquid if using canned ones), bay leaves, and a generous sprinkle of salt. Bring the mixture to a simmer.",
+    "Reduce heat to low, cover the skillet, and let it braise for approximately 20-30 minutes or until the cabbage is tender and most of the liquid has been absorbed.",
+    "Garnish with fresh coriander leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "juicy",
+    "bitter",
+    "hangover_cure",
+    "chinese_cabbage"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 11
+  },
+  "slug": "bitter-joy-moroccan-reviver",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-joy-moroccan-reviver",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:50:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "egg-free",
+    "region": null
+  }
+}
