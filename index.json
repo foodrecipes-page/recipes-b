@@ -1,5 +1,17 @@
 [
   {
+    "slug": "banana-pickle-bliss",
+    "title": "Banana Pickle Bliss",
+    "tags": [
+      "banana",
+      "pickle",
+      "low-calorie"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "basil-buttercrust",
     "title": "Basil Buttercrust",
     "tags": [

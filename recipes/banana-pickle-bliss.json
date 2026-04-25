@@ -1,0 +1,73 @@
+{
+  "title": "Banana Pickle Bliss",
+  "description": "A fermented, gooey, low-calorie-friendly Norwegian dish featuring banana and pickle.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "2 medium"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1 cup",
+      "notes": "optional, use fresh pickles if unavailable"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the bananas into small chunks.",
+    "Combine banana chunks with pickled cucumber, lime juice, ginger paste, vinegar, and salt in a mixing bowl. Mix well to combine all ingredients.",
+    "Let the mixture sit at room temperature for 30 minutes before serving.",
+    "Serve chilled as a snack or appetizer."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "pickle",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 1,
+    "carbs": 20,
+    "fat": 1
+  },
+  "slug": "banana-pickle-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/banana-pickle-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:06:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "banana",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
