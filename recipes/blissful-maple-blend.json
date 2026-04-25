@@ -1,0 +1,83 @@
+{
+  "title": "Blissful Maple Blend",
+  "description": "An earthy and light brunch dish featuring blanched vegetables in a delicious molasses sauce for a low-sodium-friendly Canadian delight.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Red bell pepper, thinly sliced",
+      "amount": "1/2"
+    },
+    {
+      "name": "Zucchini, thinly sliced",
+      "amount": "1"
+    },
+    {
+      "name": "Carrot, grated",
+      "amount": "1"
+    },
+    {
+      "name": "Butter, for coating",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Coat a baking dish with butter.",
+    "Add finely chopped onion, minced garlic, and thinly sliced red bell pepper to the dish. Saute for about 5 minutes until softened.",
+    "Gently fold in grated carrot and thinly sliced zucchini.",
+    "Season with salt and pepper as needed.",
+    "Pour molasses evenly over vegetables.",
+    "Bake at 400°F (200°C) for approximately 15-20 minutes or until vegetables are tender.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blissful-maple-blend",
+    "canadian-dish",
+    "light-veggie-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "blissful-maple-blend",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blissful-maple-blend",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:29:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "molasses",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
