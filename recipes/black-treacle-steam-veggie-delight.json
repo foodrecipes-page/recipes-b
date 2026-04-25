@@ -1,0 +1,84 @@
+{
+  "title": "Black Treacle Steam Veggie Delight",
+  "description": "A one-pot Ethiopian dish featuring bitter and crisp vegetables steamed with black treacle for a plant-based, savory twist.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Black Treacle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3, peeled and thinly sliced"
+    },
+    {
+      "name": "Green Beans",
+      "amount": "1 cup, trimmed"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add black treacle. Stir until it melts and slightly caramelizes.",
+    "Add finely chopped onion, minced garlic, cumin seeds, turmeric powder, and salt to the melted black treacle. Cook for about 2 minutes until fragrant.",
+    "Add thinly sliced carrots, trimmed green beans, and broccoli florets. Toss gently to coat with the liquid mixture from the pot.",
+    "Bring the mixture to a simmer, then cover with a lid and steam until all vegetables are tender but still have a slight crunch, about 10-15 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "black-treacle",
+    "steam",
+    "veggie-delight",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "black-treacle-steam-veggie-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/black-treacle-steam-veggie-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:31:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "black treacle",
+    "diet": "plant-based",
+    "region": null
+  }
+}

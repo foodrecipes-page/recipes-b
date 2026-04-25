@@ -62,6 +62,19 @@
     "shard": "b"
   },
   {
+    "slug": "black-treacle-steam-veggie-delight",
+    "title": "Black Treacle Steam Veggie Delight",
+    "tags": [
+      "black-treacle",
+      "steam",
+      "veggie-delight",
+      "plant-based"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "blackberry-knit",
     "title": "Blackberry Knit",
     "tags": [
