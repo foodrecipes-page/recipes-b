@@ -342,6 +342,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-earthy-beans",
+    "title": "Buttery Earthy Beans",
+    "tags": [
+      "butter-beans",
+      "juicy",
+      "earthly",
+      "post-workout",
+      "fodmap-friendly",
+      "france-dish"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-festive-egg-roll-bhuna",
     "title": "Buttery Festive Egg Roll Bhuna",
     "tags": [

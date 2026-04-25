@@ -1,0 +1,85 @@
+{
+  "title": "Buttery Earthy Beans",
+  "description": "This French dish is a post-workout treat featuring butter beans that are both earthy and juicy.",
+  "cuisine": "French",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 can (about 14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add minced garlic and cook for about 30 seconds until fragrant but not browned.",
+    "Gently fold in butter beans. Add salt to taste, season with thyme sprigs, and mix well.",
+    "Simmer for about 5 minutes, occasionally stirring, until the beans are heated through.",
+    "Remove from heat and stir in lemon juice just before serving.",
+    "Serve warm garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "butter-beans",
+    "juicy",
+    "earthly",
+    "post-workout",
+    "fodmap-friendly",
+    "france-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "buttery-earthy-beans",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-earthy-beans",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:34:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "boil",
+    "primaryIngredient": "butter beans",
+    "diet": "fodmap",
+    "region": null
+  }
+}
