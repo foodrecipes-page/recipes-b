@@ -1,0 +1,66 @@
+{
+  "title": "Blackberry Tangy Treat",
+  "description": "A salty and crunchy blackcurrant jam treat with a touch of nostalgia, perfect for breakfast or as a snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Blackcurrant Jam",
+      "amount": "100g"
+    },
+    {
+      "name": "Crispy Sesame Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coarse Sea Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine blackcurrant jam in a small saucepan over medium heat.",
+    "Add vegetable oil and stir until evenly distributed.",
+    "Sprinkle crispy sesame seeds into the mixture and mix well to coat the seeds.",
+    "Stir in coarse sea salt, adjust seasoning according to taste.",
+    "Transfer the mixture onto baking paper-lined tray.",
+    "Once cooled slightly, cut into bite-sized pieces for serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "blackcurrant",
+    "tangy",
+    "snack",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 42,
+    "protein": 0.9,
+    "carbs": 13.5,
+    "fat": 6
+  },
+  "slug": "blackberry-tangy-treat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blackberry-tangy-treat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:16:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "egg-free",
+    "region": null
+  }
+}

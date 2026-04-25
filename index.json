@@ -62,6 +62,19 @@
     "shard": "b"
   },
   {
+    "slug": "blackberry-tangy-treat",
+    "title": "Blackberry Tangy Treat",
+    "tags": [
+      "blackcurrant",
+      "tangy",
+      "snack",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyère-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [
