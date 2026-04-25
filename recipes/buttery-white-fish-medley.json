@@ -1,0 +1,94 @@
+{
+  "title": "Buttery White Fish Medley",
+  "description": "A festive middle-eastern dish featuring white fish, dumplings and other vegetarian-friendly ingredients in a creamy, buttery sauce that's perfect for a comforting dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Green Peppers, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Zucchini, sliced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dumplings (Veggie or Meat-based)",
+      "amount": "40"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Creamy Sauce Mix (1/2 cup)",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Thyme, fresh",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large pot, sauté onion and garlic until translucent. Add fish fillets on one side of the pot.",
+    "Season with salt and pepper, and add sliced green peppers and zucchini. Stir in vegetable broth, paprika, thyme sprigs, and cream sauce mix to taste.",
+    "Simmer for about 15 minutes or until vegetables are tender. Remove from heat and let cool slightly.",
+    "Divide the mixture into four baking dishes or one large baking dish if desired. Place dumplings evenly on top of each serving.",
+    "Bake in preheated oven for about 20-30 minutes, until the sauce thickens and the dumplings are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "creamy",
+    "whitefishmedley",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 23,
+    "carbs": 51,
+    "fat": 14
+  },
+  "slug": "buttery-white-fish-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-white-fish-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:32:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "dum",
+    "primaryIngredient": "white fish",
+    "diet": "vegetarian",
+    "region": null
+  }
+}

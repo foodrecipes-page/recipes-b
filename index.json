@@ -112,5 +112,18 @@
     "cuisine": "Spanish",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-white-fish-medley",
+    "title": "Buttery White Fish Medley",
+    "tags": [
+      "buttery",
+      "creamy",
+      "whitefishmedley",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "b"
   }
 ]
