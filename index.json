@@ -691,6 +691,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-chewy-algerian-haddock-stir-fry",
+    "title": "Buttery Chewy Algerian Haddock Stir-fry",
+    "tags": [
+      "algerian-dish",
+      "date-night-meal",
+      "low-fat-friendliness"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-chill",
     "title": "Buttery Chill",
     "tags": [

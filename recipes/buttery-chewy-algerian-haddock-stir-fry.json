@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Chewy Algerian Haddock Stir-fry",
+  "description": "A low-fat-friendly date-night dish featuring chewy haddock with a hint of butter and spices, ideal for quick weeknight meals.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "6 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp freshly squeezed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1, finely chopped (optional)"
+    },
+    {
+      "name": "almond slivers",
+      "amount": "50g"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "capers",
+      "amount": "40g, drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix haddock with lemon juice in a shallow dish. Toss until evenly coated.",
+    "Drizzle olive oil over the seasoned haddock and place on a baking sheet lined with parchment paper.",
+    "Bake for about 8 minutes or until cooked through, flipping once halfway through cooking time.",
+    "While haddock is baking, prepare the sauce: In a small bowl, mix dijon mustard, lemon juice, minced garlic, jalapeno pepper (if using), and capers. Add in almond slivers and stir well to combine.",
+    "Once the haddock is done, remove from oven and let it rest for about 2 minutes before serving with sauce drizzled over top.",
+    "Serve immediately as a main dish or side to any meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-dish",
+    "date-night-meal",
+    "low-fat-friendliness"
+  ],
+  "nutrition": {
+    "calories": 152,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "buttery-chewy-algerian-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chewy-algerian-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:33:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "haddock",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Buttery Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
