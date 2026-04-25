@@ -1,0 +1,67 @@
+{
+  "title": "Bicarb Burrito",
+  "description": "A vegan-friendly, peppery, silky mexican dish featuring bicarbonate of soda for a unique baking twist that’s perfect for sick-day comfort food.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bicarb of Soda",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Vegan cheese sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Homemade flour tortillas",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Bell peppers, diced (optional)",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix bicarb of soda with vegetable broth in a saucepan and bring to a simmer until dissolved, about 5 minutes. Remove from heat and let cool slightly.",
+    "Heat vegan cheese sauce over low heat if necessary, then pour into cooled bicarb mixture. Stir gently until combined thoroughly.",
+    "Warm tortillas on a skillet or iron skillet until soft and pliable but not overly toasted.",
+    "Lay out warmed tortillas and spoon the bicarb cheese sauce evenly across each one. Add diced bell peppers (if using) for extra flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked burrito",
+    "vegan comfort food"
+  ],
+  "nutrition": {
+    "calories": 768,
+    "protein": 16,
+    "carbs": 92,
+    "fat": 35
+  },
+  "slug": "bicarb-burrito",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bicarb-burrito",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:03:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "vegan",
+    "region": null
+  }
+}

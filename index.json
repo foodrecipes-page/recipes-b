@@ -135,6 +135,17 @@
     "shard": "b"
   },
   {
+    "slug": "bicarb-burrito",
+    "title": "Bicarb Burrito",
+    "tags": [
+      "baked burrito",
+      "vegan comfort food"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-flour-pancake-stack",
     "title": "Bitter Flour Pancake Stack",
     "tags": [
