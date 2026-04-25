@@ -14,6 +14,18 @@
     "shard": "b"
   },
   {
+    "slug": "bittersweet-ciabatta-crust",
+    "title": "Bittersweet Ciabatta Crust",
+    "tags": [
+      "ciabatta",
+      "mediterranean",
+      "snack"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyère-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [

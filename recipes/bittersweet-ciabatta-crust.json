@@ -1,0 +1,72 @@
+{
+  "title": "Bittersweet Ciabatta Crust",
+  "description": "A quick-fix Mediterranean dish featuring a flaky ciabatta crust with bitter greens and a touch of sweetness for a diabetic-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ciabatta bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Fresh spinach leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grilled zucchini slices",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Diastatic malt syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the ciabatta bread into thin rounds and spread a small amount of diastatic malt syrup on each slice.",
+    "Top with balsamic glaze, followed by layers of fresh spinach leaves, grilled zucchini slices, and red bell pepper.",
+    "Bake for 10-15 minutes or until the crust is lightly golden and crisp.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ciabatta",
+    "mediterranean",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 5
+  },
+  "slug": "bittersweet-ciabatta-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bittersweet-ciabatta-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:15:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "ciabatta",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
