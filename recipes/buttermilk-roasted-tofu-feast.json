@@ -1,0 +1,84 @@
+{
+  "title": "Buttermilk Roasted Tofu Feast",
+  "description": "A tangy and fluffy festive Australian dish featuring buttermilk as the key flavor enhancer for a plant-based feast.",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "2 blocks (each about 150g)",
+      "notes": "Extra-firm or firm tofu"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "4 cups (for marination and roasting)",
+      "notes": "Regular buttermilk or any plant-based alternative"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "For the glaze, optionally use agave nectar if you're vegan"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves (minced)",
+      "notes": "Fresh for optimal flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra-virgin olive oil or any neutral-flavored plant-based alternative"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tablespoon dried, optional",
+      "notes": "For extra depth of flavor"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "To taste",
+      "notes": "For seasoning before roasting"
+    }
+  ],
+  "instructions": [
+    "Drain and press the tofu to remove excess liquid, then cut it into chunks.",
+    "Mix buttermilk with minced garlic, olive oil, salt, pepper, and dried thyme (if using). Marinate the tofu for at least 1 hour or overnight in the refrigerator.",
+    "Preheat oven to 425°F (220°C). Lightly grease a baking dish with olive oil. Arrange marinated tofu chunks on the dish, ensuring they are not touching each other.",
+    "Bake for 25-30 minutes until golden brown and crispy around edges. Serve warm with your choice of side dishes like roasted vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "plant-based",
+    "tangy",
+    "fluffy",
+    "australian",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 15
+  },
+  "slug": "buttermilk-roasted-tofu-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttermilk-roasted-tofu-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:09:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "buttermilk",
+    "diet": "plant-based",
+    "region": null
+  }
+}
