@@ -161,6 +161,18 @@
     "shard": "b"
   },
   {
+    "slug": "berry-bliss",
+    "title": "Berry Bliss",
+    "tags": [
+      "sugar-free",
+      "peruvian",
+      "berry-bliss"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "berry-frozen-delight",
     "title": "Berry Frozen Delight",
     "tags": [

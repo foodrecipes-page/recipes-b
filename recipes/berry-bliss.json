@@ -1,0 +1,69 @@
+{
+  "title": "Berry Bliss",
+  "description": "A citrusy and tender Peruvian dish featuring Saskatoon berries that are reduced with a touch of sugar for an indulgent dessert option suitable for those following a sugar-free diet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Caster Sugar (optional, for a touch of sweetness)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the Saskatoon berries and remove any stems or leaves. If using sugar, mix it with water to dissolve completely.",
+    "Pour the Saskatoon berries into a saucepan, then add the lemon juice, lime juice, and optional sugar mixture.",
+    "Bring to a boil over medium heat, stirring occasionally. Reduce the heat to low once it starts boiling.",
+    "Cook for about 10-15 minutes or until the berries are tender but not mushy. They will be soft when pierced with a fork.",
+    "Turn off the heat and let cool slightly before serving. The sauce can also be served hot, garnished with fresh berries if desired.",
+    "Serve immediately while warm for best texture and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sugar-free",
+    "peruvian",
+    "berry-bliss"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 23,
+    "fat": 0.5
+  },
+  "slug": "berry-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/berry-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:24:36Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
