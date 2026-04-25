@@ -1,0 +1,89 @@
+{
+  "title": "Buttery Festive Egg Roll Bhuna",
+  "description": "A raw-friendly, festive Turkish dish featuring tender egg rolls coated in a buttery mixture, ideal for a light dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg Rolls",
+      "amount": "24 pieces"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "100 grams (melted)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Melt butter in a pan over medium heat.",
+    "Add minced garlic and finely chopped onion, sauté until translucent.",
+    "Stir in tomato sauce, cayenne pepper, and curry powder. Simmer for about 2 minutes.",
+    "Slice egg rolls into halves or thirds to ensure they fit evenly in the pan.",
+    "Place egg roll pieces in a single layer on a baking sheet lined with parchment paper.",
+    "Dip each piece of egg roll into the butter mixture.",
+    "Top each egg roll half with a spoonful of the tomato-butter sauce, pressing gently to adhere.",
+    "Bake for 10-15 minutes or until golden brown and crispy on top.",
+    "Remove from oven and serve hot as a festive, raw-friendly side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "egg-roll",
+    "bhuna",
+    "turkish",
+    "raw-friendly",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "buttery-festive-egg-roll-bhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-festive-egg-roll-bhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:39:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "egg rolls",
+    "diet": "raw",
+    "region": null
+  }
+}

@@ -114,6 +114,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-festive-egg-roll-bhuna",
+    "title": "Buttery Festive Egg Roll Bhuna",
+    "tags": [
+      "festive",
+      "egg-roll",
+      "bhuna",
+      "turkish",
+      "raw-friendly",
+      "buttery"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-white-fish-medley",
     "title": "Buttery White Fish Medley",
     "tags": [
