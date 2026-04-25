@@ -1,0 +1,61 @@
+{
+  "title": "Bitter Broccoli Bowl",
+  "description": "A low-calorie-friendly British dish featuring Chinese broccoli and a deglaze with low-sodium vegetable stock for added flavor.",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 head"
+    },
+    {
+      "name": "Low-sodium vegetable stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Wash and roughly chop the Chinese broccoli.",
+    "Heat a non-stick pan over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add vegetable stock to the pan with the onions. Bring to a boil and let simmer for an additional 10 minutes.",
+    "Stir in the cooked Chinese broccoli into the vegetable stock mixture. Reduce heat and simmer for another 10-15 minutes or until vegetables are tender.",
+    "Serve warm as a side dish or over a bed of quinoa for a complete meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "british",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "bitter-broccoli-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-broccoli-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:34:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
