@@ -1,0 +1,70 @@
+{
+  "title": "Bitter Chewy Brazilian Chocolate Stir-fry",
+  "description": "A post-workout dish featuring bitter chocolate and Italian seasoning, perfect for a halal-friendly snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate",
+      "amount": "200g"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Halal Honey or Agave Nectar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add halal honey or agave nectar and let it melt until golden brown, stirring continuously to avoid burning.",
+    "Fold in the dark chocolate and Italian seasoning, stirring gently until the mixture is smooth and well combined.",
+    "Cook for an additional 2 minutes to ensure all ingredients are heated through and the chocolate is melted into a chewy consistency.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "chewy",
+    "post-workout",
+    "italian",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "bitter-chewy-brazilian-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-brazilian-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:49:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "italian seasoning",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Bitter Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
