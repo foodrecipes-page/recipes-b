@@ -1,0 +1,78 @@
+{
+  "title": "Broiled Crispy Spanish Bell Pepper Stir-fry",
+  "description": "A fresh, tender, low-carb-friendly solo-dinner dish featuring crispy broiled bell peppers in a simple sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Wash the bell peppers and trim off the stems. Slice them into rings about ¼ inch thick.",
+    "Heat olive oil in a skillet over medium heat. Add sliced bell peppers, garlic, salt, and red pepper flakes (if using). Stir-fry for about 3-4 minutes until slightly softened but still crisp.",
+    "Reduce heat to low and broil the mixture for about 5-7 minutes on each side, or until they are golden brown and crispy. Keep an eye on them as they can burn quickly when broiling.",
+    "In a small bowl, mix lemon juice with a bit of water to create a glaze. Brush the bell peppers generously with the glaze while hot.",
+    "Serve hot as a side dish or over a bed of salad greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-peppers",
+    "bell-peppers",
+    "spanish-recipe",
+    "low-carb-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "broiled-crispy-spanish-bell-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/broiled-crispy-spanish-bell-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:08:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "pepper",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Bell Pepper",
+    "descriptor": "Broiled",
+    "dishForm": "Stir-fry"
+  }
+}
