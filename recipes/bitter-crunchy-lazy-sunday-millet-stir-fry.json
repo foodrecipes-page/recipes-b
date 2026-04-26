@@ -1,0 +1,90 @@
+{
+  "title": "Bitter Crunchy Lazy-Sunday Millet Stir-fry",
+  "description": "A vegetarian-friendly lazy-sunday dish featuring millet stir-fried with bitter vegetables and crunchy toppings for a spicy kick in the norteño style.",
+  "cuisine": "Mexican (Norteño)",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell peppers, diced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Jalapeno pepper, seeded and finely chopped (optional)",
+      "amount": "1-2 slices"
+    },
+    {
+      "name": "Bitter Gourd, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cilantro leaves for garnish",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sesame seeds for topping",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil for sautéing",
+      "amount": "2-3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat and add vegetable oil.",
+    "Add diced onion, minced garlic, and jalapeno (if using) to the heated pan. Stir-fry for about 1 minute until onions are translucent and fragrant.",
+    "Increase heat to high and add finely chopped bell peppers and bitter gourd. Stir-fry for another 5 minutes or until vegetables start to soften but still retain their crunchiness.",
+    "Stir in millet, making sure it's evenly coated with the vegetable oil. Cook for an additional 2-3 minutes on medium heat.",
+    "Add salt (optional) and a dash of chili powder if desired. Stir well to incorporate all ingredients evenly.",
+    "Sprinkle sesame seeds over the top of the stir-fry just before serving. Garnish with fresh cilantro leaves for color and added flavor.",
+    "Serve hot as a side dish or main course, depending on your preference."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday-dish",
+    "bitter-chunky-millet-stir-fry",
+    "vegan-style"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 41,
+    "fat": 7
+  },
+  "slug": "bitter-crunchy-lazy-sunday-millet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-lazy-sunday-millet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:08:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "millet",
+    "diet": "vegetarian",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "millet",
+    "descriptor": "bitter crunchy lazy-sunday",
+    "dishForm": "Stir-fry"
+  }
+}
