@@ -1,0 +1,83 @@
+{
+  "title": "Buttery Uruguayan Broad Beans Crumble",
+  "description": "A low-carb-friendly and flaky dessert featuring broad beans baked with butter and other ingredients to create a delicious and hearty dish perfect for the monsoon season.",
+  "cuisine": "South American",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "2 cups fresh or frozen",
+      "notes": "Soak in water for at least 8 hours"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "6 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "2 cups low-fat plain yogurt",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 tablespoons",
+      "notes": "Or any non-dairy milk of choice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a baking dish with coconut oil or butter.",
+    "Drain broad beans well and mix them with melted butter, eggs, yogurt, cayenne pepper, and the extra drained liquid from beans. Stir until smooth.",
+    "Pour mixture into prepared dish. Bake for 20 minutes at 350°F (175°C). Let it cool for 5-10 minutes.",
+    "Top cooled bean mixture with a layer of coconut milk or any non-dairy milk, then place in oven for an additional 10 minutes until slightly bubbly on top. Serve warm.",
+    "prepTimeMin: 20",
+    "cookTimeMin: 30",
+    "totalTimeMin: 50",
+    "servings: 4-6",
+    "difficulty: "
+  ],
+  "tags": [
+    "buttery",
+    "crumble",
+    "monsoon",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 13.6,
+    "carbs": 9.5,
+    "fat": 9.4
+  },
+  "slug": "buttery-uruguayan-broad-beans-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-uruguayan-broad-beans-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:34:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "broad beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Broad Beans",
+    "descriptor": "Buttery",
+    "dishForm": "Crumble"
+  }
+}
