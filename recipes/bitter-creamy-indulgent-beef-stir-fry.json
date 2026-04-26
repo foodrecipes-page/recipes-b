@@ -1,0 +1,86 @@
+{
+  "title": "Bitter Creamy Indulgent Beef Stir-fry",
+  "description": "A Polish dish featuring malt vinegar for a touch of sweetness and bitterness, this creamy stir-fry is sugar-free-friendly.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Malt Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 medium, diced"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "2 sticks, thinly sliced"
+    },
+    {
+      "name": "Shallots",
+      "amount": "3, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over high heat.",
+    "Add beef and cook until browned on all sides.",
+    "Remove beef from the pan and set aside.",
+    "In the same pan, add minced garlic, onion, red bell pepper, celery sticks, and shallots.",
+    "Sauté for about 5 minutes or until vegetables are tender.",
+    "Return beef to the pan with the vegetables. Add malt vinegar.",
+    "Stir-fry everything together for another minute.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "bitter",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 19,
+    "carbs": 36,
+    "fat": 7
+  },
+  "slug": "bitter-creamy-indulgent-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-indulgent-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:48:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "malt vinegar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Beef",
+    "descriptor": "Bitter Creamy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
