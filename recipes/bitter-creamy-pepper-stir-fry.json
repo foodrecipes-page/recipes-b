@@ -1,0 +1,90 @@
+{
+  "title": "Bitter Creamy Pepper Stir-fry",
+  "description": "A lazy Sunday Australian dish featuring peppers that are both bitter and creamy, cooked to perfection in a low-calorie-friendly way.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium-sized",
+      "notes": "Includes both sweet and spicy varieties"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon fresh squeezed"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Parsley or Chives for Garnish (optional)",
+      "notes": "For presentation, not required for eating"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Wash and thinly slice the bell peppers.",
+    "Mince the garlic cloves and set aside.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium-high heat. Add minced garlic and cook for about 30 seconds until fragrant.",
+    "Add sliced bell peppers to the skillet and stir-fry for about 5 minutes until they start to soften and slightly char on the edges.",
+    "Pour in the low-sodium chicken broth or water, scraping up any browned bits from the bottom of the pan. Bring it to a simmer and let cook for an additional minute to reduce slightly.",
+    "Add heavy cream, salt, pepper, and freshly squeezed lemon juice to the skillet. Stir well until fully combined.",
+    "Reduce heat to low and cover the skillet with a lid to help seal in moisture. Cook on low for about 10 minutes or until the peppers are tender but still have a slight crunch.",
+    "Remove from heat and serve hot, garnished with optional parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-peppers",
+    "creamy-peppers",
+    "lazy-sunday-australian-dish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "bitter-creamy-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:07:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "peppers",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Bitter Creamy Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}

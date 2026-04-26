@@ -376,6 +376,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-creamy-pepper-stir-fry",
+    "title": "Bitter Creamy Pepper Stir-fry",
+    "tags": [
+      "bitter-peppers",
+      "creamy-peppers",
+      "lazy-sunday-australian-dish",
+      "stir-fry"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-creamy-solo-dinner-kenyan-masarepa-stir-fry",
     "title": "Bitter Creamy Solo-Dinner Kenyan Masarepa Stir-Fry",
     "tags": [
