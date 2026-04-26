@@ -1,0 +1,83 @@
+{
+  "title": "Bitter Crisp Moroccan Dates Salad",
+  "description": "This nostalgic dish features a blend of bitter dates, crispy naan bread, and tangy dressing in a dairy-free version for those with dietary restrictions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup dates",
+      "amount": "cup"
+    },
+    {
+      "name": "2 naan bread slices",
+      "amount": "slices",
+      "notes": "preferably whole wheat for added fiber and texture"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 tablespoon honey or agave nectar",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Arrange naan bread slices on a baking sheet.",
+    "Halve dates and remove pits. Arrange them in an alternating pattern over the naan bread, pressing gently into place.",
+    "In a mixing bowl, combine lemon juice, olive oil, minced garlic, honey or agave nectar, and salt. Mix until well combined.",
+    "Drizzle dressing evenly over date-naan slices. Place in oven to broil for 5 minutes on high heat (broiler setting).",
+    "Remove from oven, let sit for a minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-dates",
+    "bitter-crisp",
+    "naan-bread",
+    "lemon-dressing"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "bitter-crisp-moroccan-dates-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-moroccan-dates-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:34:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "naan bread",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Dates",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Salad"
+  }
+}

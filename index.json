@@ -363,6 +363,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crisp-moroccan-dates-salad",
+    "title": "Bitter Crisp Moroccan Dates Salad",
+    "tags": [
+      "moroccan-dates",
+      "bitter-crisp",
+      "naan-bread",
+      "lemon-dressing"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crisp-turkish-beans-stir-fry",
     "title": "Bitter Crisp Turkish Beans Stir-fry",
     "tags": [
