@@ -1,0 +1,98 @@
+{
+  "title": "Bitter Dense Moroccan Whole Wheat Stir-fry",
+  "description": "A romantic moroccan dish featuring whole wheat, infused with aromatic spices and herbs for a unique flavor profile.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat pasta (or other gluten-free pasta)",
+      "amount": "1 cup",
+      "notes": "Choose a whole grain or multigrain variety"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "4 oz",
+      "notes": "Skinless and boneless for healthier meal"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Paprika (smoked or regular)",
+      "amount": "1 tsp",
+      "notes": "To add smokiness and color to the dish"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "2 tbsp",
+      "notes": "Fresh for a more aromatic flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "For sautéing and finishing touches"
+    },
+    {
+      "name": "Salt (optional)",
+      "amount": "To taste",
+      "notes": "Adjust based on personal preference or salt content of the pasta"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "For a tangy finish and to enhance the dish's bitterness"
+    }
+  ],
+  "instructions": [
+    "Boil whole wheat pasta according to package instructions, ensuring it is al dente.",
+    "In a pan, heat olive oil over medium-high heat. Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Add paprika and thyme leaves, stirring well to release flavors from the herbs. Continue cooking for another 30 seconds.",
+    "Gently add chicken breast to the pan, making sure it doesn’t touch the bottom of the pan to prevent burning on one side first. Cook until cooked through, about 7-10 minutes total.",
+    "Stir in white wine vinegar and salt (if needed), tasting throughout to ensure seasoning is even. Sauté for an additional minute until flavors are well combined.",
+    "Remove chicken from pan and set aside. Add more olive oil if necessary, then return the pasta to the pan with its cooking water. Mix thoroughly to incorporate vinegar and create a sauce-like texture.",
+    "Return the cooked chicken to the pan and mix it into the pasta to distribute evenly. Let everything simmer for 1-2 minutes to ensure all flavors meld together.",
+    "Serve hot over your favorite bed of greens, or as a side dish with a side of hummus or tahini paste for extra dipping options."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "whole-wheat",
+    "stir-fry",
+    "keto-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "bitter-dense-moroccan-whole-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-moroccan-whole-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:54:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "whole wheat",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "whole wheat",
+    "descriptor": "bitter dense",
+    "dishForm": "Stir-fry"
+  }
+}
