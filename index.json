@@ -1324,6 +1324,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-ukrainian-broccoli-stir-fry",
+    "title": "Buttery Ukrainian Broccoli Stir-fry",
+    "tags": [
+      "ukrainian",
+      "stir-fry",
+      "broccoli",
+      "quickmeal",
+      "low-sodium"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-uruguayan-broad-beans-crumble",
     "title": "Buttery Uruguayan Broad Beans Crumble",
     "tags": [
