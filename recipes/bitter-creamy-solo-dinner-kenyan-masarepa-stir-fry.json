@@ -1,0 +1,95 @@
+{
+  "title": "Bitter Creamy Solo-Dinner Kenyan Masarepa Stir-Fry",
+  "description": "A dairy-free solo-dinner dish featuring bitter yellow masarepa stir-fried with a creamy sauce for a unique and comforting meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cream of coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "3 tablespoons, or to taste"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onions and sauté until translucent.",
+    "Add finely chopped garlic and cook for another minute.",
+    "Stir in grated ginger, chilli powder, salt to taste, and add masarepa. Cook until the masarepa is slightly toasted.",
+    "In a separate pan, heat butter and cream of coconut together until heated through. Pour over masarepa mixture, stirring continuously to combine.",
+    "Serve hot as a solo-dinner meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-creamy",
+    "solo-dinner",
+    "kenyan",
+    "masarepa-stir-fry",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 18
+  },
+  "slug": "bitter-creamy-solo-dinner-kenyan-masarepa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-solo-dinner-kenyan-masarepa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:23:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "masarepa",
+    "descriptor": "Bitter Creamy Solo-Dinner",
+    "dishForm": "Stir-fry"
+  }
+}
