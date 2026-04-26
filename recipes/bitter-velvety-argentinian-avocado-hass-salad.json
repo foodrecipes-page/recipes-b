@@ -1,0 +1,69 @@
+{
+  "title": "Bitter Velvety Argentinian Avocado Hass Salad",
+  "description": "This festive dish features bitter and velvety avocado hass pulp, braised with a touch of sugar-free-friendly sweetness to create a unique festive treat.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 ripe Hass avocado",
+      "amount": "1",
+      "notes": "Ensure it is at room temperature"
+    },
+    {
+      "name": "3 tablespoons sugar-free honey syrup or agave nectar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Peel the avocado and use a spoon to scoop out its flesh. Squeeze in some honey syrup.",
+    "Add minced garlic and salt to the flesh, then mix well until it becomes slightly soft and velvety.",
+    "Place the mixture in a small baking dish or shallow pan lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown on top and cooked through. Keep an eye on it to prevent burning.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "bitter",
+    "velvety",
+    "hass avocado"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "bitter-velvety-argentinian-avocado-hass-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-argentinian-avocado-hass-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:05:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Avocado Hass",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Salad"
+  }
+}
