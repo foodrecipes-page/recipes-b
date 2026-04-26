@@ -1290,6 +1290,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crumbly-turkish-delight",
+    "title": "Buttery Crumbly Turkish Delight",
+    "tags": [
+      "british-dessert",
+      "date-night-special",
+      "turkish-delight",
+      "bhuna-spice-turkey"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crunchy-apple-salad",
     "title": "Buttery Crunchy Apple Salad",
     "tags": [

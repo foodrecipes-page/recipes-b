@@ -1,0 +1,85 @@
+{
+  "title": "Buttery Crumbly Turkish Delight",
+  "description": "A unique twist on traditional Turkish delight with a spicy twist for a special date-night treat featuring bhuna spices and dates.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "10 medium-sized",
+      "notes": "ripe, pitted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "3 tablespoons",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "for added spice and texture"
+    },
+    {
+      "name": "bhuna spices mix (see below)",
+      "amount": "1 small spoonful",
+      "notes": "Turkish Delight blend: fennel seeds, cardamom powder, cloves, star anise, cinnamon sticks for a warm, aromatic flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix dates with softened butter until smooth and combined.",
+    "Gradually add brown sugar and mix well, ensuring no lumps remain.",
+    "Stir in cinnamon powder and ginger paste. Blend until the mixture forms a soft dough.",
+    "Add the bhuna spices mix to the dough, incorporating evenly into the mixture.",
+    "Shape the dough into small balls or cut it with cookie cutter for uniform pieces if desired.",
+    "Place the shaped pieces onto an ungreased baking sheet in a single layer.",
+    "Bake for 15 minutes or until golden brown and crispy on the outside.",
+    "Allow to cool slightly before serving, garnished with additional spices like ground cardamom or cinnamon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dessert",
+    "date-night-special",
+    "turkish-delight",
+    "bhuna-spice-turkey"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "buttery-crumbly-turkish-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-turkish-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:41:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "turkish delight",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Turkish Delight",
+    "descriptor": "Buttery",
+    "dishForm": "Crumble"
+  }
+}
