@@ -1,0 +1,98 @@
+{
+  "title": "Buttery French Butter Flan",
+  "description": "This indulgent dessert is a blend of creamy flan and savory tomato sauce, baked to perfection with an air fryer for added texture.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "3 cups"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "5 tablespoons"
+    },
+    {
+      "name": "paleo-friendly baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "tomato sauce (air fried)",
+      "amount": "to taste"
+    },
+    {
+      "name": "paleo-friendly flour for dusting (optional)",
+      "amount": ""
+    },
+    {
+      "name": "paleo-friendly crumbled feta cheese or tofu as a garnish",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F.",
+    "Sift the flour into a mixing bowl. Mix in the coconut milk, egg yolks, heavy cream, butter, baking powder, vanilla extract, and salt until smooth.",
+    "Pour the mixture into an oven-safe dish or flan ring (paleo-friendly alternative can be used).",
+    "Bake for 40 minutes at 350°F. Let it cool slightly before serving.",
+    "Serve with a drizzle of air-fried tomato sauce and garnished with paleo-friendly crumbled feta cheese or tofu."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "fluffy",
+    "indulgent",
+    "french",
+    "tomato-sauce",
+    "air-fried",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "buttery-french-butter-flan",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-french-butter-flan",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:07:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "tomato sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "butter",
+    "descriptor": "Buttery",
+    "dishForm": "Flan"
+  }
+}

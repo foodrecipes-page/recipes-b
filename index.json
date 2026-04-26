@@ -879,6 +879,22 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-french-butter-flan",
+    "title": "Buttery French Butter Flan",
+    "tags": [
+      "buttery",
+      "fluffy",
+      "indulgent",
+      "french",
+      "tomato-sauce",
+      "air-fried",
+      "paleo-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-indian-dates-stir-fry",
     "title": "Buttery Indian Dates Stir-fry",
     "tags": [
