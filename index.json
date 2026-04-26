@@ -257,6 +257,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crisp-turkish-beans-stir-fry",
+    "title": "Bitter Crisp Turkish Beans Stir-fry",
+    "tags": [
+      "turkish",
+      "bitter",
+      "crisp",
+      "refried beans",
+      "stir-fry"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-fish-pickle-halal-comfort",
     "title": "Bitter Fish Pickle Halal Comfort",
     "tags": [

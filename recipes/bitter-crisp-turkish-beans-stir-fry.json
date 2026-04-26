@@ -1,0 +1,88 @@
+{
+  "title": "Bitter Crisp Turkish Beans Stir-fry",
+  "description": "A nostalgic twist on traditional refried beans with a touch of bitterness for a unique flavor profile, this dish is both savory and light enough to be enjoyed as a snack or appetizer.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Refried Beans",
+      "amount": "1 cup",
+      "notes": "Pre-made for convenience"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for a slight bitterness"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "To balance the flavors and add freshness"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and adding richness to the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine refried beans, finely chopped green onions, tomato paste, garlic powder (if using), lemon juice, olive oil, and salt.",
+    "Mix all the ingredients thoroughly until evenly distributed.",
+    "Transfer the mixture to a skillet or non-stick frying pan over medium-high heat. Stir frequently for about 5 minutes or until it starts to stick together slightly and forms small clusters.",
+    "Serve hot as is or garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "bitter",
+    "crisp",
+    "refried beans",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "bitter-crisp-turkish-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-turkish-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:25:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "refried beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
