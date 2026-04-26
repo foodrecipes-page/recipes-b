@@ -575,6 +575,19 @@
     "shard": "b"
   },
   {
+    "slug": "broiled-crumbled-malaysian-cheese",
+    "title": "Broiled Crumbled Malaysian Cheese",
+    "tags": [
+      "broiled",
+      "cheese",
+      "crumbled",
+      "mexican"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 13,
+    "shard": "b"
+  },
+  {
     "slug": "broiled-paniyuri-pancakes",
     "title": "Broiled Paniyuri Pancakes",
     "tags": [

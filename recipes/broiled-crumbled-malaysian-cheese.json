@@ -1,0 +1,70 @@
+{
+  "title": "Broiled Crumbled Malaysian Cheese",
+  "description": "A kid-friendly malaysian dish featuring salty and crispy shredded Monterey Jack cheese that's perfect for pescatarian diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shredded Monterey Jack cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Mix the olive oil, salt, and black pepper in a small bowl.",
+    "Spread the cheese mixture on a baking sheet lined with parchment paper.",
+    "Arrange shredded cheese evenly over the prepared baking sheet. Use fingers or a spoon for easy spreading.",
+    "Broil in the oven for 4-5 minutes until the edges are golden brown and crispy.",
+    "Remove from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broiled",
+    "cheese",
+    "crumbled",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "broiled-crumbled-malaysian-cheese",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/broiled-crumbled-malaysian-cheese",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:50:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cheese",
+    "descriptor": "Broiled",
+    "dishForm": "Crumble"
+  }
+}
