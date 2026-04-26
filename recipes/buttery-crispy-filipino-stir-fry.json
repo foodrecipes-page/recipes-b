@@ -1,0 +1,83 @@
+{
+  "title": "Buttery Crispy Filipino Stir-fry with Smoked Turkey Neck",
+  "description": "This energizing dish features smoked turkey neck in a buttery, crispy sauce perfect for breakfast or snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Turkey Neck",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil (for pan)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White Pepper",
+      "amount": "a few pinches"
+    },
+    {
+      "name": "Red Chilli Flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Season turkey neck with white pepper and red chilli flakes. Place on a greased baking sheet and broil for about 8-10 minutes until crispy.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add garlic slices and sauté until golden brown, stirring occasionally, then add soy sauce, cooking until slightly reduced.",
+    "Gently place the crumbed turkey neck into the pan with the stir-fry mixture and cook for an additional 2-3 minutes, ensuring both are heated thoroughly.",
+    "Serve hot as a snack or breakfast accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "filipino",
+    "smoked-turkey-neck",
+    "crispy",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "buttery-crispy-filipino-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-filipino-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:41:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Smoked Turkey Neck",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

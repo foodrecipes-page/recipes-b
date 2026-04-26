@@ -1223,6 +1223,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crispy-filipino-stir-fry",
+    "title": "Buttery Crispy Filipino Stir-fry with Smoked Turkey Neck",
+    "tags": [
+      "stir-fry",
+      "filipino",
+      "smoked-turkey-neck",
+      "crispy",
+      "buttery"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crumble-marshmallow",
     "title": "Buttery Crumble Marshmallow",
     "tags": [
