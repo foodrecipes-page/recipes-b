@@ -523,6 +523,18 @@
     "shard": "b"
   },
   {
+    "slug": "boiled-tunisian-lettuce-salad",
+    "title": "Boiled Tunisian Lettuce Salad",
+    "tags": [
+      "lettucesalad",
+      "paleo",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bok-choy-baiser",
     "title": "Bok Choy Baiser",
     "tags": [
