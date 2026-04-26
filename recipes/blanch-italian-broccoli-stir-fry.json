@@ -1,0 +1,72 @@
+{
+  "title": "Blanch Italian Broccoli Stir-fry",
+  "description": "A floral and light Italian dish post-workout, featuring dark soft brown sugar for a sweet touch and keto-friendly options.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dark Soft Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Blanch broccoli in boiling water for about 3 minutes.",
+    "Remove from heat and drain, then let it cool slightly.",
+    "In a pan over medium-high heat, add olive oil and minced garlic. Sauté until fragrant, about 1 minute.",
+    "Add blanched broccoli to the pan and toss with dark soft brown sugar. Stir well to coat.",
+    "Cook for an additional 2-3 minutes or until tender-crisp.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "blanch",
+    "italian",
+    "light",
+    "post-workout",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "blanch-italian-broccoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blanch-italian-broccoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:12:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Blanch",
+    "dishForm": "Stir-fry"
+  }
+}
