@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Flaky Ethiopian Squid Crumble",
+  "description": "A romantic and indulgent vegetarian-friendly dish featuring tenderized squid baked in a buttery flaky crust for an authentic African taste.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) firm white fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1 tsp salt"
+    },
+    {
+      "name": "1 tsp black pepper"
+    },
+    {
+      "name": "2 tablespoons vegetable oil"
+    },
+    {
+      "name": "Vegetable stock cube (optional, for flavoring the fish)"
+    },
+    {
+      "name": "6 oz (170g) fresh squid",
+      "amount": "6 oz"
+    }
+  ],
+  "instructions": [
+    "Place the firm white fish fillets in a large mixing bowl.",
+    "Add 1/2 cup of flour and 1 tsp each of salt and black pepper. Mix thoroughly to coat all the pieces evenly with the spice mixture.",
+    "Heat vegetable oil in a pan over medium heat, add the seasoned fish fillets on both sides until golden brown and cooked through (about 5 minutes per side).",
+    "Drain excess oil from the fish and set aside.",
+    "Place 6 oz of fresh squid pieces into another mixing bowl. Add 1/2 cup flour to coat the squid evenly.",
+    "Stir in vegetable stock cube if using, ensuring all pieces are coated well with the spice mixture. Set aside to marinate for about 30 minutes.",
+    "Preheat your oven to 400°F (205°C). Transfer the seasoned fish and squid into a single layer on a baking sheet lined with parchment paper.",
+    "Pour remaining flour over both layers evenly, ensuring each piece is fully coated. Cover the dish with aluminum foil.",
+    "Cook in preheated oven for 30 minutes or until fish and squid are cooked through and golden brown (the crust will be flaky).",
+    "Remove from oven, uncover, and let rest for 5-10 minutes before serving hot.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-flaky-ethiopian-squid-crumble",
+    "romantic-dinner-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 31,
+    "carbs": 47,
+    "fat": 29
+  },
+  "slug": "buttery-flaky-ethiopian-squid-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-flaky-ethiopian-squid-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:26:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "squid",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Squid",
+    "descriptor": "Buttery Flaky",
+    "dishForm": "Crumble"
+  }
+}
