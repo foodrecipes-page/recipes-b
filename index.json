@@ -469,6 +469,18 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crumbly-light-chinese-duck-leg-crumble",
+    "title": "Bitter Crumbly Light Chinese Duck Leg Crame",
+    "tags": [
+      "crumble",
+      "duck_legs",
+      "light_chinese_dish"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-british-onion-wrap",
     "title": "Bitter Crunchy British Onion Wrap",
     "tags": [

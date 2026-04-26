@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Crumbly Light Chinese Duck Leg Crame",
+  "description": "A diabetic-friendly crumble dish featuring light and bitter flavors from duck legs, seasoned with traditional Chinese spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "2 pieces",
+      "notes": "skin removed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece fresh",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "4-5 pieces",
+      "notes": "green parts only, thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tablespoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sichuan peppercorns",
+      "amount": "3-4 pieces",
+      "notes": "soaked in hot water for 5 minutes"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 pods"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "10g (about a handful)",
+      "notes": "trimmed and soaked in cold water"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "3 pieces",
+      "notes": "cut into 4-5 cm lengths"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "light soy sauce, low sodium if available"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix all ingredients in a large bowl.",
+    "Shape into patties and place on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes or until golden brown. Rotate tray halfway through cooking time.",
+    "Serve warm alongside steamed vegetables as a diabetic-friendly snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "duck_legs",
+    "light_chinese_dish"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 7,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "bitter-crumbly-light-chinese-duck-leg-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-light-chinese-duck-leg-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:09:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "duck legs",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "duck",
+    "descriptor": "Bitter Crumbly Light",
+    "dishForm": "Crumble"
+  }
+}
