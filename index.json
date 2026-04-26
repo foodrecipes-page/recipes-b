@@ -1105,6 +1105,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crunchy-apple-salad",
+    "title": "Buttery Crunchy Apple Salad",
+    "tags": [
+      "apple",
+      "fermented",
+      "crunchy",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 5,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crunchy-farfalle-stir-fry",
     "title": "Buttery Crunchy Farfalle Stir-fry",
     "tags": [

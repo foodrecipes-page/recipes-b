@@ -1,0 +1,77 @@
+{
+  "title": "Buttery Crunchy Apple Salad",
+  "description": "A monsoon-friendly dish inspired by Tunisian cuisine featuring a unique blend of apple cider vinegar and fermented elements, with a buttery crunch that's egg-free friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grated apples",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fermented apple cubes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": "To enhance flavors"
+    }
+  ],
+  "instructions": [
+    "Combine grated apples, apple cider vinegar, and salt in a bowl. Mix well.",
+    "Add fermented apple cubes and butter flakes to the mixture.",
+    "Gently toss the salad with fresh cilantro leaves just before serving for best texture and flavor.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "apple",
+    "fermented",
+    "crunchy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "buttery-crunchy-apple-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-apple-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:17:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Apple",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Salad"
+  }
+}
