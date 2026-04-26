@@ -1,0 +1,76 @@
+{
+  "title": "Buttery Crumble Marshmallow",
+  "description": "This quick-fix Jamaican dish features miniature marshmallows coated in a butterscotch glaze and topped with a crispy crumble for an indulgent yet low-calorie dessert.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "miniature marshmallows",
+      "amount": "24 pcs"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup (solidified)"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "glucose syrup or honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Microwave the unsalted butter and glucose syrup/honey mixture for about 30 seconds until melted.",
+    "Add vanilla extract and stir well to combine. Remove from heat and allow it to cool slightly.",
+    "Dip each marshmallow into the cooled glaze, ensuring they are evenly coated.",
+    "Sprinkle coconut flakes over a baking sheet lined with parchment paper.",
+    "Arrange the crumbed marshmallows on top of the coconut flakes in an even layer.",
+    "Preheat your oven to 150°C (300°F) and bake for about 20 minutes or until golden brown. Keep an eye on them to prevent burning.",
+    "Let them cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "crisp",
+    "quick-fix",
+    "jamaican",
+    "mini-marshmallow"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "buttery-crumble-marshmallow",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumble-marshmallow",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:45:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "marshmallow",
+    "descriptor": "Buttery",
+    "dishForm": "Crumble"
+  }
+}
