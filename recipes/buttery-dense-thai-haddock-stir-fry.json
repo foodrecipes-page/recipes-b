@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Dense Thai Haddock Stir-fry",
+  "description": "A monsoon-inspired dish featuring crispy haddock in a rich and buttery sauce, made with fresh herbs and spices for an authentic Thai taste.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "12 ounces haddock fillets",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": "",
+      "notes": "for coating the fish"
+    },
+    {
+      "name": "3 tablespoons soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon fish sauce",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup lime juice",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon red curry paste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Whisk together soy sauce, garlic, fish sauce, and lime juice in a bowl.",
+    "Coat haddock fillets with flour before marinating them for at least 20 minutes.",
+    "Season both sides of the coated fillets with red curry paste. Place them on a baking sheet lined with parchment paper.",
+    "Bake for about 15-20 minutes or until fish is cooked through and golden brown.",
+    "While fish bakes, prepare the sauce by heating remaining sauce ingredients in a small pot over medium heat until slightly thickened.",
+    "Drain and serve haddock fillets hot with sauce spooned over them. Garnish with cilantro.",
+    "Optional: Serve with steamed jasmine rice for complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-dish",
+    "monsoon-recipe",
+    "haddock-stir-fry",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "buttery-dense-thai-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-thai-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:51:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "haddock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Haddock",
+    "descriptor": "Buttery Dense",
+    "dishForm": "Stir-fry"
+  }
+}

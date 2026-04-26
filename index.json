@@ -836,6 +836,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-dense-thai-haddock-stir-fry",
+    "title": "Buttery Dense Thai Haddock Stir-fry",
+    "tags": [
+      "thai-dish",
+      "monsoon-recipe",
+      "haddock-stir-fry",
+      "kosher-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-earthy-beans",
     "title": "Buttery Earthy Beans",
     "tags": [
