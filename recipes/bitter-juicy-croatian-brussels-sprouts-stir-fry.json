@@ -1,0 +1,89 @@
+{
+  "title": "Bitter Juicy Croatian Brussels Sprouts Stir-fry",
+  "description": "A one-pot croatian dish featuring bitter and juicy brussels sprouts prepared in a nut-free-friendly way with just the right amount of spice for a quick and easy dinner.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh Brussels sprouts, halved",
+      "amount": "",
+      "notes": "Choose those that are slightly bitter for added depth of flavor"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Freshly grated nutmeg (optional)",
+      "amount": "",
+      "notes": "For added zest, but not necessary"
+    },
+    {
+      "name": "1 tsp paprika or other spices of choice (optional)",
+      "amount": "",
+      "notes": "To enhance the bitterness and juiciness"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to high heat.",
+    "Wash and dry Brussels sprouts, then cut them in half.",
+    "In a bowl, mix olive oil, minced garlic, lemon juice, salt, pepper, nutmeg (if using), and paprika (if using).",
+    "Add halved Brussels sprouts to the bowl with the seasoning mixture. Toss well until all brussels sprouts are evenly coated.",
+    "Pour the seasoned brussels sprouts into the preheated pressure cooker.",
+    "Close the lid and secure the valve to the sealing position. Cook on high for 15 minutes under pressure, then quick-release any remaining steam.",
+    "Taste test, adjust seasoning with more salt or lemon juice if needed before serving.",
+    "Serve hot as a side dish with grilled meats or as an appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-juicy",
+    "croatian-dish",
+    "pressure-cooked",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "bitter-juicy-croatian-brussels-sprouts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-croatian-brussels-sprouts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:59:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "pressure-cook",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "Bitter Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
