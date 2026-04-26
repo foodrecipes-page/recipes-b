@@ -1,0 +1,66 @@
+{
+  "title": "Bitter Creamy Feta Cheese Crumble",
+  "description": "A delicious date-night Argentinian dish featuring a bitter yet creamy feta cheese crumble that pairs well with crustaceans or any seafood.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Chop the feta cheese into small cubes.",
+    "In a mixing bowl, combine the chopped feta cheese and heavy cream. Mix well to ensure all pieces are evenly coated.",
+    "Add lemon juice and olive oil to the mixture. Stir gently until combined. The mixture should be thick but still spreadable.",
+    "Transfer the crumble to a serving plate or directly into your mouth as a snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "bitter",
+    "creamy",
+    "feta cheese"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "bitter-creamy-feta-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-feta-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:06:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Feta Cheese",
+    "descriptor": "Bitter Creamy",
+    "dishForm": "Crumble"
+  }
+}
