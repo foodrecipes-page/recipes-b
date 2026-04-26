@@ -1,0 +1,81 @@
+{
+  "title": "Bitter Crisp Croatian Vanilla Bean Stir-fry",
+  "description": "A midnight-craving Croatian dish featuring bitter flavors and whole30-friendly elements with the addition of vanilla extract for a unique twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vanilla Beans",
+      "amount": "1-2 pods"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Vegetables (e.g., bell peppers, zucchini)",
+      "amount": "2 medium pieces each"
+    },
+    {
+      "name": "Bitter Greens (e.g., Arugula, Radicchio)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or non-stick skillet over medium-high heat.",
+    "Add vanilla beans and scrape out seeds, add them along with the chopped garlic and onions. Saute for about 2-3 minutes until fragrant.",
+    "Add bitter greens and bell peppers/zucchini to the pan. Stir-fry until vegetables are tender but still crisp.",
+    "Fold in the remaining ingredients like arugula or radicchio towards the end of cooking time, allowing them to wilt slightly without getting mushy.",
+    "Season with salt to taste and serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vanilla",
+    "stir-fry",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "bitter-crisp-croatian-vanilla-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-croatian-vanilla-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:34:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "vanilla extract",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Vanilla Bean",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Stir-fry"
+  }
+}

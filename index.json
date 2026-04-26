@@ -377,6 +377,18 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crisp-croatian-vanilla-bean-stir-fry",
+    "title": "Bitter Crisp Croatian Vanilla Bean Stir-fry",
+    "tags": [
+      "vanilla",
+      "stir-fry",
+      "bitter"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crisp-moroccan-dates-salad",
     "title": "Bitter Crisp Moroccan Dates Salad",
     "tags": [
