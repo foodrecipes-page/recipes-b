@@ -256,6 +256,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-chewy-indulgent-ethiopian-dried-shrimp-stir-fry",
+    "title": "Bitter Chewy Indulgent Ethiopian Dried Shrimp Stir-fry",
+    "tags": [
+      "bitter",
+      "chewy",
+      "indulgent",
+      "ethiopian",
+      "stir-fry",
+      "dried-shrimp"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-chewy-mediterranean-date-pudding",
     "title": "Bitter Chewy Mediterranean Date Pudding",
     "tags": [

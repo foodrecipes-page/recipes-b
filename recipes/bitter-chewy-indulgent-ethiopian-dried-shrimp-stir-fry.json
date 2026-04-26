@@ -1,0 +1,66 @@
+{
+  "title": "Bitter Chewy Indulgent Ethiopian Dried Shrimp Stir-fry",
+  "description": "This dish combines bitter and chewy flavors from dried shrimp with a touch of indulgence for an authentic Ethiopian experience that's perfect as a snack or side dish.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup dried shrimps",
+      "amount": "",
+      "notes": "Soaked and drained"
+    },
+    {
+      "name": "2 tablespoons sesame oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a non-stick pan over medium-high heat.",
+    "Add the soaked and drained dried shrimps to the pan, stir-fry for about 5-7 minutes until they become chewy and slightly golden brown.",
+    "Season with salt to taste. Serve hot as is or with injera bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "chewy",
+    "indulgent",
+    "ethiopian",
+    "stir-fry",
+    "dried-shrimp"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 7,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "bitter-chewy-indulgent-ethiopian-dried-shrimp-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-indulgent-ethiopian-dried-shrimp-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:00:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried shrimp",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Dried Shrimp",
+    "descriptor": "Bitter Chewy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
