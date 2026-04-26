@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Flaky Rye Stir-fry",
+  "description": "This Mediterranean-inspired post-workout dish combines the nutty flavor of rye with a mediterranean-friendly stir-fry for a delicious and healthy meal.",
+  "cuisine": "Italian (Roman)",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup rye breadcrumbs",
+      "amount": "",
+      "notes": "ensure breadcrumbs are fully toasted"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "at room temperature"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup cherry tomatoes, halved",
+      "amount": ""
+    },
+    {
+      "name": "1 small zucchini, diced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toast the rye breadcrumbs in a dry skillet over medium heat for about 2-3 minutes until golden brown.",
+    "In a large bowl, mix the toasted breadcrumbs with minced garlic and unsalted butter. Stir well until evenly coated.",
+    "Toss the mixed vegetables (bell pepper, zucchini, cherry tomatoes) with olive oil and salt in another bowl. Season to taste.",
+    "Spread the breadcrumb mixture on a baking sheet lined with parchment paper. Spread it out evenly, creating a thin layer.",
+    "Evenly distribute the vegetable mixture over the top of the breadcrumb mixture. Bake for 20-25 minutes or until golden brown and crisp around the edges.",
+    "Remove from oven and let cool slightly before serving.",
+    "Optional garnish with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "flaky",
+    "post-workout",
+    "roman",
+    "stir-fry",
+    "rye"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "buttery-flaky-rye-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-flaky-rye-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:55:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "rye",
+    "diet": "mediterranean",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rye",
+    "descriptor": "Buttery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}

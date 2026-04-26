@@ -1010,6 +1010,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-flaky-rye-stir-fry",
+    "title": "Buttery Flaky Rye Stir-fry",
+    "tags": [
+      "buttery",
+      "flaky",
+      "post-workout",
+      "roman",
+      "stir-fry",
+      "rye"
+    ],
+    "cuisine": "Italian (Roman)",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-french-butter-flan",
     "title": "Buttery French Butter Flan",
     "tags": [
