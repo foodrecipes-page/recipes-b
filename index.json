@@ -231,6 +231,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-algerian-water-chestnut-stir-fry",
+    "title": "Bitter Algerian Water Chestnut Stir-fry",
+    "tags": [
+      "bitter",
+      "algerian",
+      "stir-fry",
+      "sour"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-argentinian-corn-crumble",
     "title": "Bitter Argentinian Corn Crumble",
     "tags": [

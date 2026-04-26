@@ -1,0 +1,77 @@
+{
+  "title": "Bitter Algerian Water Chestnut Stir-fry",
+  "description": "A light and sour vegan-friendly dish featuring bitter water chestnuts that can serve as a hangover cure.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Water chestnuts",
+      "amount": "1 cup",
+      "notes": "Soaked and peeled"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces",
+      "notes": "Peel and minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 pieces",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add water chestnuts, soy sauce, rice vinegar, garlic, and scallions to the pan.",
+    "Stir-fry until the water chestnuts are tender and fragrant, about 5-7 minutes.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "algerian",
+    "stir-fry",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 2
+  },
+  "slug": "bitter-algerian-water-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-algerian-water-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:45:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "water chestnut",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Water Chestnut",
+    "descriptor": "Bitter",
+    "dishForm": "Stir-fry"
+  }
+}
