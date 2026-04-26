@@ -1,0 +1,74 @@
+{
+  "title": "Buttery Crunchy Irish White Chocolate Chips Crumble",
+  "description": "This dessert features white chocolate chips and a crunchy crumble topping that's perfect for brunch or as a quick snack. It's sugar-free-friendly and ideal for those looking for a guilt-free treat.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "White chocolate chips",
+      "amount": "100g"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "50g"
+    },
+    {
+      "name": "Nutella (or similar sugar-free spread)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Pumpkin pie filling (optional for extra flavor)",
+      "amount": "1 cup",
+      "notes": "This can be omitted if you prefer a lighter dessert."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "In a bowl, mix the white chocolate chips with half of the Nutella and coconut flakes. Press this mixture into the bottom of a baking dish.",
+    "If using pumpkin pie filling, spread it evenly over the top of the crumble layer.",
+    "Mix the remaining Nutella with 1/2 cup of water until smooth. Pour this on top of the crumble layer.",
+    "Bake for 25-30 minutes or until golden brown and set to the touch.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "brunch",
+    "buttery",
+    "crunchy",
+    "irish",
+    "white-chocolate",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 30
+  },
+  "slug": "buttery-crunchy-irish-white-chocolate-chips-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-irish-white-chocolate-chips-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:32:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "white chocolate chips",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Crumble"
+  }
+}
