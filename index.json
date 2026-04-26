@@ -377,6 +377,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-algerian-mozzarella-stir-fry",
+    "title": "Bitter Crispy Algerian Mozzarella Stir-fry",
+    "tags": [
+      "bitter-algerian",
+      "stir-fry",
+      "mozzarella-balls",
+      "raw-friendly",
+      "crispy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crispy-irish-pistachio-grilled-dish",
     "title": "Bitter Crispy Irish Pistachio Grilled Dish",
     "tags": [

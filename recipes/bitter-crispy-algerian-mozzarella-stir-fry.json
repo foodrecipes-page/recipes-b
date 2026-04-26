@@ -1,0 +1,86 @@
+{
+  "title": "Bitter Crispy Algerian Mozzarella Stir-fry",
+  "description": "This one-pot algerian dish features bitter-tasting mozzarella balls cooked until crispy and ready to eat raw.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella Balls",
+      "amount": "150g"
+    },
+    {
+      "name": "Red Peppers, Sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "Onions, Finely Chopped",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Garlic Cloves, Minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add finely chopped onions and minced garlic, sautéing for about 5 minutes until softened.",
+    "Add sliced red peppers to the pan with the onion mixture. Cook for an additional 3-4 minutes.",
+    "Increase heat to high, add mozzarella balls directly into the hot pan, tossing gently so they do not stick.",
+    "Drizzle balsamic vinegar over the top of the mozzarella and toss again until coated evenly.",
+    "Season with salt and pepper as desired.",
+    "Serve immediately, garnished with fresh herbs if available."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-algerian",
+    "stir-fry",
+    "mozzarella-balls",
+    "raw-friendly",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 17,
+    "carbs": 39,
+    "fat": 18
+  },
+  "slug": "bitter-crispy-algerian-mozzarella-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-algerian-mozzarella-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:18:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
