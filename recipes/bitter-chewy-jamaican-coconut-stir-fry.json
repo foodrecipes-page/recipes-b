@@ -1,0 +1,81 @@
+{
+  "title": "Bitter Chewy Jamaican Coconut Stir-fry",
+  "description": "This paleo-friendly bitter and chewy jamaican dish features a unique blend of sunflower oil and sous-vide cooking techniques to create a hangover-cure-worthy meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bitter almonds",
+      "amount": "1/4 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "paleo-friendly coconut sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar-free ketchup",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Place bitter almonds in a sous-vide bag, then seal and vacuum-seal to prevent air from entering.",
+    "Cook the sealed almonds at 275°F for 1 hour using a sous-vide machine or water bath.",
+    "Remove the nuts from the bag once done, let them cool slightly, then chop into small pieces.",
+    "In a large skillet, heat sunflower oil over medium-high heat. Add chopped bitter almonds and cook until golden brown, about 2 minutes.",
+    "Pour in coconut milk and sugar-free ketchup. Bring to a simmer, stirring constantly to avoid burning the bottom of the pan.",
+    "Reduce heat to low, add paleo-friendly coconut sugar and stir well to combine with nuts and liquid. Cook for an additional minute until the mixture thickens slightly.",
+    "Garnish with unsweetened shredded coconut before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "jamaican",
+    "stir-fry",
+    "coconut",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 13
+  },
+  "slug": "bitter-chewy-jamaican-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-jamaican-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:01:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "sunflower oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Coconut",
+    "descriptor": "Bitter Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
