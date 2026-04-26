@@ -219,6 +219,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-argentinian-corn-crumble",
+    "title": "Bitter Argentinian Corn Crumble",
+    "tags": [
+      "argentinian-dish",
+      "bitter-corn-crumble",
+      "high-protein-friendly",
+      "low-carb-diet"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-beef-brisket-with-caramelized-vegetables",
     "title": "Bitter Beef Brisket with Caramelized Vegetables",
     "tags": [
