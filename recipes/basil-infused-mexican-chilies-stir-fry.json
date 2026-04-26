@@ -1,0 +1,100 @@
+{
+  "title": "Basil Infused Mexican Chilies Stir-fry",
+  "description": "An earthy and tender vegetarian-friendly dish featuring basil-infused chilies, seasoned with spices for an adventurous taste of Mexico. Enjoy it as a vibrant appetizer or light meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "jalapeno peppers",
+      "amount": "10 pcs"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cayenne pepper powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and finely chop the jalapeno peppers.",
+    "Finely chop the onion, and crush the garlic cloves.",
+    "In a large bowl, mix the chopped jalapenos with salt and grind them lightly into a paste.",
+    "Sauté finely chopped onions in oil until translucent. Add crushed garlic and cook for another minute.",
+    "Stir in tomato paste and let it simmer for 2 minutes, stirring constantly to prevent sticking.",
+    "Fold in the basil leaves (chopped), mix well, then add the ground cumin, coriander seeds, and cayenne pepper powder. Mix well.",
+    "Slowly pour in lime juice while stirring continuously until everything is nicely combined with a thick consistency.",
+    "Transfer to an air fryer basket for 10-15 minutes at 230°C or until golden brown on all sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "balsamic-infused",
+    "adventurous-mexican",
+    "vibrant-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "basil-infused-mexican-chilies-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/basil-infused-mexican-chilies-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:02:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "basil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chilies",
+    "descriptor": "Basil Infused",
+    "dishForm": "Stir-fry"
+  }
+}

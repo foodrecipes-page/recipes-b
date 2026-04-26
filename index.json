@@ -108,6 +108,18 @@
     "shard": "b"
   },
   {
+    "slug": "basil-infused-mexican-chilies-stir-fry",
+    "title": "Basil Infused Mexican Chilies Stir-fry",
+    "tags": [
+      "balsamic-infused",
+      "adventurous-mexican",
+      "vibrant-vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "bean-blossom-light-poached-sprout-salad",
     "title": "Bean Blossom Light Poached Sprout Salad",
     "tags": [
