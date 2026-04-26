@@ -1,0 +1,92 @@
+{
+  "title": "Buttery Chewy Malaysian Potato Starch Pancake",
+  "description": "This gluten-free dish combines the chewiness of potato starch with a buttery flavor for a delightful brunch option that fits the Malaysian culinary style.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "cocoa powder (optional)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut oil or vegan margarine",
+      "amount": "6 tablespoons, melted"
+    },
+    {
+      "name": "milk (dairy or plant-based)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "unsalted butter, for brushing (optional)",
+      "notes": "for a touch of indulgence"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine potato starch and almond flour. If using cocoa powder, add it now.",
+    "Add melted coconut oil, milk, baking powder, vanilla extract, and salt to the dry ingredients. Stir until well combined.",
+    "Fold in any additional ingredients like chocolate chips or nuts for added flavor if desired.",
+    "Using a cookie scoop or spoon, drop batter onto preheated skillet lined with parchment paper or cooking spray.",
+    "Cook pancakes on medium heat (350°F) for about 2-3 minutes per side until golden brown.",
+    "Brush lightly with unsalted butter during the last minute of cooking if desired. Place cooked pancakes on a plate and serve warm.",
+    "Serve with your favorite spread such as honey or coconut cream for an extra indulgent touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "malaysian",
+    "gluten-free",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "buttery-chewy-malaysian-potato-starch-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chewy-malaysian-potato-starch-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:38:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "potato starch",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Potato Starch",
+    "descriptor": "Buttery Chewy",
+    "dishForm": "Pancake"
+  }
+}
