@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Crunchy Indian Shrimp Wrap",
+  "description": "A jumbo shrimp dish with a buttery and crunchy texture, perfect for brunch or any casual mealtime.",
+  "cuisine": "Indian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "12",
+      "notes": "Make sure to peel and devein the shrimp"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped Fresh Coriander (Cilantro)",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan and add garlic paste. Sauté until the garlic paste turns golden brown.",
+    "Add turmeric powder, cumin powder, and salt to the pan. Mix well for about 30 seconds.",
+    "Fold shrimp into the spice mixture and cook for another minute or until all pieces are coated evenly with spices.",
+    "Drizzle butter over the cooked shrimp and mix gently. Serve hot with garnished fresh coriander."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "crunchy",
+    "indian",
+    "shrimp",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "buttery-crunchy-indian-shrimp-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-indian-shrimp-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:19:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Wrap"
+  }
+}
