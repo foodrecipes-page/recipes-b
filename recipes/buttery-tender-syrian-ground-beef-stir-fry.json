@@ -1,0 +1,85 @@
+{
+  "title": "Buttery Tender Syrian Ground Beef Stir-fry",
+  "description": "This nut-free-friendly dish features tender ground beef that is rich in flavor and ideal for hangover cures.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add ground beef and cook until browned, breaking it into small pieces as it cooks.",
+    "Stir in finely chopped onions and minced garlic, cooking until they are translucent.",
+    "Sprinkle turmeric powder, salt, and black pepper over the mixture to taste. Stir well.",
+    "Squeeze a few drops of lemon juice for added freshness.",
+    "Garnish with thyme leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "tender",
+    "syrian",
+    "ground-beef-stir-fry",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "buttery-tender-syrian-ground-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-tender-syrian-ground-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:34:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "ground beef",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Buttery Tender",
+    "dishForm": "Stir-fry"
+  }
+}
