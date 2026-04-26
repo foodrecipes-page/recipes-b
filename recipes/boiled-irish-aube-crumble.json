@@ -1,0 +1,70 @@
+{
+  "title": "Boiled Irish Aubergine Crumble",
+  "description": "A fresh and chewy dish featuring baby aubergines boiled until tender, perfect for those sick days or light meals.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "kosher-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby Aubergine",
+      "amount": "2 medium pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "A few pinches"
+    },
+    {
+      "name": "Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Slice the baby aubergines lengthwise.",
+    "Drizzle olive oil over them and season with salt and pepper.",
+    "Place in a pot, cover with water, and bring to a boil.",
+    "Reduce heat to low, simmer for about 20-25 minutes until tender.",
+    "Gently remove from the heat and let cool slightly before using as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "aubergine",
+    "irish",
+    "baby-aubergine",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 1,
+    "carbs": 9.8,
+    "fat": 3
+  },
+  "slug": "boiled-irish-aube-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boiled-irish-aube-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:17:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "baby aubergine",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "aubergine",
+    "descriptor": "Boiled",
+    "dishForm": "Stir-fry"
+  }
+}

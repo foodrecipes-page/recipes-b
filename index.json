@@ -887,6 +887,19 @@
     "shard": "b"
   },
   {
+    "slug": "boiled-irish-aube-crumble",
+    "title": "Boiled Irish Aubergine Crumble",
+    "tags": [
+      "aubergine",
+      "irish",
+      "baby-aubergine",
+      "kosher-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-peruvian-fish-stir-fry",
     "title": "Boiled Peruvian Fish Stir-fry",
     "tags": [
