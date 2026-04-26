@@ -1,0 +1,97 @@
+{
+  "title": "Buttery Dense Romantic Tunisian Tomato Stir-fry",
+  "description": "This keto-friendly dish features tinned tomatoes and is perfect for a romantic dinner. It's baked to perfection, ensuring it's both buttery and dense.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tinned tomatoes",
+      "amount": "400g",
+      "notes": "Drained and roughly chopped"
+    },
+    {
+      "name": "ground beef or chicken",
+      "amount": "150g",
+      "notes": "Optional, for a heartier meal"
+    },
+    {
+      "name": "unsweetened coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "For caramelizing the onions"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp",
+      "notes": "For richness and flavor"
+    },
+    {
+      "name": "pitted prunes or apricots",
+      "amount": "20g",
+      "notes": "For a touch of sweetness, optional but recommended"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix the onions with finely chopped garlic and unsalted butter in a bowl. Sauté until translucent, about 5 minutes.",
+    "Add the ground meat if using, breaking it into small pieces as you stir-fry. Cook for another 2-3 minutes to seal the meat's juices.",
+    "Drain any excess liquid from the tomatoes, then add them along with prunes (if using) and coconut sugar to the onion-garlic-butter mixture in the bowl. Stir well and let it cook for an additional 5 minutes.",
+    "Transfer the mix into a greased baking dish. Sprinkle with kosher salt if desired.",
+    "Bake for about 20-25 minutes or until golden brown on top and bubbly underneath. Serve warm.",
+    "Enjoy your luxurious, buttery tomato dish that’s perfect for any romantic dinner setting."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "dense",
+    "romantic",
+    "tunisian",
+    "tomato",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 26
+  },
+  "slug": "buttery-dense-romantic-tunisian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-romantic-tunisian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:24:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Buttery Dense Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
