@@ -1,0 +1,86 @@
+{
+  "title": "Blanchy Mexican Steak Stir-fry",
+  "description": "A sweet and creamy brunch-mood dish featuring lean minced steak, perfectly blanched for a quick, easy meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 lb flank steak",
+      "amount": "250g",
+      "notes": "Lean minced for the stir-fry"
+    },
+    {
+      "name": "6-8 mushrooms",
+      "amount": "medium-sized",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "240ml",
+      "notes": "Use room temperature to facilitate whisking"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "3-4",
+      "notes": "Chopped finely for flavoring"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "one",
+      "notes": "For a citrusy twist on sweetness and creaminess"
+    },
+    {
+      "name": "8 eggs",
+      "amount": "full carton",
+      "notes": "Beaten lightly to mix with the stir-fry"
+    }
+  ],
+  "instructions": [
+    "Blanch the flank steak in boiling water for about 1 minute, then immediately rinse under cold water.",
+    "In a pan, add olive oil and heat until hot. Add minced garlic and cook until fragrant but not browned.",
+    "Add thinly sliced mushrooms to the pan and sauté until they start to soften.",
+    "Gently fold in the blanched steak pieces into the mushrooms, stirring them around to coat.",
+    "Pour in heavy cream and gently simmer for about 2 minutes until it starts to thicken slightly. Add lime juice to taste.",
+    "Beat the eggs lightly and pour over the creamy mixture in the pan. Stir quickly until just combined, avoiding scrambling too much.",
+    "Serve immediately with a side of tortillas or warm cornbread for an authentic Mexican brunch vibe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "blanched-steak",
+    "mexican-stir-fry",
+    "sweet-creamy",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "blanchy-mexican-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blanchy-mexican-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:47:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "lean minced steak",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Steak",
+    "descriptor": "Blanchy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -743,6 +743,19 @@
     "shard": "b"
   },
   {
+    "slug": "blanchy-mexican-steak-stir-fry",
+    "title": "Blanchy Mexican Steak Stir-fry",
+    "tags": [
+      "blanched-steak",
+      "mexican-stir-fry",
+      "sweet-creamy",
+      "dash-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "blissful-maple-blend",
     "title": "Blissful Maple Blend",
     "tags": [
