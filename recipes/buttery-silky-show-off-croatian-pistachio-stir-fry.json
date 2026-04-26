@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Silky Show-off Croatian Pistachio Stir-fry",
+  "description": "A raw-friendly dish showcasing the creamy texture and nutty flavor of pistachios in a buttery and silky sauce over tender vegetables, designed to impress with its sophisticated blend.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pistachio",
+      "amount": "1/4 cup",
+      "notes": "Additionally chopped pistachios for garnish"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell Pepper, Sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Clove, Minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tbsp"
+    },
+    {
+      "name": "Pistachio Paste",
+      "amount": "1 tsp (optional for extra richness)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt and Pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add sliced onions, minced garlic, and chopped bell peppers. Cook until softened.",
+    "Pour in chicken broth or water, reduce heat to medium, add pistachio paste if using, stir well and let simmer for 2-3 minutes.",
+    "Stir in heavy cream, butter, and salt/pepper to taste. Simmer for another minute.",
+    "Add broccoli florets, gently toss until heated through. Adjust seasoning as needed.",
+    "Serve hot with a garnish of additional chopped pistachios on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "silky",
+    "show-off",
+    "croatian",
+    "pistachio",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "buttery-silky-show-off-croatian-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-show-off-croatian-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:04:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "pistachio",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pistachio",
+    "descriptor": "buttery silky show-off",
+    "dishForm": "Stir-fry"
+  }
+}
