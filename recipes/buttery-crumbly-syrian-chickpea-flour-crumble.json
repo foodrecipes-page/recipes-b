@@ -1,0 +1,75 @@
+{
+  "title": "Buttery Crumbly Syrian Chickpea Flour Crumble",
+  "description": "A hangover-cure dish featuring chickpea flour that's perfect for a quick snack or breakfast to get you back on your feet.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup chickpea flour",
+      "amount": "",
+      "notes": "Make sure it's freshly ground for best texture."
+    },
+    {
+      "name": "1/4 cup butter or coconut oil",
+      "amount": "melted"
+    },
+    {
+      "name": "2 tablespoons finely grated orange peel",
+      "amount": ""
+    },
+    {
+      "name": "pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Dash of cayenne pepper (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine chickpea flour and melted butter.",
+    "Stir in finely grated orange peel and a pinch of salt. Mix well to form a crumbly dough.",
+    "Add a dash of cayenne pepper if desired for extra kick.",
+    "Divide the mixture into small balls or use your hands to shape them into discs.",
+    "Gently press each disc onto a non-stick skillet over medium heat.",
+    "Cook until golden brown and crisp, turning occasionally.",
+    "Serve warm as a snack or a quick breakfast accompaniment."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "chickpea-flour",
+    "orangepeel"
+  ],
+  "nutrition": {
+    "calories": 274,
+    "protein": 8,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "buttery-crumbly-syrian-chickpea-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-syrian-chickpea-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:54:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "toast",
+    "primaryIngredient": "chickpea flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chickpea flour",
+    "descriptor": "Buttery",
+    "dishForm": "Crumble"
+  }
+}
