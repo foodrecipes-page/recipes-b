@@ -1,0 +1,75 @@
+{
+  "title": "Bittersilkyromantic Casabe Stir-fry",
+  "description": "A sophisticated twist on a traditional Mexican dish featuring casabe bread, perfectly combining bitterness and silken smoothness for an unforgettable culinary experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Casabe Bread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Cure Meat (optional)",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "If using cure meat, slice it thinly.",
+    "Slice the casabe bread into thin slices and lightly toast them on a pan without any oil for about 2 minutes each side. Let cool slightly.",
+    "Finely chop garlic and red onion.",
+    "In a wok or large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add sliced casabe bread to the skillet and cook until golden brown on both sides (about 5 minutes total).",
+    "Add chopped garlic and sauté for about 30 seconds until fragrant.",
+    "If using cure meat, add it to the skillet now and stir-fry with garlic for another minute. If not using, skip this step.",
+    "Stir in finely chopped red onion and cook for an additional 2-3 minutes until softened slightly.",
+    "Season with salt and pepper as desired.",
+    "Serve hot alongside a side of your choice or as a standalone dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bittersilkyromantic",
+    "mexican",
+    "casabe",
+    "plantbasedfriendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "bittersilkyromantic-casabe-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bittersilkyromantic-casabe-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:10:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "casabe",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Casabe",
+    "descriptor": "Bitter Silky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
