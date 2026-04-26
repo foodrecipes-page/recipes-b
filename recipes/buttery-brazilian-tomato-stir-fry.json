@@ -1,0 +1,90 @@
+{
+  "title": "Buttery Brazilian Tomato Stir-fry",
+  "description": "A romantic and buttery dish featuring a low-sodium tomato puree, perfect for adding to your repertoire of simple yet flavorful meals.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "bell pepper slices",
+      "amount": "8 oz, julienned"
+    },
+    {
+      "name": "onion rings",
+      "amount": "3 pieces, halved"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "white pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and cook until fragrant, about 1 minute.",
+    "Deglaze the pan with tomato puree. Stir occasionally for 2 minutes.",
+    "Gradually add bell pepper slices and onion rings. Cook, stirring frequently, until vegetables start to soften, about 4-5 minutes.",
+    "Add soy sauce, sugar, salt, and white pepper. Stir until well combined and the mixture thickens slightly, about 1 minute more.",
+    "Taste and adjust seasoning as needed. Serve hot with a sprinkle of chopped fresh parsley on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery-brazilian-stir-fry",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "buttery-brazilian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-brazilian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:44:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "tomato puree",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}

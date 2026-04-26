@@ -822,6 +822,17 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-brazilian-tomato-stir-fry",
+    "title": "Buttery Brazilian Tomato Stir-fry",
+    "tags": [
+      "buttery-brazilian-stir-fry",
+      "low-sodium-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-buttery-ukrainian-yogurt-stir-fry",
     "title": "Buttery Buttery Ukrainian Yogurt Stir-fry",
     "tags": [
