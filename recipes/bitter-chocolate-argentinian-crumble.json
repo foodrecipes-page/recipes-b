@@ -1,0 +1,81 @@
+{
+  "title": "Bitter Chocolate Argentinian Crumble",
+  "description": "A hearty and chewy crumble made with bitter chocolate, providing a unique flavor profile that can serve as a hangover cure while being high-protein-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bitter chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "honey or agave syrup",
+      "amount": "30ml"
+    },
+    {
+      "name": "brent cheese",
+      "amount": "50g",
+      "notes": "a high-protein cheese used in Argentinian cuisine"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Melt the butter and chocolate together over low heat.",
+    "In a separate bowl, mix together the flour and honey/syrup until it forms a crumbly dough.",
+    "Add the melted chocolate mixture to the flour crumble and knead briefly until combined.",
+    "Press the mixture into a dish-lined baking dish or onto a sheet pan lined with parchment paper.",
+    "Bake at 180°C (350°F) for about 20 minutes, until golden brown and crispy on top.",
+    "Reduce heat to 160°C (320°F) and bake for an additional 10 minutes or until the edges are crisp.",
+    "Remove from oven and let cool slightly before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-chocolate",
+    "argentinian-crumb",
+    "hangover-cure",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 31,
+    "carbs": 45,
+    "fat": 27
+  },
+  "slug": "bitter-chocolate-argentinian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chocolate-argentinian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:30:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "cocoa",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chocolate",
+    "descriptor": "bitter",
+    "dishForm": "Crumble"
+  }
+}
