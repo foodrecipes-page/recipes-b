@@ -694,6 +694,18 @@
     "shard": "b"
   },
   {
+    "slug": "boiled-peruvian-fish-stir-fry",
+    "title": "Boiled Peruvian Fish Stir-fry",
+    "tags": [
+      "peruvian-fish-stir-fry",
+      "pescatarian-friendly",
+      "one-pot-dish"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-semolina-soup",
     "title": "Boiled Semolina Soup",
     "tags": [
