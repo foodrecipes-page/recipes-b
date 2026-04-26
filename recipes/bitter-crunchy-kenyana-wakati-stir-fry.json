@@ -1,0 +1,77 @@
+{
+  "title": "Bitter Crunchy Kenyana Wakati Stir-fry",
+  "description": "A nut-free-friendly stir-fry that combines the bitterness of dried red chillies with a crunchy texture to potentially aid in hangover recovery.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup kale",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 tbsp dried red chillies",
+      "amount": "",
+      "notes": "Soaked in hot water for 30 minutes to soften"
+    },
+    {
+      "name": "1/4 cup soy sauce (or tamari)",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tbsp sesame oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Saute chopped onion and minced garlic in a pan until soft.",
+    "Add soaked dried red chillies and cook for about 2 minutes, stirring frequently to prevent burning.",
+    "Stir in soy sauce and kale. Cook together until the kale is wilted but still slightly crunchy.",
+    "Drizzle with sesame oil just before serving to enhance flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "kenyan",
+    "hangover"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 2,
+    "fat": 3
+  },
+  "slug": "bitter-crunchy-kenyana-wakati-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-kenyana-wakati-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:15:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "dried red chillies",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyana",
+    "mainIngredient": "Wakati",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
