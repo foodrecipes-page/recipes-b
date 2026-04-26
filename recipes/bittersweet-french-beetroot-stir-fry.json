@@ -1,0 +1,74 @@
+{
+  "title": "Bittersweet French Beetroot Stir-fry",
+  "description": "A one-pot, low-fat-friendly French dish featuring bitter, dense beetroot enhanced with powdered sugar and a sweet marinade for added depth of flavor.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "1 medium-sized beetroot",
+      "notes": "ensure they are bitter and dense"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "2 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Marinade",
+      "amount": "2 tsp lemon juice, 1 tsp balsamic vinegar, salt and pepper to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "1-2 tbsp",
+      "notes": "such as olive oil or sesame oil"
+    }
+  ],
+  "instructions": [
+    "Wash the beetroot thoroughly.",
+    "Peel and grate the beets, ensuring all pieces are similar in size for even cooking.",
+    "Mix powdered sugar into a marinade of lemon juice, balsamic vinegar, salt, and pepper.",
+    "Heat oil in a pan over medium heat. Add grated beets and cook until translucent.",
+    "Add the marinade to the pan, stir-frying gently until the liquid evaporates and the beets are coated with sweetness.",
+    "Serve hot as a side dish or garnish with fresh herbs for an extra touch of flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot-stir-fry",
+    "low-fat-friendly",
+    "powdered-sugar-beets"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "bittersweet-french-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bittersweet-french-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:12:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "powdered sugar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beetroot",
+    "descriptor": "Bittersweet",
+    "dishForm": "Stir-fry"
+  }
+}
