@@ -1,0 +1,84 @@
+{
+  "title": "Bitter Crunchy Festive Ethiopian Sage Stir-fry",
+  "description": "This Mediterranean-inspired dish marries bitter greens with crunchy elements for a festive twist on traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian, Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 bunch of kale",
+      "amount": "chopped"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "juiced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "3 tablespoons chopped fresh sage",
+      "notes": "can substitute with dried if fresh unavailable"
+    },
+    {
+      "name": "Salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "2 tablespoons balsamic vinegar",
+      "notes": "optional, for a tangy touch"
+    }
+  ],
+  "instructions": [
+    "Wash and chop kale into bite-sized pieces. Place in a large bowl.",
+    "Juice one lemon and add to the chopped kale with minced garlic, olive oil, salt, pepper, and balsamic vinegar (if using). Mix well to coat all kale evenly.",
+    "Heat 2 tablespoons of oil in a wok or large skillet over medium-high heat. Add sage leaves and cook for about 30 seconds until fragrant but not browned.",
+    "Add the marinated kale into the hot pan, tossing gently to combine with the aromatic sage leaves. Cook for another minute until kale is just wilted but still has a crunch.",
+    "Serve immediately while fresh and crunchy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "festive",
+    "ethiopian",
+    "sage",
+    "marinate"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "bitter-crunchy-festive-ethiopian-sage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-festive-ethiopian-sage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:36:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "sage",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Sage",
+    "descriptor": "Bitter Crunchy Festive",
+    "dishForm": "Stir-fry"
+  }
+}
