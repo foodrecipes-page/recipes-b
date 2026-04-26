@@ -866,6 +866,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-indian-dates-stir-fry",
+    "title": "Buttery Indian Dates Stir-fry",
+    "tags": [
+      "dates",
+      "buttery",
+      "sauteed"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 10,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-oat-babadoos",
     "title": "Buttery OatBabadoos",
     "tags": [
