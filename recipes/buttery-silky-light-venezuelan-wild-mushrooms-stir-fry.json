@@ -1,0 +1,92 @@
+{
+  "title": "Buttery Silky Light Venezuelan Wild Mushrooms Stir-fry",
+  "description": "This buttery and silky dish features wild mushrooms that are caramelized for a touch of sweetness in a light Venezuelan-inspired meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "moderate-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unprocessed salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh garlic cloves",
+      "amount": "4-6 finely minced"
+    },
+    {
+      "name": "red bell pepper strips",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Season wild mushrooms with unprocessed salt.",
+    "In a large skillet, heat olive oil over medium-high heat. Add sliced mushrooms and garlic. Sauté for about 5 minutes or until mushrooms begin to release their moisture.",
+    "Add red bell pepper strips and cook for another minute until peppers are slightly softened.",
+    "Toss the mixture with paprika and unsalted butter. Cook for an additional 2-3 minutes, stirring frequently.",
+    "Pour in heavy cream. Reduce heat to medium-low and let simmer gently until sauce thickens slightly, about 5 more minutes.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "silky",
+    "light",
+    "wild-mushrooms",
+    "venezuelan",
+    "stir-fry",
+    "caramelized",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "buttery-silky-light-venezuelan-wild-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-light-venezuelan-wild-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:04:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Wild Mushrooms",
+    "descriptor": "Buttery Silky Light",
+    "dishForm": "Stir-fry"
+  }
+}
