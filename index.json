@@ -312,6 +312,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-gooey-lazy-sunday-cake",
+    "title": "Bitter Gooey Lazy-Sunday Cake",
+    "tags": [
+      "lazy-sunday",
+      "bitter",
+      "gooey",
+      "egyptian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-joy-moroccan-reviver",
     "title": "Bitter Joy Moroccan Reviver",
     "tags": [

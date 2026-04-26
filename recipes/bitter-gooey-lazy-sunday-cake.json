@@ -1,0 +1,91 @@
+{
+  "title": "Bitter Gooey Lazy-Sunday Cake",
+  "description": "This low-carb-friendly dessert features a blend of bitter flavors and is best enjoyed on a lazy Sunday with family.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "custard powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3, beaten"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "4 oz (115g)"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "6 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bitter chocolate shavings",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a loaf pan.",
+    "In a mixing bowl, combine custard powder and cocoa powder. Add almond flour, vanilla extract, and beaten egg yolks. Stir until well combined.",
+    "Add coconut oil and unsweetened almond milk. Mix until smooth and no lumps remain.",
+    "Pour mixture into the prepared loaf pan. Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
+    "While cake bakes, whip heavy cream to stiff peaks.",
+    "Once baked, let cool slightly before slicing and serving. Optionally sprinkle with bitter chocolate shavings.",
+    "Serve warm with your favorite ice cream for an extra indulgence."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "bitter",
+    "gooey",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 3.7,
+    "carbs": 5.1,
+    "fat": 20.4
+  },
+  "slug": "bitter-gooey-lazy-sunday-cake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-gooey-lazy-sunday-cake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:08:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "custard powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "custard powder",
+    "descriptor": "bitter gooey lazy-sunday",
+    "dishForm": "cake"
+  }
+}
