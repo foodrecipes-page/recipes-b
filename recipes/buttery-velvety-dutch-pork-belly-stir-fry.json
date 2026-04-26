@@ -1,0 +1,97 @@
+{
+  "title": "Buttery Velvety Dutch Pork Belly Stir-fry",
+  "description": "A quick-fix dutch dish featuring gluten-free pork belly slices in a velvety sauce, perfect for a side or light meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly Slices",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Gluten-Free Soya Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large, cut into thin strips"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "3, diced"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "4-5, fresh or dried"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season pork belly with salt and pepper.",
+    "Heat oil in a large pan over medium heat, add garlic and onion; sauté for about 2 minutes or until fragrant.",
+    "Add carrots and celery, cook for another 4-5 minutes.",
+    "Fold in pork slices, thyme sprigs, paprika, salt, and pepper. Cook for an additional minute to ensure they are well-coated with seasonings.",
+    "Transfer mixture to a baking dish. Pour soya sauce over the top of the meat evenly.",
+    "Bake in preheated oven for 30 minutes or until pork is tender and coated in a velvety sauce.",
+    "Serve hot as an accompaniment to your main meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "pork belly",
+    "stir-fry",
+    "velvety",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "buttery-velvety-dutch-pork-belly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-velvety-dutch-pork-belly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:03:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "pork belly slices",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork belly",
+    "descriptor": "Buttery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
