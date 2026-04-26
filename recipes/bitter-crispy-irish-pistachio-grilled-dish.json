@@ -1,0 +1,78 @@
+{
+  "title": "Bitter Crispy Irish Pistachio Grilled Dish",
+  "description": "This show-off dish combines bitter flavors with a crispy texture and features unsalted pistachios for a low-carb-friendly and gourmet twist on traditional grilled dishes.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat. Lightly brush the pistachios with olive oil.",
+    "Combine salt, lemon juice, garlic powder, and unsweetened cocoa powder in a small bowl. Mix well until all ingredients are incorporated.",
+    "Place the pistachio on the preheated grill for about 2-3 minutes on each side, or until slightly charred and crispy. Watch carefully to avoid burning.",
+    "While grilling, whisk together the salt mixture into a smooth paste with a fork.",
+    "Once the pistachios are done grilling, spread them evenly over a plate. Sprinkle the salt mixture over the top of the pistachios. Allow it to sit for 1-2 minutes so that the flavors meld together.",
+    "Serve immediately as a side dish or use as an appetizer with a dip like hummus."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crispy",
+    "irish",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 1
+  },
+  "slug": "bitter-crispy-irish-pistachio-grilled-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-irish-pistachio-grilled-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:43:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Grilled Dish"
+  }
+}

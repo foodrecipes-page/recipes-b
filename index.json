@@ -365,6 +365,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-irish-pistachio-grilled-dish",
+    "title": "Bitter Crispy Irish Pistachio Grilled Dish",
+    "tags": [
+      "bitter",
+      "crispy",
+      "irish",
+      "pistachio"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 12,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-kenyana-wakati-stir-fry",
     "title": "Bitter Crunchy Kenyana Wakati Stir-fry",
     "tags": [
