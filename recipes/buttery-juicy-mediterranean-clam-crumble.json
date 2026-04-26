@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Juicy Mediterranean Clam Crumble",
+  "description": "This paleo-friendly recipe combines tender clams with a rich almond crumble for a light and buttery mediterranean dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Clams",
+      "amount": "1 lb (500g)"
+    },
+    {
+      "name": "Almonds",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Rinse clams, remove any beards, and scrub shells under cold water.",
+    "In a skillet, toast almonds over medium heat until golden brown. Let cool and roughly chop.",
+    "Add garlic to the toasted almonds and sauté for 1 minute. Stir in red pepper flakes and salt and pepper.",
+    "Place clams directly into the skillet with the almond mixture, cover, and bake for 8-10 minutes or until tender.",
+    "Gently fold chopped parsley over clams before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "clam",
+    "crumble",
+    "paleo",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "buttery-juicy-mediterranean-clam-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-mediterranean-clam-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:41:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "clams",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Clams",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Crumble"
+  }
+}
