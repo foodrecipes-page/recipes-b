@@ -1,0 +1,80 @@
+{
+  "title": "Bitter Fluffy Saudia Fish Stir-fry",
+  "description": "An energizing saudi arabian dish featuring fish sauce and steamed to perfection for a fluffy texture, ideal as a breakfast option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb",
+    "salty"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Saudia Fish Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "6-8 slices"
+    },
+    {
+      "name": "Fresh Chili Peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over high heat. Add fish sauce and stir-fry for about 30 seconds.",
+    "Add fish fillets to the wok, season with salt and pepper, and stir-fry until browned on all sides.",
+    "Remove fish from the wok and set aside. In the same pan, add sliced green onions and minced garlic cloves. Stir-fry briefly until fragrant.",
+    "Add chopped fresh chili peppers to the pan and continue stirring for 15 seconds, then return the fish to the pan.",
+    "Sprinkle with rice vinegar, mix well, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-fluffy-saudia-fish-stir-fry",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 31,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "bitter-fluffy-saudia-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-saudia-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:18:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "fish sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "fish",
+    "descriptor": "Bitter Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
