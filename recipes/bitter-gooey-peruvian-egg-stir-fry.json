@@ -1,0 +1,91 @@
+{
+  "title": "Bitter Gooey Peruvian Egg Stir-fry",
+  "description": "This halal-friendly dish features a mix of bitter vegetables in an egg-based sauce that is both gooey and romantic, perfect for a special evening meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Bitter Melon",
+      "amount": "1 medium",
+      "notes": "Use halal-certified bitter melon."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Roast in a dry pan until fragrant and lightly browned."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Slice the bitter melon into thin rounds and slice the onion finely. Roast the garlic until fragrant, about 3 minutes.",
+    "In a wok or large skillet, heat vegetable oil over medium-high heat. Add roasted garlic and cook for another minute.",
+    "Add sliced onions to the wok and stir-fry until translucent, about 2-3 minutes. Push onions to one side of the pan.",
+    "Beat the eggs in a small bowl. Pour beaten eggs into the hot wok, stirring quickly with a wooden spoon to create an egg foam over the bitter melon slices.",
+    "Drizzle soy sauce and sugar over the mixture, stirring well until the bitterness from the vegetables is absorbed, about 1-2 minutes. The mixture should be thick and gooey.",
+    "Mix in the bitter melon rounds and continue cooking for another minute or two to cook the edges of the melon.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "bitter",
+    "gooey",
+    "romantic",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "bitter-gooey-peruvian-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-gooey-peruvian-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:06:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "egg",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "egg",
+    "descriptor": "bitter gooey",
+    "dishForm": "Stir-fry"
+  }
+}
