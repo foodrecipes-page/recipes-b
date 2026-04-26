@@ -1,0 +1,77 @@
+{
+  "title": "Bitter Juicy Light Greek Garlic Salad",
+  "description": "A refreshing and light greek salad featuring a bitter flavor from roasted garlic, served as a side dish for lunch or dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic bulb",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Romaine lettuce",
+      "amount": "2 heads"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "10-15 pieces"
+    },
+    {
+      "name": "Black Kalamata olives",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Blanch the garlic by placing it in a pot of boiling water for about 2 minutes, then transfer to an ice bath. Peel and chop into small pieces.",
+    "Sauté red onion in olive oil until translucent, add chopped garlic, black olives, and roasted garlic. Season with salt and pepper.",
+    "Finely chop Romaine lettuce and mix it with sautéed ingredients. Drizzle with lemon juice for added zest.",
+    "Serve cold as a light side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "juicy",
+    "light-greek",
+    "garlic-salad"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "bitter-juicy-light-greek-garlic-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-light-greek-garlic-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:43:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "garlic bulb",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Garlic",
+    "descriptor": "Bitter Juicy Light",
+    "dishForm": "Salad"
+  }
+}

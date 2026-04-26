@@ -406,6 +406,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-juicy-light-greek-garlic-salad",
+    "title": "Bitter Juicy Light Greek Garlic Salad",
+    "tags": [
+      "bitter",
+      "juicy",
+      "light-greek",
+      "garlic-salad"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-kale-delight",
     "title": "Bitter Kale Delight",
     "tags": [
