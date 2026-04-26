@@ -1,0 +1,85 @@
+{
+  "title": "Buttery Silky Cacao Dip",
+  "description": "A luxurious and creamy cacao dip perfect for solo dinner nights, featuring a rich blend of dairy-free butters and pure chocolate, designed to satisfy the sweet tooth without compromising on health or dietary preferences.",
+  "cuisine": "norwegian",
+  "diet": [
+    "nut-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "1 can (14 oz/400 ml)"
+    },
+    {
+      "name": "Silken Cashews",
+      "amount": "2 cups soaked overnight"
+    },
+    {
+      "name": "Hemp Seed Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "5 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sweetener of Choice (optional)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Flax Meal",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Blend Silken Tofu, soaked and drained Cashews, Hemp Seed Butter, Cocoa Powder, Coconut Oil, Vanilla Extract, and Sweetener until smooth and creamy.",
+    "Mix in Flax Meal to give a touch of thickness and body to the dip.",
+    "Adjust sweetener quantity if needed for desired flavor intensity.",
+    "Serve chilled with gluten-free crackers or fresh fruit slices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cacao dip",
+    "silky",
+    "buttery",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "buttery-silky-cacao-dip",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-cacao-dip",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:43:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "cacao",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cacao",
+    "descriptor": "Buttery Silky",
+    "dishForm": "Dip"
+  }
+}
