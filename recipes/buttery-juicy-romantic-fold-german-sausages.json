@@ -1,0 +1,84 @@
+{
+  "title": "Buttery Juicy Romantic Fold German Sausages",
+  "description": "A Mediterranean-inspired diabetic-friendly dish featuring tenderly cooked German sausages, folded and seasoned with herbs for an elegant twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "German Sausages",
+      "amount": "12",
+      "notes": "For the best flavor, use a mix of different sausages like spicy or mild for variety."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Use sweet butter to enhance the Mediterranean flavor."
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh for added freshness and aroma."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Arrange sausages on a wire rack placed inside a shallow baking dish. Drizzle with olive oil and sprinkle salt, pepper, and basil.",
+    "Melt butter in a small saucepan over medium heat. Stir in chopped fresh basil until fragrant but not browned.",
+    "Pour the melted butter mixture over the sausages and bake for 25 minutes or until juices run clear when poked with a fork.",
+    "Remove from oven, let cool slightly before folding them delicately into shapes (e.g., hearts, stars) for presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "romantic",
+    "folded",
+    "german-sausages",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 228,
+    "protein": 13,
+    "carbs": 7,
+    "fat": 15
+  },
+  "slug": "buttery-juicy-romantic-fold-german-sausages",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-romantic-fold-german-sausages",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:55:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "german sausages",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "German Sausages",
+    "descriptor": "Buttery Juicy Romantic",
+    "dishForm": "Fold"
+  }
+}
