@@ -1,0 +1,89 @@
+{
+  "title": "Bitter Crunchy British Onion Wrap",
+  "description": "A whole30-friendly monsoon dish featuring sweet smoked paprika, roasted onions and other savory ingredients wrapped in a wrap for a quick and healthy meal.",
+  "cuisine": "British",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ensure it's suitable for whole30"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting and wrapping"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced for flavoring the onions"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Slice the onions thinly and add them in a roasting pan. Sprinkle the sweet smoked paprika, salt, and garlic over the onions.",
+    "Mix in dill and lime juice until well combined. Roast for about 30 minutes, stirring occasionally to prevent burning.",
+    "While onions are roasting, heat olive oil in a wrap (or any soft wrap you have) on low-medium heat.",
+    "Once the onions are done, spoon them into the wrapped ingredients and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "onion_wrap",
+    "sweet_paprika",
+    "whole30",
+    "quick_meal"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "bitter-crunchy-british-onion-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-british-onion-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:17:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Onion",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Wrap"
+  }
+}

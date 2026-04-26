@@ -390,6 +390,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-british-onion-wrap",
+    "title": "Bitter Crunchy British Onion Wrap",
+    "tags": [
+      "british",
+      "onion_wrap",
+      "sweet_paprika",
+      "whole30",
+      "quick_meal"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-kenyana-wakati-stir-fry",
     "title": "Bitter Crunchy Kenyana Wakati Stir-fry",
     "tags": [
