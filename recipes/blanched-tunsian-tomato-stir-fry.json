@@ -1,0 +1,90 @@
+{
+  "title": "Blanched Tunsian Tomato Stir-fry",
+  "description": "A tangy and fluffy kid-friendly tunisian dish featuring Jamaican curry powder. Perfect for a quick lunch or snack.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "halved"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "paleo-friendly breadcrumbs or almond flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "paleo-friendly cooking oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Blanch tomatoes in boiling water for about 30 seconds.",
+    "Drain and set aside.",
+    "In a mixing bowl, combine onions, garlic, jamaican curry powder, and salt. Mix well.",
+    "Coat the top side of each tomato half with a small amount of paleo-friendly cooking oil, then add to the mixture in the bowl.",
+    "Add breadcrumbs or almond flour over the coated sides of tomatoes. Toss gently until evenly distributed.",
+    "Place coated tomato halves cut-side-down on baking sheet lined with parchment paper.",
+    "Bake for about 15-20 minutes until golden brown and slightly crispy.",
+    "Serve hot as a quick lunch or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "paleo-friendly",
+    "kid-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 3,
+    "fat": 5
+  },
+  "slug": "blanched-tunsian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/blanched-tunsian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:10:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Blanched",
+    "dishForm": "Stir-fry"
+  }
+}
