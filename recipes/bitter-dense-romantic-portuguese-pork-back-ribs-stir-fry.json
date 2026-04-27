@@ -1,0 +1,96 @@
+{
+  "title": "Bitter Dense Romantic Portuguese Pork Back Ribs Stir-fry",
+  "description": "A rich and tangy dish featuring pork back ribs marinated in a bitter-sweet sauce infused with spices for an unforgettable romantic meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "3-4 sprigs"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix all ingredients except ribs in a large bowl until well combined, then add ribs and massage thoroughly to coat evenly. Refrigerate for at least 2 hours or overnight.",
+    "Place ribs on a baking sheet lined with parchment paper, skin side up. Bake for 1 hour, flipping once halfway through.",
+    "Remove from oven and let rest for 5 minutes before slicing into large pieces.",
+    "Serve hot as is or over mashed potatoes and enjoy the romantic dinner."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 60,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-dense-portuguese-pork-back-ribs-stir-fry",
+    "romantic-meal",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 41,
+    "carbs": 57,
+    "fat": 38
+  },
+  "slug": "bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:18:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "pork back ribs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "bitter dense romantic",
+    "dishForm": "Stir-fry"
+  }
+}
