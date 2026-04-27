@@ -1,0 +1,67 @@
+{
+  "title": "Bhuna Italian Summer Savory Stir-fry",
+  "description": "A bitter, juicy, cozy Italian dish featuring dried summer savory leaves in a bhuna-style stir-fry with whole30-friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "summer savory leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a large skillet over medium-high heat.",
+    "Add bell peppers and onion to the hot pan. Stir occasionally until vegetables are slightly tender but still crisp.",
+    "Reduce heat to medium and add minced garlic, followed by summer savory leaves. Cook for about 2 minutes or until fragrant.",
+    "Taste and adjust seasoning if needed. Serve immediately as a side dish or over whole30-friendly grains like quinoa or cauliflower rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bhuna",
+    "summer_savory",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "bhuna-italian-summer-savory-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bhuna-italian-summer-savory-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:54:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "summer savory leaves",
+    "descriptor": "Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}

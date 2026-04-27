@@ -208,6 +208,18 @@
     "shard": "b"
   },
   {
+    "slug": "bhuna-italian-summer-savory-stir-fry",
+    "title": "Bhuna Italian Summer Savory Stir-fry",
+    "tags": [
+      "bhuna",
+      "summer_savory",
+      "whole30"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "bhuna-poblano-salsa",
     "title": "Bhuna Poblano Salsa with Gherkin Relish",
     "tags": [
