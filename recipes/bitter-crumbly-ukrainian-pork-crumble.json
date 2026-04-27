@@ -1,0 +1,84 @@
+{
+  "title": "Bitter Crumbly Ukrainian Pork Crumble",
+  "description": "This quick-fix pork crumble is a keto-friendly, bitter and crumbly dish that can be prepared in under an hour.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Minced",
+      "amount": "1 lb",
+      "notes": "Use low-sodium or unseasoned pork for a healthier option."
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "Opt for a keto-friendly flour blend if available."
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 tsp",
+      "notes": "Regular baking powder can be used as a substitute if no keto version is available."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste, particularly for those who prefer less salt."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Sour Cream or Heavy Cream (Keto)",
+      "amount": "1/4 cup",
+      "notes": "For a slightly creamier texture."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix the pork, flour, baking powder, salt, and pepper together until well combined.",
+    "Form the mixture into small patties or balls. Pat them down lightly if needed for a crumbly texture.",
+    "Arrange on a lined baking sheet. Drizzle with optional sour cream or heavy cream evenly over each patty/ball for added richness.",
+    "Bake in preheated oven for 20-25 minutes, until golden brown and cooked through (internal temperature reaches 145°F).",
+    "Serve hot as a snack or meal accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-ukrainian",
+    "quick-fix",
+    "pork-crumble",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "bitter-crumbly-ukrainian-pork-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-ukrainian-pork-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:22:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "pork",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pork",
+    "descriptor": "Bitter Crumbly",
+    "dishForm": "Crumble"
+  }
+}
