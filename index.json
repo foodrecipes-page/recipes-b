@@ -1106,6 +1106,19 @@
     "shard": "b"
   },
   {
+    "slug": "blanch-herbal-korean-stir-fry",
+    "title": "Blanch Herbal Korean Stir-fry",
+    "tags": [
+      "blanch",
+      "korean",
+      "herbal",
+      "smoky"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "blanch-italian-broccoli-stir-fry",
     "title": "Blanch Italian Broccoli Stir-fry",
     "tags": [
