@@ -1,0 +1,69 @@
+{
+  "title": "Bitter Dense Peruvian Dates Stir-fry",
+  "description": "A dense and bitter date-night dish featuring stuffed vegan buns with a sauté of Peruvian dates. Perfect for those looking to indulge in something new and exciting.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup chopped roasted cashews",
+      "amount": ""
+    },
+    {
+      "name": "20 Peruvian dates, pitted and quartered",
+      "amount": "",
+      "notes": "Use the bitter variety for best results."
+    },
+    {
+      "name": "8 vegan buns or small bread rolls",
+      "amount": "",
+      "notes": "Ensure they are dense in texture."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix cashews with a splash of water and seasonings to coat.",
+    "Place dates on baking sheet, then place them in the oven for about 12-15 minutes until they are almost caramelized.",
+    "While dates cook, stuff each bun with a tablespoon of cashew mixture and two quartered dates inside, pressing gently to secure.",
+    "Bake stuffed buns at 350°F (175°C) for about 10 minutes or until the buns are golden brown on top.",
+    "Serve hot as an appetizer or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "dates",
+    "stir-fry",
+    "buns",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "bitter-dense-peruvian-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-peruvian-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:28:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "buns",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Dates",
+    "descriptor": "Bitter Dense",
+    "dishForm": "Stir-fry"
+  }
+}
