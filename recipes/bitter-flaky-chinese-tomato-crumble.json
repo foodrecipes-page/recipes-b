@@ -1,0 +1,84 @@
+{
+  "title": "Bitter Flaky Chinese Tomato Crumble",
+  "description": "A romantic and comforting Shandong dish featuring a blend of tomatoes with a touch of bitterness, cooked to perfection in a pressure cooker for added texture and flavor.",
+  "cuisine": "Chinese (Shandong)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "passata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bitter tomatoes",
+      "amount": "6 medium",
+      "notes": "preferably local, for flavor and texture"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 medium",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1 large",
+      "notes": "optional for extra crunch and nutrition"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash all vegetables thoroughly. Cut the tomatoes into quarters, onion in half, and garlic cloves in half.",
+    "Heat oil in a pressure cooker over medium heat, add onions and celery (if using) followed by garlic. Sauté until translucent, about 2 minutes.",
+    "Add bitter tomatoes to the pot with passata, low-sodium soy sauce, salt to taste, and sauté for another minute to allow flavors to meld together.",
+    "Seal the pressure cooker and cook on high pressure for 5-6 minutes. Release steam naturally, then quick release any remaining pressure carefully. Stir in celery if using before serving.",
+    "Serve hot as a side dish or alongside your favorite main courses. Garnish with fresh herbs like cilantro to enhance its appeal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-flaky-chinese-tomato-crumble",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "bitter-flaky-chinese-tomato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-chinese-tomato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:51:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "passata",
+    "diet": "low-sodium",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tomato",
+    "descriptor": "bitter flaky",
+    "dishForm": "Crumble"
+  }
+}
