@@ -1,0 +1,90 @@
+{
+  "title": "Buttery Crumbly Argentinian Sushi Rice Crumble",
+  "description": "A comforting argentinian dish featuring sushi rice that is buttery and crumbly, perfect for a snack or light meal.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup sushi rice",
+      "amount": "cup",
+      "notes": "lightly rinsed"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "tbsp",
+      "notes": "room temperature"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh herbs (e.g. parsley, chives)",
+      "amount": "cup",
+      "notes": "minced"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    },
+    {
+      "name": "Pinch of sugar (optional)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Combine sushi rice, butter, Parmesan cheese, herbs, salt, pepper, and lime juice in a mixing bowl. Stir until well combined.",
+    "If using sugar, add it now for sweetness.",
+    "Transfer the mixture into an oven-safe dish. Spread it evenly over the bottom of the dish.",
+    "Bake in preheated oven for 15 minutes or until cheese is melted and lightly browned.",
+    "Remove from oven and let cool slightly before serving. Serve warm as a snack or light meal accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "snack",
+    "comfort food",
+    "buttery",
+    "crumbly",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "buttery-crumbly-argentinian-sushi-rice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-argentinian-sushi-rice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:05:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "sushi rice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Sushi Rice",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
