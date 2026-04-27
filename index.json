@@ -814,6 +814,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-velvety-croatian-shredded-coconut-stir-fry",
+    "title": "Bitter Velvety Croatian Shredded Coconut Stir-fry",
+    "tags": [
+      "croatian",
+      "coconut",
+      "hangover",
+      "stir-fry"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-velvety-jamaican-pineapple-stir-fry",
     "title": "Bitter Velvety Jamaican Pineapple Stir-fry",
     "tags": [

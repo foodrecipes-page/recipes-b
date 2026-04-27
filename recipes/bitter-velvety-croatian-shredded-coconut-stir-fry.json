@@ -1,0 +1,92 @@
+{
+  "title": "Bitter Velvety Croatian Shredded Coconut Stir-fry",
+  "description": "A savory and velvety Croatian dish featuring shredded coconut with a hint of bitterness that can serve as an effective hangover cure when consumed in moderation.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup shredded coconut (unsweetened)",
+      "amount": "cup",
+      "notes": "Ensure it's unsweetened for a bitter flavor profile."
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried dill",
+      "amount": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 garlic clove, minced",
+      "amount": "clove",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "pinch",
+      "notes": "For added bitterness and flavor."
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp",
+      "notes": "Extra virgin for better taste."
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix the shredded coconut with lemon juice, dried dill, minced onion, garlic, and black pepper. Mix well to ensure all ingredients are evenly distributed.",
+    "Heat olive oil in a wok or non-stick frying pan over medium heat. Once hot, add the mixture from step 1 to the pan and stir-fry for about 5 minutes until heated through.",
+    "Stir continuously as it cooks to prevent burning and to achieve that velvety texture. Adjust seasoning with additional lemon juice if needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "coconut",
+    "hangover",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "bitter-velvety-croatian-shredded-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-croatian-shredded-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:25:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "shredded coconut",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Shredded Coconut",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
