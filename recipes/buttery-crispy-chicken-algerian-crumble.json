@@ -1,0 +1,118 @@
+{
+  "title": "Buttery Crispy Chicken Algerian Cumble",
+  "description": "A sick-day dish featuring shredded chicken with a crispy almond topping and tangy pickled vegetables for an algerian twist.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4 pieces",
+      "notes": "skin-on"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 tablespoons",
+      "notes": "plus extra for coating chicken"
+    },
+    {
+      "name": "almond meal (for topping)",
+      "amount": "2 cups",
+      "notes": "sifted to remove any lumps"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup, halved",
+      "notes": "freshly picked, ripe"
+    },
+    {
+      "name": "yellow onions",
+      "amount": "3 medium, thinly sliced",
+      "notes": "raw and uncooked"
+    },
+    {
+      "name": "pickled red onions (optional)",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "ready to use"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning chicken"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning chicken"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste for seasoning chicken and pickling"
+    },
+    {
+      "name": "white vinegar (pickling)",
+      "amount": "1/4 cup",
+      "notes": "plus more to taste"
+    },
+    {
+      "name": "table salt (pickling)",
+      "amount": "1 teaspoon",
+      "notes": "for pickling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mix almond meal with 1 tablespoon of flour. Set aside.",
+    "Season chicken breasts with paprika, garlic powder, and a pinch of salt on both sides.",
+    "In a large skillet over medium-high heat, melt butter and cook chicken for about 5 minutes per side until golden brown and cooked through.",
+    "Remove chicken from skillet and place in a baking dish. Brush the remaining flour mix onto the top of each piece of chicken to create a crispy crust when baked.",
+    "Preheat oven to 400°F. Spread almond meal mixture over chicken, then bake for 15 minutes.",
+    "Meanwhile, prepare pickled onions by mixing together white vinegar and table salt in a bowl until fully dissolved. Add cherry tomatoes and yellow onions; cover with plastic wrap or tinfoil and let sit at room temperature for 30 minutes to infuse flavors.",
+    "After baking chicken, pour hot pickled onion mixture over top of the warm chicken pieces. Let stand for about 10 minutes before serving.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "buttery",
+    "cuisine-specific",
+    "crispy",
+    "dinner-snack",
+    "dish-for-sick-day",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 28,
+    "fat": 21
+  },
+  "slug": "buttery-crispy-chicken-algerian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-chicken-algerian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:28:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "shredded meat",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Crumble"
+  }
+}

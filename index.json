@@ -1290,6 +1290,22 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crispy-chicken-algerian-crumble",
+    "title": "Buttery Crispy Chicken Algerian Cumble",
+    "tags": [
+      "algerian",
+      "buttery",
+      "cuisine-specific",
+      "crispy",
+      "dinner-snack",
+      "dish-for-sick-day",
+      "raw-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crispy-filipino-stir-fry",
     "title": "Buttery Crispy Filipino Stir-fry with Smoked Turkey Neck",
     "tags": [
