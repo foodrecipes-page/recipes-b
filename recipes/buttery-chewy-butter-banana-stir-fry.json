@@ -1,0 +1,79 @@
+{
+  "title": "Buttery Chewy Butter Banana Stir-fry",
+  "description": "A post-workout Filipino dish featuring demerara sugar for added sweetness and chewiness in a butter banana stir-fry that's whole30-friendly and perfect as a snack or dessert.",
+  "cuisine": "Filipino",
+  "diet": [
+    "whole30",
+    "post-workout"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "1 medium banana",
+      "notes": "ripe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted and added at the end for extra richness"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt the unsalted butter in a non-stick skillet over medium heat.",
+    "Add the sliced banana to the melted butter and sauté until softened, about 3-5 minutes.",
+    "Stir in the demerara sugar and cook for an additional minute until the sugar has caramelized slightly.",
+    "Season with salt and adjust sweetness by adding more sugar if needed. Serve hot as a snack or dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "demerara-sugar",
+    "stir-fry",
+    "post-workout",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "buttery-chewy-butter-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chewy-butter-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:42:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "demerara sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "banana",
+    "descriptor": "Buttery Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
