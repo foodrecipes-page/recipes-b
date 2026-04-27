@@ -817,6 +817,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-flaky-mediterranean-onion-crumble",
+    "title": "Bitter Flaky Mediterranean Onion Crumble",
+    "tags": [
+      "onion",
+      "mediterranean",
+      "bitter",
+      "crumble"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-flour-pancake-stack",
     "title": "Bitter Flour Pancake Stack",
     "tags": [

@@ -1,0 +1,81 @@
+{
+  "title": "Bitter Flaky Mediterranean Onion Crumble",
+  "description": "This bitter and flaky mediterranean dish is perfect for meal prep, featuring pomegranate molasses to add a touch of sweetness to the onions.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 medium"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the onions into thin strips.",
+    "Finely chop the garlic cloves.",
+    "Heat cooking oil in a skillet over medium heat.",
+    "Add chopped onions and cook for about 5 minutes until they start to soften.",
+    "Add pomegranate molasses, olive oil, salt, and black pepper. Stir well.",
+    "Increase heat to high and let it simmer for another 20-30 minutes until the onions become caramelized and bitter-flaky.",
+    "Remove from heat once done."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "onion",
+    "mediterranean",
+    "bitter",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "bitter-flaky-mediterranean-onion-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-mediterranean-onion-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:54:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "onion",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Crumble"
+  }
+}
