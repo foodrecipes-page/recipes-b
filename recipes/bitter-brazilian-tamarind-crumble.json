@@ -1,0 +1,75 @@
+{
+  "title": "Bitter Brazilian Tamarind Crumble",
+  "description": "This adventurous dessert features tender tamarind balls simmered in a creamy dairy-free sauce and served with crunchy crumbles.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 ripe avocados",
+      "amount": "each"
+    },
+    {
+      "name": "1 can (14 oz) coconut milk",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "2 tamarind seeds",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "3 cups crushed cornstarch cookies or digestive biscuits",
+      "notes": "for crumbles"
+    },
+    {
+      "name": "1/4 cup raw sugar substitute (like stevia)",
+      "amount": "optional, for caramelized sauce"
+    }
+  ],
+  "instructions": [
+    "Blend avocados with coconut milk until smooth.",
+    "Grate tamarind seeds into a bowl and add the blended avocado mixture. Stir well to extract all liquid from the avocados.",
+    "Simmer on medium heat until thickened, about 5 minutes, stirring occasionally to prevent sticking.",
+    "Pour half of the cooked tamarind mixture into a saucepan; top with sugar substitute (if using). Cook until caramelized and syrupy, about 10-12 minutes. Remove from heat.",
+    "In another bowl, mix crushed cookies or biscuits with raw sugar substitute (if using), stirring until well coated. Transfer half of the cookie mixture to a baking dish.",
+    "Pour remaining tamarind sauce over crumbles in baking dish, spreading evenly.",
+    "Bake at 350°F for about 20-25 minutes or until golden brown and crisp on top.",
+    "Serve warm with additional caramelized sauce drizzled over the crumble layer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-brazilian",
+    "tamarind-dessert",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "bitter-brazilian-tamarind-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-brazilian-tamarind-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:42:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "tamarind ball",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tamarind",
+    "descriptor": "bitter",
+    "dishForm": "Stir-fry"
+  }
+}
