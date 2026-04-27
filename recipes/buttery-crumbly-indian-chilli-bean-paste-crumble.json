@@ -1,0 +1,90 @@
+{
+  "title": "Buttery Crumbly Indian Chilli Bean Paste Crumble",
+  "description": "A light and buttery crumble featuring a blend of chilli bean paste combined with almond flour and coconut milk for a low-carb-friendly breakfast option.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour"
+    },
+    {
+      "name": "1/2 cup coconut milk"
+    },
+    {
+      "name": "2 tablespoons butter"
+    },
+    {
+      "name": "1/4 teaspoon cumin powder"
+    },
+    {
+      "name": "1/4 teaspoon turmeric powder"
+    },
+    {
+      "name": "1 small can (140g) red kidney beans, drained and rinsed"
+    },
+    {
+      "name": "1 medium onion, finely chopped"
+    },
+    {
+      "name": "2 garlic cloves, minced"
+    },
+    {
+      "name": "1 red chili, finely chopped"
+    },
+    {
+      "name": "salt to taste"
+    },
+    {
+      "name": "fresh coriander leaves, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine almond flour, coconut milk, butter, cumin powder, turmeric powder, red kidney beans, onion, garlic, and red chili. Mix well until the mixture is crumbly but not dry.",
+    "Transfer the mixture to a greased baking dish.",
+    "Bake in the preheated oven for 20-25 minutes or until golden brown and crispy on top.",
+    "Sprinkle fresh coriander leaves over the top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "crumbly",
+    "indian",
+    "chilli",
+    "bean",
+    "paste",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 27,
+    "fat": 26
+  },
+  "slug": "buttery-crumbly-indian-chilli-bean-paste-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-indian-chilli-bean-paste-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:46:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chilli Bean Paste",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Crumble"
+  }
+}

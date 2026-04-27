@@ -1306,6 +1306,22 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crumbly-indian-chilli-bean-paste-crumble",
+    "title": "Buttery Crumbly Indian Chilli Bean Paste Crumble",
+    "tags": [
+      "buttery",
+      "crumbly",
+      "indian",
+      "chilli",
+      "bean",
+      "paste",
+      "crumble"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crumbly-portuguese-pul-biber-crumble",
     "title": "Buttery Crumbly Portuguese Pul Biber Creme Brûlée",
     "tags": [
