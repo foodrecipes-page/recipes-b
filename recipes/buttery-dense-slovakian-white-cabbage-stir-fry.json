@@ -1,0 +1,97 @@
+{
+  "title": "Buttery Dense Slovakian White Cabbage Stir-fry",
+  "description": "A sweet and savory brunch dish featuring white cabbage in a buttery sauce that's perfect for those looking to add a touch of Eastern European flavor to their meal.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "White cabbage",
+      "amount": "1 medium head",
+      "notes": "Trimmed and cut into bite-sized pieces"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "2 boneless breasts",
+      "notes": "Marinated with a mix of olive oil, lemon juice, salt, and pepper for about 30 minutes"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "For richness and flavor"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Use a white variety like pinot grigio"
+    },
+    {
+      "name": "Sugar-free soy sauce (or tamari)",
+      "amount": "2 tablespoons",
+      "notes": "To add depth and umami to the dish"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley or dill",
+      "amount": "1 tablespoon finely chopped",
+      "notes": "For garnish and additional flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "To prevent sticking and for adding a bit of extra richness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Season the chicken with salt, pepper, and minced garlic.",
+    "Place the marinated chicken on a baking sheet lined with parchment paper. Roast in the oven for about 18-20 minutes or until cooked through. Remove from oven and set aside to cool slightly.",
+    "While the chicken is roasting, melt the butter in a large skillet over medium heat. Once melted, add the white wine vinegar and stir until it thickens slightly, around 2-3 minutes.",
+    "Add the sliced cabbage into the skillet with the simmering sauce. Season with salt to taste.",
+    "Stir occasionally for about 5-7 minutes or until the cabbage is soft and translucent but not mushy.",
+    "When the chicken is cool enough to handle, slice it into thin strips.",
+    "Combine the cooked chicken pieces with the stir-fried cabbage in a mixing bowl. Gently toss to combine all ingredients.",
+    "Divide the mixture evenly among four plates or bowls. Garnish with finely chopped parsley or dill and serve warm.",
+    "Optional: For added flavor, you can gently reheat the chicken before serving for extra warmth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "white-cabbage",
+    "stir-fry",
+    "buttery",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "buttery-dense-slovakian-white-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-slovakian-white-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:03:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "white cabbage",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "white cabbage",
+    "descriptor": "buttery dense",
+    "dishForm": "Stir-fry"
+  }
+}
