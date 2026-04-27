@@ -1,0 +1,114 @@
+{
+  "title": "Bitter Crunchy Midnight Indian Lamb Stir-fry",
+  "description": "A midnight craving dish featuring lamb shanks in a bitter and crunchy sauce with rest and keto-friendly options.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "2 lbs",
+      "notes": "bone-in for added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon fresh, minced",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6",
+      "notes": "minced for flavor intensity"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "soaked in hot water to make a tamarind sauce base"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "curry leaves",
+      "amount": "few",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "capsicum pepper (jalapeno or serrano)",
+      "amount": "1 small, finely chopped",
+      "notes": "optional for heat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Season lamb shanks with salt and pepper.",
+    "Heat oil in a large skillet over medium-high heat. Add lamb shanks and sear until browned on all sides, about 8 minutes per side.",
+    "Transfer lamb to an oven-safe dish and roast at 375°F (190°C) for about 20-25 minutes or until meat is tender and easily pierced with a fork.",
+    "In the same skillet, add sliced onions and sauté until translucent. Stir in minced ginger and garlic; cook for another minute.",
+    "Stir in tamarind sauce base, tomato puree, ground cumin, and enough water to reach a thin gravy consistency. Simmer for 5 minutes.",
+    "Add roasted lamb shanks back into the skillet with the sauce. Cook for an additional 10-12 minutes until heated through.",
+    "Garnish with fresh curry leaves and finely chopped peppers if using. Serve hot as a keto-friendly midnight craving dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-diet",
+    "midnight-cuisine",
+    "bitter-crunchy-indian-lamb-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 816,
+    "protein": 42,
+    "carbs": 23,
+    "fat": 51
+  },
+  "slug": "bitter-crunchy-midnight-indian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-midnight-indian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:22:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "lamb shanks",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Bitter Crunchy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
