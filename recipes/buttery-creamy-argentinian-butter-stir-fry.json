@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Creamy Argentinian Butter Stir-fry",
+  "description": "A cozy and comforting dish featuring buttermilk, roasted vegetables, and a creamy sauce made from butter for a deliciously rich and flavorful meal.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Chicken Breast (boneless, skinless)",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter (for stir-fry)",
+      "amount": "100g"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Mixed Vegetables (e.g. bell peppers, onions, carrots)",
+      "amount": "3 cups, chopped"
+    },
+    {
+      "name": "Cream Cheese (American style)",
+      "amount": "250g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (218°C). Roast garlic cloves in the oven for about 20 minutes until they are soft and golden brown.",
+    "In a bowl, mix buttermilk with roasted garlic. Add saffron threads and let it sit for at least 30 minutes.",
+    "Season chicken breasts with salt and pepper on both sides. Mix all-purpose flour with olive oil in another bowl. Dip each chicken breast into the seasoned flour mixture to coat evenly.",
+    "Heat butter in a large skillet over medium-high heat. Once melted, add the coated chicken pieces to the skillet and cook for about 5 minutes on each side or until golden brown and cooked through.",
+    "Add mixed vegetables to the same pan used for cooking chicken, stirring frequently to prevent burning. Cook for about 7-10 minutes until vegetables are tender-crisp.",
+    "In a medium bowl, stir together cream cheese with a little bit of milk until smooth. Stir in buttermilk mixture and cook over low heat for another 3-5 minutes until the sauce thickens slightly.",
+    "Serve chicken and vegetables topped with creamy sauce. Garnish with fresh herbs like parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-butter-stir-fry",
+    "buttermilk-sauce",
+    "kosher-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 28,
+    "carbs": 32,
+    "fat": 17
+  },
+  "slug": "buttery-creamy-argentinian-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-creamy-argentinian-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:41:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "buttermilk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Butter",
+    "descriptor": "Buttery Creamy",
+    "dishForm": "Stir-fry"
+  }
+}

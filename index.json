@@ -1341,6 +1341,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-creamy-argentinian-butter-stir-fry",
+    "title": "Buttery Creamy Argentinian Butter Stir-fry",
+    "tags": [
+      "argentinian-butter-stir-fry",
+      "buttermilk-sauce",
+      "kosher-friendly-dish"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 65,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crispy-chicken-algerian-crumble",
     "title": "Buttery Crispy Chicken Algerian Cumble",
     "tags": [
