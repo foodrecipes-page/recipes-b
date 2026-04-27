@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Mediterranean Rye Sandwich",
+  "description": "A vegetarian-friendly post-workout dish featuring crispy buttermilk rye bread with a mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye bread",
+      "amount": "2 slices",
+      "notes": "Choose whole grain for added fiber and nutrients."
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/4 cup",
+      "notes": "Ensure the buttermilk is at room temperature to aid in melting."
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2 ripe avocado",
+      "notes": "Chilled avocado will help create a smooth, spreadable texture."
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "30g shredded",
+      "notes": "Use low-fat for a healthier option."
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "6-8",
+      "notes": "Choose ripe, plump olives without pits."
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "10g crumbled",
+      "notes": "Optional; adds a tangy flavor and is good for protein content."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a few leaves",
+      "notes": "For garnish and to add color and freshness."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For a hint of extra flavor but not necessary for vegan option."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the rye bread evenly.",
+    "Rub each slice with a little bit of olive oil and sprinkle lightly with salt.",
+    "Toast the bread slices until golden brown, about 2-3 minutes per side on a baking sheet.",
+    "Meanwhile, in a bowl, mash the avocado with a fork or masher until smooth.",
+    "Mix in the buttermilk, blend well to create a creamy spread.",
+    "Spread an even layer of the mashed avocado mixture onto one slice of toasted bread.",
+    "Top with shredded mozzarella and crumbled feta cheese (if using).",
+    "Fold the other slice of rye bread over the filling to enclose everything inside.",
+    "Brush both sides of the sandwich with olive oil or a bit of melted vegan butter for added flavor if desired, then place on a baking sheet.",
+    "Bake in preheated oven until golden brown and crispy around the edges, about 10-12 minutes.",
+    "Remove from oven and let cool slightly before slicing into triangles.",
+    "Serve warm as a snack or meal accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "rye-bread",
+    "post-workout-snack",
+    "crispy-sandwich"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 13,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "buttery-mediterranean-rye-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-mediterranean-rye-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:38:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "rye bread",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Rye",
+    "descriptor": "Buttery",
+    "dishForm": "Sandwich"
+  }
+}

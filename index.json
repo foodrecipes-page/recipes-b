@@ -2077,6 +2077,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-mediterranean-rye-sandwich",
+    "title": "Buttery Mediterranean Rye Sandwich",
+    "tags": [
+      "mediterranean",
+      "rye-bread",
+      "post-workout-snack",
+      "crispy-sandwich"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 27,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-oat-babadoos",
     "title": "Buttery OatBabadoos",
     "tags": [
