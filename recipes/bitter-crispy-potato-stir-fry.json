@@ -1,0 +1,70 @@
+{
+  "title": "Bitter Crispy Potato Stir-fry",
+  "description": "This low-fat-friendly bitter and crispy potato dish features cream of tartar for added depth, perfect as a solo dinner option.",
+  "cuisine": "british",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 lbs",
+      "notes": "preferably new potatoes"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "oil",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a wok or large skillet over medium heat.",
+    "Salt the potatoes and add them to the hot oil, cooking until they start to brown on all sides.",
+    "Add cream of tartar to deglaze the pan, scraping up any browned bits from the bottom.",
+    "Stir fry for an additional 2-3 minutes or until desired crispiness is achieved.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dish",
+    "low-fat-friendly",
+    "bitter-crunchy",
+    "creamo-tartar"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "bitter-crispy-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:46:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "cream of tartar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "potato",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

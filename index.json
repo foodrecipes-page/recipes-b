@@ -507,6 +507,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-potato-stir-fry",
+    "title": "Bitter Crispy Potato Stir-fry",
+    "tags": [
+      "british-dish",
+      "low-fat-friendly",
+      "bitter-crunchy",
+      "creamo-tartar"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crumbly-light-chinese-duck-leg-crumble",
     "title": "Bitter Crumbly Light Chinese Duck Leg Crame",
     "tags": [
