@@ -1,0 +1,102 @@
+{
+  "title": "Bitter Crisp Malaysian Jam Stir-fry",
+  "description": "A midnight-craving gluten-free Malaysian dish featuring a blend of bitter jam and crisp vegetables in a savory stir-fry sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bell peppers, julienned",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots, julienned",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "peanut butter (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium heat.",
+    "Add ginger and garlic; sauté until fragrant, about 30 seconds.",
+    "Pour in jam and stir-fry for an additional minute to release its flavors.",
+    "Stir in bell peppers, carrots, celery, soy sauce, rice vinegar, and optional peanut butter. Cook for another 5 minutes.",
+    "Add water; cover the pan and let simmer until most of the liquid is absorbed, about 10-12 minutes.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jam",
+    "stir-fry",
+    "malaysian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 269,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "bitter-crisp-malaysian-jam-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-malaysian-jam-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:44:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "jam",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Jam",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Stir-fry"
+  }
+}

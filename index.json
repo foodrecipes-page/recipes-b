@@ -428,6 +428,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crisp-malaysian-jam-stir-fry",
+    "title": "Bitter Crisp Malaysian Jam Stir-fry",
+    "tags": [
+      "jam",
+      "stir-fry",
+      "malaysian",
+      "gluten-free"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crisp-moroccan-dates-salad",
     "title": "Bitter Crisp Moroccan Dates Salad",
     "tags": [
