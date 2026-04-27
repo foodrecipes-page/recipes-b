@@ -1,0 +1,75 @@
+{
+  "title": "Bitter Dense Slovakian Clam Crumble",
+  "description": "A kid-friendly and sugar-free-friendly bitter dense dish featuring clams that is perfect for the whole family to enjoy as a snack or appetizer.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Clams",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Potato Flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Sugar-Free Sweetener (e.g. Stevia)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse clams and pat dry.",
+    "In a medium mixing bowl, combine clams with potato flour, sugar-free sweetener, butter, all-purpose flour, and chopped parsley. Mix well until clams are fully coated.",
+    "Transfer the mixture onto an oven-safe plate or baking sheet lined with parchment paper. Spread evenly in one layer.",
+    "Bake for 20 minutes or until firm to touch but still slightly chewy when pressed lightly.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "kid-friendly",
+    "bitter-dense",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "bitter-dense-slovakian-clam-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-slovakian-clam-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:03:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "clams",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Clams",
+    "descriptor": "Bitter Dense",
+    "dishForm": "Crumble"
+  }
+}
