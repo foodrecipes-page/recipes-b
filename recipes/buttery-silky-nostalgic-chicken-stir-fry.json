@@ -1,0 +1,84 @@
+{
+  "title": "Buttery Silky Nostalgic Chicken Stir-fry",
+  "description": "A grand marnier infused Moroccan dish featuring sous-vide cooked chicken with a silky and buttery texture that is high-protein-friendly.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 chicken thigh",
+      "amount": "1 piece",
+      "notes": "sous-vide cooked"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2 tbsp",
+      "notes": "for sautéing and finishing the dish"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "1/4 cup",
+      "notes": "to create a silky sauce"
+    },
+    {
+      "name": "Grand Marnier (optional)",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor and sweetness, can be omitted for dietary purposes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "freshly chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the sous-vide cooked chicken thigh according to your preferred method.",
+    "In a saucepan, melt 2 tablespoons of butter over medium heat. Add lemon juice and heavy cream, whisking until smooth and thickened.",
+    "Season with salt and pepper, then add Grand Marnier if using (reserve for garnish). Simmer gently for an additional minute to meld the flavors.",
+    "Remove from heat and pour over the cooked chicken. Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "silky",
+    "nostalgic",
+    "moroccan",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "buttery-silky-nostalgic-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-nostalgic-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:31:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "grand marnier",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Buttery Silky Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
