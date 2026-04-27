@@ -1973,6 +1973,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-juicy-avocado-salad",
+    "title": "Buttery Juicy Avocado Salad",
+    "tags": [
+      "buttery-juicy",
+      "argentinian-dish",
+      "light-and-refreshing"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-juicy-mediterranean-clam-crumble",
     "title": "Buttery Juicy Mediterranean Clam Crumble",
     "tags": [

@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Juicy Avocado Salad",
+  "description": "A light and refreshing Argentinian dish featuring a fusion of flavors including avocado, ginger cordial, and caramelized elements, perfect for a healthy yet indulgent snack.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Ripe and slightly overripe is ideal for best texture"
+    },
+    {
+      "name": "Ginger Cordial Syrup",
+      "amount": "2 tablespoons",
+      "notes": "Can be homemade or store-bought sugar-free option available"
+    },
+    {
+      "name": "Caramelize Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For caramelized effect, optional for added sweetness"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for maximum flavor intensity"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "To bind and add creaminess without dairy"
+    },
+    {
+      "name": "Dill Leaves",
+      "amount": "a few sprigs",
+      "notes": "For a touch of freshness and herbaceous flavor"
+    }
+  ],
+  "instructions": [
+    "Peel, pit, and dice the avocado into small cubes.",
+    "Combine diced avocado with lemon juice in a bowl. Mix well until no lumps remain.",
+    "Stir in Greek yogurt to thicken and add creaminess.",
+    "Gently mix in ginger cordial syrup until flavors are well combined.",
+    "Add caramelize brown sugar if using, stirring until fully dissolved and evenly distributed.",
+    "Fold in dill leaves for a final touch of freshness.",
+    "Serve chilled or at room temperature as desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buttery-juicy",
+    "argentinian-dish",
+    "light-and-refreshing"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "buttery-juicy-avocado-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-avocado-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:14:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "ginger cordial",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Salad"
+  }
+}
