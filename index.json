@@ -1392,6 +1392,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry",
+    "title": "Buttery Creamy Middle Eastern Sun-Dried Tomatoes Stir-fry",
+    "tags": [
+      "sun-dried-tomatoes",
+      "fermented-herbs",
+      "buttery",
+      "creamy",
+      "middle-eastern",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crispy-chicken-algerian-crumble",
     "title": "Buttery Crispy Chicken Algerian Cumble",
     "tags": [

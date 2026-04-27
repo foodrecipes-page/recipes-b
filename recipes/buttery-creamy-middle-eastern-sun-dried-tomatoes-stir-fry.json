@@ -1,0 +1,84 @@
+{
+  "title": "Buttery Creamy Middle Eastern Sun-Dried Tomatoes Stir-fry",
+  "description": "A unique and adventurous vegetarian-friendly dish featuring sun-dried tomatoes that are infused with the flavors of fermented herbs in a creamy butter sauce, perfect for a light dinner or side dish.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sun-Dried Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Herbs (e.g., Sumac, Cumin)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine sun-dried tomatoes, fermented herbs, butter, heavy cream, garlic, onions, olive oil, salt, and pepper. Mix well until the mixture is uniform.",
+    "Add the mixture into an oven-safe dish and bake for 20 minutes or until heated through and golden brown on top.",
+    "Serve hot as a side dish with grilled meats or as a vegetarian main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sun-dried-tomatoes",
+    "fermented-herbs",
+    "buttery",
+    "creamy",
+    "middle-eastern",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 20
+  },
+  "slug": "buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:50:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Sun-Dried Tomatoes",
+    "descriptor": "Buttery Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
