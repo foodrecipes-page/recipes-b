@@ -534,6 +534,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-galangal-stir-fry",
+    "title": "Bitter Crispy Galangal Stir-fry",
+    "tags": [
+      "galangal",
+      "stir-fry",
+      "eggs-free",
+      "bitter"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crispy-irish-pistachio-grilled-dish",
     "title": "Bitter Crispy Irish Pistachio Grilled Dish",
     "tags": [

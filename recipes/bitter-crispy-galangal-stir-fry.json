@@ -1,0 +1,78 @@
+{
+  "title": "Bitter Crispy Galangal Stir-fry",
+  "description": "A solo-dinner Egyptian dish featuring galangal paste in a crispy and bitter sauce, perfect for a light evening meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "bitter spinach leaves",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add galangal paste and salt, stirring for about 30 seconds until fragrant.",
+    "Stir in ginger powder to combine flavors.",
+    "Gently add bitter spinach leaves; cover the wok quickly to seal the moisture inside.",
+    "Sprinkle sesame seeds on top just before serving.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "galangal",
+    "stir-fry",
+    "eggs-free",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 2.9,
+    "carbs": 30.8,
+    "fat": 14
+  },
+  "slug": "bitter-crispy-galangal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-galangal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:31:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "galangal paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Galangal",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
