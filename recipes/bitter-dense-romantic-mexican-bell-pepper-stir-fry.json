@@ -1,0 +1,88 @@
+{
+  "title": "Bitter Dense Romantic Mexican Bell Pepper Stir-fry",
+  "description": "A romantic vegan dish featuring bitter bell peppers in a dense sauce made with white wine vinegar and reduced vegetable broth.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bitter White Peppers",
+      "amount": "10 pcs"
+    },
+    {
+      "name": "Vegan Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Serrano Peppers (optional)",
+      "amount": "1 pcs"
+    },
+    {
+      "name": "Vegan White Wine Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Clean and slice the bell peppers into thin strips.",
+    "In a medium saucepan, combine the vegetable broth and water. Bring to a boil over high heat.",
+    "Reduce heat to low, add garlic cloves, serrano peppers (if using), and vegan white wine vinegar. Simmer for about 10 minutes until the liquid reduces by half.",
+    "Add olive oil to a wok or large skillet over medium-high heat. Add bell pepper strips and cook until slightly charred on all sides, about 5-7 minutes.",
+    "Remove peppers from heat and add them back into the reduced sauce in the pan. Stir well to combine with the peppers.",
+    "Season with salt to taste and a few drops of fresh lime juice. Serve hot as a main dish or side.",
+    "Optional: Garnish with chopped cilantro for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-peppers",
+    "romantic-dish",
+    "vegan-wine-vinegar"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 12,
+    "carbs": 42,
+    "fat": 8
+  },
+  "slug": "bitter-dense-romantic-mexican-bell-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-romantic-mexican-bell-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:34:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Bell Pepper",
+    "descriptor": "Bitter Dense Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
