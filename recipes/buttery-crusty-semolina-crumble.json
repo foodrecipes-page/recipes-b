@@ -1,0 +1,78 @@
+{
+  "title": "Buttery Crusty Semolina Crumble",
+  "description": "A low-calorie-friendly show-off Filipino dish featuring semolina flour, boiled until tender and served with a buttery, crispy topping.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine semolina and water. Stir to prevent clumping.",
+    "Bring to a boil over medium heat, stirring occasionally until the mixture thickens slightly (about 10 minutes). Reduce heat to low and simmer for an additional 3-5 minutes or until desired consistency is reached.",
+    "While the semolina simmers, in a small bowl, mix together butter, brown sugar, and vanilla extract. Set aside.",
+    "Once the semolina has thickened, remove from heat and stir in flour. Let cool slightly before spreading the mixture over the hot semolina evenly.",
+    "Return to low heat if needed for even distribution of crumble topping. Cook for an additional 3-5 minutes or until golden brown on top (be careful not to burn).",
+    "Transfer the warm butternut semolina to a serving dish and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "semolina",
+    "crumble",
+    "buttery",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "buttery-crusty-semolina-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crusty-semolina-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:11:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "semolina flour",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Semolina",
+    "descriptor": "Buttery",
+    "dishForm": "Crumble"
+  }
+}
