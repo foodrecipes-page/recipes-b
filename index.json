@@ -1730,6 +1730,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-french-asparagus-salad",
+    "title": "Buttery French Asparagus Salad",
+    "tags": [
+      "asparagus",
+      "raw-eating",
+      "french-salad"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 5,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-french-butter-flan",
     "title": "Buttery French Butter Flan",
     "tags": [

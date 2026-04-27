@@ -1,0 +1,71 @@
+{
+  "title": "Buttery French Asparagus Salad",
+  "description": "This raw-friendly, buttery French asparagus salad features crisp, midnight-craving flavors and is perfect for a light meal.",
+  "cuisine": "French",
+  "diet": [
+    "raw",
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Raw Egg Yolk",
+      "amount": "2 yolks",
+      "notes": "For a raw-friendly twist, use yolk only."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "Lettuce Leaves",
+      "amount": "few leaves",
+      "notes": "Iceberg or any type of lettuce for added freshness."
+    }
+  ],
+  "instructions": [
+    "Wash and trim the asparagus to remove tough ends.",
+    "Place the asparagus in a salad bowl, leaving some pieces whole for visual appeal.",
+    "Crack and beat the egg yolks together lightly until well combined but not fully blended. Do not over-mix; this helps maintain the raw texture.",
+    "Top the asparagus with the beaten egg yolks and finely chopped fresh parsley.",
+    "Garnish with any extra lettuce leaves if desired to add a bit more freshness and color."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "raw-eating",
+    "french-salad"
+  ],
+  "nutrition": {
+    "calories": 97,
+    "protein": 6.2,
+    "carbs": 10.3,
+    "fat": 4.5
+  },
+  "slug": "buttery-french-asparagus-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-french-asparagus-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:25:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "asparagus",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Buttery",
+    "dishForm": "Salad"
+  }
+}
