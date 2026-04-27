@@ -1,0 +1,103 @@
+{
+  "title": "Bitter Gooey Middle Eastern Dates Stir-fry",
+  "description": "A festive and indulgent dessert dish featuring dark rum-soaked dates in a rich, aromatic bhuna sauce, perfect for an evening treat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup pearl barley",
+      "amount": "cup",
+      "notes": "Use gluten-free if necessary."
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "10 ounces dark dates",
+      "amount": "oz",
+      "notes": "Pitted and soaked in rum for 4 hours."
+    },
+    {
+      "name": "3 tablespoons bhuna masala powder",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1-inch piece ginger, grated",
+      "amount": "piece"
+    },
+    {
+      "name": "1/4 cup honey or stevia sweetener",
+      "amount": "cup",
+      "notes": "For diabetic-friendly sweetness."
+    },
+    {
+      "name": "2 tablespoons ghee (clarified butter)",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "lemon juice",
+      "notes": "For brightening the flavors."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh mint leaves, chopped (optional)",
+      "amount": "",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "Rinse pearl barley under cold water and soak in warm water for about 10 minutes. Drain the water from the dates.",
+    "In a saucepan, combine soaked dates with pearl barley, water, honey or stevia sweetener, and lemon juice. Bring to a boil then reduce heat to low and simmer until the liquid is absorbed by the grains (about 25-30 minutes).",
+    "Heat ghee in a wok or skillet over medium heat. Add minced garlic and grated ginger; sauté for about 1 minute until fragrant.",
+    "Add bhuna masala powder to the wok, cooking it gently without browning to prevent burning. Stir in the cooked barley-date mixture and cook for an additional 5 minutes.",
+    "Fold in soaked dates, adjusting sweetness if necessary based on your preference. Serve hot garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "gooey",
+    "middle-eastern",
+    "date-stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 12
+  },
+  "slug": "bitter-gooey-middle-eastern-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-gooey-middle-eastern-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:05:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "dark rum",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "dates",
+    "descriptor": "Bitter Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
