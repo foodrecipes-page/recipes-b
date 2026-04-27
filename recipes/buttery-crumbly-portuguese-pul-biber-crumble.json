@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Crumbly Portuguese Pul Biber Creme Brûlée",
+  "description": "This indulgent Portuqese dish features a smooth, creamy custard base infused with pul biber and topped with a crisp, buttery crust suitable for pescatarian diets.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups heavy whipping cream",
+      "amount": "",
+      "notes": "Ensure it's freshly whipped"
+    },
+    {
+      "name": "1 cup whole milk",
+      "amount": "",
+      "notes": "Use for the custard base"
+    },
+    {
+      "name": "4 large eggs",
+      "amount": "",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "3 tablespoons granulated sugar",
+      "amount": "",
+      "notes": "For sweetening"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "",
+      "notes": "Optional, for extra flavor"
+    },
+    {
+      "name": "3 tablespoons pul biber (hot paprika paste)",
+      "amount": "",
+      "notes": "For adding smokiness and heat to the base"
+    },
+    {
+      "name": "1/4 cup butter, at room temperature",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups crushed pistachios or walnuts",
+      "amount": "",
+      "notes": "Optional for extra crunch in the crust"
+    }
+  ],
+  "instructions": [
+    "Whip heavy cream and milk together until stiff peaks form. In a mixing bowl, whisk eggs with sugar, salt, and cumin (if using). Slowly fold whipped mixture into egg base.",
+    "Add pul biber to the custard mix and stir well. Pour evenly into ramekins or molds.",
+    "Bake at 300°F for about 25-30 minutes until set but still slightly jiggly in the center. Chill thoroughly before serving.",
+    "For topping, mix together crushed nuts with melted butter and spread over chilled custard. Chill again for a few hours to solidify."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pul biber",
+    "crumbly",
+    "buttery",
+    "portuguese",
+    "indulgent",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "buttery-crumbly-portuguese-pul-biber-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-portuguese-pul-biber-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:35:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "tadka",
+    "primaryIngredient": "pul biber",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Pul biber",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
