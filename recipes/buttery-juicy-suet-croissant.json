@@ -1,0 +1,79 @@
+{
+  "title": "Buttery Juicy Suet Croissant",
+  "description": "This decadent croissant is infused with the richness of suet and cooked sous-vide for a tender texture, perfect as a crowd-pleasing keto-friendly breakfast or snack.",
+  "cuisine": "European (Croatian-Inspired)",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croissant dough",
+      "amount": "2 pieces",
+      "notes": "Make sure they are fresh and not frozen."
+    },
+    {
+      "name": "Suet (vegetable shortening)",
+      "amount": "100g",
+      "notes": "Use a non-dairy alternative if needed for dietary restrictions."
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "2 yolks",
+      "notes": "For added richness and color"
+    },
+    {
+      "name": "Salted butter",
+      "amount": "50g",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Vegetable oil or neutral-flavored cooking oil",
+      "amount": "A few drops",
+      "notes": "To prevent sticking"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 85°C (185°F).",
+    "Mix the suet with the salted butter and egg yolk until smooth. Add a few drops of oil for better flow.",
+    "Dip each croissant piece into the suet mixture, coating evenly on all surfaces. Place them seam-side down in a shallow pan to preserve the shape.",
+    "Cook sous-vide at 85°C (185°F) for about 30 minutes or until fully cooked through. Ensure that they are not too dark as oil can burn easily at high temperatures.",
+    "Once cooled slightly, brush with egg wash and bake at 200°C (400°F) for about 10-15 minutes to achieve a golden crust on the outside and keep it soft inside."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "suet",
+    "sous-vide",
+    "croissant",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 763,
+    "protein": 27.5,
+    "carbs": 10.4,
+    "fat": 48.6
+  },
+  "slug": "buttery-juicy-suet-croissant",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-suet-croissant",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:00:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "suet",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "suet",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Croissant"
+  }
+}

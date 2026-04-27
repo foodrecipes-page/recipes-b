@@ -1714,6 +1714,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-juicy-suet-croissant",
+    "title": "Buttery Juicy Suet Croissant",
+    "tags": [
+      "suet",
+      "sous-vide",
+      "croissant",
+      "keto-friendly"
+    ],
+    "cuisine": "European (Croatian-Inspired)",
+    "totalTimeMin": 210,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-oat-babadoos",
     "title": "Buttery OatBabadoos",
     "tags": [
