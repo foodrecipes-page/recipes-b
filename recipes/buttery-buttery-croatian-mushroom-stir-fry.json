@@ -1,0 +1,111 @@
+{
+  "title": "Buttery Buttery Croatian Mushroom Stir-fry",
+  "description": "This festive plant-based dish features tender mushrooms and smoky paprika in a buttery sauce that's perfect for a quick lunch or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portobello Mushrooms",
+      "amount": "2 cups sliced",
+      "notes": "Use more if you prefer a thicker sauce"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tbsp",
+      "notes": "Can be replaced with other plant-based oils like olive or coconut oil"
+    },
+    {
+      "name": "White Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1 tsp smoked paprika",
+      "notes": "Or regular paprika if you prefer non-smoked"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "For color and flavor"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "1 tbsp",
+      "notes": "To coat the air fry basket for a buttery finish"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch of salt",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A pinch",
+      "notes": "Or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "In a large bowl, combine the sliced mushrooms, white mushrooms, onion, red bell pepper, paprika powder, and minced garlic. Season with salt and black pepper.",
+    "Drizzle with avocado oil until evenly coated. Toss to coat thoroughly.",
+    "Place the mixture in the air fryer basket, ensuring that there's enough space for even cooking. Spray the inside of the basket lightly with water or a bit more avocado oil to prevent sticking.",
+    "Air fry at 350°F (175°C) for about 20-25 minutes, shaking occasionally until the mushrooms are tender and slightly browned on top.",
+    "Serve hot with additional paprika powder if desired. Enjoy your festive Croatian mushroom stir-fry!",
+    "For a buttery finish, drizzle more avocado oil over the top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "mushroom",
+    "stir-fry",
+    "air-fried",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 11,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "buttery-buttery-croatian-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-buttery-croatian-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:58:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "smoky paprika",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
