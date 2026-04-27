@@ -1,0 +1,75 @@
+{
+  "title": "Buttery Canadian Butter Pancake",
+  "description": "An indulgent Canadian dish featuring semi-skimmed milk and a flaky texture, this buttery pancake is perfect for breakfast or dessert. It’s also paleo-friendly, making it accessible to those following specific dietary restrictions.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semi-skimmed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sweetener of choice (e.g., honey)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "In a mixing bowl, whisk together milk, almond flour, coconut oil, eggs, and baking powder. Add sweetener to taste if desired.",
+    "Once the pan is hot, pour in about 1/4 cup of batter per pancake (about 2-3 pancakes total). Cook for 2 minutes on each side or until golden brown.",
+    "Serve warm with your favorite toppings like maple syrup and fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "pancake",
+    "canadian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 7,
+    "carbs": 48,
+    "fat": 10
+  },
+  "slug": "buttery-canadian-butter-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-canadian-butter-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:43:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "butter",
+    "descriptor": "Buttery",
+    "dishForm": "Pancake"
+  }
+}

@@ -1595,6 +1595,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-canadian-butter-pancake",
+    "title": "Buttery Canadian Butter Pancake",
+    "tags": [
+      "pancake",
+      "canadian",
+      "paleo-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-chewy-algerian-haddock-stir-fry",
     "title": "Buttery Chewy Algerian Haddock Stir-fry",
     "tags": [
