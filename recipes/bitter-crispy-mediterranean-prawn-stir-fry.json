@@ -1,0 +1,96 @@
+{
+  "title": "Bitter Crispy Mediterranean Prawn Stir-fry",
+  "description": "This mediterranean dish features prawns marinated in bitter greens and served with a crispy exterior, perfect for post-workout recovery.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "200g"
+    },
+    {
+      "name": "Bitter Greens (e.g. Arugula, Radicchio)",
+      "amount": "150g"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3",
+      "notes": "minced finely"
+    },
+    {
+      "name": "Leaves of Fresh Dill",
+      "amount": "half a handful"
+    },
+    {
+      "name": "Fresh Lemon Zest and Juice",
+      "amount": "1 lemon each for zest and juice"
+    },
+    {
+      "name": "Red Onion Slices",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons",
+      "notes": "tomato paste or puree can be used as a substitute if unavailable"
+    },
+    {
+      "name": "Olive Oil for Stir-frying",
+      "amount": "4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash prawns and trim any shells.",
+    "Mix minced garlic, lemon zest, fresh dill, olive oil, tomato sauce (or paste), and a pinch of salt in a large bowl. Add the washed bitter greens and mix well.",
+    "Season the mixture with salt and pepper to taste.",
+    "Divide the mixture into 4-5 portions for easier handling.",
+    "Place prawns on one side of each portion and evenly distribute the bitter greens over the prawns, ensuring they are fully covered.",
+    "Preheat a non-stick pan over medium heat. Drizzle in 2 tablespoons of olive oil. Once the oil is hot but not smoking, add portions of the mixture in one layer (do not overcrowd the pan).",
+    "Cook for about 3-4 minutes per side until the prawns are fully cooked and the bitter greens crisp up.",
+    "Remove from heat immediately after flipping to ensure a crispy texture. Season with additional salt if needed before serving.",
+    "Drizzle more olive oil on top of each serving and garnish with fresh dill leaves for added flavor and appearance."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "bittercrispy",
+    "plantbased",
+    "snack",
+    "postworkout"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "bitter-crispy-mediterranean-prawn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-mediterranean-prawn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:57:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "prawns",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Prawn",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

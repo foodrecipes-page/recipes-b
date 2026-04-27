@@ -507,6 +507,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-mediterranean-prawn-stir-fry",
+    "title": "Bitter Crispy Mediterranean Prawn Stir-fry",
+    "tags": [
+      "mediterranean",
+      "bittercrispy",
+      "plantbased",
+      "snack",
+      "postworkout"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crispy-potato-stir-fry",
     "title": "Bitter Crispy Potato Stir-fry",
     "tags": [
