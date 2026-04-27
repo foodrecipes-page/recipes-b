@@ -1,0 +1,89 @@
+{
+  "title": "Braised Australian Butter Stir-fry",
+  "description": "A buttery, dense indulgent Australian dish featuring hot sauce and poached egg-free-friendly elements.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "Skinless"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "1/4 cup",
+      "notes": "Unsweetened"
+    },
+    {
+      "name": "Thousand Island Dressing (substitute for hot sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tablespoon",
+      "notes": "For dredging"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Chopped Fresh Herbs (optional)",
+      "amount": "A few sprigs",
+      "notes": "Such as parsley or dill"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Season chicken with salt and pepper on both sides. Dredge in flour and shake off excess.",
+    "Heat butter in a large skillet over medium-high heat until melted and shimmering.",
+    "Add chicken pieces, skin-side down, and cook for about 3-4 minutes or until golden brown.",
+    "Flip and continue to cook for another 2-3 minutes until desired doneness is achieved. Transfer cooked chicken to a plate.",
+    "In the same skillet, add red wine vinegar and Thousand Island Dressing (substitute for hot sauce). Stir well.",
+    "Return chicken pieces to the skillet along with any accumulated juices. Pour in enough liquid to cover half of the chicken.",
+    "Cover the skillet and place it in the preheated oven. Cook until all the liquid is absorbed, about 10-15 minutes or until tender.",
+    "Garnish with chopped fresh herbs if using and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-australian-dish",
+    "poach-egg-free-friendly",
+    "hot-sauce-substitute"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 31,
+    "carbs": 28,
+    "fat": 25
+  },
+  "slug": "braised-australian-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/braised-australian-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:20:36Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "hotsauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Butter",
+    "descriptor": "Braised",
+    "dishForm": "Stir-fry"
+  }
+}
