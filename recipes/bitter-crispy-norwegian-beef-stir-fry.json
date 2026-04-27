@@ -1,0 +1,77 @@
+{
+  "title": "Bitter Crispy Norwegian Beef Stir-fry",
+  "description": "A romantic and crispy dish featuring beef stock concentrate to add a touch of bitterness, perfect for a light dinner.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stock Concentrate",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add ground beef and cook until browned, stirring occasionally.",
+    "Add garlic paste and paprika powder to the pan and stir well for 1 minute.",
+    "Pour in beef stock concentrate and mix thoroughly. Bring to simmering point.",
+    "Reduce heat to low and let it cook for about 5 minutes or until slightly thickened.",
+    "Season with salt according to taste, ensuring all ingredients are evenly seasoned.",
+    "Serve hot as a side dish or garnish with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "norway",
+    "stir-fry",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 27,
+    "carbs": 3,
+    "fat": 18
+  },
+  "slug": "bitter-crispy-norwegian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-norwegian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:23:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Beef",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

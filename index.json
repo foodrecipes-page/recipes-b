@@ -521,6 +521,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-norwegian-beef-stir-fry",
+    "title": "Bitter Crispy Norwegian Beef Stir-fry",
+    "tags": [
+      "beef",
+      "norway",
+      "stir-fry",
+      "bitter"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crispy-potato-stir-fry",
     "title": "Bitter Crispy Potato Stir-fry",
     "tags": [
