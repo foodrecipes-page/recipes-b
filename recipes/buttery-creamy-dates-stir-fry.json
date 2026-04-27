@@ -1,0 +1,85 @@
+{
+  "title": "Buttery Creamy Dates Stir-fry",
+  "description": "This adventurous Chinese dish features stoned dates poached in a creamy dairy-free sauce that is both buttery and indulgent.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cashews",
+      "amount": "50 grams",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Poach dates in coconut milk for about 30 minutes, until soft.",
+    "In a pan, heat sesame oil and add ginger paste. Stir until fragrant.",
+    "Add soaked cashews to the pan and cook for another minute.",
+    "Pour poached dates into the pan with cashews and stir everything together thoroughly.",
+    "Stir in unsweetened shredded coconut and salt to taste. Cook on low flame for 5 minutes.",
+    "Serve hot as a dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dates",
+    "creamy",
+    "stir-fry",
+    "vegan-friendly",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "buttery-creamy-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-creamy-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:59:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "stoned dates",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Dates",
+    "descriptor": "Buttery Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
