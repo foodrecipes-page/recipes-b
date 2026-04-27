@@ -1,0 +1,103 @@
+{
+  "title": "Bitter Creamy Japanese Quinoa Stir-fry",
+  "description": "A nut-free-friendly bitter and creamy Japanese quinoa dish that can be meal-prepped for quick weeknight dinners.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water or broth",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup unsalted cashews, soaked overnight and drained",
+      "notes": "Optional for added creaminess."
+    },
+    {
+      "name": "1 onion, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup soy sauce (or tamari for gluten-free)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp rice vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tbsp mirin",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup sherry",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp sesame oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until the rinse water is clear. In a medium saucepan, combine rinsed quinoa with water or broth.",
+    "Bring to a boil over high heat, then reduce to low and simmer for about 15 minutes or until liquid is absorbed and quinoa is tender. Remove from heat and let sit covered for 5 minutes.",
+    "In a skillet, sauté onion and garlic until softened. Add red bell pepper and cashews (if using), stir in soy sauce, rice vinegar, mirin, sherry, sesame oil, salt, and pepper. Stir to combine all ingredients.",
+    "Gently fold the cooked quinoa into the skillet mixture until well combined. Serve hot as a side dish or over brown rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "creamy",
+    "japanese",
+    "meal-prep",
+    "quinoa",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 31,
+    "fat": 6
+  },
+  "slug": "bitter-creamy-japanese-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-japanese-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:32:15Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "quinoa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Bitter Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
