@@ -1,0 +1,85 @@
+{
+  "title": "Bitter Tender Mexican Chickpea Stir-fry",
+  "description": "A kid-friendly mexican dish featuring palm sugar in a bitter and tender chickpea stir-fry, perfect for snacking or as part of a meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can chickpeas",
+      "amount": "14 oz (can size)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "1 onion, chopped"
+    },
+    {
+      "name": "3 garlic cloves, minced"
+    },
+    {
+      "name": "1 red bell pepper, julienned"
+    },
+    {
+      "name": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "1/4 cup soy sauce (or tamari for gluten-free option)"
+    },
+    {
+      "name": "1 tablespoon palm sugar (adjust to taste)"
+    },
+    {
+      "name": "Salt and pepper, to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large frying pan over medium-high heat.",
+    "Add chopped onion and sauté until translucent, about 2 minutes.",
+    "Stir in minced garlic and red bell peppers for another minute.",
+    "Toss in chickpeas, ground cumin, soy sauce (tamari), palm sugar, salt, and pepper. Stir everything together well.",
+    "Cook until most of the liquid is absorbed, about 5-7 minutes.",
+    "If needed, reduce heat to low and continue to cook for an additional 3-5 minutes to allow flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "tender",
+    "kid-friendly",
+    "mexican",
+    "palm-sugar",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 213,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "bitter-tender-mexican-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-tender-mexican-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:40:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "palm sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chickpea",
+    "descriptor": "Bitter Tender",
+    "dishForm": "Stir-fry"
+  }
+}

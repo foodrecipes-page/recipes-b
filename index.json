@@ -872,6 +872,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-tender-mexican-chickpea-stir-fry",
+    "title": "Bitter Tender Mexican Chickpea Stir-fry",
+    "tags": [
+      "bitter",
+      "tender",
+      "kid-friendly",
+      "mexican",
+      "palm-sugar",
+      "stir-fry"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-tender-mexican-oxtail-stir-fry",
     "title": "Bitter Tender Mexican Oxtail Stir-fry",
     "tags": [
