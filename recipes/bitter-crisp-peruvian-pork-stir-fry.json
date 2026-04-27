@@ -1,0 +1,87 @@
+{
+  "title": "Bitter Crisp Peruvian Pork Stir-fry",
+  "description": "A hearty and flavorful dish featuring hangover-curing properties from the bitter greens mixed with tender pork shoulder steaks in a savory stir-fry sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder Steaks",
+      "amount": "1 lb",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Mixed Bitter Greens",
+      "amount": "1 cup",
+      "notes": "Includes bitter greens like escarole, endive, and radicchio"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4-6 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Light soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic, scallions, and paprika; stir-fry for about 1 minute until fragrant.",
+    "Add mixed bitter greens and pork to the pan. Stir well to coat ingredients evenly with the spices and sauce.",
+    "Cook for another 5-7 minutes or until vegetables are crisp-tender and meat is cooked through but still slightly pink in the center (internal temperature should be at least 145°F/63°C).",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "bitter",
+    "crisp",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "bitter-crisp-peruvian-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-peruvian-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:57:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pork",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
