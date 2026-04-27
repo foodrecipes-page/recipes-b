@@ -1519,6 +1519,17 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-chinese-tortilla-wrap",
+    "title": "Buttery Chinese Tortilla Wrap",
+    "tags": [
+      "baked-wrap",
+      "nut-free"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-creamy-argentinian-butter-stir-fry",
     "title": "Buttery Creamy Argentinian Butter Stir-fry",
     "tags": [

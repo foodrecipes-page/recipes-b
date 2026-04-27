@@ -1,0 +1,76 @@
+{
+  "title": "Buttery Chinese Tortilla Wrap",
+  "description": "A light and buttery Chinese dish featuring a nut-free-friendly flour tortilla baked to perfection.",
+  "cuisine": "Chinese",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "⅓ cup"
+    },
+    {
+      "name": "Buttery Spread (such as Earth Balance)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flax Meal",
+      "amount": "1 tablespoon (for gluten-free option)"
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "½ teaspoon"
+    }
+  ],
+  "instructions": [
+    "Mix all ingredients together to form a dough.",
+    "Roll out the dough into thin sheets, about ⅛ inch thick.",
+    "Brush both sides of each sheet with buttery spread.",
+    "Sprinkle ground ginger over each sheet evenly.",
+    "Bake at 350°F for 8-10 minutes or until edges are golden brown.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked-wrap",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 8
+  },
+  "slug": "buttery-chinese-tortilla-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chinese-tortilla-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:01:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "flour tortilla",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Buttery",
+    "dishForm": "Wrap"
+  }
+}
