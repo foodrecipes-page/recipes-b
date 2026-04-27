@@ -1,0 +1,80 @@
+{
+  "title": "Bitter Gooey Pork Stir-fry",
+  "description": "A one-pot Brazilian dish featuring bitter gourd and icing sugar, cooked with kosher-friendly techniques for a gooey texture in under an hour.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g bitter gourd",
+      "amount": "1 piece"
+    },
+    {
+      "name": "300g boneless pork, diced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "6 cloves (about 1 tsp)"
+    },
+    {
+      "name": "1 tbsp dried oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "10g icing sugar",
+      "amount": "2-3 ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add onion and garlic, sauté for 5 minutes.",
+    "Add diced pork and cook until browned, about 8 minutes.",
+    "Stir in bitter gourd, oregano, and icing sugar. Cook, stirring occasionally, for an additional 10-15 minutes or until the pork is tender and the mixture has a gooey consistency.",
+    "Serve hot as a side dish with rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-gooey",
+    "brazilian-dish",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 768,
+    "protein": 29.2,
+    "carbs": 10.4,
+    "fat": 35.2
+  },
+  "slug": "bitter-gooey-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-gooey-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:43:28Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "pressure-cook",
+    "primaryIngredient": "icing sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork",
+    "descriptor": "Bitter Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

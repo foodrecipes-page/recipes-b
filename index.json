@@ -881,6 +881,18 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-gooey-pork-stir-fry",
+    "title": "Bitter Gooey Pork Stir-fry",
+    "tags": [
+      "bitter-gooey",
+      "brazilian-dish",
+      "keto-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-joy-moroccan-reviver",
     "title": "Bitter Joy Moroccan Reviver",
     "tags": [
