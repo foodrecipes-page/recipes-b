@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Crumbly Light Egyptian Dates Crumble",
+  "description": "A vegan dessert featuring light and bitter Egyptian dates topped with a crumbly crumble made from chia seeds, mixed with chimichurri sauce for added flavor.",
+  "cuisine": "Vegan Egyptian Dessert",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup pitted light Egyptian dates",
+      "amount": "",
+      "notes": "Use dried or fresh, depending on availability."
+    },
+    {
+      "name": "2 tablespoons chia seeds",
+      "amount": "",
+      "notes": "Soak in a bit of water before mixing with other ingredients."
+    },
+    {
+      "name": "1/4 cup nutritional yeast (optional for extra umami)",
+      "amount": "",
+      "notes": "Adjust to taste, can be omitted."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "For bitterness and acidity balance."
+    },
+    {
+      "name": "2 tablespoons chimichurri sauce (store-bought or homemade with parsley, garlic, vinegar)",
+      "amount": "",
+      "notes": "Add extra flavor to the crumble."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "Enhances flavors."
+    },
+    {
+      "name": "1/4 cup unsweetened almond milk (or any non-dairy milk for richness and creaminess)",
+      "amount": "",
+      "notes": "Used as a binding agent in the crumble."
+    },
+    {
+      "name": "2 tablespoons cornstarch",
+      "amount": "",
+      "notes": "For thickening the sauce when making chimichurri."
+    },
+    {
+      "name": "1/4 cup water (or vegan milk for richer texture)",
+      "amount": "",
+      "notes": "Used to mix with cornstarch and create a glaze."
+    }
+  ],
+  "instructions": [
+    "Soak chia seeds in almond milk overnight or for at least 30 minutes.",
+    "In a blender, puree dates until smooth. Add lemon juice and blend again for extra zestiness.",
+    "Combine the date mixture with soaked chia seeds and nutritional yeast (if using). Mix well.",
+    "For chimichurri sauce: Mix together all chimichurri ingredients in a bowl until well combined.",
+    "Add chimichurri to the date and chia mixture, stirring continuously for about 2 minutes. Let it rest for a few minutes.",
+    "In another mixing bowl, whisk together cornstarch with water (or vegan milk). Slowly pour over the date-chia mixture while blending.",
+    "Pour into a shallow dish or mold. Chill in fridge for at least an hour before serving to set and crispiness is maintained.",
+    "Serve with fresh greens as a salad dressing or drizzle liberally on top of crumble to add extra layers of flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crumbly",
+    "light",
+    "egyptian",
+    "dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 4
+  },
+  "slug": "bitter-crumbly-light-egyptian-dates-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-light-egyptian-dates-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:38:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "slow-cook",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Dates",
+    "descriptor": "Bitter Crumbly Light",
+    "dishForm": "Crumble"
+  }
+}
