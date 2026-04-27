@@ -1,0 +1,68 @@
+{
+  "title": "Boiled Crumbled Algerian Tomato",
+  "description": "A fermented and flaky vegetarian-friendly Algerian dish featuring beef tomatoes that provides an energizing kick.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef tomatoes",
+      "amount": "2 (150g can) peeled, seeded"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a few torn into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 crushed"
+    }
+  ],
+  "instructions": [
+    "Boil the beef tomatoes in a pot of salted water for about 10 minutes until soft.",
+    "Drain and let cool slightly, then carefully crush or crumble them into smaller pieces.",
+    "In a skillet, heat olive oil over medium heat. Add garlic and sauté for about 30 seconds until fragrant.",
+    "Add the crumbled tomatoes to the skillet with basil leaves. Cook for another 5-7 minutes, stirring occasionally, until all ingredients are evenly combined.",
+    "Season with salt to taste and serve as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "energizing",
+    "beef-tomato"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "boiled-crumbled-algerian-tomato",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boiled-crumbled-algerian-tomato",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:39:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tomato",
+    "descriptor": "Boiled",
+    "dishForm": "Crumble"
+  }
+}
