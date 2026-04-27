@@ -1,0 +1,85 @@
+{
+  "title": "Boiled Argentinian Butter Stir-fry",
+  "description": "A light and buttery Argentine dish featuring fresh basil that's perfect for a quick weeknight meal.",
+  "cuisine": "Argentine",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup finely chopped fresh basil leaves",
+      "amount": ""
+    },
+    {
+      "name": "10 ounces gluten-free bread cubes (optional)",
+      "amount": "oz"
+    },
+    {
+      "name": "8 ounces boneless, skinless chicken breast slices",
+      "amount": "oz"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup dry white wine",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add olive oil.",
+    "Add chicken slices, salt, and pepper. Cook until browned on both sides.",
+    "Stir in garlic and cook for about 30 seconds or until fragrant.",
+    "Pour in the white wine. Reduce by half.",
+    "If using bread cubes, add them to the pan; if not, skip this step.",
+    "Toss gently to coat with sauce.",
+    "Stir in chopped basil.",
+    "Reduce heat and simmer for about 5 minutes or until all liquid is absorbed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "buttery",
+    "light",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "boiled-argentinian-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boiled-argentinian-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:40:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "fresh basil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Butter",
+    "descriptor": "Boiled",
+    "dishForm": "Stir-fry"
+  }
+}

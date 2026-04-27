@@ -1200,6 +1200,19 @@
     "shard": "b"
   },
   {
+    "slug": "boiled-argentinian-butter-stir-fry",
+    "title": "Boiled Argentinian Butter Stir-fry",
+    "tags": [
+      "argentine",
+      "buttery",
+      "light",
+      "basil"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-irish-aube-crumble",
     "title": "Boiled Irish Aubergine Crumble",
     "tags": [
