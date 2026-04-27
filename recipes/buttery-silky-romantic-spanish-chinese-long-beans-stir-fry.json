@@ -1,0 +1,98 @@
+{
+  "title": "Buttery Silky Romantic Spanish Chinese Long Beans Stir-fry",
+  "description": "This Low-Carb Friendly dish combines creamy and buttery flavors with a twist of spicy and sweet taste to create a romantic Spanish-inspired stir-fry using chinese long beans, perfect for any dinner.",
+  "cuisine": "Spanish-Chinese Fusion",
+  "diet": [
+    "low-carb",
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chinese long beans",
+      "amount": "300g"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "2-3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-5 pieces"
+    },
+    {
+      "name": "red bell pepper slices",
+      "amount": "1 medium"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "1 (optional, for spiciness)"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "dash of sriracha sauce or red pepper flakes (optional, for spice)",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C). Place chinese long beans on a baking sheet lined with parchment paper. Season them lightly with salt and pepper. Roast in the oven for about 20 minutes until tender but still slightly crisp.",
+    "While beans are roasting, roughly chop the garlic cloves and mince jalapeno peppers finely if using. Set aside.",
+    "In a large skillet over medium heat, melt coconut cream by microwaving gently or on stove top, stirring occasionally to avoid burning.",
+    "Add minced garlic, red bell pepper slices, and optional jalapeno peppers to the skillet. Stir fry for about 5 minutes until veggies soften slightly.",
+    "Remove roasted beans from oven and set aside. Add ground black pepper and sugar to coconut cream in the skillet, whisking well to combine flavors.",
+    "Gently fold roasted chinese long beans into the creamy mixture and continue to stir-fry for another minute or two allowing everything to meld together nicely.",
+    "Taste test and adjust seasoning if necessary with salt or sriracha/red pepper flakes (if using). Serve hot garnished with a sprinkle of ground almonds for added crunch and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "romantic-dinner",
+    "spanish-chinese-fusion",
+    "low-carb-friendly",
+    "stir-fry",
+    "sweet-spicy",
+    "creamy-flavors"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 18,
+    "fat": 20
+  },
+  "slug": "buttery-silky-romantic-spanish-chinese-long-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-romantic-spanish-chinese-long-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:40:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "chinese long beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chinese Long Beans",
+    "descriptor": "Buttery Silky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
