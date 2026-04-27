@@ -1098,6 +1098,18 @@
     "shard": "b"
   },
   {
+    "slug": "broiled-earthy-chestnut-stir-fry",
+    "title": "Broiled Earthy Chestnut Stir-fry",
+    "tags": [
+      "earthly-chestnut-stir-fry",
+      "korean-diet-friendly",
+      "weeknight-cooking"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "broiled-paniyuri-pancakes",
     "title": "Broiled Paniyuri Pancakes",
     "tags": [

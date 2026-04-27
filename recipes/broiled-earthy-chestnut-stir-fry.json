@@ -1,0 +1,95 @@
+{
+  "title": "Broiled Earthy Chestnut Stir-fry",
+  "description": "A weeknight Korean dish featuring cooked chestnuts that are lightly broiled to add a crispy texture and earthy flavor. This low-fat-friendly recipe is perfect for those with dietary restrictions.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Earthy Chestnuts",
+      "amount": "1 cup (around 40 chestnuts)",
+      "notes": "Soak in water for at least 2 hours before cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 green onion, chopped",
+      "notes": null
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing on chestnuts"
+    },
+    {
+      "name": "Minced Ginger",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat broiler and place a baking sheet on the top rack of your oven.",
+    "Rinse chestnuts under cold water, then soak in hot water for at least 2 hours or up to overnight. Drain and pat dry with paper towels.",
+    "In a small bowl, mix together soy sauce, gochujang, minced ginger, and brown sugar. Set aside.",
+    "Combine the drained chestnuts with the marinade mixture. Cover and let sit for about 30 minutes at room temperature.",
+    "Drain off any excess liquid from the chestnuts and discard the marinade. Pat the chestnuts dry again.",
+    "Place the broiler rack on the top rack of your preheated oven and heat to high. Brush each chestnut with vegetable oil, then place on the prepared baking sheet.",
+    "Broil for 10-15 minutes or until golden brown and crispy, shaking occasionally to prevent burning. Remove from oven and let sit for a few minutes before serving.",
+    "While chestnuts are broiling, stir-fry scallions in a wok or large skillet over medium-high heat until just wilted.",
+    "Add garlic and ginger to the scallion mixture and sauté for about 1 minute. Then add the marinated chestnuts, stirring to coat them evenly with the sauce.",
+    "Remove from heat and serve hot as a side dish or main course with rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthly-chestnut-stir-fry",
+    "korean-diet-friendly",
+    "weeknight-cooking"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 13
+  },
+  "slug": "broiled-earthy-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/broiled-earthy-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:51:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chestnut",
+    "descriptor": "Broiled",
+    "dishForm": "Stir-fry"
+  }
+}
