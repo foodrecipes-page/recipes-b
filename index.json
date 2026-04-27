@@ -722,6 +722,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-tender-mexican-oxtail-stir-fry",
+    "title": "Bitter Tender Mexican Oxtail Stir-fry",
+    "tags": [
+      "bitter",
+      "tender",
+      "mexican",
+      "oaxacan",
+      "oxtail"
+    ],
+    "cuisine": "Mexican (Oaxacan)",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-velvety-argentinian-avocado-hass-salad",
     "title": "Bitter Velvety Argentinian Avocado Hass Salad",
     "tags": [

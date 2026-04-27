@@ -1,0 +1,90 @@
+{
+  "title": "Bitter Tender Mexican Oxtail Stir-fry",
+  "description": "A light and tender oxtail dish infused with the bold flavors of Mexico (Oaxaca) in a savory broth.",
+  "cuisine": "Mexican (Oaxacan)",
+  "diet": [
+    "low-sodium-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "10 ounces"
+    },
+    {
+      "name": "onions",
+      "amount": "2, chopped"
+    },
+    {
+      "name": "toasted cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat.",
+    "Add oxtail and onions to the pan, cook until lightly browned on all sides.",
+    "Mix in tomato puree, chili powder, cumin seeds, sugar, salt, and lime juice. Stir well until the mixture comes together into a sauce.",
+    "Simmer for 15-20 minutes or until the oxtail is tender but not falling apart.",
+    "Stir in cilantro leaves just before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "tender",
+    "mexican",
+    "oaxacan",
+    "oxtail"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "bitter-tender-mexican-oxtail-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-tender-mexican-oxtail-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:24:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "oxtail",
+    "diet": "low-sodium",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "oxtail",
+    "descriptor": "Bitter Tender",
+    "dishForm": "Stir-fry"
+  }
+}
