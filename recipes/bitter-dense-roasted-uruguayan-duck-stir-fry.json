@@ -1,0 +1,87 @@
+{
+  "title": "Bitter Dense Roasted Uruguayan Duck Stir-fry",
+  "description": "This date-night dish features a mediterranean-friendly twist on traditional Uruguayan duck preparation, featuring a rich and flavorful bitter sauce with dense textures.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruca beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Duck meat",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Bitter almond paste",
+      "amount": "2 tbsp, optional for extra bitterness"
+    },
+    {
+      "name": "Water or chicken broth",
+      "amount": "4-5 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the urucá beans by boiling them in water until tender, then drain and set aside.",
+    "Season the duck with salt and pepper. Roast the duck in the oven for about 20-25 minutes or until golden brown.",
+    "In a large skillet, sauté garlic and onion until fragrant, adding paprika and cumin seeds if using.",
+    "Add tomato paste to the skillet and cook for another minute, stirring continuously to prevent burning.",
+    "Stir in water (or chicken broth) with the bitter almond paste (if using), bring to a simmer, then reduce heat to low.",
+    "Slice the roasted duck into pieces and add them to the sauce. Simmer until the liquid thickens slightly and coats the meat evenly.",
+    "Combine the cooked urucá beans with the sauce, allowing it to absorb more of the flavors.",
+    "prepTimeMin: 30",
+    "cookTimeMin: 25",
+    "totalTimeMin: 60",
+    "servings: 4",
+    "difficulty: 'medium'",
+    "tags: ['uruguayan', 'duck', 'stir-fry', 'bitter', 'date-night', 'mediterranean-friendly']",
+    "nutrition: {",
+    "calories: 350",
+    "protein: 25g",
+    "carbs: 45g",
+    "fat: 18g"
+  ],
+  "slug": "bitter-dense-roasted-uruguayan-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-roasted-uruguayan-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:12:28Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "duck",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "duck",
+    "descriptor": "Bitter Dense Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
