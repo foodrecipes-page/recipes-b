@@ -1741,6 +1741,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-silky-lazy-sunday-mozzarella-stir-fry",
+    "title": "Buttery Silky Lazy Sunday Mozzarella Stir-fry",
+    "tags": [
+      "lazy-sunday",
+      "norwegian",
+      "stir-fry",
+      "milk-based",
+      "nut-free"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-silky-light-venezuelan-wild-mushrooms-stir-fry",
     "title": "Buttery Silky Light Venezuelan Wild Mushrooms Stir-fry",
     "tags": [
