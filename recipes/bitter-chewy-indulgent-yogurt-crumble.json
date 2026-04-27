@@ -1,0 +1,85 @@
+{
+  "title": "Bitter Chewy Indulgent Yogurt Crumble",
+  "description": "A Portuguese dessert featuring greek yogurt mixed with a bitter filling made from cured meats, creating an indulgent and chewy treat that is kosher-friendly.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cured Meat (like guanciale or prosciutto)",
+      "amount": "100g"
+    },
+    {
+      "name": "Demerara Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vanilla Bean Powder",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pistachios (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Blend the Greek yogurt until smooth.",
+    "Add in the ground cinnamon, vanilla bean powder, and demerara sugar. Mix well to combine.",
+    "Fold in the flour gently until a thick but spreadable mixture forms.",
+    "Gradually incorporate the shredded cured meat into the mixture, ensuring it's evenly distributed.",
+    "Gently fold in the coconut flakes and pistachios if using.",
+    "Press the mixture firmly into a lined baking dish to form an even layer of crumble. Chill for at least 1 hour before serving.",
+    "Serve with a side of fresh berries or honey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-dessert",
+    "greek-yogurt-crumb",
+    "indulgent-dessert",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "bitter-chewy-indulgent-yogurt-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-indulgent-yogurt-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:40:16Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "greek yogurt",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Bitter Chewy Indulgent",
+    "dishForm": "Crumble"
+  }
+}
