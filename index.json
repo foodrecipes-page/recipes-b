@@ -708,6 +708,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-mediterranean-ferment-stir-fry",
+    "title": "Bitter Crunchy Mediterranean Ferment Stir-fry",
+    "tags": [
+      "bitter",
+      "crunchy",
+      "mediterranean",
+      "ferment",
+      "solo-dinner"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 12,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-mediterranean-olives-crumble",
     "title": "Bitter Crunchy Mediterranean Olives Crumble",
     "tags": [

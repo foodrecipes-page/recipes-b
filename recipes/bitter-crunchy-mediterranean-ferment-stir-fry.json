@@ -1,0 +1,78 @@
+{
+  "title": "Bitter Crunchy Mediterranean Ferment Stir-fry",
+  "description": "A solo-dinner mediterranean dish featuring frozen mixed berries and fermented vegetables for a unique flavor combination.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Mixed Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Vegetables (e.g. Kimchi or Sauerkraut)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (like Mint, Dill, and Parsley)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the frozen mixed berries, fermented vegetables, and fresh herbs. Stir-fry for about 2 minutes.",
+    "Add the crushed garlic clove to the pan. Cook for another minute until fragrant.",
+    "Season with sea salt and mix well to combine flavors.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "mediterranean",
+    "ferment",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "bitter-crunchy-mediterranean-ferment-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-mediterranean-ferment-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:57:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Ferment",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
