@@ -1,0 +1,95 @@
+{
+  "title": "Buttery Creamy Midnight Moroccan Turkey Stir-fry",
+  "description": "A buttery and creamy moroccan dish featuring turkey mince, perfect for midnight craving with a dash-friendly recipe.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb ground turkey",
+      "amount": "1 lb",
+      "notes": "ensure it's lean ground turkey"
+    },
+    {
+      "name": "1 can (240ml) full-fat coconut milk",
+      "amount": "1 can",
+      "notes": "use fresh or frozen, if available"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1/4 cup finely chopped onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "4 oz cream cheese, softened",
+      "amount": "4 oz"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion and garlic to the skillet; sauté for about 5 minutes until soft and fragrant.",
+    "Add ground turkey and cumin, paprika, salt, and pepper. Stir-fry for 8-10 minutes until meat is well combined and lightly browned.",
+    "Stir in coconut milk; bring it to a simmer, then reduce heat to low.",
+    "In another bowl, mix softened cream cheese with butter until smooth.",
+    "Pour the butter mixture over the stir-fried turkey slowly, stirring continuously to ensure everything melts together smoothly.",
+    "Simmer for about 10 minutes until creamy and well combined. Remove from heat and serve.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan-turkey-stir-fry",
+    "creamy-buttery-dish",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 20
+  },
+  "slug": "buttery-creamy-midnight-moroccan-turkey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-creamy-midnight-moroccan-turkey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:53:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "turkey mince",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Turkey",
+    "descriptor": "Buttery Creamy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
