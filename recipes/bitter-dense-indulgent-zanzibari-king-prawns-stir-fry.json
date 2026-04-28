@@ -1,0 +1,70 @@
+{
+  "title": "Bitter Dense Indulgent Zanzibari King Prawns Stir-fry",
+  "description": "A middle-eastern dish featuring raw king prawns in a bitter and indulgent sauce, perfect for an exotic and rich meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King Prawns",
+      "amount": "10"
+    },
+    {
+      "name": "Bitter Herbs (e.g. Dill, Tarragon)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Wash the prawns thoroughly and pat them dry.",
+    "Mix in a bowl the king prawns, bitter herbs, red bell pepper, onion, and season with salt and black pepper according to taste.",
+    "Place the mixture on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes until slightly charred and crisp.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zanzibari",
+    "king-prawns",
+    "stir-fry",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 9,
+    "carbs": 3,
+    "fat": 1
+  },
+  "slug": "bitter-dense-indulgent-zanzibari-king-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-indulgent-zanzibari-king-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:24:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "raw king prawns",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "king prawns",
+    "descriptor": "Bitter Dense Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
