@@ -1,0 +1,99 @@
+{
+  "title": "Bitter Flaky Jamaican Aubergine Crumble",
+  "description": "A midnight craving dish featuring bitter aubergines poached in a flavorful blend of spices and served with a flaky nut-free crumble topping.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 medium sized aubergine",
+      "amount": "1 piece"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "1 piece"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "30ml coconut milk",
+      "amount": "30 ml"
+    },
+    {
+      "name": "40g caster sugar",
+      "amount": "40 g"
+    },
+    {
+      "name": "60ml vegetable oil",
+      "amount": "60 ml"
+    },
+    {
+      "name": "1 tsp ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "1/2 tsp cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nut-free crumble topping (optional)",
+      "amount": null
+    },
+    {
+      "name": "Preparation of crumble topping ingredients not listed here as optional",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Peel and chop the aubergine into small cubes.",
+    "Slice the onion thinly and sauté in the oil until translucent.",
+    "Add chopped garlic to the onions, cook for another minute.",
+    "Add all spices (ground allspice, cayenne pepper, vanilla extract) and mix well.",
+    "Add coconut milk and caster sugar. Stir till sugar dissolves.",
+    "Place aubergine cubes on top of the mixture in a pan. Adjust heat to maintain a low simmer and cook for 20 minutes or until aubergines are soft but not falling apart.",
+    "For crumble topping, mix together optional ingredients as per recipe (this part is left blank)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aubergine",
+    "jamaican",
+    "nut-free",
+    "crumble",
+    "morning",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "bitter-flaky-jamaican-aubergine-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-jamaican-aubergine-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:18:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "aubergine",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "aubergine",
+    "descriptor": "bitter flaky midnight-craving nut-free-friendly",
+    "dishForm": "Crumble"
+  }
+}
