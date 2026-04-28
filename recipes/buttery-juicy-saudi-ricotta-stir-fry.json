@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Juicy Saudi Ricotta Stir-fry",
+  "description": "This comforting and paleo-friendly dish features ricotta in a buttery sauce with aromatic spices, ideal for a quick and easy dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bell pepper slices",
+      "amount": "1/4 cup, diced"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "1 handful, fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the unsalted butter in a pan over medium heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Pour in chicken broth and stir to reduce slightly.",
+    "Stir in ricotta cheese, cooking and stirring until melted and smooth.",
+    "Fold in pineapple chunks and bell pepper slices. Cook for another minute or so.",
+    "Garnish with fresh spinach leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "juicy",
+    "saudi-arabian",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 581,
+    "protein": 21,
+    "carbs": 36,
+    "fat": 29
+  },
+  "slug": "buttery-juicy-saudi-ricotta-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-saudi-ricotta-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:29:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "ricotta",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
