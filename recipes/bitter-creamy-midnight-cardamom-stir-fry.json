@@ -1,0 +1,100 @@
+{
+  "title": "Bitter Creamy Midnight Cardamom Stir-fry",
+  "description": "A Korean-inspired dish featuring a creamy and bitter sauce with cardamom, perfect for midnight cravings. Dairy-free and suitable for vegetarians.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cardamom pods",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low sodium if available"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pepper, to taste"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Nutritional yeast (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "3 cups",
+      "notes": "heated to 400F/205C and mixed with cardamom powder until smooth"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat.",
+    "Add the minced garlic and onion. Sauté for about 1 minute, stirring frequently to prevent burning.",
+    "Pour in the tomato paste and stir-fry for another minute until fragrant and darkened slightly.",
+    "Add water, soy sauce (and optional low sodium version), cardamom powder, and pepper. Bring to a simmer.",
+    "Stir in almond milk and nutritional yeast if using. Allow it to thicken into a creamy consistency as you stir.",
+    "Remove from heat once the mixture is thickened enough for stirring without clumping. Season with additional salt or pepper if needed.",
+    "Serve immediately over steamed vegetables, rice, or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-creamy",
+    "midnight-cardamom-stir-fry",
+    "korean-style",
+    "vegan-friendly",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "bitter-creamy-midnight-cardamom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-midnight-cardamom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:04:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "cardamom",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cardamom",
+    "descriptor": "Bitter Creamy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
