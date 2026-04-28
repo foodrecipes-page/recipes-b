@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Silky Low Fat Italian Wild Garlic Leaves Stir-fry",
+  "description": "A weeknight Ligurian-inspired dish featuring wild garlic leaves in a buttery, silky sauce made with low-fat ingredients.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Garlic Leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Broccoli Rabe",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "5 tablespoons"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth or Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Wine Vinegar (optional)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil for Stir-Frying",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Low-Fat Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce or Tamari",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Italian Seasoning (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Clean and chop the wild garlic leaves into thin strips. Wash and cut broccoli rabe into small florets.",
+    "Heat 3 tablespoons of olive oil in a wok or large skillet over medium-high heat. Add garlic cloves, stir-fry for about 1 minute until fragrant.",
+    "Add chopped wild garlic leaves to the pan with some salt, cook for another 2-3 minutes until they start to wilt slightly but not too soft.",
+    "Stir in red wine vinegar if using, and let it reduce by half (about 5 minutes).",
+    "Deglaze the wok with low-sodium chicken broth or water, bringing to a simmer. Add salt and pepper to taste, mix well.",
+    "Turn down heat to medium-low. Stir in low-fat butter until melted and smooth, adding Italian seasoning if using. Let it cook for another 2-3 minutes until slightly thickened but not boiling.",
+    "Toss broccoli rabe with the sauce just before serving. Serve hot as a side dish or over cooked pasta.",
+    "Optional: Garnish with fresh herbs like parsley or basil and serve with crusty bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "ligurian",
+    "low-fat",
+    "wild-garlic-leaves",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:01:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "low-fat",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Wild Garlic Leaves",
+    "descriptor": "Buttery Silky Low Fat",
+    "dishForm": "Stir-fry"
+  }
+}
