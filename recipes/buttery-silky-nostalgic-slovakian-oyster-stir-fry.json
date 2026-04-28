@@ -1,0 +1,84 @@
+{
+  "title": "Buttery Silky Nostalgic Slovakian Oyster Stir-fry",
+  "description": "A Mediterranean-friendly dish featuring oyster sauce in a buttery and silky texture, perfect for a comforting dinner or snack.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sous-vide'd Oysters",
+      "amount": "200g"
+    },
+    {
+      "name": "Butter",
+      "amount": "5 tbsp"
+    },
+    {
+      "name": "Soy Sauce (for flavoring)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "Chives",
+      "amount": "2-3 stalks, chopped"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Sous-vide the oysters according to your appliance's instructions for medium heat, about 45 minutes.",
+    "In a large skillet or wok, melt the butter over medium-high heat. Add minced garlic and cook until fragrant, about 30 seconds.",
+    "Add the melted butter mixture to the skillet with the sous-vide'd oysters, soy sauce, chives, thyme sprigs, and pepper. Stir gently for about a minute.",
+    "Serve immediately as an appetizer or snack."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "silky",
+    "nostalgic",
+    "slovakian",
+    "oyster",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 24
+  },
+  "slug": "buttery-silky-nostalgic-slovakian-oyster-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-nostalgic-slovakian-oyster-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:32:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "oyster sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Oyster",
+    "descriptor": "Buttery Silky Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
