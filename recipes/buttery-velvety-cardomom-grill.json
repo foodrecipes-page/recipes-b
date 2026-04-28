@@ -1,0 +1,83 @@
+{
+  "title": "Buttery Velvety Cardomom Grill",
+  "description": "A show-off Croatian dish featuring ground cardamom in a buttery, velvety sauce for grilled meats or vegetables, perfect for Mediterranean-friendly meals.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb ground beef",
+      "amount": "1 pound",
+      "notes": "Use leaner cuts to ensure the dish doesn't become too greasy."
+    },
+    {
+      "name": "1/2 cup butter",
+      "amount": "1/2 cup",
+      "notes": "Choose a high-quality, unsalted butter for best flavor."
+    },
+    {
+      "name": "1 teaspoon ground cardamom",
+      "amount": "1 tsp",
+      "notes": "Add a touch of spice without overpowering the dish."
+    },
+    {
+      "name": "Juice of 2 lemons",
+      "amount": "juice of 2 lemons",
+      "notes": "Provides acidity to balance the richness of the sauce."
+    },
+    {
+      "name": "1 large egg yolk",
+      "amount": "1 yolk",
+      "notes": "Enhances creaminess and depth of flavor."
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null,
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Gently heat a skillet over medium heat. Add butter and let it melt.",
+    "Once melted, add ground beef to the skillet in small batches, cooking until browned on all sides. Remove from pan and set aside.",
+    "In the same pan, using the remaining fat, sauté lemons with a pinch of salt until they release their juices. Add cardamom powder into the mixture.",
+    "Return the beef to the skillet, reduce heat, and add the egg yolk. Stir continuously for about 1-2 minutes until fully combined and sauce is smooth.",
+    "Season with salt and pepper to taste. Serve over grilled vegetables or meats for a mediterranean twist."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "velvety",
+    "cardamom",
+    "grill",
+    "croatian",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 24
+  },
+  "slug": "buttery-velvety-cardomom-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-velvety-cardomom-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:51:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "ground cardomom",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Cardomom",
+    "descriptor": "Buttery Velvety",
+    "dishForm": "Grill"
+  }
+}
