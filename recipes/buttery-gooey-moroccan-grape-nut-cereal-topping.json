@@ -1,0 +1,74 @@
+{
+  "title": "Buttery Gooey Moroccan Grape Nut Cereal Topping",
+  "cuisine": "Moroccan",
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grape Nuts",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Almond Paste (or smooth almond paste)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Melted Butter or vegan butter substitute",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Almonds, finely chopped (optional)",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place Grape Nuts in a shallow baking dish.",
+    "Combine almond paste with melted butter and brown sugar in a small bowl, then pour over the Grape Nuts evenly.",
+    "Sprinkle chopped almonds on top if desired, for an extra crunch.",
+    "Bake for 10-12 minutes until golden brown and gooey. Stir halfway through cooking time to ensure even browning.",
+    "Let cool slightly before serving. Serve with toasted bread slices or as a topping for yogurt or ice cream."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "buttery",
+    "gooey",
+    "grape-nuts"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "buttery-gooey-moroccan-grape-nut-cereal-topping",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-moroccan-grape-nut-cereal-topping",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:23:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Grape Nut Cereal",
+    "descriptor": "Buttery Gooey",
+    "dishForm": "Topping"
+  }
+}

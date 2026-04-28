@@ -2395,6 +2395,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-gooey-moroccan-grape-nut-cereal-topping",
+    "title": "Buttery Gooey Moroccan Grape Nut Cereal Topping",
+    "tags": [
+      "moroccan",
+      "buttery",
+      "gooey",
+      "grape-nuts"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-indian-dates-stir-fry",
     "title": "Buttery Indian Dates Stir-fry",
     "tags": [
