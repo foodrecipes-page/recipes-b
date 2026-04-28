@@ -1,0 +1,86 @@
+{
+  "title": "Bitter Lemon Mediterranean Tomato Stir-fry",
+  "description": "A light and festive mediterranean dish featuring a bitter lemon sauce that deglazes the pan to create a rich flavor profile without the use of dairy or gluten.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp",
+      "notes": "For a lighter touch, consider using avocado or sesame seed oil instead."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "",
+      "notes": "Use the bitter part of the lemon for added depth and complexity in flavor."
+    },
+    {
+      "name": "1 medium tomato, diced",
+      "amount": ""
+    },
+    {
+      "name": "20 cherry tomatoes",
+      "amount": "",
+      "notes": "Halved to allow for a vibrant pop of color and additional acidity."
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "minimally",
+      "notes": "For a slight kick to balance the bitterness, add a few grinds at the end if desired."
+    }
+  ],
+  "instructions": [
+    "In a skillet or wok over medium-high heat, warm the olive oil until shimmering.",
+    "Add garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Squeeze in the lemon juice from the bitter part of the lemon. Deglaze the pan to create an emulsified sauce rich with lemony zest.",
+    "Fold in the diced tomato pieces, followed by halved cherry tomatoes.",
+    "Season lightly with sea salt and freshly ground black pepper.",
+    "Cook until the cherry tomatoes burst and the sauce thickens slightly but remains loose and vibrant, about 5-7 minutes.",
+    "Stir frequently to ensure even cooking and prevent sticking."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-lemon",
+    "mediterranean-stir-fry",
+    "whole30-friendly-diet"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 26,
+    "fat": 7
+  },
+  "slug": "bitter-lemon-mediterranean-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-lemon-mediterranean-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:55:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tomato",
+    "descriptor": "Bitter Lemon",
+    "dishForm": "Stir-fry"
+  }
+}
