@@ -1,0 +1,93 @@
+{
+  "title": "Buttery Velvety Indian Chicken Stir-fry",
+  "description": "A lazy Sunday Polish dish featuring chicken stock cube, bhuna spices for a rich and velvety texture, served as a side dish or light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "bhuna spices blend (optional)",
+      "notes": "includes turmeric, cayenne pepper, red chili flakes"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onion, finely chopped garlic, and ginger. Stir-fry for about 2 minutes until softened.",
+    "Add chicken to the pan and cook until golden brown on all sides (about 5-7 minutes).",
+    "Stir in coriander seeds, cumin seeds, and bhuna spices blend. Cook for another minute until fragrant.",
+    "Pour in chicken stock cube dissolved in a little water. Bring to a boil, then reduce heat to low.",
+    "Simmer gently for about 20 minutes or until the sauce has thickened slightly (adjust seasoning if needed).",
+    "Serve hot with steamed basmati rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "velvety",
+    "lazy-sunday",
+    "polish",
+    "indian-chicken-stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 7,
+    "fat": 26
+  },
+  "slug": "buttery-velvety-indian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-velvety-indian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:59:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "buttery velvety",
+    "dishForm": "Stir-fry"
+  }
+}
