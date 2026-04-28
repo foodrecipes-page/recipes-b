@@ -1353,6 +1353,19 @@
     "shard": "b"
   },
   {
+    "slug": "boiled-greek-chicken-stir-fry",
+    "title": "Boiled Greek Chicken Stir-fry",
+    "tags": [
+      "greek",
+      "floral",
+      "dense",
+      "romantic"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-irish-aube-crumble",
     "title": "Boiled Irish Aubergine Crumble",
     "tags": [
