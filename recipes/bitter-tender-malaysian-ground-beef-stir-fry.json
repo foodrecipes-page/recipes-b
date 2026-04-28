@@ -1,0 +1,83 @@
+{
+  "title": "Bitter Tender Malaysian Ground Beef Stir-fry",
+  "description": "A weeknight-friendly Malaysian dish featuring tender ground beef cooked in a bitter sauce for added flavor and texture, suitable for those on the paleo diet.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Kecap Manis (Indonesian Sweet Soy Sauce)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sambal Belacuan (Malaysian Chili Paste)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Cilantro (coriander), finely chopped",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or frying pan over medium-high heat and add oil.",
+    "Add ground beef to the pan and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in minced garlic and cook for about 30 seconds until fragrant but not burnt.",
+    "Pour in kecap manis (Indonesian sweet soy sauce) and sambal belacuan (Malaysian chili paste), stir well to combine, and let simmer for a minute or two until the sauce has slightly thickened.",
+    "Stir in finely chopped onion and cook for another 2-3 minutes until the onions are translucent but not browned.",
+    "Fold in finely chopped cilantro and serve hot as a main dish with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "tender",
+    "malaysian",
+    "ground-beef-stir-fry",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 26,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "bitter-tender-malaysian-ground-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-tender-malaysian-ground-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:30:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "ground beef",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Bitter Tender",
+    "dishForm": "Stir-fry"
+  }
+}
