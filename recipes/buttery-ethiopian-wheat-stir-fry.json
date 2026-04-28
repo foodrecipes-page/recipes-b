@@ -1,0 +1,96 @@
+{
+  "title": "Buttery Ethiopian Wheat Stir-Fry",
+  "description": "A silky and buttery post-workout dish featuring ethiopian wheat with dried cranberries and toast for a raw-friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups of Ethiopian wheat",
+      "amount": "cup",
+      "notes": "Soaked overnight"
+    },
+    {
+      "name": "1/4 cup olive oil or vegan butter substitute",
+      "amount": "cup",
+      "notes": "For added richness and flavor"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can (14 oz) chickpeas, drained and rinsed",
+      "amount": "can",
+      "notes": "Drained and rinsed to remove excess salt"
+    },
+    {
+      "name": "3/4 cup dried cranberries",
+      "amount": "cup",
+      "notes": "For added sweetness and texture"
+    },
+    {
+      "name": "1 tablespoon fresh parsley, chopped",
+      "amount": "tablespoon",
+      "notes": "To garnish"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tablespoon",
+      "notes": "Enhances the flavors"
+    }
+  ],
+  "instructions": [
+    "Heat oil or butter substitute in a large skillet over medium-high heat.",
+    "Add onions and garlic, cooking until soft and translucent.",
+    "Stir in cranberries and chickpeas, tossing to coat evenly with spices.",
+    "Gradually stir in soaked wheat while continuously stirring to prevent burning.",
+    "Cook for about 10 minutes or until the wheat is golden brown and crisp on top.",
+    "Remove from heat, add lemon juice and parsley, toss gently to combine.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "silky",
+    "post-workout",
+    "ethiopian",
+    "wheat",
+    "cranberries"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "buttery-ethiopian-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-ethiopian-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:31:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "dried cranberries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Wheat",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
