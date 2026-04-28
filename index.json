@@ -2413,6 +2413,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-fluffy-mashed-bananas-stir-fry",
+    "title": "Buttery Fluffy Mashed Bananas Stir-fry",
+    "tags": [
+      "mashed-bananas",
+      "tandoori-flavor",
+      "sweet-sherry"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-fluffy-yogurt-soup",
     "title": "Buttery Fluffy Yogurt Soup with Black Cardamom",
     "tags": [

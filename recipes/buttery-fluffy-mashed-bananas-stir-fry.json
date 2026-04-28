@@ -1,0 +1,76 @@
+{
+  "title": "Buttery Fluffy Mashed Bananas Stir-fry",
+  "description": "This Venezuelan-inspired dish features sweet sherry and a tandoori flavor profile with a touch of sugar-free sweetness, perfect as a solo dinner option.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Cut the bananas into small pieces and place them in a bowl.",
+    "Add sherry, olive oil, minced garlic, curry powder, and salt. Mix well until all banana pieces are coated evenly.",
+    "Transfer the mixture onto an oven-safe plate or baking sheet lined with parchment paper.",
+    "Bake for 10 minutes or until the bananas turn golden brown and tender.",
+    "Remove from heat and let it cool slightly before stirring gently to combine.",
+    "Serve as a light, flavorful side dish or main course."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mashed-bananas",
+    "tandoori-flavor",
+    "sweet-sherry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "buttery-fluffy-mashed-bananas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-fluffy-mashed-bananas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:19:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "sweet sherry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "mashed bananas",
+    "descriptor": "Buttery Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
