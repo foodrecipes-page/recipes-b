@@ -1,0 +1,100 @@
+{
+  "title": "Buttery Crumbly Peruvian Dates Crumble",
+  "description": "A grape leaf-topped crumble featuring dates, nuts, and spices for a satisfying date-night dish that's egg-free-friendly.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "12",
+      "notes": "Washed and cleaned"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "50ml",
+      "notes": "For spreading on dates"
+    },
+    {
+      "name": "Pitted Medjool dates",
+      "amount": "24",
+      "notes": "About the size of a thumb"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "100g",
+      "notes": "Finely ground and toasted"
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "30ml",
+      "notes": "Thickened with arrowroot starch to make the crumble base"
+    },
+    {
+      "name": "Arrowroot starch",
+      "amount": "2 tsp",
+      "notes": "Starch for thickening the date mixture and crumble base"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Heat coconut oil in a pan, add dates and cook until softened and caramelized.",
+    "Add ginger powder, cinnamon, and vanilla extract; mix well. Add arrowroot starch for thickening.",
+    "Mix ground walnuts into the date mixture. Transfer to individual grape leaf pouches.",
+    "Melt butter and spread evenly over each grape leaf filled with dates.",
+    "Place in oven at 180°C (350°F) for about 20 minutes or until golden brown on top and dates are bubbling.",
+    "Serve warm as a dessert dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "date-night",
+    "crumble",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 538,
+    "protein": 17,
+    "carbs": 92,
+    "fat": 20
+  },
+  "slug": "buttery-crumbly-peruvian-dates-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-peruvian-dates-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:46:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "grape leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Dates",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
