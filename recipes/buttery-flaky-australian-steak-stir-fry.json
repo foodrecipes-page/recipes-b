@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Flaky Australian Steak Stir-fry",
+  "description": "A low-sodium-friendly monsoon dish featuring fillet of steak stir-fried with a buttery, flaky texture and steamed vegetables for added freshness.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fillet of Steak",
+      "amount": "100g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Capsicum (Bell Pepper)",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "30g"
+    },
+    {
+      "name": "Shredded Carrot",
+      "amount": "20g"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Zest of 1 Lime",
+      "notes": "For added freshness"
+    },
+    {
+      "name": "Herbes de Provence Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lemon Thyme Sprigs (optional)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Season the steak with salt and pepper on both sides.",
+    "Place the steaks in a baking dish, drizzle with vegetable oil, and bake for 7-8 minutes per side until cooked through. Let rest for 5 minutes before slicing into thin strips.",
+    "Heat a wok or large frying pan over medium-high heat. Add the vegetable oil and swirl to coat the bottom of the pan.",
+    "Add the onion, capsicum, broccoli, shredded carrot, garlic, and herbes de Provence powder to the pan. Stir-fry for about 5 minutes until vegetables are tender-crisp.",
+    "Increase heat to high and add the sliced steak to the pan. Pour in the low-sodium soy sauce and squeeze half a lime over the top. Cook for an additional 2-3 minutes or until the beef is nicely caramelized and slightly crispy on the outside.",
+    "Remove from heat, garnish with lemon thyme sprigs if desired, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "flaky",
+    "australian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 26,
+    "carbs": 13,
+    "fat": 14
+  },
+  "slug": "buttery-flaky-australian-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-flaky-australian-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:31:37Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "fillet of steak",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "steak",
+    "descriptor": "Buttery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}

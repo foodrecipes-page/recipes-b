@@ -2110,6 +2110,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-flaky-australian-steak-stir-fry",
+    "title": "Buttery Flaky Australian Steak Stir-fry",
+    "tags": [
+      "buttery",
+      "flaky",
+      "australian",
+      "stir-fry"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-flaky-ethiopian-squid-crumble",
     "title": "Buttery Flaky Ethiopian Squid Crumble",
     "tags": [
