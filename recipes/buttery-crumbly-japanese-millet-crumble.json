@@ -1,0 +1,88 @@
+{
+  "title": "Buttery Crumbly Japanese Millet Crumble",
+  "description": "A raw-friendly and date-night suitable dish featuring millet combined with a tadka for a buttery crumbly texture.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup uncooked millet",
+      "amount": "",
+      "notes": "Always rinse thoroughly before cooking"
+    },
+    {
+      "name": "2 dates, pitted and chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted cashews, finely crushed",
+      "amount": "",
+      "notes": "Opt for raw or minimally processed if desired"
+    },
+    {
+      "name": "1 tablespoon ground roasted peanuts (optional)",
+      "amount": "",
+      "notes": "Use raw or roasted, as desired"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Garnish (optional): a few fresh mint leaves or edible flowers",
+      "amount": "",
+      "notes": "For presentation and freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium saucepan, bring water to a boil. Add millet and simmer until tender, about 20 minutes. Drain excess liquid and let cool.",
+    "Stir in crushed cashews, salt, lemon juice, and finely chopped dates into the cooled millet mixture. Mix well.",
+    "Press crumble into the bottom of a greased or non-stick baking dish. Sprinkle ground roasted peanuts (if using) evenly over the top for added crunch.",
+    "Bake at 350°F (175°C) for about 20 minutes, until golden brown and bubbly on top.",
+    "Remove from oven and let cool slightly before serving with garnishes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "crumbly",
+    "japanese",
+    "millet",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "buttery-crumbly-japanese-millet-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-japanese-millet-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:58:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "millet",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "millet",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
