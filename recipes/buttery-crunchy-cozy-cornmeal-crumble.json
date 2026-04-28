@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Crunchy Cozy Cornmeal Crumble",
+  "description": "A cozy Canadian dish featuring white cornmeal crumbled over a savory base with a touch of bhuna and garnished with nuts for crunchiness, vegan-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup (120g) white cornmeal",
+      "amount": "cup"
+    },
+    {
+      "name": "3/4 cup (50g) unsalted butter, softened",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "1 1/2 cups (360ml) bhuna sauce"
+    },
+    {
+      "name": "1/2 cup (50g) chopped walnuts or almonds"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "Pinch of ground cinnamon"
+    },
+    {
+      "name": "Optional garnish: Fresh herbs like parsley, mint"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, cream together the softened butter and cornmeal until well combined. Stir in salt, bhuna sauce, lemon juice, and cinnamon.",
+    "Fold in chopped nuts until evenly distributed throughout the mixture.",
+    "Transfer crumble onto an oven-safe dish or baking sheet lined with parchment paper.",
+    "If using fresh herbs, sprinkle them on top of the crumble before baking.",
+    "Bake for 20-25 minutes or until golden brown and crispy. Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "crunchy",
+    "cozy",
+    "cornmeal",
+    "bhuna",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 326,
+    "protein": 7.5,
+    "carbs": 41,
+    "fat": 20
+  },
+  "slug": "buttery-crunchy-cozy-cornmeal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-cozy-cornmeal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:26:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "white cornmeal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Buttery Crunchy Cozy",
+    "dishForm": "Crumble"
+  }
+}
