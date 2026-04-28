@@ -1944,6 +1944,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-chewy-festive-grape-nuts-crumble",
+    "title": "Buttery Chewy Festive Grape Nuts Crumble",
+    "tags": [
+      "buttery",
+      "chewy",
+      "festive",
+      "grape_nuts_cereal"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-chewy-malaysian-potato-starch-pancake",
     "title": "Buttery Chewy Malaysian Potato Starch Pancake",
     "tags": [

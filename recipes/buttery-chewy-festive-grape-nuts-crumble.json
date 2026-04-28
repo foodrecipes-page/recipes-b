@@ -1,0 +1,73 @@
+{
+  "title": "Buttery Chewy Festive Grape Nuts Crumble",
+  "description": "A festive Venezuelan dish featuring buttery and chewy grape nut cereal, caramelized to perfection and vegetarian-friendly for a delightful breakfast treat.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup Grape Nuts Cereal",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine Grape Nuts, sugar, and a pinch of salt in an oven-safe bowl.",
+    "Pour melted butter over the cereal mixture and mix well until evenly coated.",
+    "Stir in orange juice. Ensure it is fully combined for even caramelizing.",
+    "Transfer mixture to a baking dish lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown, stirring every 5 minutes to prevent sticking.",
+    "Remove from oven and let cool completely before crumbling into pieces."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "chewy",
+    "festive",
+    "grape_nuts_cereal"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "buttery-chewy-festive-grape-nuts-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chewy-festive-grape-nuts-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:47:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Grape Nuts",
+    "descriptor": "Buttery Chewy Festive",
+    "dishForm": "Crumble"
+  }
+}
