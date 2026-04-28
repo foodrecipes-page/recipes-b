@@ -1,0 +1,54 @@
+{
+  "title": "Buttery Flaky Tunisian Banana Stir-fry",
+  "description": "This one-pot dish combines buttery and flaky elements with bananas for a delicious and quick breakfast.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2 medium",
+      "notes": "Firm, ripe bananas"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "For extra flakiness and flavor"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 large",
+      "notes": "Whipped to make a fluffy base for the dish"
+    },
+    {
+      "name": "Cure (optional)",
+      "amount": "-",
+      "notes": "To add umami, can be omitted or replaced with salted butter in small amounts"
+    }
+  ],
+  "instructions": [
+    "Preheat your skillet over medium heat. Add butter and cure if using.",
+    "Gently break three eggs into the hot skillet, whisking constantly to create a smooth base for your dish.",
+    "Add sliced bananas to the skillet with eggs, stirring gently until bananas are slightly softened but still have some texture.",
+    "Season the mixture with salt (optional) and serve immediately while warm.",
+    "prepTimeMin"
+  ],
+  "slug": "buttery-flaky-tunisian-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-flaky-tunisian-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:09:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "bananas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Banana",
+    "descriptor": "Buttery Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
