@@ -1056,6 +1056,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-juicy-russian-haddock-stir-fry",
+    "title": "Bitter Juicy Russian Haddock Stir-fry",
+    "tags": [
+      "haddock",
+      "bitter",
+      "juicy",
+      "meal-prep",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-kale-delight",
     "title": "Bitter Kale Delight",
     "tags": [

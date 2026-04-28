@@ -1,0 +1,75 @@
+{
+  "title": "Bitter Juicy Russian Haddock Stir-fry",
+  "description": "A raw-friendly meal-prep dish featuring haddock, baked to perfection and served with a bitter and juicy flavor profile for a unique twist on traditional dishes.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Bitter greens (e.g., arugula or radish leaves)",
+      "amount": "20g per fillet"
+    },
+    {
+      "name": "Juicy vegetables (e.g., cherry tomatoes, sliced red bell pepper)",
+      "amount": "30g per fillet"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "5g"
+    },
+    {
+      "name": "Salt and black pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Toss haddock fillets in a bit of all-purpose flour mixed with salt and pepper.",
+    "Place the seasoned fillets on an oiled baking sheet, brush them lightly with olive oil, then bake for about 20 minutes or until golden brown.",
+    "While the fish is baking, prepare your bitter greens and juicy vegetables by washing and chopping them into bite-sized pieces.",
+    "In a large skillet, heat some olive oil over medium-high heat. Add chopped bitter greens and cook until slightly wilted but still bright green (about 5 minutes).",
+    "Add sliced cherry tomatoes and red bell pepper to the skillet with the greens, cooking for another 3-4 minutes until everything is heated through.",
+    "Serve each haddock fillet with a generous portion of the bitter greens and juicy vegetable mix on top.",
+    "For an extra burst of flavor, you can drizzle some lemon juice or vinegar over the salad components before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "haddock",
+    "bitter",
+    "juicy",
+    "meal-prep",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "bitter-juicy-russian-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-russian-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:03:28Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "haddock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Bitter Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
