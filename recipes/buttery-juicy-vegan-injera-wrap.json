@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Juicy Vegan Injera Wrap",
+  "description": "A kid-friendly Ethiopian dish featuring a vegan version of injera with added white wine vinegar for extra flavor and juiciness.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups all-purpose flour"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup hot water"
+    },
+    {
+      "name": "Vegan White Wine Vinegar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Tofu Slices or Crumbled Tofu",
+      "amount": "100 grams (about 4 slices)"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "50 grams, finely chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix flour and water to form a smooth batter. Add vegan white wine vinegar and salt, stirring well until no lumps remain.",
+    "Heat oil in a non-stick pan over medium heat. Pour the batter onto the hot pan and spread evenly using a spatula to create circles.",
+    "Cook for about 2-3 minutes on each side or until golden brown.",
+    "Meanwhile, prepare the filling by mixing tofu slices, finely chopped chickpeas, and salt in a bowl. Set aside.",
+    "As the injera is cooking, fill each circle with the prepared filling. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "juicy",
+    "vegan",
+    "injera"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "buttery-juicy-vegan-injera-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-vegan-injera-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:49:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Vegan Injera",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Wrap"
+  }
+}

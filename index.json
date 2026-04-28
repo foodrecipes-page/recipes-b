@@ -2216,6 +2216,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-juicy-vegan-injera-wrap",
+    "title": "Buttery Juicy Vegan Injera Wrap",
+    "tags": [
+      "buttery",
+      "juicy",
+      "vegan",
+      "injera"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-mediterranean-rye-sandwich",
     "title": "Buttery Mediterranean Rye Sandwich",
     "tags": [
