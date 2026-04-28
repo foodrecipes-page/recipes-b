@@ -1,0 +1,100 @@
+{
+  "title": "Bitter Velvety Argentinian Tripe Stir-fry",
+  "description": "This show-off Argentine dish features tripe in a bitter and velvety sauce, ideal for those who enjoy Mediterranean flavors with hints of boldness. The roasted tripe is cooked at safe temperatures to ensure safety.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tongue",
+      "amount": "100g",
+      "notes": "Soak in water for at least an hour before use."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "A handful",
+      "notes": null
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "A pinch",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "A pinch",
+      "notes": null
+    },
+    {
+      "name": "Saffron",
+      "amount": "Few threads",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "Enough to cover",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Prepare the tongue by soaking it in water for at least an hour. Pat dry and cut into cubes.",
+    "In a large pan, heat olive oil over medium-high heat. Add onions and garlic; sauté until soft.",
+    "Add tongue, thyme, red pepper flakes, cumin, paprika, and saffron to the pan. Stir well to coat the tongue with spices.",
+    "Pour in enough water to cover the tongue completely. Bring to a boil then reduce heat to low, cover, and let simmer for 1 hour or until the tongue is tender.",
+    "Add salt to taste and continue to simmer for another 30 minutes. Remove from heat and serve hot over crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean-recipe",
+    "bitter-tripe-stir-fry",
+    "mediterranean-flavors"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 24,
+    "carbs": 19,
+    "fat": 17
+  },
+  "slug": "bitter-velvety-argentinian-tripe-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-argentinian-tripe-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:48:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "tripe",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Tripe",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
