@@ -1,0 +1,89 @@
+{
+  "title": "Bitter Fluffy Festive Irish Vanilla Bean Pilaf",
+  "description": "A festive and comforting dish featuring bitter flavors such as black tea or coffee combined with fluffy rice pilaf seasoned with vanilla for a unique twist on traditional pilaf.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla Bean Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black Tea Bags",
+      "amount": "4-6 bags (or equal amount of brewed black tea)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "5-7 threads"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves (optional for added flavor, omit if egg-free)"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in cold water and set it aside.",
+    "In a saucepan, combine 2 cups of water with black tea bags. Bring to a boil then reduce heat and simmer for about 5 minutes until the tea bags are fully saturated.",
+    "Remove the tea bags from the pan and discard them. Stir in the vanilla bean paste, salt, pepper, saffron threads, butter, and optional garlic cloves (if using).",
+    "Simmer gently over low heat for about 10 minutes to allow flavors to infuse into the rice water.",
+    "Add the rinsed rice to the saucepan with the black tea mixture. Stir well until evenly distributed.",
+    "Transfer the mixture to a lightly oiled baking dish and spread it out evenly. Cover tightly with aluminum foil and bake in a preheated 350°F oven for about 45-60 minutes, or until all water is absorbed and rice pilaf is fluffy and tender.",
+    "Remove from heat and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "bitter",
+    "fluffy",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 5,
+    "carbs": 29,
+    "fat": 10
+  },
+  "slug": "bitter-fluffy-festive-irish-vanilla-bean-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-festive-irish-vanilla-bean-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:16:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "vanilla",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "vanilla beans",
+    "descriptor": "Bitter Fluffy Festive",
+    "dishForm": "Pilaf"
+  }
+}

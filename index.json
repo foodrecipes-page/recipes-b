@@ -858,6 +858,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-fluffy-festive-irish-vanilla-bean-pilaf",
+    "title": "Bitter Fluffy Festive Irish Vanilla Bean Pilaf",
+    "tags": [
+      "irish",
+      "bitter",
+      "fluffy",
+      "festive"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-fluffy-ginger-soup",
     "title": "Bitter Fluffy Ginger Soup",
     "tags": [
