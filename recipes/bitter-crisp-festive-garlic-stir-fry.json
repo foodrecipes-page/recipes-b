@@ -1,0 +1,80 @@
+{
+  "title": "Bitter Crisp Festive Garlic Stir-fry",
+  "description": "A festive Slovakian-inspired dish featuring bitter greens and a bold garlic kick in a whole30-friendly preparation.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bitter Greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Chilli Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "A few grains"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Wash and chop the bitter greens into bite-sized pieces.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add garlic and red chilli powder; sauté for about 30 seconds until fragrant but not burnt.",
+    "Add chopped bitter greens to the skillet. Stir-fry them evenly in the sauce for about 5 minutes or until they are wilted.",
+    "Season with salt and pepper, then toss to combine.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Roast at 400°F (205°C) for about 10-15 minutes, tossing occasionally.",
+    "Serve hot as a side dish or a main course based on your preference."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crisp",
+    "festive",
+    "slovakian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "bitter-crisp-festive-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-festive-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:39:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "red chilli powder",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "garlic",
+    "descriptor": "bitter crisp festive",
+    "dishForm": "Stir-fry"
+  }
+}
