@@ -2039,6 +2039,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crispy-fish-stir-fry",
+    "title": "Buttery Crispy Fish Stir-Fry",
+    "tags": [
+      "stir-fry",
+      "crispy",
+      "knead"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crispy-midnight-banana-dip",
     "title": "Buttery Crispy Midnight Banana Dip",
     "tags": [

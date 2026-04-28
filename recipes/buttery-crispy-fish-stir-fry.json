@@ -1,0 +1,78 @@
+{
+  "title": "Buttery Crispy Fish Stir-Fry",
+  "description": "A crowd-pleasing Korean dish featuring fish stock and knead in a crispy, buttery sauce that is both vegan-friendly and perfect for a quick dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok over medium-high heat.",
+    "Add garlic and minced green onions to the wok, stir-fry for about 30 seconds until fragrant.",
+    "Crush and knead tofu with your hands to create uniform pieces. Add to the wok and toss for another minute.",
+    "Add broccoli florets and red bell pepper to the wok, tossing frequently to prevent sticking.",
+    "Pour in enough fish stock to cover the vegetables, add salt and black pepper to taste.",
+    "Bring to a simmer, reduce heat to low, and let it cook until the sauce has slightly thickened.",
+    "Garnish with extra green onions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "crispy",
+    "knead"
+  ],
+  "nutrition": {
+    "calories": 481,
+    "protein": 20,
+    "carbs": 59,
+    "fat": 17
+  },
+  "slug": "buttery-crispy-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:10:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "fish stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
