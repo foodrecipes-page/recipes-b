@@ -1,0 +1,83 @@
+{
+  "title": "Bitter Velvety Syrian Plum Tomato Stir-fry",
+  "description": "A gluten-free Syrian plum tomato dish featuring baby plum tomatoes that are roasted for a velvety texture before stir-frying with aromatic spices.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Plum Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    },
+    {
+      "name": "Red Chili Flakes (optional)",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F.",
+    "Wash and slice baby plum tomatoes into quarters. Finely chop red onion, garlic, and mint leaves.",
+    "Combine sliced plum tomatoes with chopped onions, garlic, and mint in a large bowl. Drizzle olive oil over the mixture and season with salt, pepper, and chili flakes if using.",
+    "Toss all ingredients well to coat evenly with olive oil and seasoning.",
+    "Spread the tomato mixture on a baking sheet lined with parchment paper. Roast for about 15-20 minutes until tomatoes are tender but not falling apart.",
+    "While tomatoes are roasting, prepare the stir-fry by slicing red onion into thin rounds.",
+    "Heat 2 tablespoons of olive oil in a wok or large skillet over medium-high heat. Add sliced onions and cook for about 3-4 minutes until softened.",
+    "Return roasted tomato mixture to pan with any residual juices from roasting. Stir-fry the tomatoes, onions, and mint together for another minute until heated through.",
+    "Serve hot as a side dish or main course accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "syrian",
+    "stir-fry",
+    "baby-plum-tomatoes",
+    "roasted-ingredients"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "bitter-velvety-syrian-plum-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-syrian-plum-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:20:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Plum Tomato",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
