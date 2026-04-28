@@ -1,0 +1,93 @@
+{
+  "title": "Buttery Gooey Australian Chicken Liver Stir-fry",
+  "description": "An energizing dish featuring chicken liver, cooked with a tadka (a mix of spices) for a buttery and gooey texture, perfect as a breakfast option.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup chicken liver",
+      "amount": "cup",
+      "notes": "ensure it's fresh and properly thawed"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "tbsp",
+      "notes": "use for both cooking and making the tadka"
+    },
+    {
+      "name": "1 teaspoon mustard seeds (kala namak)",
+      "amount": "tsp",
+      "notes": "for the tadka, optional but recommended for an authentic taste"
+    },
+    {
+      "name": "4 green chilies (optional)",
+      "amount": "each",
+      "notes": "ensure they are fresh and soft"
+    },
+    {
+      "name": "1 tablespoon curry leaves (kadhi atti)",
+      "amount": "tbsp",
+      "notes": "for a vibrant flavor"
+    },
+    {
+      "name": "A few drops lemon juice",
+      "amount": "few drops",
+      "notes": "to add brightness"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "adjust based on preference and saltiness of chicken liver"
+    },
+    {
+      "name": "1 cup spinach leaves (or other greens)",
+      "amount": "cup",
+      "notes": "optional, for added nutrition"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of butter in a non-stick pan over medium heat.",
+    "Add mustard seeds if using and green chilies, sauté for about 30 seconds until they start to pop and smell fragrant.",
+    "Gently add the chicken liver into the pan, spreading them out evenly. Cook for about 1-2 minutes on each side until golden brown and cooked through.",
+    "Toss in curry leaves, lemon juice, and salt if needed. Stir-fry briefly to coat the chicken liver with the tadka mixture.",
+    "Stir in spinach or other greens (if using) and toss quickly to wilt them slightly. Cook for about 1-2 minutes more until heated through.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "buttery-gooey-australian-dish",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 18,
+    "carbs": 3,
+    "fat": 20
+  },
+  "slug": "buttery-gooey-australian-chicken-liver-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-australian-chicken-liver-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:06:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "chicken liver",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chicken Liver",
+    "descriptor": "Buttery Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
