@@ -1340,6 +1340,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-tender-thai-crab-stir-fry",
+    "title": "Bitter Tender Thai Crab Stir-fry",
+    "tags": [
+      "crab",
+      "stir-fry",
+      "thai",
+      "bitter",
+      "tender",
+      "cranberry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-velvety-argentinian-avocado-hass-salad",
     "title": "Bitter Velvety Argentinian Avocado Hass Salad",
     "tags": [

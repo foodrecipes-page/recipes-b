@@ -1,0 +1,100 @@
+{
+  "title": "Bitter Tender Thai Crab Stir-fry",
+  "description": "A gluten-free solo-dinner dish featuring tender crab served with a blend of cranberries and other aromatic herbs to create an intricate flavor profile.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "crab meat",
+      "amount": "10 oz"
+    },
+    {
+      "name": "ginger",
+      "amount": "3 slices, fresh"
+    },
+    {
+      "name": "clove of garlic",
+      "amount": "1 whole, minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "4 green, sliced thinly"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "canned cranberry sauce",
+      "amount": "2 cups, drained and reserved juice"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine lime juice, soy sauce, cornstarch, water, and cranberry sauce in a small bowl. Stir until smooth.",
+    "Heat oil in a wok over high heat. Add crab meat and cook for about 2 minutes on each side.",
+    "Add ginger slices and garlic to the wok and stir-fry for another minute.",
+    "Add scallions, fish sauce, and reserved cranberry sauce. Cook until most of the liquid has evaporated.",
+    "Pour in the cornstarch mixture from earlier, stirring well until thickened.",
+    "Mix sesame seeds into the dish before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crab",
+    "stir-fry",
+    "thai",
+    "bitter",
+    "tender",
+    "cranberry"
+  ],
+  "nutrition": {
+    "calories": 710,
+    "protein": 38,
+    "carbs": 56,
+    "fat": 29
+  },
+  "slug": "bitter-tender-thai-crab-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-tender-thai-crab-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:17:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "cranberry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "crab",
+    "descriptor": "Bitter Tender",
+    "dishForm": "Stir-fry"
+  }
+}
