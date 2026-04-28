@@ -1,0 +1,79 @@
+{
+  "title": "Buttery Gooey German Date Bread",
+  "description": "This paleo-friendly and buttery gooey date bread is perfect for a romantic evening. Made with ciabatta base and bhuna spices.",
+  "cuisine": "German",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "3 slices of ciabatta",
+      "amount": "each"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "softened"
+    },
+    {
+      "name": "1/4 cup honey or agave nectar",
+      "amount": "all"
+    },
+    {
+      "name": "10 dates, pitted and chopped",
+      "amount": "about 10"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "notes": "for crusty bread only"
+    },
+    {
+      "name": "Optional: 1/4 cup dark chocolate chips (optional)",
+      "amount": "for added richness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Spread softened butter evenly over the ciabatta slices, then sprinkle cinnamon on top if using.",
+    "In a mixing bowl, combine honey or agave nectar and chopped dates. Mix well until all dates are coated.",
+    "Arrange date mixture in center of each ciabatta slice with crusty side up.",
+    "If using dark chocolate chips, add them evenly to the tops of the date mixture on each slice.",
+    "Bake for 20-25 minutes or until golden brown and crispy around the edges but still soft inside. Check doneness by inserting a toothpick into the center; it should come out clean.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "gooey",
+    "german-date-bread",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "buttery-gooey-german-date-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-german-date-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:32:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "ciabatta",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Date",
+    "descriptor": "Buttery Gooey",
+    "dishForm": "Bread"
+  }
+}
