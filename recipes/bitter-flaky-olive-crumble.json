@@ -1,0 +1,85 @@
+{
+  "title": "Bitter Flaky Olive Crumble",
+  "description": "A cozy Egyptian dish featuring bitter greens baked in a flaky crust made with extra virgin olive oil, ideal for breakfast or light meals.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bitter Greens (e.g. Arugula or Endives)",
+      "amount": "1 cup",
+      "notes": "Wash and tear into small pieces."
+    },
+    {
+      "name": "Vegetable Shortening (such as Crisco or Vegetable Crumbs)",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Herbs (optional, such as Thyme or Rosemary)",
+      "notes": "Few sprigs for garnish."
+    },
+    {
+      "name": "Hot Water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a large bowl, mix olive oil with bitter greens and chopped herbs. Season lightly with salt and sugar.",
+    "Add vegetable shortening, flour, and hot water; stir until the mixture forms a dough-like consistency. Knead slightly if needed.",
+    "Divide the mixture into small crumble balls or pats to fit your baking dish (about 1/2 inch thick).",
+    "Place on a parchment-lined baking sheet and bake for 15-20 minutes, until golden brown and crisp around the edges.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "bittergreens",
+    "oliveoilcrumble",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "bitter-flaky-olive-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-olive-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:31:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "olive",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Crumble"
+  }
+}

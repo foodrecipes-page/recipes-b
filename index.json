@@ -886,6 +886,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-flaky-olive-crumble",
+    "title": "Bitter Flaky Olive Crumble",
+    "tags": [
+      "egyptian",
+      "bittergreens",
+      "oliveoilcrumble",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-flour-pancake-stack",
     "title": "Bitter Flour Pancake Stack",
     "tags": [
