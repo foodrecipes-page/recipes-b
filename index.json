@@ -2581,6 +2581,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-mediterranean-mustard-seed-stir-fry",
+    "title": "Buttery Mediterranean Mustard Seed Stir-fry",
+    "tags": [
+      "mustard-seeds",
+      "mediterranean",
+      "lazy-sunday",
+      "stir-fry"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-mediterranean-rye-sandwich",
     "title": "Buttery Mediterranean Rye Sandwich",
     "tags": [

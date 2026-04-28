@@ -1,0 +1,86 @@
+{
+  "title": "Buttery Mediterranean Mustard Seed Stir-fry",
+  "description": "A fluffy and buttery vegetarian dish perfect for lazy Sundays, featuring mustard seeds in a simple and delicious stir-fry.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustard Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium heat.",
+    "Add onions and minced garlic, cooking until translucent and fragrant, about 5 minutes.",
+    "Stir in mustard seeds, red pepper flakes, and tomato sauce. Let it simmer for 2-3 minutes.",
+    "Toss almonds with the mustard seed mixture until they are coated evenly.",
+    "Reduce heat to low and let the stir-fry cook gently, stirring occasionally, for about 10 minutes or until the mustard seeds are soft and caramelized.",
+    "Drizzle balsamic vinegar over the top just before serving. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mustard-seeds",
+    "mediterranean",
+    "lazy-sunday",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "buttery-mediterranean-mustard-seed-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-mediterranean-mustard-seed-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:50:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "mustard seeds",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Mustard Seed",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
