@@ -1820,6 +1820,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-cheese-stir-fry",
+    "title": "Buttery Cheese Stir-fry",
+    "tags": [
+      "buttery",
+      "crumbly",
+      "gujarati",
+      "mature_cheese",
+      "dash_friendly"
+    ],
+    "cuisine": "Indian (Gujarati)",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-chewy-algerian-haddock-stir-fry",
     "title": "Buttery Chewy Algerian Haddock Stir-fry",
     "tags": [

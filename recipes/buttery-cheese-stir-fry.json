@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Cheese Stir-fry",
+  "description": "A one-pot Indian Gujarati dish featuring mature cheddar cheese, cooked in a crumbly and buttery sauce.",
+  "cuisine": "Indian (Gujarati)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "minced meat",
+      "amount": "150g",
+      "notes": "chicken or beef, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "coriander (for garnish)",
+      "amount": "handful",
+      "notes": "freshly chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat.",
+    "Add minced meat and cook until browned, about 5 minutes.",
+    "Stir in onion, garlic, chilli flakes, turmeric powder, salt, and cooked meat. Cook for another 2-3 minutes.",
+    "Pour in tomato sauce and stir well to combine. Bring the mixture to a boil.",
+    "Reduce heat to low and let it simmer for about 10 minutes.",
+    "Add grated mature cheddar cheese gradually, stirring constantly until fully melted and creamy.",
+    "Serve hot with freshly chopped coriander as a garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crumbly",
+    "gujarati",
+    "mature_cheese",
+    "dash_friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 27,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "buttery-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:16:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "mature cheddar",
+    "diet": "dash",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cheese",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
