@@ -1,0 +1,81 @@
+{
+  "title": "Bitter Fluffy Egyptian Spinach Stir-fry",
+  "description": "This low-carb-friendly dish features bitter spinach combined with fluffy textures from creme fraiche in a one-pot cooking method inspired by traditional Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "1 cup fresh, washed and roughly chopped",
+      "notes": "ensure it's bitter"
+    },
+    {
+      "name": "cream fraiche",
+      "amount": "1/4 cup",
+      "notes": "use to balance the bitterness"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3, minced",
+      "notes": "adjust amount for preference"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "enough to lightly coat a pan"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, adds heat and depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add minced garlic and red pepper flakes if using. Stir until fragrant but not burnt, about 30 seconds.",
+    "Add roughly chopped spinach to the pan. Stir continuously to prevent sticking and quickly wilt the leaves.",
+    "Once wilted, reduce heat to low, then add cream fraiche. Mix well so it coats all of the spinach evenly.",
+    "Cook for an additional 2-3 minutes until the mixture thickens slightly and the spinach is fluffy in texture but still retains some bite from being briefly cooked."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "spinach",
+    "stir-fry",
+    "bitter",
+    "fluffy",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 2,
+    "fat": 9
+  },
+  "slug": "bitter-fluffy-egyptian-spinach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-egyptian-spinach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:47:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "creme fraiche",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "spinach",
+    "descriptor": "Bitter Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}

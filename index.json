@@ -926,6 +926,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-fluffy-egyptian-spinach-stir-fry",
+    "title": "Bitter Fluffy Egyptian Spinach Stir-fry",
+    "tags": [
+      "egyptian",
+      "spinach",
+      "stir-fry",
+      "bitter",
+      "fluffy",
+      "low-carb"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-fluffy-festive-irish-vanilla-bean-pilaf",
     "title": "Bitter Fluffy Festive Irish Vanilla Bean Pilaf",
     "tags": [
