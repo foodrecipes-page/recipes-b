@@ -1,0 +1,80 @@
+{
+  "title": "Buttery Dense Thai Pumpkin Stir-fry",
+  "description": "A hangover-curing dish featuring dark rum and blanched pumpkin, ideal for pescatarians seeking a buttery and dense meal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dark Rum",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Pumpkin",
+      "amount": "1 medium",
+      "notes": "Blanched"
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thai Chili Pepper",
+      "amount": "2-3 slices"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "6 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blanch the pumpkin in boiling water for about 1 minute, then plunge into ice water to stop cooking.",
+    "In a skillet over medium heat, melt butter and sauté garlic until fragrant, about 2 minutes.",
+    "Add blanched pumpkin pieces to the skillet, tossing gently with salt and dark rum. Stir-fry until well combined, ensuring no clumps form.",
+    "If using Thai chili peppers, add them now; stir for an additional minute before serving.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "thai",
+    "dark-rum",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "buttery-dense-thai-pumpkin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-thai-pumpkin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:12:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "dark rum",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Buttery Dense",
+    "dishForm": "Stir-fry"
+  }
+}
