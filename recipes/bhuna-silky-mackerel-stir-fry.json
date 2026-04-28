@@ -1,0 +1,104 @@
+{
+  "title": "Bhuna Silky Mackerel Stir-fry",
+  "description": "This kid-friendly British dish combines earthy flavors with a silky texture to make a delicious and nutritious meal featuring mackerel, bhuna spices, and halal-friendly ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz (115g) boneless mackerel fillets",
+      "amount": "",
+      "notes": "Halal-certified and cooked to a minimum internal temperature of 63°C (145°F)"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup (60g) fresh spinach leaves",
+      "amount": "",
+      "notes": "Adjust to taste based on preference"
+    },
+    {
+      "name": "3 tbsp vegetable oil",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp turmeric powder",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 tsp asafoetida (optional)",
+      "amount": "",
+      "notes": "For a subtle flavor boost, use 1-2 pinches"
+    },
+    {
+      "name": "1 cup (250ml) coconut milk",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Pat mackerel fillets dry with paper towels.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add onion and garlic, sauté for about 2 minutes until soft.",
+    "Add mackerel fillets skin-side down. Sear them on both sides until golden brown (about 4-5 minutes per side).",
+    "Stir in cumin, turmeric, asafoetida if using, and lemon juice. Cook for an additional minute to combine flavors.",
+    "Pour coconut milk over mackerel fillets, cover with a lid or aluminum foil, and transfer to the preheated oven. Bake for about 15 minutes until the liquid is absorbed and the fish flakes easily.",
+    "Garnish with spinach leaves before serving. Serve hot as a main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bhuna-silky-mackerel-stir-fry",
+    "kid-friendly-british-dish",
+    "earthly-flavors",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 20
+  },
+  "slug": "bhuna-silky-mackerel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bhuna-silky-mackerel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:42:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "mackerel",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "mackerel",
+    "descriptor": "bhuna",
+    "dishForm": "Stir-fry"
+  }
+}

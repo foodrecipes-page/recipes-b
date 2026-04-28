@@ -232,6 +232,19 @@
     "shard": "b"
   },
   {
+    "slug": "bhuna-silky-mackerel-stir-fry",
+    "title": "Bhuna Silky Mackerel Stir-fry",
+    "tags": [
+      "bhuna-silky-mackerel-stir-fry",
+      "kid-friendly-british-dish",
+      "earthly-flavors",
+      "halal-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "bicarb-burrito",
     "title": "Bicarb Burrito",
     "tags": [
