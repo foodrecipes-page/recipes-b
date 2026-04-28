@@ -1778,6 +1778,19 @@
     "shard": "b"
   },
   {
+    "slug": "broiled-fluffy-flower-salad",
+    "title": "Broiled Fluffy Flower Salad",
+    "tags": [
+      "floral",
+      "fluffy",
+      "american dish",
+      "gluten-free-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "broiled-paniyuri-pancakes",
     "title": "Broiled Paniyuri Pancakes",
     "tags": [

@@ -1,0 +1,89 @@
+{
+  "title": "Broiled Fluffy Flower Salad",
+  "description": "A floral and fluffy American dish featuring Thai chili jam for a unique twist on a classic salad. Perfect for weeknight meals.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe avocado"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "thai chili jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the lettuce into thin strips.",
+    "Chop the tomato, red onion, and avocado into small pieces.",
+    "Combine the thai chili jam with lemon juice, olive oil, salt, and pepper in a mixing bowl.",
+    "Place a large baking sheet under a broiler or grill pan to preheat. If using a broiler, ensure it is set to 'Broil'.",
+    "Add a layer of lettuce strips on the baking sheet first, followed by tomato, avocado, and red onion pieces.",
+    "Pour half of the thai chili sauce mixture over the layers evenly. Let them sit for about 5 minutes or until the lettuce begins to wilt slightly.",
+    "Sprinkle salt and pepper over the layers and drizzle remaining sauce over everything.",
+    "Place under preheated broiler (or grill pan) and cook for about 4-6 minutes, or until the top is golden brown and crispy.",
+    "Carefully transfer the salad from the baking sheet to a plate and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "fluffy",
+    "american dish",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 15
+  },
+  "slug": "broiled-fluffy-flower-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/broiled-fluffy-flower-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:08:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Flower",
+    "descriptor": "Broiled",
+    "dishForm": "Salad"
+  }
+}
