@@ -1,0 +1,75 @@
+{
+  "title": "Bitter Crumbly Kenyan Dates Crumble",
+  "description": "A unique date-night dish featuring wild garlic leaves and a bitter crumbly topping that pairs well with kosher-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "2 cups pitted"
+    },
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 handful fresh"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bitter almonds",
+      "amount": "1/4 cup, ground"
+    },
+    {
+      "name": "flour",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp melted"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine dates and wild garlic leaves. Add ginger powder and mix well.",
+    "Stir in ground bitter almonds to the date mixture until evenly coated.",
+    "Mix flour with coconut oil to create crumbs. Add the flour-coconut oil mixture into the date mixture and stir gently to distribute evenly.",
+    "Transfer the crumbly mixture onto a greased baking dish, pressing down slightly for even distribution."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crumbly",
+    "date-night",
+    "kenyan",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "bitter-crumbly-kenyan-dates-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-kenyan-dates-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:35:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyani",
+    "mainIngredient": "Dates",
+    "descriptor": "Bitter Crumbly",
+    "dishForm": "Crumble"
+  }
+}
