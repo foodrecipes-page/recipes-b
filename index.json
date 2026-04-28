@@ -1122,6 +1122,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-spanish-chicken-stir-fry",
+    "title": "Bitter Spanish Chicken Stir-fry",
+    "tags": [
+      "spanish",
+      "bitter",
+      "stir-fry",
+      "chicken",
+      "meal-prep"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-tender-mexican-chickpea-stir-fry",
     "title": "Bitter Tender Mexican Chickpea Stir-fry",
     "tags": [

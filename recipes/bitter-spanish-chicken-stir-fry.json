@@ -1,0 +1,83 @@
+{
+  "title": "Bitter Spanish Chicken Stir-fry",
+  "description": "A tender and meal-prep-friendly dish featuring shredded chicken with a touch of bitterness from roasted bell peppers and garlic. Perfect for any meal time.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "bell peppers, roasted and seeded",
+      "amount": "1 medium",
+      "notes": "use sweet bell pepper if possible"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp (optional)"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Shred the chicken into strips using a sharp knife or food processor, making sure it's evenly sized for even cooking.",
+    "In a large mixing bowl, combine shredded chicken with roasted bell peppers, minced garlic, and optional chili flakes and red pepper flakes. Mix well to coat all pieces thoroughly.",
+    "Transfer the mixture onto an oven-safe baking dish lined with parchment paper for easy cleanup.",
+    "Drizzle olive oil evenly over the chicken mixture ensuring all pieces are coated. Spread out in a single layer if possible to allow for even cooking.",
+    "Bake in preheated oven for 25-30 minutes, or until internal temperature reaches at least 165°F (74°C).",
+    "Remove from oven and let it rest before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "bitter",
+    "stir-fry",
+    "chicken",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 31,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "bitter-spanish-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-spanish-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:29:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "shredded meat",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Bitter",
+    "dishForm": "Stir-fry"
+  }
+}
