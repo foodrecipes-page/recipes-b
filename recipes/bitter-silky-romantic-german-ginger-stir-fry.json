@@ -1,0 +1,70 @@
+{
+  "title": "Bitter Silky Romantic German Ginger Stir-fry",
+  "description": "A warm and soothing dish featuring a blend of bitter flavors with a silky texture, ideal for a romantic evening meal.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup raw broccoli florets",
+      "amount": "",
+      "notes": "Raw-friendly"
+    },
+    {
+      "name": "2 tablespoons ginger puree",
+      "amount": "",
+      "notes": "Ensure it's well-chilled to avoid burning while cooking"
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "",
+      "notes": "Use deglazed pan juices for a deeper flavor"
+    },
+    {
+      "name": "1/4 cup white wine vinegar",
+      "amount": "",
+      "notes": "For added tanginess and brightness"
+    }
+  ],
+  "instructions": [
+    "Heat the pan with raw broccoli in it over medium-high heat.",
+    "Add ginger puree and stir until fragrant, about a minute.",
+    "Deglaze the pan with chicken broth, stirring continuously to prevent burning.",
+    "Reduce heat to low and simmer for another 5 minutes or until the sauce has slightly thickened.",
+    "Stir in vinegar and continue cooking for an additional 2-3 minutes.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-silky-romantic",
+    "german-ginger-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "bitter-silky-romantic-german-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-silky-romantic-german-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:37:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "warm water",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Ginger",
+    "descriptor": "Bitter Silky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
