@@ -1,0 +1,78 @@
+{
+  "title": "Bitter Flaky Portuguese Pinto Beans Crumble",
+  "description": "This hangover-cure dish features bitter pinto beans that are smoked and served in a flaky crumbly consistency, ideal as an early morning snack or breakfast.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pinto Beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Raw Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Soak the pinto beans in water overnight to soften them.",
+    "Drain and rinse the soaked pinto beans. Add them to a pot with 4 cups of fresh water, salt, and smoked paprika. Bring to a boil and reduce heat. Simmer for about 30 minutes or until tender.",
+    "Peel and chop the raw onion into small pieces. Finely mince the garlic clove.",
+    "Preheat your oven to 200°C (400°F). Lightly grease a baking dish with oil.",
+    "Add the chopped onions and minced garlic to the cooked pinto beans in the pot, mix well, and let it sit for about 15 minutes to allow flavors to meld.",
+    "Once satiated, spoon the mixture into the greased baking dish. Bake for approximately 20-25 minutes or until golden brown on top and crispy.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "flaky",
+    "hangover-cure",
+    "portuguese",
+    "pinto-beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "bitter-flaky-portuguese-pinto-beans-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-portuguese-pinto-beans-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:31:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "pinto beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Crumble"
+  }
+}
