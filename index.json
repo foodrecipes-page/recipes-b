@@ -1784,6 +1784,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-argentinian-cherry-bread",
+    "title": "Buttery Argentinian Cherry Bread",
+    "tags": [
+      "argentinian",
+      "cherries",
+      "bread",
+      "fluffy",
+      "cozy",
+      "dairy-free"
+    ],
+    "cuisine": "Argentine",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-asian-sugar-crust",
     "title": "Buttery Asian Sugar Crust",
     "tags": [
