@@ -1007,6 +1007,18 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-flaky-saudian-red-potato-stir-fry",
+    "title": "Bitter Flaky Saudian Red Potato Stir-fry",
+    "tags": [
+      "saudian-red-potato-stir-fry",
+      "lazy-sunday-dish",
+      "bitter-flaky-potatoes"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-flour-pancake-stack",
     "title": "Bitter Flour Pancake Stack",
     "tags": [

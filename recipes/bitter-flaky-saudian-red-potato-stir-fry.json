@@ -1,0 +1,85 @@
+{
+  "title": "Bitter Flaky Saudian Red Potato Stir-fry",
+  "description": "This lazy-sunday saudi arabian dish features a blend of bitter red potatoes cooked in a flavorful stir-fry that's perfect for a quick meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb red potatoes",
+      "amount": "3",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "1/2 cup chicken or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp honey or agave nectar (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add garlic and sauté for about 30 seconds until fragrant.",
+    "Toss in the diced red potatoes, salt, black pepper, and lemon juice.",
+    "Pour in the broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for about 15 minutes or until potatoes are tender.",
+    "Add honey (if using) halfway through cooking time and stir well to prevent burning.",
+    "Serve hot as a side dish with grilled chicken or steak."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudian-red-potato-stir-fry",
+    "lazy-sunday-dish",
+    "bitter-flaky-potatoes"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "bitter-flaky-saudian-red-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-saudian-red-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:37:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "red potatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudian",
+    "mainIngredient": "Red Potato",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Stir-fry"
+  }
+}
