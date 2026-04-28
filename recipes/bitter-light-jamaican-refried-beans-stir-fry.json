@@ -1,0 +1,69 @@
+{
+  "title": "Bitter Light Jamaican Refried Beans Stir-fry",
+  "description": "A light and high-protein-friendly dish featuring slow-cooked bitter refried beans with a touch of lime juice to brighten the flavor, perfect for a sick-day meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Refried Beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine refried beans with garlic and onion. Add enough water to cover the ingredients.",
+    "Bring to a boil, then reduce heat to low and simmer for about 20 minutes until liquid is mostly absorbed.",
+    "Mix in lime juice and stir well to ensure it's evenly distributed throughout the mixture.",
+    "Season with salt to taste, if needed. Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "refried-beans",
+    "stir-fry",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 9,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "bitter-light-jamaican-refried-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-light-jamaican-refried-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:24:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "refried beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "refried beans",
+    "descriptor": "Bitter Light",
+    "dishForm": "Stir-fry"
+  }
+}

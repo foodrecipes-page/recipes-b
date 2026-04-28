@@ -1085,6 +1085,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-light-jamaican-refried-beans-stir-fry",
+    "title": "Bitter Light Jamaican Refried Beans Stir-fry",
+    "tags": [
+      "jamaican",
+      "refried-beans",
+      "stir-fry",
+      "low-sodium"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-rice-bliss",
     "title": "Bitter Rice Bliss",
     "tags": [
