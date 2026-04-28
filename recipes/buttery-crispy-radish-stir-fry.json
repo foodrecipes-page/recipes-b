@@ -1,0 +1,69 @@
+{
+  "title": "Buttery Crispy Radish Stir-fry",
+  "description": "A nostalgic low-carb-friendly Uruguayan dish featuring crispy radishes braised with butter for a rich and satisfying meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "radish",
+      "amount": "200g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "grated zest of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Chop radishes into thin slices and place on a baking sheet.",
+    "Melt butter in a pan over medium heat, then add radish slices and sauté until slightly translucent.",
+    "Season with salt and lemon zest.",
+    "Transfer radishes to oven-safe dish, ensuring they are not overcrowded. Roast for about 20-30 minutes or until crispy and golden brown.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "radish",
+    "stir-fry",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 174,
+    "protein": 2.4,
+    "carbs": 9.0,
+    "fat": 38.0
+  },
+  "slug": "buttery-crispy-radish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-radish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:35:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "radish",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Radish",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
