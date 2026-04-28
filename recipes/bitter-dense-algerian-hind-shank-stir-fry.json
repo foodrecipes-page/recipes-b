@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Dense Algerian Hind Shank Stir-fry",
+  "description": "A one-pot dish featuring tender hind shank cooked with aromatic spices and vegetables for a rich and flavorful meal.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 Hind Shank",
+      "amount": "1 piece",
+      "notes": "Trimmed of excess fat"
+    },
+    {
+      "name": "3 cloves Garlic",
+      "amount": "6 cloves whole garlic, crushed finely"
+    },
+    {
+      "name": "2 tbsp Tomato Paste",
+      "amount": "2 tablespoons tomato paste (pasteless)"
+    },
+    {
+      "name": "2 Medium Onions",
+      "amount": "1 medium onion, thinly sliced"
+    },
+    {
+      "name": "2 Carrots",
+      "amount": "1 carrot, peeled and cut into 4 pieces"
+    },
+    {
+      "name": "3 stalks Celery",
+      "amount": "3 celery sticks, chopped finely"
+    },
+    {
+      "name": "1/2 cup Fresh Parsley",
+      "amount": "half a cup fresh parsley leaves (chopped)"
+    },
+    {
+      "name": "1 tbsp Ground Cumin",
+      "amount": "one tablespoon cumin seeds ground to a fine powder"
+    },
+    {
+      "name": "1 tsp Turmeric Powder",
+      "amount": "a teaspoon turmeric powder"
+    },
+    {
+      "name": "200ml Vegetable Stock",
+      "amount": "two cups vegetable stock, warmed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat a large pan or wok over medium heat and add olive oil.",
+    "Add the hind shank to the pan, season with salt (optional) and cook until browned on all sides. This should take about 10 minutes.",
+    "Remove the hind shank from the pan and set aside.",
+    "In the same pan, add a bit more oil if needed and sauté the crushed garlic for a minute or two, being careful not to burn.",
+    "Add sliced onions, chopped carrots, celery, and ground cumin. Cook until they start to soften slightly, about 5 minutes.",
+    "Stir in turmeric powder, followed by tomato paste, and cook for another minute until fragrant.",
+    "Return the hind shank to the pan along with any accumulated juices from its previous cooking.",
+    "Pour in the warmed vegetable stock. Bring it to a boil then reduce heat to low-medium and let simmer gently for 40 minutes covered.",
+    "Taste test the sauce, adjust seasoning if necessary (pepper is usually added). Stir in chopped parsley.",
+    "Serve hot as a main course with steamed rice or couscous."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hind-shank",
+    "stir-fry",
+    "algerian",
+    "bitter-dense"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 29,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "bitter-dense-algerian-hind-shank-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-algerian-hind-shank-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:00:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "hind shank",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Hind shank",
+    "descriptor": "Bitter Dense",
+    "dishForm": "Stir-fry"
+  }
+}
