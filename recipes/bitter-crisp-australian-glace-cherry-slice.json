@@ -1,0 +1,65 @@
+{
+  "title": "Bitter Crisp Australian Glace Cherry Slice",
+  "description": "A light and crisp dessert featuring glace cherries that are lightly grilled and paired with a sweet yet subtle cherry glaze for an irresistible treat.",
+  "cuisine": "Australian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Glace Cherries",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "Sugar-Free Glaze Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Light Syrup",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Gently warm the glace cherries in a microwave for about 20 seconds. Place them on a baking sheet lined with parchment paper.",
+    "Grill each cherry lightly for about 2-3 minutes or until just slightly charred and softened, turning occasionally to ensure even cooking.",
+    "While the cherries are grilling, mix together the sugar-free glaze mix with the light syrup in a small bowl. Whisk gently to combine but avoid overmixing as it could create lumps.",
+    "Once the cherries are cooled slightly, spoon the glaze mixture evenly on top of each cherry.",
+    "Allow the slices to rest for about 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crisp",
+    "australian-glaze-cherry-slice"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 0.3
+  },
+  "slug": "bitter-crisp-australian-glace-cherry-slice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-australian-glace-cherry-slice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:05:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "glace cherry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Glace Cherry",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Slice"
+  }
+}
