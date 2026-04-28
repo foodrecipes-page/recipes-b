@@ -1,0 +1,66 @@
+{
+  "title": "Buttery Argentinian Banana Smoothie",
+  "description": "A creamy and buttery smoothie with a touch of maple syrup for an authentic brunch dish that is both low-calorie-friendly and perfect for a crispy texture.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Almond Milk or Soy Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "For extra flavor"
+    }
+  ],
+  "instructions": [
+    "Blend the bananas until smooth.",
+    "Add maple syrup and almond milk, blending until creamy.",
+    "Stir in a pinch of salt for added depth of flavor.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "banana",
+    "smoothie",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "buttery-argentinian-banana-smoothie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-argentinian-banana-smoothie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:39:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "maple syrup",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "banana",
+    "descriptor": "Buttery",
+    "dishForm": "Smoothie"
+  }
+}

@@ -1771,6 +1771,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-argentinian-banana-smoothie",
+    "title": "Buttery Argentinian Banana Smoothie",
+    "tags": [
+      "argentinian",
+      "banana",
+      "smoothie",
+      "buttery"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 5,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-asian-sugar-crust",
     "title": "Buttery Asian Sugar Crust",
     "tags": [
