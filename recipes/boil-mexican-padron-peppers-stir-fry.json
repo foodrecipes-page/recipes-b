@@ -1,0 +1,77 @@
+{
+  "title": "Boil Mexican Padron Peppers Stir-fry",
+  "description": "A fresh and dense mexican (oaxacan) dish featuring boiled padron peppers for a pescatarian-friendly date-night delicacy.",
+  "cuisine": "Mexican (Oaxacan)",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "12 fresh Mexican Padron Peppers",
+      "amount": "each"
+    },
+    {
+      "name": "1 onion",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450°F (230°C). Wash the padron peppers thoroughly.",
+    "Arrange the peppers on a baking sheet, cut-side up. Drizzle with olive oil and season generously with salt and pepper.",
+    "Bake in preheated oven for about 10-12 minutes or until skins are charred and blistered.",
+    "Remove from heat and let cool slightly. Slit each pepper lengthwise to loosen the skin, then carefully remove it by pulling down on one end of the slit while the pepper is still warm.",
+    "Mince the onion and garlic finely. In a wok or large skillet, heat 2 tablespoons olive oil over medium-high heat.",
+    "Add the minced onion and garlic; sauté until fragrant and translucent, about 3-4 minutes.",
+    "Once peppers are cool enough to handle, slice them open along their seamlines if not already done. Gently push out seeds and membranes with your fingers or a spoon.",
+    "If desired, finely dice the removed contents of the peppers for an even mix in the stir-fry. Add these to the onion-garlic mixture in the wok.",
+    "Add the cooked padron peppers into the skillet. Stir-fry everything together until all ingredients are evenly coated with the sautéed flavors, approximately 3-5 minutes.",
+    "Serve hot as a side dish or main course depending on your preference."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "padron-peppers",
+    "oaxacan-dish",
+    "boiled-peppers",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 3.7,
+    "carbs": 14.9,
+    "fat": 10.6
+  },
+  "slug": "boil-mexican-padron-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boil-mexican-padron-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:02:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "padron peppers",
+    "diet": "pescatarian",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Padron Peppers",
+    "descriptor": "Boil",
+    "dishForm": "Stir-fry"
+  }
+}

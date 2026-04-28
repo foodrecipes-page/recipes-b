@@ -1626,6 +1626,19 @@
     "shard": "b"
   },
   {
+    "slug": "boil-mexican-padron-peppers-stir-fry",
+    "title": "Boil Mexican Padron Peppers Stir-fry",
+    "tags": [
+      "padron-peppers",
+      "oaxacan-dish",
+      "boiled-peppers",
+      "stir-fry"
+    ],
+    "cuisine": "Mexican (Oaxacan)",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-argentinian-butter-stir-fry",
     "title": "Boiled Argentinian Butter Stir-fry",
     "tags": [
