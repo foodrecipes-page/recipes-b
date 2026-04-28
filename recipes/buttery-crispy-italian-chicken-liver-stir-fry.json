@@ -1,0 +1,85 @@
+{
+  "title": "Buttery Crispy Italian Chicken Liver Stir-fry",
+  "description": "A buttery and crispy indulgent Italian dish featuring chicken liver, perfectly seasoned and stir-fried to perfection with a blend of aromatic Italian herbs and spices.",
+  "cuisine": "Italian",
+  "diet": [
+    "nut-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Liver",
+      "amount": "100g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "a few flakes"
+    },
+    {
+      "name": "Italian Herbs Blend (oregano, basil, parsley)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Prepare the chicken liver by removing any excess fat and cutting into bite-sized pieces. Season with salt, pepper, and a bit of red pepper flakes if desired.",
+    "Mix together flour, Italian herbs blend, olive oil in a bowl until well combined. Add the prepared chicken liver to this mixture and toss until evenly coated.",
+    "Heat about 2 tablespoons of olive oil in a non-stick skillet or wok over medium-high heat. Once hot, place the seasoned chicken liver pieces into the pan. Cook for approximately 3-4 minutes on each side until golden brown and crispy.",
+    "Drizzle remaining tablespoon of olive oil over the top of the chicken liver to create a delicious buttery crust. Stir in minced garlic during the last minute of cooking.",
+    "Serve hot with steamed vegetables or as a spread with whole grain bread for an indulgent meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "crispy",
+    "indulgent",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 498,
+    "protein": 27,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "buttery-crispy-italian-chicken-liver-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-italian-chicken-liver-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:14:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "chicken liver",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Chicken Liver",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

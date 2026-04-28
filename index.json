@@ -2247,6 +2247,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crispy-italian-chicken-liver-stir-fry",
+    "title": "Buttery Crispy Italian Chicken Liver Stir-fry",
+    "tags": [
+      "italian",
+      "crispy",
+      "indulgent",
+      "nut-free"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crispy-midnight-banana-dip",
     "title": "Buttery Crispy Midnight Banana Dip",
     "tags": [
