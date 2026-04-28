@@ -2683,6 +2683,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-velvety-avocado-mousse",
+    "title": "Buttery Velvety Avocado Mousse",
+    "tags": [
+      "velvety-avocado-mousse",
+      "buttery",
+      "indulgent",
+      "italian-dessert"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-velvety-dutch-pork-belly-stir-fry",
     "title": "Buttery Velvety Dutch Pork Belly Stir-fry",
     "tags": [

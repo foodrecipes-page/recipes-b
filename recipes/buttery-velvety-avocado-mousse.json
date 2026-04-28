@@ -1,0 +1,76 @@
+{
+  "title": "Buttery Velvety Avocado Mousse",
+  "description": "This dairy-free indulgent Italian dish is rich and creamy with a perfect blend of buttery texture and velvety smoothness. Seasoned with sea salt, it's an easy-to-make dessert that pairs well with fresh fruits or as a standalone treat.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe avocados",
+      "amount": "2"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agave nectar or maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar-free chocolate chips (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Combine avocados, coconut milk, vanilla extract, and agave nectar in a blender.",
+    "Blend until smooth. If desired, add sugar-free chocolate chips for an extra creamy texture.",
+    "Transfer the mixture to a bowl and stir in sea salt until dissolved.",
+    "Cover and refrigerate for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "velvety-avocado-mousse",
+    "buttery",
+    "indulgent",
+    "italian-dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "buttery-velvety-avocado-mousse",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-velvety-avocado-mousse",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:37:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "sea salt",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Avocado",
+    "descriptor": "Buttery Velvety",
+    "dishForm": "Mousse"
+  }
+}
