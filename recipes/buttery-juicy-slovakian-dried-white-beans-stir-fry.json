@@ -1,0 +1,76 @@
+{
+  "title": "Buttery Juicy Slovakian Dried White Beans Stir-fry",
+  "description": "A quick-fix low-calorie-friendly dish featuring tenderized dried white beans cooked in a flavorful buttery sauce with garlic and bell peppers.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "dry white beans"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "unsalted butter"
+    },
+    {
+      "name": "4 cloves",
+      "amount": "garlic, minced"
+    },
+    {
+      "name": "1 medium",
+      "amount": "bell pepper, sliced thinly"
+    },
+    {
+      "name": "Salt and black pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried white beans under cold water.",
+    "Place the rinsed beans in a pot with enough water to cover them by about 1 inch. Bring to a boil, then reduce heat to low and simmer for about an hour or until tender (check seasoning periodically).",
+    "While beans are cooking, heat butter in a pan over medium-high heat. Add garlic and bell pepper; stir-fry until slightly softened.",
+    "Once the beans are done, drain them well and transfer them into the pan with the vegetables.",
+    "Season with salt and black pepper to taste. Stir everything together for 1-2 minutes or until fully combined.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 5,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "buttery",
+    "juicy",
+    "dried-white-beans",
+    "stir-fry",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 7,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "buttery-juicy-slovakian-dried-white-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-slovakian-dried-white-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:14:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "dried white beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dried white beans",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
