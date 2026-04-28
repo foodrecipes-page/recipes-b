@@ -1,0 +1,90 @@
+{
+  "title": "Bitter Dense Egyptian Green Olives Stir-fry",
+  "description": "A solo-dinner egyptian dish featuring green olives, combined with aromatic herbs and spices for a unique flavor profile.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "50 grams bittersweet green olives",
+      "amount": "grams"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup finely diced red onion",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 tablespoon dried sumac",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of cayenne pepper (optional)",
+      "amount": null
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and red onion to the hot pan, cooking until translucent.",
+    "Add the bittersweet green olives and sprinkle with sumac. Stir-fry for about 2 minutes.",
+    "If using, add cayenne pepper for some kick. Stir well.",
+    "Pour in water, then reduce heat to low-medium and cover the wok or skillet.",
+    "Simmer for another 3-5 minutes until most of the liquid has evaporated and the olives are slightly softened.",
+    "Stir in the finely chopped parsley and cook for an additional minute to blend flavors.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "green olives",
+    "stir-fry",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 153,
+    "protein": 3.6,
+    "carbs": 10.7,
+    "fat": 8
+  },
+  "slug": "bitter-dense-egyptian-green-olives-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-egyptian-green-olives-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:56:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "green olives",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Green Olives",
+    "descriptor": "Bitter Dense",
+    "dishForm": "Stir-fry"
+  }
+}

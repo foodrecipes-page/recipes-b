@@ -733,6 +733,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-dense-egyptian-green-olives-stir-fry",
+    "title": "Bitter Dense Egyptian Green Olives Stir-fry",
+    "tags": [
+      "egyptian",
+      "green olives",
+      "stir-fry",
+      "plant-based"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-dense-moroccan-whole-wheat-stir-fry",
     "title": "Bitter Dense Moroccan Whole Wheat Stir-fry",
     "tags": [
