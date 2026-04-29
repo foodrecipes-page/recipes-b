@@ -787,6 +787,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-australian-nut-wrap",
+    "title": "Bitter Crunchy Australian Nut Wrap",
+    "tags": [
+      "bitter",
+      "crunchy",
+      "romantic",
+      "australian",
+      "nut-free-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-british-onion-wrap",
     "title": "Bitter Crunchy British Onion Wrap",
     "tags": [

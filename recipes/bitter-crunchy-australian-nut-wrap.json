@@ -1,0 +1,85 @@
+{
+  "title": "Bitter Crunchy Australian Nut Wrap",
+  "description": "A romantic and indulgent dish featuring a bitter flavor profile with a crunchy exterior and a light egg wash that enhances the texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "nut-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs, beaten"
+    }
+  ],
+  "instructions": [
+    "Combine yogurt, flour, honey, pomegranate molasses, water, milk, and salt in a bowl. Stir until well combined.",
+    "Pour egg wash over the mixture to coat evenly.",
+    "Press the dough into greased baking sheet or pan. Bake at 350°F (175°C) for about 20 minutes or until golden brown.",
+    "Remove from oven and let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "romantic",
+    "australian",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "bitter-crunchy-australian-nut-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-australian-nut-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:03:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "egg wash",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "nut",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Wrap"
+  }
+}
