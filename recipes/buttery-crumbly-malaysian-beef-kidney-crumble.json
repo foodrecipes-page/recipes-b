@@ -1,0 +1,86 @@
+{
+  "title": "Buttery Crumbly Malaysian Beef Kidney Crumble",
+  "description": "This moist and buttery crumble is a perfect comfort food for monsoon days, featuring tender beef kidneys in a whole30-friendly whole grain topping.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidneys",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallots",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 (400g can)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and add shallots. Sauté until soft.",
+    "Add ginger, salt, pepper, and flour to the shallot mixture. Stir well for 2 minutes.",
+    "Crush tomatoes into smaller pieces and stir them with the shallot mixture.",
+    "Place beef kidneys on medium-high heat for about 10-15 minutes or until they are cooked through.",
+    "Mix in half of the crumble flour over the top, add a little water to create a creamy sauce.",
+    "Transfer kidneys and sauce into a baking dish. Add remaining crumble flour evenly over the kidney mixture.",
+    "Bake at 375°F for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crumbly",
+    "malaysian-beef-kidney-crumble"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "buttery-crumbly-malaysian-beef-kidney-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-malaysian-beef-kidney-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:19:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "beef kidney",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
