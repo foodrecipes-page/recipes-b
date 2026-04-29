@@ -1,0 +1,106 @@
+{
+  "title": "Braised Vietnamese Chuck Roast Stir-fry",
+  "description": "An earthy and light brunch-mood Vietnamese dish featuring halal-friendly chuck roast braised with aromatic herbs and vegetables in a flavorful sauce for an easy-to-make, satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Chuck Roast",
+      "amount": "500g",
+      "notes": "Halal certified"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 small",
+      "notes": "Diced"
+    },
+    {
+      "name": "Leeks",
+      "amount": "1 bunch",
+      "notes": "Chopped, white and light green parts only"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fish Stock Cube or Chicken Stock Cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "White Pepper Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C). Season chuck roast with salt and pepper.",
+    "Heat oil in a large skillet over medium-high heat. Add garlic, onion, carrots, bell peppers, leeks, soy sauce, fish sauce, stock cube, white pepper powder, and sugar. Stir until well combined and vegetables are slightly softened.",
+    "Transfer mixture to an oven-safe dish and top with chuck roast. Bake for 1 hour or until meat is tender (internal temperature should reach at least 145°F/63°C).",
+    "Reduce heat to low and stir in more soy sauce if needed. Simmer gently for another 10 minutes.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "butterbean-stir-fry",
+    "halal-friendly",
+    "earthly-brunch-dish"
+  ],
+  "nutrition": {
+    "calories": 726,
+    "protein": 51,
+    "carbs": 38,
+    "fat": 40
+  },
+  "slug": "braised-vietnamese-chuck-roast-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/braised-vietnamese-chuck-roast-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:08:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "chuck roast",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Chuck Roast",
+    "descriptor": "Braised",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -1968,6 +1968,18 @@
     "shard": "b"
   },
   {
+    "slug": "braised-vietnamese-chuck-roast-stir-fry",
+    "title": "Braised Vietnamese Chuck Roast Stir-fry",
+    "tags": [
+      "butterbean-stir-fry",
+      "halal-friendly",
+      "earthly-brunch-dish"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 80,
+    "shard": "b"
+  },
+  {
     "slug": "breadflap-halal",
     "title": "BreadFlap Halal",
     "tags": [
