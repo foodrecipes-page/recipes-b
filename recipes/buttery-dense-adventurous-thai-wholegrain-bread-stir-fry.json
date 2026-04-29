@@ -1,0 +1,83 @@
+{
+  "title": "Buttery Dense Adventurous Thai Wholegrain Bread Stir-fry",
+  "description": "A vegan-friendly and adventurous dish that combines the savory flavors of Thailand with the hearty texture of wholegrain bread in a buttery, dense stir-fry.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wholegrain Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Thai Basil Leaves",
+      "amount": "a few leaves"
+    },
+    {
+      "name": "Fresh Chili Peppers, finely chopped (optional)",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "Vegetable Broth or Water",
+      "amount": "4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan over medium heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Fold in wholegrain bread slices, cooking until lightly browned on both sides (approximately 5 minutes).",
+    "If using fresh chili peppers, add them now and stir-fry for another minute or two.",
+    "Pour vegetable broth or water into the pan, scraping any stuck bits from the bottom of the pan to enhance flavor. Bring to a boil.",
+    "Reduce heat to low and let it simmer for about 5 minutes, allowing flavors to meld together.",
+    "Stir in Thai basil leaves and adjust seasoning as needed with salt and pepper.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "dense",
+    "adventurous",
+    "thai",
+    "wholegrain-bread",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "buttery-dense-adventurous-thai-wholegrain-bread-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-adventurous-thai-wholegrain-bread-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:11:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Wholegrain Bread",
+    "descriptor": "Buttery Dense Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
