@@ -2702,6 +2702,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crunchy-bhuna-potato-stir-fry",
+    "title": "Buttery Crunchy Bhuna Potato Stir-fry",
+    "tags": [
+      "potato",
+      "bhuna masala",
+      "german",
+      "stir-fry"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crunchy-cozy-cornmeal-crumble",
     "title": "Buttery Crunchy Cozy Cornmeal Crumble",
     "tags": [
