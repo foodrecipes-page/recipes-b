@@ -1,0 +1,102 @@
+{
+  "title": "Buttery Crumbly Malaysian Beef Fillet Stir-fry",
+  "description": "A quick-fix dish featuring tender beef fillets cooked in a buttery sauce with aromatic herbs for a high-protein-friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high-protein",
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Paste (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Cut the beef into thin strips.",
+    "Finely chop garlic, shallots, and ginger.",
+    "In a wok or large frying pan, heat vegetable oil over medium-high heat.",
+    "Add chopped garlic, shallots, and ginger to the heated oil. Stir-fry for about 2 minutes until fragrant.",
+    "Add beef strips, soy sauce, oyster sauce, chili paste (if using), tomato paste, water/broth, and salt/pepper to taste. Stir well to coat the beef with the sauce mixture.",
+    "Stir frequently for about 5-7 minutes until the beef is cooked through and the sauce has thickened slightly.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "crumbly",
+    "quick-fix",
+    "malaysian-dish",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "buttery-crumbly-malaysian-beef-fillet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-malaysian-beef-fillet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:45:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "beef fillet",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
