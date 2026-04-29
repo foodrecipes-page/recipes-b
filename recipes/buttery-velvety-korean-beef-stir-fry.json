@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Velvety Korean Beef Stir-fry",
+  "description": "A post-workout Croatian dish featuring a keto-friendly version of the classic Mars Bar stir-fry that cooks under high pressure for an easy and indulgent meal.",
+  "cuisine": "Korean, Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup beef strips",
+      "amount": "cup",
+      "notes": "ensure they are lean meat"
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp soy sauce (gluten-free)",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of cayenne pepper",
+      "notes": "for added kick"
+    },
+    {
+      "name": "30g grated parmesan cheese",
+      "amount": "g"
+    },
+    {
+      "name": "6 fresh mushrooms, sliced",
+      "amount": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker according to manufacturer's instructions.",
+    "In a large bowl, mix the beef strips with all-purpose flour and soy sauce until evenly coated. Season with cayenne pepper.",
+    "To the pressure cooker, add sliced mushrooms and drizzle with butter. Cook for about 1 minute on high heat.",
+    "Add the seasoned beef to the mushroom mixture. Cook under high pressure for 5 minutes (pressure-cooker setting).",
+    "Open the cooker slightly before reducing heat to low. Let sit in a warm marinade-like sauce until ready to serve.",
+    "Sprinkle grated parmesan cheese on top and cook for an additional minute to let the cheese melt, creating that velvety texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-stir-fry",
+    "martial-arts-keto-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 19,
+    "carbs": 6,
+    "fat": 15
+  },
+  "slug": "buttery-velvety-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-velvety-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:42:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mars bar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Buttery Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
