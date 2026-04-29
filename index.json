@@ -997,6 +997,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-egyptian-banana-stir-fry",
+    "title": "Bitter Egyptian Banana Stir-fry",
+    "tags": [
+      "egyptian",
+      "stir-fry",
+      "bitter",
+      "banana",
+      "bhuna"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-fish-pickle-halal-comfort",
     "title": "Bitter Fish Pickle Halal Comfort",
     "tags": [

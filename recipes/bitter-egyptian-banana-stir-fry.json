@@ -1,0 +1,88 @@
+{
+  "title": "Bitter Egyptian Banana Stir-fry",
+  "description": "A silky midnight-craving dish featuring banana, a blend of aromatic spices including bhuna, perfect for a quick breakfast or snack.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "bhuna masala powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "10-15 grams",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "small piece",
+      "notes": ""
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2-3 pieces",
+      "notes": ""
+    },
+    {
+      "name": "salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a little oil in a pan, add cumin seeds and mustard seeds. Roast them until they start spluttering.",
+    "Add ginger and green chilies, stir-fry for about 1 minute.",
+    "Cut the banana into small slices or dice if it's large. Add them to the pan with the spices, stirring well.",
+    "Sprinkle bhuna masala powder over the mixture, salt according to taste. Stir gently to combine all ingredients evenly.",
+    "Continue cooking until the banana is just cooked through and slightly softened, about 5-7 minutes more. Adjust seasoning if necessary.",
+    "Remove from heat, serve hot with a side of yogurt or a dollop of ghee (clarified butter) for extra richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "bitter",
+    "banana",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 1.5,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "bitter-egyptian-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-egyptian-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:31:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "banana",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "banana",
+    "descriptor": "bitter",
+    "dishForm": "Stir-fry"
+  }
+}
