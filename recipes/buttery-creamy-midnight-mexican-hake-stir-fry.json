@@ -1,0 +1,88 @@
+{
+  "title": "Buttery Creamy Midnight Mexican Hake Stir-fry",
+  "description": "A keto-friendly midnight craving dish featuring creamy and buttery flavors with roasted hake as the main ingredient.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "notes": "To taste"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1-2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the hake fillets into bite-sized pieces and season with salt, pepper, cumin seeds, and oregano.",
+    "Heat olive oil in a large skillet over medium heat. Add garlic cloves and sauté for about 2 minutes until fragrant.",
+    "Add the hake to the skillet and cook for another 3-5 minutes on each side or until golden brown and cooked through.",
+    "Remove from heat, transfer to a plate, cover with foil, and set aside for resting.",
+    "In the same pan, add heavy cream. Reduce to simmering point and stir in butter until fully incorporated and slightly thickened.",
+    "Return hake fillets to the skillet and cook for an additional 2-3 minutes on each side or until heated through and coated with the sauce.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "creamy",
+    "midnight-mexican-hake-stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 40
+  },
+  "slug": "buttery-creamy-midnight-mexican-hake-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-creamy-midnight-mexican-hake-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:17:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "hake",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Hake",
+    "descriptor": "Buttery Creamy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
