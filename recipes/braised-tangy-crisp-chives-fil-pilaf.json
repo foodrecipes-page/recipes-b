@@ -1,0 +1,103 @@
+{
+  "title": "Braised Tangy-Crisp-Chives FilPilaf",
+  "description": "A gluten-free one-pot Filipino dish featuring chives and a tangy, crispy texture in every bite.",
+  "cuisine": "Philippine",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free rice",
+      "amount": "cup",
+      "notes": "preferably jasmine or basmati"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "large"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can (8 oz) diced tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "2 cups water or gluten-free chicken broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup rice vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1"
+    },
+    {
+      "name": "2 tablespoons fish sauce (optional, for umami flavor)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup chopped fresh chives",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add onions and garlic, sauté until translucent.",
+    "Stir in diced tomatoes with their juice, soy sauce, rice vinegar, lime juice, and optional fish sauce (if using). Bring to a simmer.",
+    "Add water or broth and bring to a boil. Reduce heat to low and let the mixture simmer for about 15 minutes.",
+    "Preheat oven to 350°F (175°C). Transfer rice into the pot, spread evenly with some of the tomato mixture on top.",
+    "Top with remaining chopped chives and sprinkle lightly with salt and pepper. Bake in the preheated oven for another 20-25 minutes or until rice is tender and golden brown.",
+    "Garnish with more lime wedges if desired, serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "butterfly-pilaf",
+    "tangy-chives",
+    "one-pot-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 6
+  },
+  "slug": "braised-tangy-crisp-chives-fil-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/braised-tangy-crisp-chives-fil-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:44:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "chives",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tangy-crisp-chives",
+    "descriptor": "Braised",
+    "dishForm": "Stir-fry"
+  }
+}
