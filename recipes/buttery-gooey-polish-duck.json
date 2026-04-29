@@ -1,0 +1,103 @@
+{
+  "title": "Buttery Gooey Polish Duck",
+  "description": "This delicious and indulgent dish is perfect for midnight cravings, featuring a blend of dry sherry, rich butter, and high-protein-friendly duck meat that melts in your mouth.",
+  "cuisine": "Polish",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast fillets",
+      "amount": "2 pcs",
+      "notes": "Skin-on, bone-in"
+    },
+    {
+      "name": "Dry sherry",
+      "amount": "1/4 cup",
+      "notes": "Sherry can be substituted with a dry white wine for non-alcoholic option"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 sticks",
+      "notes": "For the crispy skin and gooey center"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "For dredging the duck fillets in"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2 medium pieces, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix all-purpose flour with salt and black pepper. Dredge the duck fillets in the flour mixture.",
+    "Heat 2 tablespoons of butter in a skillet over medium heat. Sear the duck fillets on both sides until golden brown, about 3-4 minutes per side.",
+    "In another pan, sauté garlic, onion, and celery in remaining 2 tablespoons butter until tender.",
+    "Pour sherry into the pan with vegetables to deglaze it. Reduce the liquid by half while scraping the bottom of the pan for added flavor.",
+    "Place seared duck fillets in a baking dish. Pour vegetable mixture over them.",
+    "Drizzle remaining butter all over the duck, including the skin side. Cover with foil and bake at 350°F (175°C) for about 20 minutes.",
+    "Uncover and continue to cook for another 20-30 minutes or until internal temperature reaches 165°F (74°C).",
+    "Let it rest for a few minutes before slicing into wedges. Serve with your favorite sides.",
+    "Note: Cooking time can be adjusted based on duck size, adjust cooking heat as necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-gooey",
+    "polish-dinner",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 621,
+    "protein": 50,
+    "carbs": 13,
+    "fat": 40
+  },
+  "slug": "buttery-gooey-polish-duck",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-polish-duck",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:52:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "dry sherry",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "duck",
+    "descriptor": "Buttery Gooey Midnight Craving",
+    "dishForm": "Polish"
+  }
+}

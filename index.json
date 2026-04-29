@@ -2936,6 +2936,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-gooey-polish-duck",
+    "title": "Buttery Gooey Polish Duck",
+    "tags": [
+      "buttery-gooey",
+      "polish-dinner",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-indian-dates-stir-fry",
     "title": "Buttery Indian Dates Stir-fry",
     "tags": [
