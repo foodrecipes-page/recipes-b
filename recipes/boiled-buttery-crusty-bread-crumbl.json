@@ -1,0 +1,78 @@
+{
+  "title": "Boiled Buttery Crusty Bread Crumbl",
+  "description": "A buttery and crunchy Tunisian dish featuring red wine vinegar, ideal for a vegetarian-friendly breakfast or snack.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "enough to cover the bread"
+    },
+    {
+      "name": "Bread Cubes",
+      "amount": "1 loaf, sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Coat a baking sheet with olive oil and place it in the preheated oven for 10 minutes.",
+    "While the oven is heating up, mix butter, red wine vinegar, and salt together until well combined.",
+    "Pour warm water over bread cubes to soak them. Let sit for about 2-3 minutes until they're slightly softened but not mushy.",
+    "Remove baking sheet from the oven and place soaked bread cubes on top of it. Brush with some of the butter mixture.",
+    "Sprinkle remaining butter mixture evenly over bread cubes, ensuring all pieces are coated.",
+    "Bake for about 15-20 minutes or until golden brown. Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "boiled-bread",
+    "crusty-dish",
+    "tunisian-food"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "boiled-buttery-crusty-bread-crumbl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boiled-buttery-crusty-bread-crumbl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:56:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Buttery Crusty Bread",
+    "descriptor": "Boiled",
+    "dishForm": "Crumble"
+  }
+}
