@@ -1,0 +1,71 @@
+{
+  "title": "Bitter Fluffy Algerian Muffin Stir-fry",
+  "description": "A whole30-friendly and post-workout dish featuring bitter muffins stir-fried with other wholesome ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "algerian muffins",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onions, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Place the Algerian muffins in the preheated pan. Do not grease.",
+    "Add sliced bell peppers and diced onions to the pan with the muffins. Stir occasionally until vegetables are soft, approximately 5-7 minutes.",
+    "Stir in minced garlic and continue cooking for another minute or two until everything is well combined.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "fluffy",
+    "algerian",
+    "muffin",
+    "stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 22,
+    "fat": 4
+  },
+  "slug": "bitter-fluffy-algerian-muffin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-algerian-muffin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:47:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "muffins",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "muffins",
+    "descriptor": "bitter fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
