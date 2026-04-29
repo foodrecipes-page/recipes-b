@@ -1,0 +1,70 @@
+{
+  "title": "Bitter Crispy Middle Eastern Onion Stir-fry",
+  "description": "A low-fat-friendly monsoon dish featuring bitter and crispy onions with a hint of red chili flakes to add flavor and texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the onions into thin slices, ensuring they are bitter and crispy.",
+    "Heat a non-stick skillet over medium heat. Add the vegetable oil.",
+    "Once the oil is hot, add the red pepper flakes and stir-fry for about 30 seconds until fragrant.",
+    "Add the chopped onions to the skillet and sprinkle them with the balsamic vinegar.",
+    "Stir continuously to prevent sticking and to ensure even cooking. Continue cooking until the onions are crispy but not overcooked.",
+    "Remove from heat once they are golden brown and crispy, adjusting seasoning if needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-onion",
+    "crispy-stir-fry",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 1.5,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "bitter-crispy-middle-eastern-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-middle-eastern-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:19:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Onion",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
