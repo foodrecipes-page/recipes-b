@@ -1,0 +1,79 @@
+{
+  "title": "Bitter Flaky Korean Crumble",
+  "description": "This festive Korean dish features a blend of bitter flavors with smoked paprika and ferment for added depth, suitable as a low-calorie-friendly snack or appetizer.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Oat Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fermented Black Beans (optional)",
+      "amount": "1/4 cup",
+      "notes": "For added depth and flavor"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine oat flour, fermented black beans (if using), smoked paprika, salt, and black pepper.",
+    "Add water gradually while mixing until the mixture comes together to form a dough. It should be sticky but manageable.",
+    "Knead the dough for about 2 minutes to develop structure. Divide into small balls.",
+    "Preheat your oven to 180°C (350°F). Place each ball on a baking sheet lined with parchment paper, slightly flattening them.",
+    "Bake for 15-20 minutes or until golden brown and crispy. Remove from the oven and let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "flaky",
+    "korean",
+    "festive",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 3
+  },
+  "slug": "bitter-flaky-korean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-korean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:57:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "smoked paprika",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "smoked paprika",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Crumble"
+  }
+}
