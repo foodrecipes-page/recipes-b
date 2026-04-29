@@ -1,0 +1,82 @@
+{
+  "title": "Bitter Fluffy Indulgent Spanish Pistachio Stir-fry",
+  "description": "This halal-friendly dish features a blend of bitter and sweet flavors with the use of granulated sugar to create a unique indulgent experience, perfect for dessert.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "200g",
+      "notes": "Choose unblanched pistachios for a nuttier flavor"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "50g",
+      "notes": "Adjust quantity to taste, starting with half the amount"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": "Use filtered water to prevent bitterness from tap water"
+    },
+    {
+      "name": "Sugar Syrup",
+      "amount": "100ml",
+      "notes": "Can be made by boiling 50g granulated sugar and 50ml water until thickened, let cool before using"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "For dusting to prevent sticking while stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Drain and rinse the pistachios, then lightly toast them in the hot skillet until golden brown. Remove from heat and set aside.",
+    "In another pan, combine water and granulated sugar over medium heat. Stir until fully dissolved, then reduce to a simmer. Let it cool slightly before adding the cooled sugar syrup.",
+    "Once both the pistachios and the sugar mixture are ready, add them to the hot skillet along with soy sauce (if using). Stir constantly to prevent sticking.",
+    "Sprinkle flour evenly over the surface of the skillet as soon as you start stirring. This helps create a light, fluffy texture.",
+    "Cook for about 2-3 minutes or until the mixture is thick and bubbly, then remove from heat.",
+    "Serve immediately while still warm, garnished with additional chopped pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-fluffy",
+    "indulgent-spanish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 5.1,
+    "carbs": 32.5,
+    "fat": 9
+  },
+  "slug": "bitter-fluffy-indulgent-spanish-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-indulgent-spanish-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:35:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "granulated sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Pistachios",
+    "descriptor": "Bitter Fluffy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
