@@ -1,0 +1,97 @@
+{
+  "title": "Buttery Crispy Thai Rice Pilaf",
+  "description": "A cozy Thai dish featuring buttery rice cooked with vinegar and crispy bits for a raw-friendly twist.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long grain white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6, minced",
+      "notes": "about 1 small clove"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Coriander (cilantro) leaves",
+      "amount": "2 tablespoons, chopped",
+      "notes": "fresh or fresh frozen can be used"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Thai rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in cold water and drain. Soak it in hot water for at least 30 minutes.",
+    "In a large saucepan, heat oil over medium-high heat. Add garlic, cumin seeds, chili flakes, and salt. Stir until fragrant.",
+    "Drain the soaked rice well and add to the pan with water, fish sauce, Thai vinegar, and half of the chopped coriander leaves. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for about 15 minutes or until all the water is absorbed.",
+    "Remove from heat and let it rest covered for 5 minutes. Fluff with a fork and stir in remaining chopped coriander.",
+    "Garnish with extra butter and chopped coriander before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "rice",
+    "pilaf",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 39,
+    "fat": 10
+  },
+  "slug": "buttery-crispy-thai-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-thai-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:21:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "rice vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Pilaf"
+  }
+}

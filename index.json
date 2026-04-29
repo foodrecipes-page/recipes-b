@@ -2393,6 +2393,18 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crispy-thai-rice-pilaf",
+    "title": "Buttery Crispy Thai Rice Pilaf",
+    "tags": [
+      "rice",
+      "pilaf",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crumble-marshmallow",
     "title": "Buttery Crumble Marshmallow",
     "tags": [
