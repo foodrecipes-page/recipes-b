@@ -1,0 +1,90 @@
+{
+  "title": "Buttery Crispy Australian Monkfish Toast",
+  "description": "This dish combines the buttery texture of monkfish with a crispy exterior reminiscent of traditional toast, making it a nostalgic and delightful breakfast option.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tablespoons, melted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs, beaten"
+    },
+    {
+      "name": "Herbs (optional)",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Mix flour and breadcrumbs in a shallow dish.",
+    "In another shallow dish, beat the eggs. Place the monkfish fillets in between two paper towels to absorb any excess liquid.",
+    "Coat each fillet with egg first, then coat evenly in breadcrumb mixture, pressing gently for better adhesion.",
+    "Heat the melted butter in a non-stick pan over medium heat. Once hot, add the coated fillets and cook until golden brown on both sides (about 3-4 minutes per side).",
+    "Transfer to a baking sheet lined with parchment paper, arranging the toast-style monkfish in one layer.",
+    "Bake for about 10-12 minutes or until the breadcrumbs are crispy. Garnish with fresh herbs if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 12,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "monkfish",
+    "toast",
+    "buttery",
+    "crispy",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "protein": 27,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "buttery-crispy-australian-monkfish-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-australian-monkfish-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:52:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "monkfish",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Monkfish",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Toast"
+  }
+}
