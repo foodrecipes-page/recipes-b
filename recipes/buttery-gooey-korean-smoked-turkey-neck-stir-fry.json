@@ -1,0 +1,98 @@
+{
+  "title": "Buttery Gooey Korean Smoked Turkey Neck Stir-fry",
+  "description": "A weeknight KOSHER-friendly dish featuring slow-cooked and smoked turkey necks in a savory, buttery sauce with vegetables for a comforting and indulgent meal.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Neck",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 med, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Korean BBQ Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetables (e.g. Carrots, Bell Peppers, Zucchini)",
+      "amount": "1 med each, sliced into thin sticks"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F.",
+    "Season turkey necks with salt and pepper, then place them in a single layer on a baking sheet. Roast for about 45 minutes or until the internal temperature reaches 165°F.",
+    "While turkey necks are roasting, heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic to the heated oil and stir-fry for about 2-3 minutes until softened.",
+    "Remove turkey necks from the oven and slice them into bite-sized pieces. Return turkey necks to the pan with vegetables, then add Korean BBQ Sauce, Soy Sauce, Fish Sauce, Gochujang, and Water.",
+    "Stir everything together well, cover, and cook for about 15 minutes on low heat.",
+    "Add sliced vegetables to the skillet and stir-fry for an additional 2-3 minutes until vegetables are tender.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-smoked-turkey-neck",
+    "stir-fry",
+    "buttery-gooey",
+    "koshre-friendly"
+  ],
+  "nutrition": {
+    "calories": 362,
+    "protein": 28,
+    "carbs": 10,
+    "fat": 17
+  },
+  "slug": "buttery-gooey-korean-smoked-turkey-neck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-korean-smoked-turkey-neck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:20:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "smoked turkey neck",
+    "descriptor": "Buttery Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
