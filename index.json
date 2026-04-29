@@ -1169,6 +1169,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-flaky-wheat-pilaf",
+    "title": "Bitter Flaky Wheat Pilaf",
+    "tags": [
+      "bitter",
+      "flaky",
+      "paleo-friendly",
+      "wheat-pilaf"
+    ],
+    "cuisine": "Chinese (Fujian)",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-flour-pancake-stack",
     "title": "Bitter Flour Pancake Stack",
     "tags": [

@@ -1,0 +1,78 @@
+{
+  "title": "Bitter Flaky Wheat Pilaf",
+  "description": "A comforting Chinese (Fujian) dish featuring white wine and paleo-friendly wheat that is both bitter and flaky in texture.",
+  "cuisine": "Chinese (Fujian)",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Wheat Vermicelli",
+      "amount": "20 grams",
+      "notes": "Use gluten-free wheat vermicelli if available."
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Milk Powder",
+      "amount": "3 tablespoons",
+      "notes": "Optional for extra creaminess, not essential for paleo-friendly version."
+    },
+    {
+      "name": "Bitter Melon Slices",
+      "amount": "2 medium-sized slices",
+      "notes": "Use the innermost and softer part of the bitter melon."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat water in a saucepan until boiling.",
+    "Add wheat vermicelli to the boiling water. Cook for about 2 minutes or until softened but still slightly firm.",
+    "Drain the vermicelli and set aside.",
+    "In another pan, melt coconut milk powder with white wine over low heat.",
+    "Gently fold in drained wheat vermicelli.",
+    "Add bitter melon slices to the mixture. Cook for about 2 more minutes or until the melon releases a pleasant aroma.",
+    "Remove from heat and serve hot as a side dish or dessert."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "flaky",
+    "paleo-friendly",
+    "wheat-pilaf"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "bitter-flaky-wheat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-wheat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:22:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "white wine",
+    "diet": "paleo",
+    "region": "fujian",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Wheat",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Pilaf"
+  }
+}
