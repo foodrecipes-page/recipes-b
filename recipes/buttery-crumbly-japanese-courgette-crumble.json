@@ -1,0 +1,80 @@
+{
+  "title": "Buttery Crumbly Japanese Courgette Crumble",
+  "description": "A quick and easy post-workout dish featuring courgettes as the main ingredient, topped with a buttermilk crumb mixture for added texture and flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Buttermilk (skimmed)",
+      "amount": "150ml"
+    },
+    {
+      "name": "Sugar-Free Sweetener (e.g. Stevia or Erythritol)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Slice the courgettes into thin strips.",
+    "In a mixing bowl, combine buttermilk with sugar-free sweetener. Mix well until no lumps remain.",
+    "Add sliced pickled ginger to the buttermilk mixture and mix gently to distribute evenly throughout the mixture.",
+    "Heat cooking oil in a pan over medium heat. Add courgette strips and cook for about 5 minutes or until golden brown on both sides.",
+    "Remove courgettes from the pan and keep warm. Pour the buttermilk ginger mixture into the same pan used for cooking the courgettes, stir well to combine.",
+    "Add breadcrumbs to the buttermilk ginger mixture and mix gently until combined. Cook for about 3-4 minutes or until it forms a thick crumble on top of the buttermilk mixture.",
+    "Serve hot with the warm sliced courgettes and additional pickled ginger if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "courgette",
+    "buttermilk",
+    "crumble",
+    "pickle",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "buttery-crumbly-japanese-courgette-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-japanese-courgette-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:43:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "courgettes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Courgette",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Crumble"
+  }
+}
