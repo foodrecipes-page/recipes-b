@@ -1,0 +1,84 @@
+{
+  "title": "Buttery Argentinian Rice Stir-Fry",
+  "description": "A crowd-pleasing low-calorie-friendly Argentine dish featuring crispy rice vinegar and a touch of butter for an irresistible texture and flavor profile.",
+  "cuisine": "Argentine",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "A few grinds"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove",
+      "notes": "For added flavor, crush with a pinch of salt and black pepper first"
+    },
+    {
+      "name": "Chili Flakes (Optional)",
+      "amount": "A few flakes for heat"
+    }
+  ],
+  "instructions": [
+    "Cook the white Basmati Rice according to package instructions. Drain any excess water.",
+    "Heat olive oil in a large skillet over medium-high heat. Add crushed garlic with salt and black pepper, cook for about 30 seconds until fragrant.",
+    "Stir in rice vinegar, butter, and chili flakes (if using). Bring the mixture to a simmer.",
+    "Add cooked rice to the skillet, toss gently to coat evenly. Cook for another minute or two until all liquid is absorbed and the rice is slightly crispy on top.",
+    "Season with additional salt and black pepper as needed. Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-rice-stir-fry",
+    "low-calorie-friendly-dish",
+    "crispy-argentine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "buttery-argentinian-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-argentinian-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:07:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Rice",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
