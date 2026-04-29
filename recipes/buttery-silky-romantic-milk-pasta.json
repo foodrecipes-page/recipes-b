@@ -1,0 +1,91 @@
+{
+  "title": "Buttery Silky Romantic Milk Pasta",
+  "description": "A creamy and luxurious Korean-inspired dish featuring milk pasta with a touch of butter and cheese for a decadent meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat pasta",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "Grated parmesan cheese",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and cook the whole wheat pasta according to package instructions until al dente.",
+    "Meanwhile, in a saucepan over medium heat, melt the butter with the grated parmesan cheese until melted and smooth.",
+    "Once the pasta is cooked, reserve 1 cup of cooking liquid, then add the pasta to the saucepan with the melted cheese mixture. Stir well to combine.",
+    "Gradually stir in the heavy cream while continuously stirring to avoid lumps. Adjust seasoning with salt and black pepper as needed.",
+    "Stir in fresh parsley and serve immediately.",
+    "Optional: Top with additional parmesan cheese and a sprinkle of freshly ground black pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "silky",
+    "romantic",
+    "korean",
+    "plant-based",
+    "milk-pasta"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "buttery-silky-romantic-milk-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-romantic-milk-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:47:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "milk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Milk",
+    "descriptor": "Buttery Silky Romantic",
+    "dishForm": "Pasta"
+  }
+}
