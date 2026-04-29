@@ -1,0 +1,89 @@
+{
+  "title": "Bitter Crunchy Tunisian Kale Salad",
+  "description": "A low-carb, monsoon-inspired kale salad featuring toasted walnuts and a tangy dressing to enhance its bitter flavors.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "50g toasted"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp pickled"
+    },
+    {
+      "name": "Olives",
+      "amount": "30g pitted and sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and remove tough stems from the kale. Chop kale into bite-sized pieces.",
+    "Toast walnuts in a dry pan over medium heat until golden brown, about 3 minutes. Let them cool slightly before chopping.",
+    "In a small bowl, mix together lemon juice, olive oil, salt, and pepper to make the dressing. Set aside.",
+    "Combine all ingredients: kale, toasted walnuts, capers, olives, red onion, and dressing in a large salad bowl. Toss gently until well combined.",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "kale",
+    "crunchy",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 352,
+    "protein": 9.7,
+    "carbs": 6.1,
+    "fat": 18
+  },
+  "slug": "bitter-crunchy-tunisian-kale-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-tunisian-kale-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:42:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "kale",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Kale",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Salad"
+  }
+}

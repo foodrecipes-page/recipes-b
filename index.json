@@ -857,6 +857,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-tunisian-kale-salad",
+    "title": "Bitter Crunchy Tunisian Kale Salad",
+    "tags": [
+      "tunisian",
+      "kale",
+      "crunchy",
+      "bitter"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 10,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-dense-algerian-hind-shank-stir-fry",
     "title": "Bitter Dense Algerian Hind Shank Stir-fry",
     "tags": [
