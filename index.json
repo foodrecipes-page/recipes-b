@@ -1315,6 +1315,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-juicy-ukrainian-beef-stir-fry",
+    "title": "Bitter Juicy Ukrainian Beef Stir-fry",
+    "tags": [
+      "beef",
+      "stir-fry",
+      "ukrainian",
+      "juicy"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-kale-delight",
     "title": "Bitter Kale Delight",
     "tags": [

@@ -1,0 +1,100 @@
+{
+  "title": "Bitter Juicy Ukrainian Beef Stir-fry",
+  "description": "This monsoon-friendly dish features mixed beef cuts in a flavorful sauce that's low-sodium and bursting with juiciness.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "100g"
+    },
+    {
+      "name": "Beef brisket",
+      "amount": "50g"
+    },
+    {
+      "name": "Beef chuck roast",
+      "amount": "50g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2 small"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water or beef broth",
+      "amount": "50ml"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mixed herbs (dill, parsley)",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Chop the vegetables into small pieces.",
+    "In a wok or large skillet, sauté onions until translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Fold in beef and stir-fry until seared on all sides.",
+    "Pour in tomato paste and mix well to create a thick sauce base.",
+    "Add water or broth. Bring the mixture to a simmer, then reduce heat to low.",
+    "Cover and let it simmer for about 20 minutes.",
+    "Stir in mixed herbs and adjust seasoning with salt and pepper.",
+    "Turn off the heat once the beef is fully cooked and juices are released.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "ukrainian",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 281,
+    "protein": 27,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "bitter-juicy-ukrainian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-ukrainian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:10:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Bitter Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
