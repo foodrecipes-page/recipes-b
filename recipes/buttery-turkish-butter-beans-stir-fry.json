@@ -1,0 +1,89 @@
+{
+  "title": "Buttery Turkish Butter Beans Stir-fry",
+  "description": "A festive turkish dish featuring chewy butter beans cooked in a buttery sauce with aromatic spices and reduced to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter Beans",
+      "amount": "2 cups",
+      "notes": "Soaked overnight and cooked until tender"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Pepper",
+      "amount": "1 small, finely chopped",
+      "notes": "For added heat"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Spice Blend (for garnish)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and sauté for about 3 minutes until soft, then add garlic and red chili pepper. Stir-fry for another minute.",
+    "Stir in the butter beans with their cooking liquid and any soaking water used (if necessary).",
+    "Sprinkle cumin on top and stir to combine well.",
+    "Reduce heat to low, cover the skillet and simmer gently for about 20 minutes or until the sauce has reduced slightly and the beans are tender.",
+    "Serve warm, garnished with the Turkish spice blend."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "turkish",
+    "chewy",
+    "festival"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "buttery-turkish-butter-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-turkish-butter-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:16:28Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "butter beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "butter beans",
+    "descriptor": "buttery",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -3173,6 +3173,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-turkish-butter-beans-stir-fry",
+    "title": "Buttery Turkish Butter Beans Stir-fry",
+    "tags": [
+      "buttery",
+      "turkish",
+      "chewy",
+      "festival"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-ukrainian-broccoli-stir-fry",
     "title": "Buttery Ukrainian Broccoli Stir-fry",
     "tags": [
