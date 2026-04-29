@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Silk Pasta Stir-fry",
+  "description": "A quick and satisfying weeknight dish featuring silky pasta tossed with buttery sauce, parsley, and a touch of broiling for added texture.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "3-4 slices"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Peanut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Saffron or Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "3-4 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler and prepare a baking dish. Rinse and pat dry the pasta.",
+    "Combine pasta, scallions, and some olive oil in a large pan over medium heat.",
+    "Add soy sauce and sauté for about 2 minutes until fragrant but not burnt.",
+    "Stir in butter until fully melted and smooth. Cook briefly to coat pasta evenly with sauce.",
+    "Top with chopped parsley and any remaining scallion slices, then broil until parsley starts to crisp slightly (about 1-2 minutes).",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "stir-fry",
+    "buttery",
+    "silky",
+    "chinese",
+    "weeknight",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 16,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "buttery-silk-pasta-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silk-pasta-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:06:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "parsley",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pasta",
+    "descriptor": "Buttery Silky",
+    "dishForm": "Stir-fry"
+  }
+}

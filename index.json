@@ -3197,6 +3197,22 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-silk-pasta-stir-fry",
+    "title": "Buttery Silk Pasta Stir-fry",
+    "tags": [
+      "pasta",
+      "stir-fry",
+      "buttery",
+      "silky",
+      "chinese",
+      "weeknight",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-silky-cacao-dip",
     "title": "Buttery Silky Cacao Dip",
     "tags": [
