@@ -1,0 +1,93 @@
+{
+  "title": "Baked Greek Butter Cheese Pie",
+  "description": "A buttery, gooey Greek dish featuring baking powder and sautéed elements in a cozy mediterranean-friendly pie.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup greek yogurt",
+      "amount": "cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1/4 cup chopped fresh herbs (thyme, oregano)",
+      "amount": "cup",
+      "notes": null
+    },
+    {
+      "name": "1 can (15 oz) diced tomatoes",
+      "amount": "can",
+      "notes": null
+    },
+    {
+      "name": "2 cups grated feta cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Grated Parmesan cheese, for topping",
+      "amount": "grated",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a skillet, sauté minced garlic and chopped herbs with butter until fragrant.",
+    "Add diced tomatoes and cook for about 5 minutes. Season with salt.",
+    "Stir in greek yogurt into the tomato mixture.",
+    "Transfer the mixture to a prepared pie dish. Top with grated feta cheese.",
+    "Bake for 20-25 minutes, or until golden brown and bubbly. Sprinkle with additional grated Parmesan before serving.",
+    "Let it cool slightly before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-dish",
+    "butter-cheese-pie",
+    "cozy-recipe"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 14,
+    "carbs": 3,
+    "fat": 15
+  },
+  "slug": "baked-greek-butter-cheese-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/baked-greek-butter-cheese-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:59:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "baking powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Butter Cheese",
+    "descriptor": "Baked",
+    "dishForm": "Pie"
+  }
+}

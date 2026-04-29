@@ -13,6 +13,18 @@
     "shard": "b"
   },
   {
+    "slug": "baked-greek-butter-cheese-pie",
+    "title": "Baked Greek Butter Cheese Pie",
+    "tags": [
+      "greek-dish",
+      "butter-cheese-pie",
+      "cozy-recipe"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "balsamic-citrus-bites",
     "title": "Balsamic Citrus Bites",
     "tags": [
