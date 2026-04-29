@@ -1,0 +1,86 @@
+{
+  "title": "Buttery Juicy Hazelnut Pancake",
+  "description": "This brunch-mood Ukrainian dish features shelled hazelnuts and dum in a buttery and juicy batter.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons (melted)"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shelled hazelnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sweetener of choice",
+      "amount": "to taste"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a large mixing bowl, combine flour, baking powder, and sugar.",
+    "Add melted butter, milk, hazelnuts, sweetener (if using), and vanilla extract to the dry ingredients. Mix until well combined.",
+    "Pour batter onto preheated skillet and cook for 2-3 minutes per side or until bubbles form on top.",
+    "Serve hot with additional toppings like fresh berries or whipped cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "juicy",
+    "hazelnut",
+    "pancake",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "buttery-juicy-hazelnut-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-hazelnut-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:49:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Hazelnuts",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Pancake"
+  }
+}

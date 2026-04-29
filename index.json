@@ -3052,6 +3052,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-juicy-hazelnut-pancake",
+    "title": "Buttery Juicy Hazelnut Pancake",
+    "tags": [
+      "buttery",
+      "juicy",
+      "hazelnut",
+      "pancake",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-juicy-mediterranean-clam-crumble",
     "title": "Buttery Juicy Mediterranean Clam Crumble",
     "tags": [
