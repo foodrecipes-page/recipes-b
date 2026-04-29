@@ -1,0 +1,98 @@
+{
+  "title": "Bitter Chewy Comforting Middle Eastern Toor Dal Stir-fry",
+  "description": "This vegan-friendly dish is slow-cooked to perfection, featuring bitter and chewy Toor Dal that's comforting and delicious.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups rinsed Toor Dal",
+      "amount": "",
+      "notes": "Soaked for at least 30 minutes"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1-inch piece ginger, peeled and grated",
+      "amount": ""
+    },
+    {
+      "name": "1 can (8 oz) coconut milk",
+      "amount": "",
+      "notes": "Opened and drained"
+    },
+    {
+      "name": "3 tablespoons vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "To adjust the flavor"
+    },
+    {
+      "name": "1 tablespoon turmeric powder",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onions, garlic, and ginger. Cook until the onions turn translucent.",
+    "Stir in Toor Dal, salt, cumin, coriander, and turmeric powder. Mix well.",
+    "Pour coconut milk into the skillet while stirring continuously to avoid scorching.",
+    "Reduce heat to low and cover the skillet with a lid. Let it simmer for about 30 minutes.",
+    "Once cooked, turn off the heat and let the Toor Dal cool down slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "toor-dal",
+    "bitter",
+    "comforting",
+    "middle-eastern",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 7,
+    "carbs": 34,
+    "fat": 6
+  },
+  "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:19:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "slow-cook",
+    "primaryIngredient": "toor dal",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "toor dal",
+    "descriptor": "bitter chewy comforting",
+    "dishForm": "Stir-fry"
+  }
+}
