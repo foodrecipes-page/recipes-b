@@ -1,0 +1,76 @@
+{
+  "title": "Bitter Caramelized Kenyan Sweet Potato Stir-fry",
+  "description": "A light and lazy Sunday dish featuring bitter sweet potatoes caramelized with chilli powder in a halal-friendly recipe.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large sweet potato",
+      "amount": "peeled and cubed"
+    },
+    {
+      "name": "3 tablespoons of butter or coconut oil",
+      "amount": "at room temperature"
+    },
+    {
+      "name": "1/2 teaspoon of chilli powder",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Water (enough to cover the sweet potatoes)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Place the cubed sweet potato in a baking dish, drizzle with butter and sprinkle chilli powder over it. Mix well.",
+    "Pour enough water to cover half of the sweet potatoes evenly across them. Cover the dish lightly with aluminum foil.",
+    "Bake for about 35-40 minutes until the sweet potato is tender but not mushy.",
+    "Remove from oven, leave covered and let cool slightly. Once cooled, unplug the heat source or turn off your cooking appliance.",
+    "Take out the sweet potatoes and use a fork to mash them gently. Add salt if needed and mix well.",
+    "Serve hot with any favorite sauce or dip you prefer."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-caramelized",
+    "sweet-potato-stir-fry",
+    "kenyan-dish",
+    "lazy-sunday",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "bitter-caramelized-kenyan-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-caramelized-kenyan-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:52:16Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "chilli powder",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Bitter Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
