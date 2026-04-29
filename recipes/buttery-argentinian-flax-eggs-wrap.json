@@ -1,0 +1,103 @@
+{
+  "title": "Buttery Argentinian Flax Eggs Wrap",
+  "description": "A cozy and buttery wrap featuring flax eggs, packed with protein and loaded with flavor for a pescatarian-friendly meal.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flax Eggs",
+      "amount": "2",
+      "notes": "Replace regular eggs as flax eggs bind together and are vegan"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For binding and flavoring the flax eggs"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "To help thicken the mixture"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Enhances the natural taste of the flax eggs"
+    },
+    {
+      "name": "Chopped Bell Pepper",
+      "amount": "1 cup",
+      "notes": "Add a bit of crunch and color to the wrap"
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Provides a cool, fresh contrast in taste and texture"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tbsp",
+      "notes": "Add a tangy burst of flavor to the wrap"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, finely chopped",
+      "notes": "Delivers a sweet, savory kick to the wrap"
+    },
+    {
+      "name": "Jalapeno Slices",
+      "amount": "2 slices",
+      "notes": "For a touch of heat and flavor"
+    },
+    {
+      "name": "Chives (optional)",
+      "amount": "1 tbsp, chopped",
+      "notes": "Adds freshness and color to the wrap"
+    }
+  ],
+  "instructions": [
+    "Beat flax eggs with olive oil in a bowl.",
+    "Stir in all-purpose flour and salt until smooth.",
+    "Heat pan over medium heat. Pour mixture into pan and let cook for about 1-2 minutes on each side or until golden brown and set.",
+    "While wraps are cooking, prepare toppings by combining bell pepper, cucumber, capers, red onion, jalapeno slices (if using), and chives in a bowl.",
+    "To assemble: Spread flax eggs evenly onto wrap. Top with the prepared vegetables mixture.",
+    "Serve immediately as a breakfast or lunch wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "wrap",
+    "flax-egg",
+    "vegan",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 14,
+    "carbs": 27,
+    "fat": 16
+  },
+  "slug": "buttery-argentinian-flax-eggs-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-argentinian-flax-eggs-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:58:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "flax eggs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "flax eggs",
+    "descriptor": "Buttery",
+    "dishForm": "Wrap"
+  }
+}
