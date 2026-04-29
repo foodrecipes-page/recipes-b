@@ -1,0 +1,89 @@
+{
+  "title": "Boil Mozzarella Stir-fry",
+  "description": "A tangy and juicy one-pot American dish featuring mozzarella cheese boiled until it melts into a creamy sauce.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": "Ensure it's pre-cooked or fully melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add onions and garlic, sautéing until translucent about 3 minutes.",
+    "Include red bell peppers and continue cooking for another 5 minutes.",
+    "Pour in the shredded mozzarella cheese. Stir gently to avoid clumping.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to low and let the mixture simmer, stirring occasionally, until the cheese melts into a creamy sauce, about 7-10 minutes.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 25,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "american",
+    "tangy",
+    "juicy",
+    "melted_cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "boil-mozzarella-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/boil-mozzarella-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:25:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "mozzarella",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Boil",
+    "dishForm": "Stir-fry"
+  }
+}

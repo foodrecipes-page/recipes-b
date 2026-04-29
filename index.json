@@ -1711,6 +1711,20 @@
     "shard": "b"
   },
   {
+    "slug": "boil-mozzarella-stir-fry",
+    "title": "Boil Mozzarella Stir-fry",
+    "tags": [
+      "stir-fry",
+      "american",
+      "tangy",
+      "juicy",
+      "melted_cheese"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 33,
+    "shard": "b"
+  },
+  {
     "slug": "boiled-argentinian-butter-stir-fry",
     "title": "Boiled Argentinian Butter Stir-fry",
     "tags": [
