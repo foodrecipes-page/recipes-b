@@ -1,0 +1,92 @@
+{
+  "title": "Buttery Vietnamese Sirloin Steak Stir-fry",
+  "description": "A dense and sick-day friendly dish featuring halal-friendly sirloin steak stir-fried with a creamy sauce in a quick, easy-to-cook meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) halal sirloin steak",
+      "amount": "",
+      "notes": "ensure it's halal-certified and from a trusted source"
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": "room temperature",
+      "notes": "for added richness"
+    },
+    {
+      "name": "1/2 cup creamy peanut sauce (store-bought or homemade)",
+      "amount": "undiluted",
+      "notes": "use halal-friendly if available"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": "ensure it's halal-certified if unsure"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": "for enhanced flavor"
+    },
+    {
+      "name": "1/4 cup fresh cilantro, chopped (optional)",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "1 tsp fish sauce (if needed for taste adjustment)",
+      "amount": "",
+      "notes": "ensure it's halal-friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C). Season the sirloin steak with salt and pepper on both sides.",
+    "Prepare the stir-fry: In a small bowl, mix the creamy peanut sauce. Set aside.",
+    "In a large skillet or wok over medium-high heat, add butter and once melted, add chopped onions. Cook until they turn translucent and slightly golden.",
+    "Add minced garlic to the skillet and cook for about 1 minute until fragrant. Mix in the stir-fry sauce with the onions and garlic. Let it simmer for a few minutes to let the flavors meld together.",
+    "Place the sirloin steak on top of the onion mixture, ensuring both sides are coated evenly with the peanut sauce. Cook for 2-3 minutes per side or until the meat is cooked to your desired doneness (internal temperature should reach at least 145°F/65°C).",
+    "Once fully cooked, remove the steak from the skillet and let it rest for a few minutes before slicing into thin strips.",
+    "Garnish with fresh cilantro and serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "dense",
+    "sick-day",
+    "vietnamese",
+    "stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 32,
+    "carbs": 49,
+    "fat": 28
+  },
+  "slug": "buttery-vietnamese-sirloin-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-vietnamese-sirloin-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:18:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "sirloin steak",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Sirloin Steak",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}

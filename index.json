@@ -3429,6 +3429,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-vietnamese-sirloin-steak-stir-fry",
+    "title": "Buttery Vietnamese Sirloin Steak Stir-fry",
+    "tags": [
+      "buttery",
+      "dense",
+      "sick-day",
+      "vietnamese",
+      "stir-fry",
+      "halal-friendly"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-vinegar-toast",
     "title": "Buttery Vinegar Toast",
     "tags": [
