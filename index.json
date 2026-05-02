@@ -3619,6 +3619,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-spanish-toasted-bread",
+    "title": "Buttery Spanish Toasted Bread",
+    "tags": [
+      "spanish",
+      "breakfast",
+      "toasted",
+      "plant-based",
+      "chewy",
+      "brunch"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 5,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-starch-feast",
     "title": "Buttery Starch Feast",
     "tags": [

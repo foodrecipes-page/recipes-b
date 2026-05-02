@@ -1,0 +1,80 @@
+{
+  "title": "Buttery Spanish Toasted Bread",
+  "description": "A chewy, buttery Spanish-inspired bread dish perfect for brunch, deglazed with a touch of plant-based flair.",
+  "cuisine": "spanish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices",
+      "notes": "stale or fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry skillet over medium heat.",
+    "Add 1 tbsp olive oil and 1 tbsp butter to the skillet.",
+    "Place 2 slices of whole wheat bread in the skillet, ensuring even contact with the pan.",
+    "Cook for 2-3 minutes per side until golden and crispy, adding paprika and parsley during the final minute for flavor.",
+    "Remove from heat and serve warm."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "toasted",
+    "plant-based",
+    "chewy",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 12
+  },
+  "slug": "buttery-spanish-toasted-bread",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-spanish-toasted-bread",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:55:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "toast",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "toasted bread",
+    "descriptor": "Buttery",
+    "dishForm": "Toast"
+  }
+}
