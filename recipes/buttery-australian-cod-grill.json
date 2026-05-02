@@ -1,0 +1,89 @@
+{
+  "title": "Buttery Australian Cod Grill",
+  "description": "A show-off Australian dish featuring flaky cod with a buttery glaze, perfectly grilled to highlight the fish's natural flavor. Dairy-free-friendly option available.",
+  "cuisine": "australian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian cod",
+      "amount": "120g",
+      "notes": "Fresh or frozen, thawed if frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "For the glaze"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp",
+      "notes": "For the glaze"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Prep: Pat cod dry and season with black pepper.",
+    "Sear: Heat olive oil in a pan over medium-high heat. Add cod, cook for 2-3 minutes per side until golden.",
+    "Glaze: In a small bowl, mix lemon juice, minced garlic, dijon mustard, and maple syrup. Drizzle over cod while still warm.",
+    "Rest: Let cod rest for 1 minute before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "grill",
+    "cod",
+    "dairy-free",
+    "light",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 22,
+    "carbs": 2,
+    "fat": 10
+  },
+  "slug": "buttery-australian-cod-grill",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-australian-cod-grill",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:30:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cod",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cod",
+    "descriptor": "Buttery",
+    "dishForm": "Grill"
+  }
+}
