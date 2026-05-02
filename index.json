@@ -3821,5 +3821,19 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-zanzibari-red-snapper-bowl",
+    "title": "Buttery Zanzibari Red Snapper Bowl",
+    "tags": [
+      "zanzibari",
+      "redsnapper",
+      "buttery",
+      "lowfat",
+      "dinner"
+    ],
+    "cuisine": "zanzibari",
+    "totalTimeMin": 17,
+    "shard": "b"
   }
 ]

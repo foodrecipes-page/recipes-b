@@ -1,0 +1,113 @@
+{
+  "title": "Buttery Zanzibari Red Snapper Bowl",
+  "description": "A light, buttery red snapper dish with zanzibari spices and fresh vegetables, perfect for a low-fat dinner.",
+  "cuisine": "zanzibari",
+  "diet": [
+    "low-fat",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillet",
+      "amount": "120g",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "100g",
+      ": ": ", "
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice of 1 lemon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "red chili",
+      "amount": "1/4 tsp",
+      "notes": "dried, for heat"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "50ml",
+      "notes": "light, for creaminess"
+    },
+    {
+      "name": "basil",
+      "amount": "1 tbsp",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Season red snapper fillet with salt, then pat dry with paper towels.",
+    "In a pan, heat 1 tbsp olive oil over medium heat.",
+    "Sauté onion and garlic for 2 minutes until fragrant.",
+    "Add ginger and red chili, cook for 1 minute.",
+    "Stir in tomato, lemon juice, coconut milk, and basil; simmer for 5 minutes.",
+    "Place red snapper fillet in the pan and cook for 5-7 minutes on each side until cooked through.",
+    "Serve hot with a sprinkle of fresh basil and a drizzle of olive oil.",
+    "Optional: Add a pinch of black pepper for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "zanzibari",
+    "redsnapper",
+    "buttery",
+    "lowfat",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 25,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "buttery-zanzibari-red-snapper-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-zanzibari-red-snapper-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:31:36Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "bhuna",
+    "primaryIngredient": "red snapper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "red snapper",
+    "descriptor": "Buttery",
+    "dishForm": "Bowl"
+  }
+}
