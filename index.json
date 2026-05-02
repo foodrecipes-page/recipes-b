@@ -1341,6 +1341,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-greek-veal-omelette",
+    "title": "Bitter Greek Veal Omelette",
+    "tags": [
+      "greek",
+      "brunch",
+      "vegan? no",
+      "high-protein",
+      "crisp",
+      "bitter"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 13,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-joy-moroccan-reviver",
     "title": "Bitter Joy Moroccan Reviver",
     "tags": [

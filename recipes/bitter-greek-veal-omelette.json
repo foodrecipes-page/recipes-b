@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Greek Veal Omelette",
+  "description": "A crisp, high-protein brunch dish featuring tender veal slices and a subtle bitter note from fresh herbs, perfect for a light yet satisfying meal.",
+  "cuisine": "greek",
+  "diet": [
+    "high-protein",
+    "vegetarian? no"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "veal slices",
+      "amount": "150g",
+      "notes": "thinly sliced, room temperature"
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": "large, room temperature"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "10g",
+      ": ": "notes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "5g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "white wine",
+      "amount": "20ml",
+      "notes": "dripping bitterness"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "5g",
+      "notes": "leaves only"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/8 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add veal slices and cook for 2-3 minutes per side until crisp but not browned.",
+    "Whisk eggs with white wine, dill, parsley, salt, and pepper until smooth.",
+    "Pour egg mixture over veal in skillet; cook until set, about 2 minutes.",
+    "Remove from heat and garnish with mint leaves."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "brunch",
+    "vegan? no",
+    "high-protein",
+    "crisp",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "bitter-greek-veal-omelette",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-greek-veal-omelette",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:20:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "veal",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "veal",
+    "descriptor": "Bitter",
+    "dishForm": "Omelette"
+  }
+}
