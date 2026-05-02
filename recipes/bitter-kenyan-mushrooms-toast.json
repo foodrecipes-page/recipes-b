@@ -1,0 +1,81 @@
+{
+  "title": "Bitter Kenyan Mushrooms Toast",
+  "description": "A post-workout dish featuring wild mushrooms' natural bitterness balanced with velvety texture on toasted bread, pescatarian-friendly.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wild mushrooms (e.g., shiitake, oyster)",
+      "amount": "150g",
+      "notes": "Fresh or frozen; use wild-harvested for authentic bitterness"
+    },
+    {
+      "name": "whole grain toast",
+      "amount": "2 slices",
+      "notes": "Rye or multigrain for earthy notes"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml",
+      "notes": "Full-fat for creaminess"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      ": ": "",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "Freshly cracked"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C for toasting bread",
+    "Sauté mushrooms in olive oil over medium heat until tender (5-7 mins)",
+    "Add milk and black pepper; simmer until thickened (2 mins)",
+    "Spread mushroom mixture on toasted bread slices"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "mushroom",
+    "toast",
+    "pescatarian",
+    "snack",
+    "postworkout"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 22,
+    "fat": 12
+  },
+  "slug": "bitter-kenyan-mushrooms-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-kenyan-mushrooms-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:27:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Bitter",
+    "dishForm": "Toast"
+  }
+}
