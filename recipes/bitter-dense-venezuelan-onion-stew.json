@@ -1,0 +1,106 @@
+{
+  "title": "Bitter Dense Venezuelan Onion Stew",
+  "description": "A hearty and bitter stew originating from Venezuela, featuring caramelized onions and a Mediterranean twist, perfect for late-night cravings. This dense stew is sure to become a favorite.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 (14 oz) can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-low heat.",
+    "Add the sliced onions and cook, stirring occasionally, for 30 minutes or until they are deep golden brown and caramelized.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Stir in the anchovy paste and cook for 1 minute.",
+    "Add the pitted kalamata olives, chopped artichoke hearts, red wine vinegar, chicken broth, dried oregano, salt, and black pepper. Stir to combine.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "dense",
+    "venezuelan",
+    "onion-stew",
+    "mediterranean-inspired",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "bitter-dense-venezuelan-onion-stew",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-venezuelan-onion-stew",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:25:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "onions",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "onions",
+    "descriptor": "bitter dense",
+    "dishForm": "Stew"
+  }
+}
