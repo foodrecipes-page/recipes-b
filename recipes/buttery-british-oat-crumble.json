@@ -1,0 +1,95 @@
+{
+  "title": "Buttery British Oat Crumble",
+  "description": "A classic British dessert featuring a buttery, chewy oat topping and a creamy single cream filling, perfect for a quick-fix dessert. This nut-free-friendly dish is slow-cooked to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 1/2 cups",
+      "notes": "old-fashioned or quick-cooking"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the rolled oats, brown sugar, granulated sugar, and salt.",
+    "Add the melted butter to the oat mixture and stir until well combined.",
+    "In a separate bowl, mix together the single cream, mixed berries, and vanilla extract.",
+    "Transfer the cream mixture to a 9x9-inch baking dish.",
+    "Top the cream mixture with the oat mixture, spreading it evenly.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, topped with additional mixed berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "oat-crumble",
+    "single-cream",
+    "mixed-berries",
+    "vegetarian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "buttery-british-oat-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-british-oat-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:35:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "single cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "oats",
+    "descriptor": "buttery chewy",
+    "dishForm": "Crumble"
+  }
+}
