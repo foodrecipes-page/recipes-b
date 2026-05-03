@@ -1,0 +1,113 @@
+{
+  "title": "Buttery Moroccan Lamb Tagine",
+  "description": "A rich, smoky lamb tagine with buttery sauce and sweet plum glaze, perfect for keto diners.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2‑inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar‑free plum jam",
+      "amount": "200 g"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500 ml",
+      "notes": "low‑sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 160 °C (320 °F).",
+    "Season the lamb cubes with salt and pepper.",
+    "In a heavy‑bottomed pot, melt the butter with olive oil over medium‑high heat.",
+    "Brown the lamb in batches, about 5–7 min per side; remove and set aside.",
+    "In the same pot, sauté onion, garlic and ginger until fragrant, about 3 min.",
+    "Add cumin, coriander, smoked paprika and cinnamon; stir for 1 min.",
+    "Return the lamb to the pot, pour in plum jam and chicken broth, bring to a simmer.",
+    "Cover and cook on the stove for 30 min, then transfer the pot to the oven.",
+    "Slow‑cook uncovered for 2 h, then cover again for an additional 30 min or until lamb is fall‑apart tender.",
+    "Remove from oven, taste and adjust seasoning; garnish with fresh cilantro and toasted almonds before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "keto-friendly",
+    "buttery",
+    "plum-sauce",
+    "smoky",
+    "slow-cooked",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 34,
+    "carbs": 7,
+    "fat": 46
+  },
+  "slug": "buttery-moroccan-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-moroccan-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:14:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "plum sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Buttery",
+    "dishForm": "Tagine"
+  }
+}

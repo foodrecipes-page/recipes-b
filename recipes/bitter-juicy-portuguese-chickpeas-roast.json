@@ -1,0 +1,113 @@
+{
+  "title": "Bitter Juicy Portuguese Chickpeas Roast",
+  "description": "A savory, slightly bitter and juicy roasted chickpea dish inspired by Portuguese flavors, perfect for a hearty brunch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Pat the drained chickpeas dry with a clean towel.",
+    "In a large bowl, combine olive oil, ground allspice, smoked paprika, cumin, rosemary, lemon zest, lemon juice, salt, and pepper.",
+    "Add the chickpeas to the bowl and toss until evenly coated.",
+    "Spread the chickpeas in a single layer on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 25-30 minutes, stirring once halfway through, until the chickpeas are golden and crispy.",
+    "Remove from oven and let cool for a few minutes.",
+    "Transfer to a serving dish, sprinkle with toasted sesame seeds and chopped parsley, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "juicy",
+    "roast",
+    "chickpeas",
+    "portuguese",
+    "brunch",
+    "jain-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "bitter-juicy-portuguese-chickpeas-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-portuguese-chickpeas-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:13:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "ground allspice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Bitter Juicy",
+    "dishForm": "Roast"
+  }
+}

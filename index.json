@@ -1578,6 +1578,24 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-juicy-portuguese-chickpeas-roast",
+    "title": "Bitter Juicy Portuguese Chickpeas Roast",
+    "tags": [
+      "bitter",
+      "juicy",
+      "roast",
+      "chickpeas",
+      "portuguese",
+      "brunch",
+      "jain-friendly",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-juicy-russian-haddock-stir-fry",
     "title": "Bitter Juicy Russian Haddock Stir-fry",
     "tags": [
@@ -4145,6 +4163,24 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 27,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-moroccan-lamb-tagine",
+    "title": "Buttery Moroccan Lamb Tagine",
+    "tags": [
+      "moroccan",
+      "lamb",
+      "tagine",
+      "keto-friendly",
+      "buttery",
+      "plum-sauce",
+      "smoky",
+      "slow-cooked",
+      "dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 195,
     "shard": "b"
   },
   {
