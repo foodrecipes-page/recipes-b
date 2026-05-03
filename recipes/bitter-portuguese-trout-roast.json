@@ -1,0 +1,90 @@
+{
+  "title": "Bitter Portuguese Trout Roast",
+  "description": "A cozy Portuguese dish featuring cured trout with a bitter finish, served with crispy herbs and a tangy lemon-dill sauce. Perfect for a light dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cured trout fillets",
+      "amount": "200g",
+      "notes": "freshly cured, e.g., salmão de lagoa"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/8 tsp",
+      ": ": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "crispy herbs",
+      "amount": "small handful",
+      "notes": "dill and parsley, lightly toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Line a baking sheet with parchment paper.",
+    "Place cured trout fillets on the baking sheet.",
+    "Season with sea salt, black pepper, and lemon juice.",
+    "Top with fresh dill and crispy herbs.",
+    "Bake for 12-15 minutes until the trout is tender and the herbs are crispy.",
+    "Serve immediately with a side of lemon-dill sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "bitter",
+    "crunchy",
+    "cozy",
+    "trout",
+    "halal",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 28,
+    "carbs": 2,
+    "fat": 14
+  },
+  "slug": "bitter-portuguese-trout-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-portuguese-trout-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:13:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "trout",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "trout",
+    "descriptor": "bitter",
+    "dishForm": "Roast"
+  }
+}

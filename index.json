@@ -1495,6 +1495,22 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-portuguese-trout-roast",
+    "title": "Bitter Portuguese Trout Roast",
+    "tags": [
+      "portuguese",
+      "bitter",
+      "crunchy",
+      "cozy",
+      "trout",
+      "halal",
+      "dinner"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-rice-bliss",
     "title": "Bitter Rice Bliss",
     "tags": [
