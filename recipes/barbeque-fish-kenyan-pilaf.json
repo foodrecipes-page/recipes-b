@@ -1,0 +1,87 @@
+{
+  "title": "Barbeque Fish Kenyan Pilaf",
+  "description": "A buttery, crisp, midnight-craving kenyan dish featuring a pescatarian-friendly barbeque sauce that simmers with fish and grains for an unforgettable meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (176°C). Rinse fish fillets and pat dry.",
+    "In a large skillet, melt butter over medium heat. Add onion and garlic; sauté until translucent.",
+    "Add tomato paste and cook for another minute. Pour in barbecue sauce and water, stirring well to combine.",
+    "Increase heat to high, bring mixture to a boil then reduce heat to low. Place fish fillets in the skillet evenly distributing them on top of the sauce.",
+    "Cover with aluminum foil and bake for 20 minutes. Uncover, stir gently and continue baking until all liquid is absorbed (another 10-15 minutes).",
+    "While fish bakes, prepare rice according to package instructions. Place cooked rice in a pot with enough water; bring to boil then reduce heat to low.",
+    "After 20 minutes of baking the fish, stir-in rice and continue cooking for another 5 minutes or until fully absorbed by sauce.",
+    "Remove from oven, let sit for 1 minute before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "barbeque-fish-kenyan-pilaf",
+    "buttery-crisp-midnight-craving-kenyan-dish",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 61,
+    "fat": 30
+  },
+  "slug": "barbeque-fish-kenyan-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/barbeque-fish-kenyan-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:21:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Barbeque",
+    "dishForm": "Pilaf"
+  }
+}

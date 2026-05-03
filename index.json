@@ -108,6 +108,18 @@
     "shard": "b"
   },
   {
+    "slug": "barbeque-fish-kenyan-pilaf",
+    "title": "Barbeque Fish Kenyan Pilaf",
+    "tags": [
+      "barbeque-fish-kenyan-pilaf",
+      "buttery-crisp-midnight-craving-kenyan-dish",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 75,
+    "shard": "b"
+  },
+  {
     "slug": "basil-buttercrust",
     "title": "Basil Buttercrust",
     "tags": [
