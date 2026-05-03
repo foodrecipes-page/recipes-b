@@ -3217,6 +3217,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crumbly-greek-lamb-casserole",
+    "title": "Buttery Crumbly Greek Lamb Casserole",
+    "tags": [
+      "greek-cuisine",
+      "lamb-recipes",
+      "keto-friendly",
+      "comfort-food"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 180,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crumbly-indian-chilli-bean-paste-crumble",
     "title": "Buttery Crumbly Indian Chilli Bean Paste Crumble",
     "tags": [
@@ -3718,6 +3731,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-fluffy-tunisian-lamb-tagine",
+    "title": "Buttery Fluffy Tunisian Lamb Tagine",
+    "tags": [
+      "tunisian-cuisine",
+      "lamb-recipes",
+      "date-night",
+      "diabetic-friendly",
+      "gluten-free"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
