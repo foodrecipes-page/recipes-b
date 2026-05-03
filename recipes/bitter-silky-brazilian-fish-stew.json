@@ -1,0 +1,113 @@
+{
+  "title": "Bitter Silky Brazilian Fish Stew",
+  "description": "A velvety fish stew with sharp pepper notes, perfect for a romantic dinner that keeps sugar low and flavors bright.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm white fish fillets (cod or snapper)",
+      "amount": "600g",
+      "notes": "cubed"
+    },
+    {
+      "name": "mixed bell peppers (red, yellow, green)",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1 small",
+      "notes": "deseeded and finely chopped"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "250ml",
+      "notes": "adds silky body"
+    },
+    {
+      "name": "fish stock or water",
+      "amount": "1 cup",
+      "notes": "for broth"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced onion and sauté until translucent, about 3 minutes.",
+    "Incorporate the grated ginger and chopped chili, cooking for another minute until fragrant.",
+    "Stir in the sliced bell peppers and diced tomato, cooking for 5 minutes until they soften.",
+    "Add the cubed fish, coconut milk, and fish stock; stir to combine.",
+    "Season with 1 tsp smoked paprika, 1 tsp cumin, 1 tsp sea salt, and 1/2 tsp black pepper, mixing well.",
+    "Reduce heat to low, cover, and simmer gently for 10-12 minutes, or until the fish is opaque and flakes easily.",
+    "Finish the stew with a splash of lime juice, adjusting seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Enjoy your silky, bitter Brazilian fish stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "bitter",
+    "silky",
+    "sugar-free",
+    "low-carb",
+    "dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 30,
+    "carbs": 29,
+    "fat": 11
+  },
+  "slug": "bitter-silky-brazilian-fish-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-silky-brazilian-fish-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:30:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "mixed peppers",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Fish",
+    "descriptor": "Bitter Silky",
+    "dishForm": "Stew"
+  }
+}

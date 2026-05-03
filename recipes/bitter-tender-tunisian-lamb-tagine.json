@@ -1,0 +1,111 @@
+{
+  "title": "Bitter Tender Tunisian Lamb Tagine",
+  "description": "A traditional Tunisian dish featuring tender lamb, bitter flavors, and sweet notes, perfect for a solo dinner. This recipe combines the richness of lamb with the brightness of Mediterranean spices and the depth of pressure-cooked flavors.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped apricots, prunes, honey, ras el hanout, salt, and black pepper. Stir to combine.",
+    "Add the water to the pressure cooker and bring to a boil.",
+    "Close the lid and cook at high pressure for 30 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Open the lid and check the lamb for tenderness. If needed, cook for an additional 10-15 minutes.",
+    "Serve the lamb and sauce hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "lamb",
+    "tagine",
+    "pressure-cooker",
+    "mediterranean",
+    "bitter",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "bitter-tender-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-tender-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:30:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sugars",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "bitter tender",
+    "dishForm": "Tagine"
+  }
+}

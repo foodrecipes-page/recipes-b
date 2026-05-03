@@ -1762,6 +1762,23 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-silky-brazilian-fish-stew",
+    "title": "Bitter Silky Brazilian Fish Stew",
+    "tags": [
+      "brazilian",
+      "fish",
+      "bitter",
+      "silky",
+      "sugar-free",
+      "low-carb",
+      "dinner",
+      "gluten-free"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-silky-romantic-german-ginger-stir-fry",
     "title": "Bitter Silky Romantic German Ginger Stir-fry",
     "tags": [
@@ -1864,6 +1881,22 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-tender-tunisian-lamb-tagine",
+    "title": "Bitter Tender Tunisian Lamb Tagine",
+    "tags": [
+      "tunisian",
+      "lamb",
+      "tagine",
+      "pressure-cooker",
+      "mediterranean",
+      "bitter",
+      "tender"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
     "shard": "b"
   },
   {
