@@ -1557,6 +1557,22 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-juicy-uruguayan-strawberries-toast",
+    "title": "Uruguayan Strawberry Toast",
+    "tags": [
+      "breakfast",
+      "snack",
+      "strawberry",
+      "toasted-bread",
+      "gluten-free",
+      "fodmap-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 12,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-kale-delight",
     "title": "Bitter Kale Delight",
     "tags": [
@@ -2844,6 +2860,14 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-creamy-indian-chickpeas-curry",
+    "title": "Buttery Creamy Indian Chickpeas Curry",
+    "tags": [],
+    "cuisine": "Indian",
+    "totalTimeMin": null,
     "shard": "b"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "title": "Uruguayan Strawberry Toast",
+  "description": "A refreshing and healthy combination of bitter, juicy strawberries on toasted bread, perfect for a quick snack or breakfast.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Strawberries",
+      "amount": "250g",
+      "notes": "fresh strawberries, washed and hulled"
+    },
+    {
+      "name": "Toasted Almond Bread",
+      "amount": "2 slices",
+      "notes": "gluten-free bread, toasted until lightly browned"
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "20g",
+      "notes": "at least 70% cocoa content"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "4-6 leaves",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "50g",
+      "notes": "fodmap-friendly yogurt, for serving"
+    },
+    {
+      "name": "Balsamic Glaze",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    " Toast the bread until lightly browned.",
+    "In a blender or food processor, puree the strawberries until smooth.",
+    "In a bowl, mix together the strawberry puree, honey (if using), and Greek yogurt until well combined.",
+    "Top the toasted bread with the strawberry mixture, followed by a sprinkle of dark chocolate chips.",
+    "Garnish with fresh mint leaves and serve immediately.",
+    "Drizzle with balsamic glaze (if using).",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "strawberry",
+    "toasted-bread",
+    "gluten-free",
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "bitter-juicy-uruguayan-strawberries-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-uruguayan-strawberries-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:32:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "strawberries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "strawberries",
+    "descriptor": "bitter juicy",
+    "dishForm": "toast"
+  }
+}
