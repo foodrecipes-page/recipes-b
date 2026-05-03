@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Silky Argentinian Chicken Sandwich",
+  "description": "A buttery, silky chicken breast sandwich with Argentine inspired seasoning, served on toasted paleo bread with a drizzle of chimichurri and a creamy avocado spread.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "2 large (approx 350 g total)",
+      "notes": "pounded to even thickness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 Tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 Tbsp",
+      "notes": "cut into pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "fresh"
+    },
+    {
+      "name": "Argentine seasoning blend",
+      "amount": "1 tsp",
+      "notes": "mix dried oregano, cumin, smoked paprika, salt, pepper"
+    },
+    {
+      "name": "paleo sandwich bread",
+      "amount": "2 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "sliced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "2 Tbsp",
+      "notes": "prepared or store‑bought"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat and add olive oil and butter.",
+    "Season the chicken breasts with the Argentine seasoning blend.",
+    "Cook the chicken 4‑5 min per side or until golden and an instant-read thermometer reads 165 °F (74 °C); transfer to a plate and let rest 5 min.",
+    "While the chicken rests, toast the paleo bread slices until golden and set aside.",
+    "In a small pan, melt the remaining butter and add minced garlic, cooking for about 1 min until fragrant; remove from heat.",
+    "Slice the rested chicken into thin strips and arrange on the toasted bread.",
+    "Drizzle the garlic‑butter over the chicken, then layer avocado slices and spoon chimichurri sauce on top.",
+    "Fold the sandwich, slice in half if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "buttery",
+    "silky",
+    "argentinian",
+    "lazy-sunday",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 38,
+    "carbs": 34,
+    "fat": 28
+  },
+  "slug": "buttery-silky-argentinian-chicken-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-argentinian-chicken-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:10:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "chicken breast",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Buttery Silky",
+    "dishForm": "Sandwich"
+  }
+}

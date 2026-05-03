@@ -4681,6 +4681,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-silky-argentinian-chicken-sandwich",
+    "title": "Buttery Silky Argentinian Chicken Sandwich",
+    "tags": [
+      "paleo-friendly",
+      "buttery",
+      "silky",
+      "argentinian",
+      "lazy-sunday",
+      "quick-and-easy"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-silky-argentinian-yautia-soup",
     "title": "Buttery Silky Argentinian Yautía Soup",
     "tags": [
