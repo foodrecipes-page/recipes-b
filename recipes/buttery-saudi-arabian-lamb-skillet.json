@@ -1,0 +1,113 @@
+{
+  "title": "Buttery Saudi Arabian Lamb Skillet",
+  "description": "A rich, buttery lamb skillet infused with Middle Eastern spices and a splash of sake, perfect for a quick weeknight dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb (450 g)",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup (120 ml)"
+    },
+    {
+      "name": "beef or lamb broth",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium‑high heat and add butter and olive oil until the butter melts.",
+    "Add the lamb cubes and sear until they are browned on all sides, about 5 minutes. Remove the lamb from the skillet and set aside.",
+    "In the same skillet, add the diced onion and cook until translucent, about 3–4 minutes.",
+    "Add the minced garlic and spices (cumin, coriander, cinnamon, cayenne) and cook for 1 minute until fragrant.",
+    "Pour in the sake to deglaze the pan, scraping up any browned bits; let the liquid reduce for 2 minutes.",
+    "Return the lamb to the skillet, pour in the broth, bring to a gentle simmer, cover, and cook for 15 minutes.",
+    "Stir in the lemon juice, season with salt and pepper to taste.",
+    "Finish the dish by sprinkling chopped parsley on top. Serve hot over rice or with flatbread.",
+    ""
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "buttery",
+    "weeknight-dinner",
+    "sake-infused"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 30
+  },
+  "slug": "buttery-saudi-arabian-lamb-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-saudi-arabian-lamb-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:29:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "sake",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Buttery",
+    "dishForm": "Skillet"
+  }
+}
