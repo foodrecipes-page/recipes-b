@@ -1,0 +1,121 @@
+{
+  "title": "Bitter Crumbly Filipino Chicken Casserole",
+  "description": "A hearty Filipino casserole that balances the sharp bite of chili powder with a satisfying crumbly crust, perfect for meal prep and Mediterranean-friendly diets.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken breast",
+      "amount": "400g",
+      "notes": "cut into 1‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "subtle citrus note"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "earthy warmth"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh acidity"
+    },
+    {
+      "name": "shredded cheese blend (mozzarella 150g + feta 50g)",
+      "amount": "200g",
+      "notes": "mix mozzarella and feta for creamy yet crumbly texture"
+    },
+    {
+      "name": "crushed cornflakes",
+      "amount": "1 cup",
+      "notes": "for the brittle crust"
+    },
+    {
+      "name": "low‑fat chicken broth",
+      "amount": "1 cup",
+      "notes": "provides moisture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a bowl, toss chicken with chili powder, smoked paprika, coriander, cumin, salt, and pepper. Let marinate 5 minutes.",
+    "Heat olive oil in a large skillet over medium‑high heat. Add chicken and brown for 5–7 minutes, removing from pan once golden.",
+    "Add diced onion and minced garlic to the pan; sauté until onion is translucent, about 3 minutes.",
+    "Return chicken to the skillet, pour in chicken broth, and stir in the shredded cheese blend and lemon juice. Simmer for 2 minutes.",
+    "Transfer the mixture to a greased 9×13 inch baking dish and top with a layer of crushed cornflakes. If desired, add a thin layer of extra shredded cheese on top.",
+    "Bake uncovered for 20–25 minutes, or until the top is golden and the casserole is bubbling.",
+    "Let rest for 5 minutes before serving. Garnish with chopped fresh cilantro if desired.",
+    "Store leftover portions in airtight containers in the refrigerator for up to 4 days, reheating in the microwave or oven."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "casserole",
+    "meal-prep",
+    "bitter",
+    "crumbly",
+    "chili-powder",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 334,
+    "protein": 22,
+    "carbs": 7,
+    "fat": 12
+  },
+  "slug": "bitter-crumbly-filipino-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-filipino-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:21:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "chilli powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Bitter Crumbly",
+    "dishForm": "Casserole"
+  }
+}
