@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Dense British Peppers Casserole",
+  "description": "A hearty, comforting British-inspired casserole featuring mixed peppers, slow-cooked to perfection in a rich, buttery sauce. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "British",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed bell peppers",
+      "amount": "3 large",
+      "notes": "any color"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded, kosher-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large skillet, melt 1/4 cup of butter over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the mixed bell peppers and cook until they start to soften, about 5 minutes.",
+    "In a separate saucepan, melt the remaining 1/4 cup of butter over medium heat.",
+    "Add the flour and whisk to combine, cooking for 1-2 minutes.",
+    "Slowly pour in the milk, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it thickens, about 5 minutes.",
+    "Stir in the shredded cheese until melted and smooth.",
+    "In a large casserole dish, combine the cooked pepper mixture and the cheese sauce.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "casserole",
+    "comfort-food",
+    "kosher-friendly",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "buttery-dense-british-peppers-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-british-peppers-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:12:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "mixed peppers",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "peppers",
+    "descriptor": "buttery dense",
+    "dishForm": "Casserole"
+  }
+}

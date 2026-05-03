@@ -3253,6 +3253,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-dense-british-peppers-casserole",
+    "title": "Buttery Dense British Peppers Casserole",
+    "tags": [
+      "british-cuisine",
+      "casserole",
+      "comfort-food",
+      "kosher-friendly",
+      "lazy-sunday"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-dense-romantic-tunisian-tomato-stir-fry",
     "title": "Buttery Dense Romantic Tunisian Tomato Stir-fry",
     "tags": [
