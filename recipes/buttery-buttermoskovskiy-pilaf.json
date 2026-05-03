@@ -1,0 +1,83 @@
+{
+  "title": "Buttery Buttermoskovskiy Pilaf",
+  "description": "A rich and flavorful Ukrainian dish featuring dried fruits, blanched almonds, and a touch of sweetness to cater to diabetic-friendly preferences.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups quinoa",
+      "amount": "cup",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "1 cup dried cranberries",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup blanched almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 tablespoon honey or stevia for sweetness",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt and freshly ground black pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Toast quinoa in a dry skillet until lightly golden, about 2 minutes.",
+    "Combine toasted quinoa, cranberries, almonds, and butter in a mixing bowl. Mix well to coat evenly.",
+    "Sauté garlic in the remaining tablespoon of butter until fragrant, about 30 seconds.",
+    "Add sautéed garlic to the mixing bowl with other ingredients, stir gently to combine.",
+    "Pour mixture into an oven-safe glass dish or shallow baking pan and bake for 25 minutes, or until fruits are tender but not mushy.",
+    "Serve warm. Adjust sweetness level according to taste.",
+    "Optional: Sprinkle additional blanched almonds on top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery-pilaf",
+    "dried-fruits",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 7,
+    "carbs": 41,
+    "fat": 13
+  },
+  "slug": "buttery-buttermoskovskiy-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-buttermoskovskiy-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:09:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "dried fruit",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "raisins",
+    "descriptor": "Buttery",
+    "dishForm": "Pilaf"
+  }
+}
