@@ -1,0 +1,126 @@
+{
+  "title": "Buttery Peruvian Tofu Stir‑fry",
+  "description": "A quick, buttery stir‑fry with tofu, colorful peppers, and a tahini‑based sauce, inspired by Peruvian flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra‑firm tofu",
+      "amount": "14 oz",
+      "notes": "pressed and cut into 1/2‑inch cubes"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced half‑moon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for at least 15 minutes to remove excess moisture and cut into cubes.",
+    "Heat the olive oil in a large skillet over medium‑high heat. Add the tofu cubes and sear until golden on all sides, about 5 minutes. Remove tofu and set aside.",
+    "In the same skillet, add the vegan butter and let it melt. Add the minced garlic, grated ginger, cumin, and smoked paprika; sauté for 30 seconds until fragrant.",
+    "Add the sliced bell peppers and zucchini to the skillet; stir‑fry for 4–5 minutes until the vegetables are tender but still crisp.",
+    "Return the tofu to the pan and pour in the tahini paste, soy sauce, and lime juice. Stir gently to coat everything evenly, cooking for another 2 minutes to heat through.",
+    "Taste the sauce and adjust seasoning if needed—add a splash more soy sauce for saltiness or lime juice for brightness.",
+    "Serve hot, garnished with chopped fresh cilantro. Pair with steamed rice or quinoa for a complete meal.",
+    "Enjoy this buttery, Peruvian‑inspired tofu stir‑fry for a satisfying weeknight dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "vegetarian",
+    "vegan",
+    "stir-fry",
+    "tahini",
+    "weeknight",
+    "quick",
+    "tofu",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "protein": 8,
+    "carbs": 7,
+    "fat": 14
+  },
+  "slug": "buttery-peruvian-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-peruvian-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:55:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "tahini paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Buttery",
+    "dishForm": "Stir-fry"
+  }
+}
