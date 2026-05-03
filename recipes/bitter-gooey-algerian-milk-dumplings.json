@@ -1,0 +1,96 @@
+{
+  "title": "Bitter Gooey Algerian Milk Dumplings",
+  "description": "A show‑off, FODMAP‑friendly dessert that blends bitter cocoa with gooey milk‑based dumplings, finished with a saffron‑infused maple glaze and toasted pistachios.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lactose‑free cow milk",
+      "amount": "200 ml",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "semolina",
+      "amount": "100 g",
+      "notes": "fine"
+    },
+    {
+      "name": "oat flour",
+      "amount": "30 g",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tbsp",
+      "notes": "bitter flavor"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30 g",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "low‑FODMAP"
+    },
+    {
+      "name": "toasted pistachios",
+      "amount": "30 g",
+      "notes": "low‑FODMAP, garnish"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "a pinch",
+      "notes": "optional, show‑off"
+    }
+  ],
+  "instructions": [
+    "Whisk the lactose‑free milk with cocoa powder until smooth.",
+    "In a separate bowl, combine semolina, oat flour, baking powder, and salt; mix well.",
+    "Add melted butter and vanilla extract to the milk mixture and stir to combine.",
+    "Pour the wet mixture into the dry ingredients and knead until a soft dough forms.",
+    "Let the dough rest for 10 minutes.",
+    "Bring a pot of salted water to a boil; drop spoonfuls of the dough into the pot and simmer for 8–10 minutes until the dumplings rise and become translucent.",
+    "Heat the maple syrup with a pinch of saffron in a small saucepan until slightly thickened.",
+    "Drain the dumplings and transfer to a serving dish; drizzle with the saffron maple glaze.",
+    "Sprinkle chopped pistachios on top and serve warm."
+  ],
+  "slug": "bitter-gooey-algerian-milk-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-gooey-algerian-milk-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:15:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "milk",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "milk",
+    "descriptor": "Bitter Gooey",
+    "dishForm": "Dumplings"
+  }
+}
