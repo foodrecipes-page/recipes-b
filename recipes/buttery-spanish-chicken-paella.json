@@ -1,0 +1,111 @@
+{
+  "title": "Buttery Spanish Chicken Paella",
+  "description": "A rich, buttery paella made with chicken and rice, perfect for a single, diabetic-friendly dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": "to add depth of flavor"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "small onion",
+      "amount": "¼ cup diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1 minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "½ cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "pinch"
+    },
+    {
+      "name": "short‑grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "skin‑less chicken breast",
+      "amount": "4 ounces sliced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil and butter in a deep skillet or paella pan over medium heat until the butter foams.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic, paprika, and saffron until fragrant, about 30 seconds.",
+    "Pour in the diced tomatoes and cook until the mixture thickens slightly, 2–3 minutes.",
+    "Add the chicken slices, season with salt and pepper, and cook until they turn pink, about 4 minutes.",
+    "Stir in the rice, ensuring each grain is coated with the sauce.",
+    "Pour in the chicken broth, bring to a gentle boil, then reduce heat to low and simmer uncovered for 15 minutes.",
+    "Add the peas, cover, and continue cooking until the rice is tender and liquid is absorbed, about 5 minutes.",
+    "Remove from heat and let rest, covered, for 5 minutes.",
+    "Fluff the paella with a fork, sprinkle chopped parsley on top, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "butter",
+    "chicken",
+    "single-serving",
+    "diabetic-friendly",
+    "dense",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "buttery-spanish-chicken-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-spanish-chicken-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:00:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "paella rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Buttery",
+    "dishForm": "Paella"
+  }
+}

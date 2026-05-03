@@ -5326,6 +5326,23 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-spanish-chicken-paella",
+    "title": "Buttery Spanish Chicken Paella",
+    "tags": [
+      "spanish",
+      "paella",
+      "butter",
+      "chicken",
+      "single-serving",
+      "diabetic-friendly",
+      "dense",
+      "solo-dinner"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-spanish-toasted-bread",
     "title": "Buttery Spanish Toasted Bread",
     "tags": [
