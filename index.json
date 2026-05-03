@@ -2771,6 +2771,23 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-creamy-dutch-eggs-bowl",
+    "title": "Buttery Creamy Dutch Eggs Bowl",
+    "tags": [
+      "breakfast",
+      "egg",
+      "poached",
+      "creamy",
+      "buttery",
+      "pine-nuts",
+      "quick",
+      "dutch"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry",
     "title": "Buttery Creamy Middle Eastern Sun-Dried Tomatoes Stir-fry",
     "tags": [

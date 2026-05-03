@@ -1,0 +1,110 @@
+{
+  "title": "Buttery Creamy Dutch Eggs Bowl",
+  "description": "A velvety Dutch-inspired bowl featuring poached eggs in a rich butter‑cream sauce, toasted pine nuts, fresh spinach, smoked salmon, and feta for an energizing start or mid‑day meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "servings": 4,
+  "difficulty": "easy",
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "tags": [
+    "breakfast",
+    "egg",
+    "poached",
+    "creamy",
+    "buttery",
+    "pine-nuts",
+    "quick",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 13,
+    "carbs": 3,
+    "fat": 25
+  },
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "fresh, large"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup (240ml)",
+      "notes": "full‑fat"
+    },
+    {
+      "name": "Dry spinach",
+      "amount": "1/2 cup (30g)",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/4 cup (30g)",
+      "notes": "toasted"
+    },
+    {
+      "name": "Smoked salmon",
+      "amount": "1/4 cup (30g)",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup (30g)",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Set a medium saucepan of water to a gentle simmer and add a splash of vinegar to help the egg whites coagulate.",
+    "Crack each egg into a small bowl, then slide carefully into the simmering water; poach for 3 minutes for a runny yolk or 4 minutes for slightly firmer yolks.",
+    "Remove the eggs with a slotted spoon and set aside on paper towels to drain.",
+    "In a separate small saucepan, melt the butter over low heat, then add the heavy cream and stir until the mixture is smooth and slightly thickened.",
+    "Add the dry spinach to the cream mixture and cook just until wilted, about 1 minute.",
+    "Meanwhile, toast the pine nuts in a dry skillet over medium heat for 2–3 minutes, stirring frequently until fragrant and lightly browned.",
+    "Add the toasted pine nuts to the cream sauce, then stir in the smoked salmon and crumbled feta; heat through for 1 minute.",
+    "Divide the sauce among four bowls, top each with a poached egg, and sprinkle with smoked paprika, salt, and pepper to taste. Serve immediately."
+  ],
+  "slug": "buttery-creamy-dutch-eggs-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-creamy-dutch-eggs-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:11:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "pine nuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "eggs",
+    "descriptor": "Buttery Creamy",
+    "dishForm": "Bowl"
+  }
+}
