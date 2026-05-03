@@ -1,0 +1,98 @@
+{
+  "title": "Buttery Silky Argentinian Yautía Soup",
+  "description": "A creamy, low‑fat Argentine soup that turns yautía into a silky, buttery delight, perfect for a comforting lunch.",
+  "cuisine": "Argentine",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautía (cassava)",
+      "amount": "500 g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "low‑fat milk",
+      "amount": "1 cup (240 ml)",
+      "notes": null
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup (240 ml)",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp (5 g)",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add the softened butter.",
+    "Sauté the diced onion and minced garlic until fragrant and translucent, about 3 minutes.",
+    "Add the diced yautía and stir to coat with the butter and aromatics.",
+    "Pour in the vegetable broth and low‑fat milk, bring to a gentle boil.",
+    "Reduce heat to a simmer and cook, uncovered, until the yautía is tender, about 15 minutes.",
+    "Use an immersion blender to puree the soup until silky smooth; if desired, blend in batches.",
+    "Season with salt, pepper, and a splash of lemon juice; stir to combine.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "south-american",
+    "argentinian",
+    "buttery-silky",
+    "low-fat",
+    "yautia-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 14,
+    "carbs": 115,
+    "fat": 7
+  },
+  "slug": "buttery-silky-argentinian-yautia-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-argentinian-yautia-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:01:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "yautia",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "yautia",
+    "descriptor": "Buttery Silky",
+    "dishForm": "Soup"
+  }
+}
