@@ -1,0 +1,98 @@
+{
+  "title": "Buttery Crumbly British Pork Pie",
+  "description": "A traditional British dish made with minced pork, buttery crust, and a crumbly texture, perfect for meal prep and diabetic-friendly diets.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "500g",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "120g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "ice-cold water",
+      "amount": "60ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "dried sage",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large bowl, combine the minced pork, salt, black pepper, dried sage, and onion powder. Mix well.",
+    "In a separate bowl, combine the flour and cold unsalted butter. Use a pastry blender or fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add the ice-cold water to the flour mixture, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth.",
+    "Divide the dough in half and roll out each half into a circle, about 3mm thick.",
+    "Spoon the pork mixture into the center of one of the dough circles, leaving a 1-inch border around the edges.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Place the second dough circle on top of the filling and press the edges to seal.",
+    "Use a knife to create a decorative edge and cut a few slits in the top crust to allow steam to escape.",
+    "Place the pie on a baking sheet and bake for 45-50 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "pork-pie",
+    "meal-prep",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "buttery-crumbly-british-pork-pie",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-british-pork-pie",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:24:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "minced pork",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pork",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Pie"
+  }
+}
