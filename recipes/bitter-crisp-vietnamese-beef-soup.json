@@ -1,0 +1,141 @@
+{
+  "title": "Bitter Crisp Vietnamese Beef Soup",
+  "description": "A slow‑cooked, bitter‑tasting Vietnamese beef soup with a crisp, refreshing finish—perfect for a comforting dinner.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean beef sirloin",
+      "amount": "500g",
+      "notes": "thinly sliced against the grain"
+    },
+    {
+      "name": "beef bones",
+      "amount": "1.5kg",
+      "notes": "or a mix of marrow and knuckle bones"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "sliced into 5mm rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "quartered"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "smashed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp",
+      "notes": "optional, adds bitterness"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups (1L)",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp",
+      "notes": "optional, balances bitterness"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "optional, for bright acidity"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "adds crisp texture"
+    },
+    {
+      "name": "rice vermicelli",
+      "amount": "120g",
+      "notes": "soaked 15 min, drained"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional, for aroma"
+    }
+  ],
+  "instructions": [
+    "1. In a large stockpot, bring the water to a boil and add the beef bones. Reduce to a gentle simmer and skim off any foam that rises to the surface.",
+    "2. Add the sliced carrot, onion, garlic, ginger, black peppercorns, and Sichuan peppercorns. Simmer gently for 5–7 minutes to release aromatics.",
+    "3. Add the sliced beef, fish sauce, and sugar (if using). Simmer uncovered for 3–4 hours, partially covered, until the broth is richly flavored and the beef is tender.",
+    "4. In the last 15 minutes of cooking, stir in the lime juice, cilantro, and green onions. Taste and adjust seasoning with additional fish sauce or salt if needed.",
+    "5. To serve, divide the soaked vermicelli among bowls. Ladle the hot broth and beef over the noodles, then top with bean sprouts and a drizzle of toasted sesame oil.",
+    "6. Garnish with extra cilantro and green onions if desired. Serve immediately while hot, accompanied by fresh lime wedges on the side for extra zing."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 240,
+  "totalTimeMin": 265,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crisp",
+    "comforting",
+    "beef",
+    "soup",
+    "slow-cook",
+    "Vietnamese",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "bitter-crisp-vietnamese-beef-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crisp-vietnamese-beef-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:02:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "slow-cook",
+    "primaryIngredient": "beef",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Beef",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Soup"
+  }
+}

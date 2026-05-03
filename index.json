@@ -760,6 +760,23 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crisp-vietnamese-beef-soup",
+    "title": "Bitter Crisp Vietnamese Beef Soup",
+    "tags": [
+      "bitter",
+      "crisp",
+      "comforting",
+      "beef",
+      "soup",
+      "slow-cook",
+      "Vietnamese",
+      "dash-friendly"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 265,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crispy-algerian-mozzarella-stir-fry",
     "title": "Bitter Crispy Algerian Mozzarella Stir-fry",
     "tags": [
