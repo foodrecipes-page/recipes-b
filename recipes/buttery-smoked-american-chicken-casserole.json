@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Smoked American Chicken Casserole",
+  "description": "A creamy, buttery, and smoky Whole30-friendly casserole featuring sweet smoked paprika, perfect for meal prep. This dish is a hearty and flavorful American classic.",
+  "cuisine": "American",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "full-fat coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Press the 'saute' button on the pressure cooker and melt 2 tablespoons of butter. Add the diced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the chicken to the pressure cooker and cook until browned on all sides, about 5-7 minutes.",
+    "Add the sweet smoked paprika, salt, and black pepper to the pressure cooker and stir to combine.",
+    "Pour in the full-fat coconut milk and stir to combine.",
+    "Close the lid of the pressure cooker and set the valve to 'sealing'. Press the 'manual' or 'pressure cook' button and set the cooking time to 10 minutes at high pressure.",
+    "When the cooking time is up, allow the pressure to release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Stir in the remaining 2 tablespoons of melted butter until well combined.",
+    "Transfer the casserole to a serving dish and top with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "whole30",
+    "gluten-free",
+    "dairy-free",
+    "pressure-cooker",
+    "chicken-casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "buttery-smoked-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-smoked-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:39:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Buttery Smoked",
+    "dishForm": "Casserole"
+  }
+}
