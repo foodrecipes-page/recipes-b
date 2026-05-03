@@ -1,0 +1,99 @@
+{
+  "title": "Bitter Juicy Argentinian Beef Skewers",
+  "description": "Tender beef skewers marinated in a mixture of olive oil, vinegar, and herbs, then broiled to perfection, evoking the nostalgic flavors of Argentina. This dish is FODMAP-friendly and perfect for a summer dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "optional, for added bitterness"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, red wine vinegar, chimichurri sauce, garlic-infused oil, dried oregano, salt, and black pepper.",
+    "Add the beef cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "If using bay leaves, add them to the marinade for the last 30 minutes.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "Broil the skewers for 8-10 minutes per side, or until they reach an internal temperature of 130°F (54°C) for medium-rare.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional chimichurri sauce and bay leaves if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the skewers in the oven at 350°F (180°C) for 5-7 minutes, or until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "skewers",
+    "grilled",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "bitter-juicy-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:52:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "bitter juicy",
+    "dishForm": "Skewers"
+  }
+}

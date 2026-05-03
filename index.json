@@ -1818,6 +1818,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-juicy-argentinian-beef-skewers",
+    "title": "Bitter Juicy Argentinian Beef Skewers",
+    "tags": [
+      "argentinian",
+      "beef",
+      "skewers",
+      "grilled",
+      "fodmap-friendly"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-juicy-croatian-brussels-sprouts-stir-fry",
     "title": "Bitter Juicy Croatian Brussels Sprouts Stir-fry",
     "tags": [
