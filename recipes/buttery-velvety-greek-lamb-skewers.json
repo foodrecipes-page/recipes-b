@@ -1,0 +1,103 @@
+{
+  "title": "Buttery Velvety Greek Lamb Skewers",
+  "description": "A weeknight-friendly Greek dish featuring marinated lamb, served with crisp iceberg lettuce and a side of tangy tzatziki sauce, all under 500 calories per serving.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head",
+      "notes": "leaves separated"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400°F.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the lamb reaches an internal temperature of 145°F.",
+    "While the lamb is cooking, mix the Greek yogurt with a squeeze of lemon juice and a sprinkle of salt.",
+    "Once the lamb is cooked, brush the softened butter onto the skewers.",
+    "Serve the lamb skewers on a bed of iceberg lettuce leaves, with a dollop of the yogurt sauce and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lamb",
+    "low-calorie",
+    "weeknight",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "buttery-velvety-greek-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-velvety-greek-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:02:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "buttery velvety",
+    "dishForm": "Skewers"
+  }
+}
