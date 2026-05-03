@@ -1,0 +1,99 @@
+{
+  "title": "Bitter Tender American Braeburn Apple Cobbler",
+  "description": "A vegan-friendly dessert featuring tender Braeburn apples, a hint of bitter flavor, and an energizing boost. This American-style cobbler is perfect for a cold winter evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "6-8 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for bitter flavor"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tablespoon",
+      "notes": "for energizing boost"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the sliced apples, coconut sugar, maple syrup, lemon juice, apple cider vinegar, and vanilla extract.",
+    "In a separate bowl, whisk together the almond flour and chia seeds.",
+    "Add the melted coconut oil to the flour mixture and stir until crumbly.",
+    "Pour the apple mixture into a 9x9-inch baking dish.",
+    "Top the apple mixture with the crumbly flour mixture.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for 10-15 minutes before serving.",
+    "Serve warm, garnished with fresh fruit or nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "vegan",
+    "gluten-free",
+    "dessert",
+    "apple-cobbler"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "bitter-tender-american-braeburn-apple-cobbler",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-tender-american-braeburn-apple-cobbler",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:59:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "braeburn apples",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Braeburn apples",
+    "descriptor": "bitter tender",
+    "dishForm": "Cobbler"
+  }
+}
