@@ -1,0 +1,128 @@
+{
+  "title": "Buttery Dense Brazilian Rice Noodles Stew",
+  "description": "A rich, buttery stew featuring tender rice noodles, savory chicken, and fresh vegetables, perfect for a lazy Sunday lunch or dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200 g",
+      "notes": "pre-cooked or soaked for 5 minutes"
+    },
+    {
+      "name": "chicken breast, boneless and skinless",
+      "amount": "500 g",
+      "notes": "cut into bite-sized cubes"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 liter",
+      "notes": "low-sodium preferred"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for sautéing and richness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "carrots, sliced",
+      "amount": "2 medium",
+      "notes": "cut into thin rounds"
+    },
+    {
+      "name": "celery stalks, sliced",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat until shimmering.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and cook for another 30 seconds until fragrant.",
+    "Add the chicken cubes to the pot and cook until they start to brown, about 5 minutes.",
+    "Pour in the chicken broth, bring to a boil, then reduce heat to a gentle simmer.",
+    "Add the sliced carrots, celery, and diced bell pepper, and let the mixture simmer until the vegetables are tender, approximately 10 minutes.",
+    "Stir in the cooked rice noodles and melted butter, mixing until the noodles are well coated and the stew has thickened slightly.",
+    "Season with salt and black pepper to taste.",
+    "Remove from heat and let the stew sit for 5 minutes to allow flavors to meld.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot in bowls, enjoying the buttery, dense texture of the stew."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "dense",
+    "lazy-sunday",
+    "brazilian",
+    "rice-noodles",
+    "high-protein",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 33,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "buttery-dense-brazilian-rice-noodles-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-brazilian-rice-noodles-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:14:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "rice noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Buttery Dense",
+    "dishForm": "Stew"
+  }
+}
