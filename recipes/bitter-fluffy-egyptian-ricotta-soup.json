@@ -1,0 +1,109 @@
+{
+  "title": "Bitter Fluffy Egyptian Ricotta Soup",
+  "description": "A bitter, fluffy soup that uses liquid ricotta and a splash of lemon to soothe hangovers with an Egyptian twist.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Celery stalks, chopped",
+      "amount": "2"
+    },
+    {
+      "name": "Carrots, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh basil leaves, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Ricotta cheese (whole milk)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kosher black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion, garlic, celery, and carrots; sauté until vegetables soften, about 5 minutes.",
+    "Stir in tomato paste and cook for 1 minute to caramelize.",
+    "Deglaze the pot with 1 tbsp dry white wine, scraping up browned bits; let reduce for 1 minute.",
+    "Add 4 cups of water, bring to a boil.",
+    "Reduce heat and stir in basil, salt, and pepper; simmer for 10 minutes to meld flavors.",
+    "Stir in lemon juice.",
+    "Add ricotta cheese, whisk until smooth, and let the soup become fluffy; simmer 5 minutes.",
+    "Adjust seasoning if needed; serve hot, garnished with extra fresh basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-soup",
+    "bitter",
+    "hangover-cure",
+    "ricotta-soup",
+    "kosher",
+    "vegetarian",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "bitter-fluffy-egyptian-ricotta-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-egyptian-ricotta-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:54:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "liquid cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Bitter Fluffy",
+    "dishForm": "Soup"
+  }
+}

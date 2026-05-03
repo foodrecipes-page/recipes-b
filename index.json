@@ -1530,6 +1530,22 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-fluffy-egyptian-ricotta-soup",
+    "title": "Bitter Fluffy Egyptian Ricotta Soup",
+    "tags": [
+      "egyptian-soup",
+      "bitter",
+      "hangover-cure",
+      "ricotta-soup",
+      "kosher",
+      "vegetarian",
+      "fluffy"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-fluffy-egyptian-spinach-stir-fry",
     "title": "Bitter Fluffy Egyptian Spinach Stir-fry",
     "tags": [
