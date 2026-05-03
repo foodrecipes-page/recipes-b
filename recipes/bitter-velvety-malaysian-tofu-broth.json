@@ -1,0 +1,118 @@
+{
+  "title": "Bitter Velvety Malaysian Tofu Broth",
+  "description": "A soothing, bitter and velvety broth enriched with Malaysian flavors, perfect for a sick day.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "water",
+      "amount": "1 liter"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "50 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "bruised and cut into 2 cm pieces"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 cm",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "torn"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "2",
+      "notes": "sliced for garnish"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "optional, for acidity"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, bring the 1 liter of water to a gentle boil at 100°C.",
+    "Add the bruised lemongrass, sliced galangal, and torn kaffir lime leaves to the pot, and let simmer for 10 minutes to infuse the aromatics.",
+    "Stir in the sliced water chestnuts and let simmer for another 5 minutes.",
+    "Add the cubed tofu, palm sugar, low-sodium soy sauce, sumac, and white pepper to the broth.",
+    "Reduce heat to low and simmer gently for 15 minutes, allowing the flavors to meld while keeping the broth calm.",
+    "Taste the broth; adjust seasoning with a pinch more soy sauce or palm sugar if needed.",
+    "Remove the pot from heat and let the broth rest for 5 minutes to deepen the bitterness.",
+    "Serve hot, pouring the broth into bowls and garnishing with sliced green onions.",
+    "Optional: squeeze fresh lime juice into each bowl for a bright contrast.",
+    "Enjoy immediately while the broth is still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "bitter",
+    "velvety",
+    "broth",
+    "tofu",
+    "sick-day",
+    "sumac",
+    "kitchen-temp-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "bitter-velvety-malaysian-tofu-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-malaysian-tofu-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:54:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "sumac",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Bitter Velvety",
+    "dishForm": "Broth"
+  }
+}
