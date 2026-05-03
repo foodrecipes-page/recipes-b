@@ -1,0 +1,127 @@
+{
+  "title": "Bitter Flaky Portuguese Rocket Stew",
+  "description": "A midnight-craving, jain-friendly stew brimming with bitter rocket, smoky tamarind, and fragrant Portuguese spices, finished with a flaky crust of toasted cashew crumb.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain-friendly",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato puree",
+      "amount": "400 g",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "okra",
+      "amount": "150 g",
+      "notes": "cut into bite‑sized pieces"
+    },
+    {
+      "name": "roasted cashew nuts",
+      "amount": "50 g",
+      "notes": "crushed for crust"
+    },
+    {
+      "name": "rocket (arugula)",
+      "amount": "200 g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "1 tbsp",
+      "notes": "soaked in 1 tbsp warm water"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for brightness"
+    },
+    {
+      "name": "dried red chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked for depth"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "1 tsp",
+      "notes": "soaked in 1 tbsp warm water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "for tadka"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": "for tadka"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "½ tsp",
+      "notes": "for tadka"
+    },
+    {
+      "name": "asafoetida",
+      "amount": "pinch",
+      "notes": "for aroma"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "water",
+      "amount": "300 ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add cumin seeds, mustard seeds, fenugreek seeds, and a pinch of asafoetida, sauté until seeds crackle and emit a nutty aroma.",
+    "Pour in tomato puree and cook for 3 minutes, stirring to blend the spices.",
+    "Add the coconut milk, okra, tamarind mixture, red chili flakes, paprika, saffron water and the soaked saffron strands. Stir well.",
+    "Add water, bring the mixture to a gentle simmer and cover. Let it cook for 15 minutes, until the okra is tender and the flavors meld.",
+    "Stir in the chopped rocket, lemon juice, and black pepper. Cook uncovered for an additional 5 minutes, allowing the rocket to wilt but retain its bite.",
+    "Transfer the stew to a serving bowl. Sprinkle the crushed roasted cashew nuts over the surface, giving it a flaky, nutty crust.",
+    "Serve hot, ideal for a midnight craving. Pair with crusty bread or a side of quinoa for a complete meal."
+  ],
+  "slug": "bitter-flaky-portuguese-rocket-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-portuguese-rocket-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:06:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "rocket",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rocket",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Stew"
+  }
+}
