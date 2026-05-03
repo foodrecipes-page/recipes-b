@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Irish Beetroot Bowl",
+  "description": "A tender, buttery beetroot bowl featuring slow-cooked beets with a creamy dairy-free topping, perfect for meal prep. This egg-free dish is rich with natural sweetness and fiber.",
+  "cuisine": "irish",
+  "diet": [
+    "egg-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "1.5 lbs (680g)",
+      "notes": "smaller beets for quicker cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      ": ": "",
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 tsp",
+      "notes": "for earthy flavor"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "dairy-free buttermilk alternative"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Trim and wash beets; boil in salted water for 25-35 minutes until tender.",
+    "While beets cook, heat olive oil in a pan over medium heat.",
+    "Add cumin and dill to the pan; sauté for 1 minute until fragrant.",
+    "Drain beets, peel, and mash with a fork.",
+    "In a bowl, mix mashed beets with buttermilk, coconut milk, maple syrup, and salt.",
+    "Let the mixture rest for 10 minutes to thicken.",
+    "Serve chilled for best texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "beetroot",
+    "buttery",
+    "vegetarian",
+    "vegan",
+    "meal-prep",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 4,
+    "carbs": 42,
+    "fat": 12
+  },
+  "slug": "buttery-irish-beetroot-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-irish-beetroot-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:46:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beetroot",
+    "descriptor": "buttery",
+    "dishForm": "Bowl"
+  }
+}
