@@ -4682,6 +4682,24 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-juicy-uruguayan-turkey-tacos",
+    "title": "Buttery Juicy Uruguayan Turkey Tacos",
+    "tags": [
+      "tacos",
+      "uruguayan",
+      "buttery",
+      "juicy",
+      "ground-turkey",
+      "weeknight",
+      "air-fry",
+      "quick",
+      "comfort-food"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-juicy-vegan-injera-wrap",
     "title": "Buttery Juicy Vegan Injera Wrap",
     "tags": [

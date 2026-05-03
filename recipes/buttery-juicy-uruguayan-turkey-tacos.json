@@ -1,0 +1,114 @@
+{
+  "title": "Buttery Juicy Uruguayan Turkey Tacos",
+  "description": "A quick, buttery and juicy weeknight taco featuring ground turkey cooked with classic Uruguayan seasonings, served on warm tortillas.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "nut-free",
+    "gluten-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground turkey",
+      "amount": "400 g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "30 g",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": "about 150 g"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sweet paprika",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "½ tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp",
+      "notes": "divide between meat and tortillas"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "¼ tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8",
+      "notes": "medium size"
+    }
+  ],
+  "instructions": [
+    "1. In a medium skillet, melt 15 g of butter over medium heat.",
+    "2. Add the diced onion and sauté until translucent, about 3 minutes.",
+    "3. Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "4. Add the ground turkey, breaking it up with a wooden spoon; cook until browned and no longer pink, about 5-6 minutes.",
+    "5. Season the turkey with cumin, paprika, oregano, ¼ tsp salt, pepper, and the remaining 15 g butter; stir to coat and continue cooking for 2 more minutes to allow the butter to melt into the meat.",
+    "6. While the turkey cooks, heat a dry skillet or griddle over medium-high heat.",
+    "7. Place each tortilla on the hot skillet and toast each side for 30 seconds until pliable and lightly browned; this can also be done in an air fryer at 200°C for 3 minutes.",
+    "8. Remove the warm tortillas and spoon a generous portion of the buttery turkey mixture onto each one.",
+    "9. Optional: garnish with fresh cilantro, a squeeze of lime, or a dollop of salsa verde for extra brightness.",
+    "10. Serve immediately with lime wedges on the side for squeezing; enjoy the buttery, juicy flavor of Uruguayan-inspired tacos."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "uruguayan",
+    "buttery",
+    "juicy",
+    "ground-turkey",
+    "weeknight",
+    "air-fry",
+    "quick",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 28,
+    "carbs": 32,
+    "fat": 14
+  },
+  "slug": "buttery-juicy-uruguayan-turkey-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-uruguayan-turkey-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:24:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "turkey mince",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "turkey",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Tacos"
+  }
+}
