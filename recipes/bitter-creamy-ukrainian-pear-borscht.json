@@ -1,0 +1,113 @@
+{
+  "title": "Bitter Creamy Ukrainian Pear Borscht",
+  "description": "A unique twist on the traditional Ukrainian dish, featuring the sweetness of pears and a tangy kick of bitter greens. Perfect for a comforting meal prep.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "pear",
+      "amount": "1 large, peeled and grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 medium, shredded"
+    },
+    {
+      "name": "bitter greens (such as dandelion or kale)",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Blanch the grated beets, carrots, and cabbage in boiling water for 5 minutes, then rinse with cold water to stop cooking.",
+    "In a large pot, sauté the chopped onion and minced garlic in a little water until softened.",
+    "Add the blanched vegetables, sour cream, apple cider vinegar, dill, salt, and pepper to the pot.",
+    "Add the chopped bitter greens and stir to combine.",
+    "Add the vegetable broth to the pot and bring to a simmer.",
+    "Reduce heat to low and let the borscht simmer for 20-25 minutes or until the flavors have melded together.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the borscht hot, garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pear",
+    "bitter",
+    "creamy",
+    "low-calorie",
+    "vegetarian",
+    "meal-prep",
+    "borscht"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "bitter-creamy-ukrainian-pear-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-ukrainian-pear-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:26:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "pears",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pear",
+    "descriptor": "bitter creamy",
+    "dishForm": "Borscht"
+  }
+}
