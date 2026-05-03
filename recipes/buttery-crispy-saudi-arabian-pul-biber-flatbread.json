@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Crispy Saudi Arabian Pul Biber Flatbread",
+  "description": "A crispy and flavorful flatbread from Saudi Arabia, perfect as a post-workout snack, featuring the spicy and smoky pul biber pepper, and suitable for a vegan diet. This buttery treat is both satisfying and healthy.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "pul biber pepper",
+      "amount": "1/4 cup",
+      "notes": "crushed or 1-2 tsp pul biber flakes"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, pul biber pepper, salt, sugar, and yeast.",
+    "Gradually add the warm water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let it rest in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Brush the melted vegan butter on each flatbread.",
+    "Cook the flatbreads for 1-2 minutes on each side, until crispy and golden brown.",
+    "Brush with olive oil and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "flatbread",
+    "pul-biber",
+    "vegan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "buttery-crispy-saudi-arabian-pul-biber-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-saudi-arabian-pul-biber-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:30:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "rest",
+    "primaryIngredient": "pul biber",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "pul biber",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Flatbread"
+  }
+}

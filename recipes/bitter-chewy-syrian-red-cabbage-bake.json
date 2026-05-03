@@ -1,0 +1,119 @@
+{
+  "title": "Bitter Chewy Syrian Red Cabbage Bake",
+  "description": "A light, smoky bake that highlights the natural bitterness of red cabbage, accented with lemon and cumin for a tangy finish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red cabbage, medium, shredded",
+      "amount": "1 medium (about 1.5 kg)",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion, medium, thinly sliced",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper, ground",
+      "amount": "½ tsp",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F) and grease a 9x13 inch baking dish.",
+    "Shred the red cabbage with a sharp knife or food processor.",
+    "Heat olive oil in a large skillet over medium heat; add sliced onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic, cumin, coriander, and black pepper, cooking for 1 minute until fragrant.",
+    "Stir in shredded cabbage, salt, lemon zest, and vinegar; cook for 3-4 minutes until the cabbage begins to soften.",
+    "Transfer the mixture to the prepared baking dish; pour lemon juice and water evenly over the cabbage.",
+    "Cover with foil and bake for 35 minutes. Remove foil, stir, and bake another 10-15 minutes until the cabbage is tender and lightly caramelized.",
+    "Let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "kosher",
+    "gluten-free",
+    "dairy-free",
+    "no-egg",
+    "no-nuts"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6,
+    "carbs": 47,
+    "fat": 9
+  },
+  "slug": "bitter-chewy-syrian-red-cabbage-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-syrian-red-cabbage-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:30:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "red cabbage",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "red cabbage",
+    "descriptor": "Bitter Chewy",
+    "dishForm": "Bake"
+  }
+}
