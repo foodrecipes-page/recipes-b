@@ -1,0 +1,90 @@
+{
+  "title": "Bitter Crumbly Russian Tuna Salad",
+  "description": "A refreshing lunch featuring raw vegetables, crumbled feta, and a tangy deglazed vinaigrette that gives the dish a delightful bitter bite.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned tuna in olive oil",
+      "amount": "250g (drained)",
+      "notes": "Provides protein and a subtle brine flavor"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Beet, raw",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "½ cup, shredded"
+    },
+    {
+      "name": "Feta cheese, crumbled",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "1 tsp (for deglaze)",
+      "notes": "Adds a slight bitterness"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a small saucepan, heat 1 tsp of white wine vinegar over medium heat until it reduces slightly, creating a deglazing liquid; set aside.",
+    "2. In a large bowl, combine the diced cucumber, carrot, beet, and shredded red cabbage.",
+    "3. Add the drained tuna to the vegetable mixture, breaking it up gently with a fork.",
+    "4. Sprinkle the crumbled feta cheese and chopped dill over the salad.",
+    "5. In a separate small bowl, whisk together the lemon juice, olive oil, Dijon mustard, reduced vinegar, salt, and pepper to make a vinaigrette.",
+    "6. Pour the vinaigrette over the salad and toss gently to coat all ingredients evenly.",
+    "7. Taste and adjust seasoning if necessary, adding more salt, pepper, or lemon juice to enhance the bitterness and brightness.",
+    "8. Let the salad rest for 5 minutes to allow flavors to meld.",
+    "9. Serve chilled or at room temperature, garnished with a few extra dill sprigs if desired."
+  ],
+  "slug": "bitter-crumbly-russian-tuna-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-russian-tuna-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:55:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "raw vegetables",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Tuna",
+    "descriptor": "Bitter Crumbly",
+    "dishForm": "Salad"
+  }
+}
