@@ -1,6 +1,6 @@
 {
   "title": "Bitter Light Mexican Paneer Stew",
-  "description": "A gentle yet slightly bitter one‑pot stew that fuses Mexican norteño flavors with creamy paneer, perfect for a light gluten‑free dinner.",
+  "description": "A gentle yet slightly bitter onepot stew that fuses Mexican norteno flavors with creamy paneer, perfect for a light glutenfree dinner.",
   "cuisine": "Mexican",
   "diet": [
     "vegetarian",
@@ -26,7 +26,7 @@
       "amount": "3 cloves"
     },
     {
-      "name": "Jalapeño, seeded and minced",
+      "name": "Jalape\u00f1o, seeded and minced",
       "amount": "1 small"
     },
     {
@@ -60,10 +60,10 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the diced onion and sauté until translucent, about 3 minutes.",
-    "Stir in the minced garlic and jalapeño; cook for 1 minute until fragrant.",
+    "Add the diced onion and saut\u00e9 until translucent, about 3 minutes.",
+    "Stir in the minced garlic and jalape\u00f1o; cook for 1 minute until fragrant.",
     "Add the tomato paste, smoked paprika, cumin, and oregano; cook for 2 minutes, stirring to combine.",
-    "Pour in the vegetable broth and bring the mixture to a gentle simmer, making sure the temperature stays between 80–85°C (190–185°F).",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer, making sure the temperature stays between 80\u201385\u00b0C (190\u2013185\u00b0F).",
     "Add the paneer cubes and lime juice; simmer uncovered for 15 minutes, allowing the flavors to meld and the paneer to absorb the broth.",
     "Season with salt and pepper to taste; adjust lime juice for brightness if desired.",
     "Serve hot, garnished with fresh cilantro if using, and enjoy a light, bitter Mexican paneer stew."
@@ -80,10 +80,25 @@
     "technique": "braise",
     "primaryIngredient": "paneer",
     "diet": "gluten-free",
-    "region": "norteño",
+    "region": "norte\u00f1o",
     "cuisineAdjective": "Mexican",
     "mainIngredient": "paneer",
     "descriptor": "Bitter Light",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "dinner"
+  ]
 }

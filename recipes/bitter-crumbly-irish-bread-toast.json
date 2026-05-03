@@ -1,6 +1,6 @@
 {
   "title": "Bitter Crumbly Irish Bread Toast",
-  "description": "A light, nut‑free Irish snack of crisp white bread brushed with a rosemary‑smoked paprika glaze and finished with crumbly Parmesan for a bitter, crumbly bite.",
+  "description": "A light, nutfree Irish snack of crisp white bread brushed with a rosemarysmoked paprika glaze and finished with crumbly Parmesan for a bitter, crumbly bite.",
   "cuisine": "Irish",
   "diet": [
     "vegetarian",
@@ -26,15 +26,15 @@
     },
     {
       "name": "smoked paprika",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "sea salt",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "black pepper",
-      "amount": "⅛ tsp"
+      "amount": "\u215b tsp"
     },
     {
       "name": "lemon zest",
@@ -50,15 +50,15 @@
     },
     {
       "name": "crushed red pepper flakes (optional)",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": "for added bitterness"
     }
   ],
   "instructions": [
-    "Preheat a toaster or a non‑stick skillet over medium heat.",
+    "Preheat a toaster or a non\u2011stick skillet over medium heat.",
     "In a small bowl whisk together olive oil, rosemary, thyme, smoked paprika, sea salt, black pepper, lemon zest, and balsamic vinegar until well combined.",
-    "Brush each slice of bread evenly with the herb‑oil mixture.",
-    "Toast the bread slices in the toaster or skillet until golden and crisp, about 2–3 minutes per side.",
+    "Brush each slice of bread evenly with the herb\u2011oil mixture.",
+    "Toast the bread slices in the toaster or skillet until golden and crisp, about 2\u20133 minutes per side.",
     "While the toast is still hot, sprinkle grated Parmesan over each slice to create a crumbly, savory topping.",
     "Serve immediately for best crispness."
   ],
