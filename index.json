@@ -3163,6 +3163,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crunchy-mediterranean-steak-kebabs",
+    "title": "Buttery Crunchy Mediterranean Steak Kebabs",
+    "tags": [
+      "mediterranean",
+      "steak",
+      "kebabs",
+      "brunch",
+      "kosher"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crunchy-vietnamese-ginger-crumble",
     "title": "Buttery Crunchy Vietnamese Ginger Crumble",
     "tags": [

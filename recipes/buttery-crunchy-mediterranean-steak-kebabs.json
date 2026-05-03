@@ -1,0 +1,110 @@
+{
+  "title": "Buttery Crunchy Mediterranean Steak Kebabs",
+  "description": "A Mediterranean-inspired dish featuring lean minced steak, crunchy elements, and a rich buttery flavor, perfect for a brunch mood. This kosher-friendly recipe incorporates bhuna spices for added depth.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "500g",
+      "notes": "preferably sirloin or ribeye"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "200g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, mix together the minced steak, bhuna spice mix, and a pinch of salt and pepper until just combined.",
+    "Thread the steak mixture onto skewers, leaving a little space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until they reach an internal temperature of 63°C for medium-rare.",
+    "While the skewers are cooking, melt the butter in a small saucepan over low heat.",
+    "Add the chopped sun-dried tomatoes, artichoke hearts, and a squeeze of lemon juice to the melted butter. Stir to combine.",
+    "Warm the pita bread by wrapping it in foil and heating it on the grill for a minute or two.",
+    "To assemble the kebabs, place a cooked skewer on each pita bread, followed by a spoonful of the butter and tomato mixture, some crumbled feta cheese, and a sprinkle of chopped parsley and Kalamata olives.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "steak",
+    "kebabs",
+    "brunch",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "buttery-crunchy-mediterranean-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-mediterranean-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:02:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "lean minced steak",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "steak",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Kebabs"
+  }
+}
