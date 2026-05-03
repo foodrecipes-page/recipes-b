@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Crispy Mexican Bean Stew",
+  "description": "A velvety, ghee-rich bean stew with a burst of Mexican spices and a crunchy tortilla chip topping, brightened with a splash of red food coloring for that vibrant hue.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "2 drops"
+    },
+    {
+      "name": "tortilla chips",
+      "amount": "1/4 cup",
+      "notes": "crushed for topping"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pot over medium heat until shimmering.",
+    "Add the diced red bell pepper and sauté for 2 minutes until slightly softened.",
+    "Stir in the chopped tomato, cumin, coriander, chili powder, and paprika; cook for 3 minutes, letting the spices bloom.",
+    "Pour in the cooked black and pinto beans, corn, and a splash of water (about 1/2 cup) to loosen the stew; bring to a gentle simmer.",
+    "Add salt to taste and a few drops of red food coloring; stir to distribute the color evenly; continue simmering for 10 minutes to meld flavors.",
+    "Transfer the stew to individual bowls and top each with a sprinkle of crushed tortilla chips for a crispy texture.",
+    "Garnish with fresh cilantro before serving.",
+    "Serve hot, allowing the creamy base and crispy topping to contrast beautifully."
+  ],
+  "slug": "buttery-crispy-mexican-bean-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-mexican-bean-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:28:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "red food colouring",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "bean",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Stew"
+  }
+}
