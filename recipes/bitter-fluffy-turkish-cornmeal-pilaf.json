@@ -1,0 +1,103 @@
+{
+  "title": "Bitter Fluffy Turkish Cornmeal Pilaf",
+  "description": "A traditional Turkish dish featuring bitter notes from kale and a fluffy texture from cornmeal, perfect for a nostalgic vegetarian meal. This pilaf is broiled to perfection, giving it a crispy top and a fluffy interior.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 1/2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped, stems removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to broil.",
+    "In a large pot, bring the water to a boil.",
+    "Add the cornmeal to the pot, stirring constantly to avoid lumps.",
+    "Reduce heat to low, cover, and cook for 10 minutes or until the cornmeal is tender.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the onion and garlic to the skillet, cooking until the onion is translucent.",
+    "Add the chopped kale to the skillet, cooking until wilted.",
+    "Stir the paprika, salt, and pepper into the skillet.",
+    "Combine the cooked cornmeal, skillet mixture, and vegetable broth in a large bowl.",
+    "Transfer the mixture to a baking dish and broil for 5-7 minutes or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish-cuisine",
+    "vegetarian",
+    "cornmeal",
+    "kale",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "bitter-fluffy-turkish-cornmeal-pilaf",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-turkish-cornmeal-pilaf",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:26:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "cornmeal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cornmeal",
+    "descriptor": "bitter fluffy",
+    "dishForm": "Pilaf"
+  }
+}

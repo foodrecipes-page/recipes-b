@@ -1315,6 +1315,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-fluffy-turkish-cornmeal-pilaf",
+    "title": "Bitter Fluffy Turkish Cornmeal Pilaf",
+    "tags": [
+      "turkish-cuisine",
+      "vegetarian",
+      "cornmeal",
+      "kale",
+      "pilaf"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-gooey-lazy-sunday-cake",
     "title": "Bitter Gooey Lazy-Sunday Cake",
     "tags": [
