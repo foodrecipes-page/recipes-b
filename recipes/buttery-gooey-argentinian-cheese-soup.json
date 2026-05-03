@@ -1,0 +1,114 @@
+{
+  "title": "Buttery Gooey Argentinian Cheese Soup",
+  "description": "A comforting, low‑fat cheese soup with a sweet splash of treacle, perfect for soothing a hangover.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "low‑fat mozzarella",
+      "amount": "200 g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "low‑fat cheddar",
+      "amount": "100 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "low‑fat cream cheese",
+      "amount": "50 g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "skim milk",
+      "amount": "250 mL"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 mL"
+    },
+    {
+      "name": "treacle",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "onion, finely diced",
+      "amount": "1/4 medium"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt the butter over medium heat and sauté the onion and garlic until translucent.",
+    "Add the vegetable broth and skim milk, bringing the mixture to a gentle simmer.",
+    "Stir in the shredded cheddar and cubes of mozzarella and cream cheese, letting them melt into a creamy base.",
+    "Fold in the treacle and paprika, season with salt and pepper, and continue to simmer for 10 minutes, stirring occasionally, until the soup is silky and gooey.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, garnished with chopped parsley.",
+    "Enjoy the comforting, low‑fat, hangover‑curing delight!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheese-soup",
+    "low-fat",
+    "hangover-cure",
+    "buttery",
+    "gooey",
+    "treacle"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "buttery-gooey-argentinian-cheese-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-argentinian-cheese-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:35:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "treacle",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Buttery Gooey",
+    "dishForm": "Soup"
+  }
+}
