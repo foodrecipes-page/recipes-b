@@ -1,0 +1,113 @@
+{
+  "title": "Buttery Crunchy Polish Cornmeal Flatbread",
+  "description": "A crisp, buttery cornmeal flatbread inspired by Polish flavors, perfect for easing a hangover and crafted without added sugar.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup (240 ml)",
+      "notes": "melted"
+    },
+    {
+      "name": "fine white cornmeal",
+      "amount": "2 cups (240 g)"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "low‑sodium chicken or vegetable broth",
+      "amount": "1/2 cup (120 ml)"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "30 g (optional)",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 °F (220 °C) and line a rimmed baking sheet with parchment paper.",
+    "In a small saucepan over medium heat, melt the butter. Add salt, pepper, garlic powder, oregano, and smoked paprika; stir until fragrant (about 30 s).",
+    "Stir in the cornmeal and cook, stirring constantly, for 2 minutes until it begins to toast and a dough forms.",
+    "Remove the saucepan from heat and let the dough cool for 5 minutes. Then roll the dough on a lightly cornmeal‑dusted surface into circles about 1/4‑inch thick.",
+    "Heat a non‑stick skillet over medium‑high heat. Place a dough circle in the skillet and cook 2–3 minutes on each side until golden brown and crisp. Transfer to the prepared baking sheet.",
+    "Repeat with the remaining dough circles.",
+    "While the skillet is still hot, pour in the broth, scraping up any browned bits. Let it simmer for 1–2 minutes until reduced into a light glaze.",
+    "Drizzle the reduced broth glaze over the flatbread on the sheet. Sprinkle grated Parmesan and lemon zest over the tops.",
+    "Return the sheet to the oven and bake for 5 minutes to melt the cheese and finish crisping the edges.",
+    "Remove from oven, garnish with chopped parsley, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crunchy",
+    "polish",
+    "cornmeal",
+    "flatbread",
+    "hangover-cure",
+    "sugar-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "buttery-crunchy-polish-cornmeal-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-polish-cornmeal-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:32:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "white cornmeal",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
