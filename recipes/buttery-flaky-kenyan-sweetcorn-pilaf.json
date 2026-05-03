@@ -1,0 +1,97 @@
+{
+  "title": "Buttery Flaky Kenyan Sweetcorn Pilaf",
+  "description": "An energizing diabetic-friendly dish featuring sweetcorn and infused with the flavors of a tandoor oven, perfect for breakfast or as a snack.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cooked sweetcorn",
+      "amount": "",
+      "notes": "Use low glycemic corn if available."
+    },
+    {
+      "name": "2 tbsp unsalted butter",
+      "amount": "",
+      "notes": "Opt for a softer variety for easier spreading."
+    },
+    {
+      "name": "1/4 cup whole wheat breadcrumbs",
+      "amount": "",
+      "notes": "Make sure they are not stale and absorb well with the sweetcorn."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Citrus can help balance sweetness but reduce to half if using fresh."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "Adjust for taste, aim for low sodium when diabetic-friendly options are used."
+    },
+    {
+      "name": "Freshly grated nutmeg",
+      "amount": "",
+      "notes": "For a hint of spice and depth."
+    },
+    {
+      "name": "1/4 cup whole milk (or dairy-free alternative)",
+      "amount": "",
+      "notes": "A touch of creaminess to the dish."
+    },
+    {
+      "name": "1 tbsp honey or agave syrup (optional, reduce for diabetic-friendly version)",
+      "amount": "",
+      "notes": "Optional sweetener that can be adjusted as needed."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a mixing bowl, combine cooked sweetcorn, whole wheat breadcrumbs, lemon juice, salt, nutmeg, and honey or agave syrup.",
+    "Add unsalted butter, breaking it into small pieces until well mixed with the corn mixture. The key is to distribute the butter evenly throughout.",
+    "Pour the mixture onto a greased baking dish (non-stick spray works great) and spread it out evenly.",
+    "Bake for 25-30 minutes or until golden brown on top and bubbly underneath.",
+    "Allow the pilaf to cool slightly before serving. You can serve immediately, or keep warm in a low oven.",
+    "Enjoy your sweet yet savory, buttery flaky Kenyan Sweetcorn Pilaf as a snack or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "flaky",
+    "kenyan",
+    "sweetcorn",
+    "tandoor-infused",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "buttery-flaky-kenyan-sweetcorn-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-flaky-kenyan-sweetcorn-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:24:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "sweetcorn",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "buttery flaky",
+    "dishForm": "Pilaf"
+  }
+}
