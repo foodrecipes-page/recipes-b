@@ -1,0 +1,91 @@
+{
+  "title": "Buttery Crumbly Vietnamese Haddock Tart",
+  "description": "A rich, flaky tart with smoked haddock, lemongrass, and a hint of fish sauce, finished with fresh cilantro and lime.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup (120g)",
+      "notes": "120 g"
+    },
+    {
+      "name": "unsalted butter, cold, cubed",
+      "amount": "1/2 cup (113g)",
+      "notes": "113 g"
+    },
+    {
+      "name": "cold water",
+      "amount": "1/4 cup (60ml)",
+      "notes": "60 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "smoked haddock, flaked",
+      "amount": "8 oz (227g)",
+      "notes": "227 g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3 (150g)",
+      "notes": "150 g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup (120ml)",
+      "notes": "120 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon (15ml)",
+      "notes": "15 ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon (15ml)",
+      "notes": "15 ml"
+    },
+    {
+      "name": "lemongrass, minced",
+      "amount": "1 teaspoon (2g)",
+      "notes": "2 g"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup (15g)",
+      "notes": "15 g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C) and grease a 9-inch tart pan.",
+    "In a food processor, combine flour, salt, and optionally sugar. Pulse until coarse crumbs.",
+    "Add cold butter cubes and pulse until mixture resembles coarse sand. Transfer to a bowl.",
+    "Stir in cold water 1 tablespoon at a time until dough comes together. Press dough into the tart pan, trim edges, and chill for 10 minutes.",
+    "In a separate bowl, whisk eggs, heavy cream, fish sauce, lime juice, and minced lemongrass. Fold in flaked smoked haddock and chopped cilantro, seasoning with salt.",
+    "Pour the filling over the chilled crust. Bake for 20-25 minutes, or until the crust is golden and the filling reaches an internal temperature of 145°F (63°C).",
+    "Remove from oven, let rest 5 minutes, then slice and serve with fresh lime wedges."
+  ],
+  "slug": "buttery-crumbly-vietnamese-haddock-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-vietnamese-haddock-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:09:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "smoked haddock",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "haddock",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Tart"
+  }
+}
