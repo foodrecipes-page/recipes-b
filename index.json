@@ -4207,6 +4207,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-dense-irish-beef-stew",
+    "title": "Buttery Dense Irish Beef Stew",
+    "tags": [
+      "irish",
+      "beef",
+      "stew",
+      "keto",
+      "comfort-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 170,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-dense-mediterranean-lamb-kebabs",
     "title": "Buttery Dense Mediterranean Lamb Kebabs",
     "tags": [
