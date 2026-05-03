@@ -3135,6 +3135,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crumbly-jamaican-mushrooms-fritters",
+    "title": "Buttery Crumbly Jamaican Mushrooms Fritters",
+    "tags": [
+      "jamaican",
+      "snack",
+      "vegan-friendly",
+      "wild-mushrooms",
+      "fritters"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 16,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crumbly-japanese-courgette-crumble",
     "title": "Buttery Crumbly Japanese Courgette Crumble",
     "tags": [
@@ -4400,6 +4414,18 @@
     ],
     "cuisine": "Korean, Croatian",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-velvety-romantic-chinese-tomato-pasta",
+    "title": "Buttery Velvety Romantic Chinese Tomato Pasta",
+    "tags": [
+      "romantic chinese dish",
+      "velvety tomato sauce",
+      "low-fat-friendly pasta"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {

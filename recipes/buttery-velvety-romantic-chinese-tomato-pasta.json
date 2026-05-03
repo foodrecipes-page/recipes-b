@@ -1,0 +1,90 @@
+{
+  "title": "Buttery Velvety Romantic Chinese Tomato Pasta",
+  "description": "A low-fat-friendly twist on a classic Chinese tomato pasta dish featuring creamy butter and caramelized tomatoes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "al dente"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 (14 oz cans)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1/2 cup",
+      "notes": "steamed or blanched"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "basil leaves",
+      "amount": "handful",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Add the pasta and cook until al dente, about 3 minutes less than the package instructions.",
+    "In a separate pan over medium heat, melt the butter with minced garlic. Stir in the drained tomatoes and cook for an additional 5-7 minutes, stirring occasionally.",
+    "Add the cooked pasta to the tomato mixture, along with the steamed or blanched broccoli florets. Toss well until everything is evenly coated with the sauce.",
+    "Squeeze some fresh lemon juice over the pasta and sprinkle the grated Parmesan cheese on top before serving. Garnish with chopped basil leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "romantic chinese dish",
+    "velvety tomato sauce",
+    "low-fat-friendly pasta"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "buttery-velvety-romantic-chinese-tomato-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-velvety-romantic-chinese-tomato-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:37:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "tomato sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tomato",
+    "descriptor": "Buttery Velvety Romantic",
+    "dishForm": "Pasta"
+  }
+}

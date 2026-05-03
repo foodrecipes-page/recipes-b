@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Crumbly Jamaican Mushrooms Fritters",
+  "description": "A quick-fix Jamaican dish featuring wild mushrooms, with a buttery and crumbly texture. This Mediterranean-friendly recipe is perfect for a snack or appetizer.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wild mushrooms (such as chanterelle or cremini)",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons, melted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, lightly beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine the sliced mushrooms, flour, breadcrumbs, jerk seasoning, baking powder, and salt. Mix well.",
+    "Add the beaten egg to the bowl and mix until the ingredients are well combined.",
+    "Add the melted butter to the bowl and mix until the ingredients are well combined.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches (3.8 cm) in diameter and 1/2 inch (1.3 cm) thick.",
+    "Carefully place the patties in the hot oil and fry for 3-4 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "snack",
+    "vegan-friendly",
+    "wild-mushrooms",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "buttery-crumbly-jamaican-mushrooms-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-jamaican-mushrooms-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:37:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mushrooms",
+    "descriptor": "buttery crumbly",
+    "dishForm": "Fritters"
+  }
+}
