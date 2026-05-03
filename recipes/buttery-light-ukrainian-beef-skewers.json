@@ -1,0 +1,80 @@
+{
+  "title": "Buttery Light Ukrainian Beef Skewers",
+  "description": "Succulent beef cubes glazed with a fragrant butter‑herb mixture, grilled to perfection and finished with fresh dill for a low‑sodium, festive treat.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin, mixed cuts (sirloin, strip, ribeye)",
+      "amount": "1.5 lb (680 g) – cubed 1.5\" – trimmed"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp (60 g) – melted"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp – chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp – chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves – minced"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh black pepper",
+      "amount": "¼ tsp – optional"
+    }
+  ],
+  "instructions": [
+    "Whisk melted butter, dill, parsley, garlic, lemon zest, paprika, low-sodium soy sauce, olive oil, and pepper in a bowl.",
+    "Add beef cubes, toss to coat, cover, and refrigerate for 30‑120 minutes.",
+    "Preheat grill to medium‑high (180–200 °C / 350–400 °F). Optionally add soaked wood chips for smoke.",
+    "Thread 5‑6 beef cubes onto metal or soaked wooden skewers.",
+    "While grilling, brush remaining butter glaze onto the skewers.",
+    "Cook 3–4 minutes per side, turning occasionally, until seared and internal temp reaches 130 °F (54 °C) for medium‑rare.",
+    "Remove from grill, let rest 5 minutes.",
+    "Sprinkle with extra dill before serving."
+  ],
+  "slug": "buttery-light-ukrainian-beef-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-light-ukrainian-beef-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:06:18Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Beef",
+    "descriptor": "Buttery Light",
+    "dishForm": "Skewers"
+  }
+}
