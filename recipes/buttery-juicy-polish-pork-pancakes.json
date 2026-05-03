@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Juicy Polish Pork Pancakes",
+  "description": "A traditional Polish dish featuring rice flour pancakes filled with juicy pork and topped with melted butter, perfect for a hangover cure. This paleo-friendly recipe uses blanched pork for added tenderness.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "blanched and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, eggs, and a pinch of salt.",
+    "Heat a non-stick skillet over medium heat and add 1 tablespoon of melted butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the skillet and cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancake and cook for an additional 1-2 minutes or until golden brown.",
+    "In a separate pan, heat 1 tablespoon of melted butter over medium heat and add the diced pork, cooking until browned and crispy.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "To assemble the dish, place a cooked pancake on a plate, add a spoonful of the pork mixture, and top with melted butter.",
+    "Repeat the process until all ingredients are used up.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish-cuisine",
+    "paleo-friendly",
+    "breakfast-ideas",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "buttery-juicy-polish-pork-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-polish-pork-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:15:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Buttery Juicy",
+    "dishForm": "Pancakes"
+  }
+}
