@@ -1,0 +1,89 @@
+{
+  "title": "Bitter Light Mexican Paneer Stew",
+  "description": "A gentle yet slightly bitter one‑pot stew that fuses Mexican norteño flavors with creamy paneer, perfect for a light gluten‑free dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer, firm",
+      "amount": "200 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Jalapeño, seeded and minced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tamari (gluten free)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and jalapeño; cook for 1 minute until fragrant.",
+    "Add the tomato paste, smoked paprika, cumin, and oregano; cook for 2 minutes, stirring to combine.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer, making sure the temperature stays between 80–85°C (190–185°F).",
+    "Add the paneer cubes and lime juice; simmer uncovered for 15 minutes, allowing the flavors to meld and the paneer to absorb the broth.",
+    "Season with salt and pepper to taste; adjust lime juice for brightness if desired.",
+    "Serve hot, garnished with fresh cilantro if using, and enjoy a light, bitter Mexican paneer stew."
+  ],
+  "slug": "bitter-light-mexican-paneer-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-light-mexican-paneer-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:23:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "paneer",
+    "diet": "gluten-free",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "paneer",
+    "descriptor": "Bitter Light",
+    "dishForm": "Stew"
+  }
+}

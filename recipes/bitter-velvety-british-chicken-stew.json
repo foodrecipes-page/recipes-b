@@ -1,0 +1,102 @@
+{
+  "title": "Bitter Velvety British Chicken Stew",
+  "description": "A low-calorie, solo-dinner British dish featuring cranberry and steam, with a bitter and velvety texture. This stew is perfect for a cold winter evening.",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "bitter ale",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the bitter ale in a large pot over medium heat until it starts to simmer.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, cranberry sauce, arrowroot powder, thyme, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Remove the pot from the heat and let it steam, covered, for 5 minutes.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "low-calorie",
+    "chicken-stew",
+    "cranberry-sauce",
+    "bitter-ale"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "bitter-velvety-british-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-british-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:24:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "cranberry",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "bitter velvety",
+    "dishForm": "Stew"
+  }
+}

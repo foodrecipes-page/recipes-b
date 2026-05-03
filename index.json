@@ -2075,6 +2075,14 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-light-mexican-paneer-stew",
+    "title": "Bitter Light Mexican Paneer Stew",
+    "tags": [],
+    "cuisine": "Mexican",
+    "totalTimeMin": null,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-malaysian-cinnamon-soup",
     "title": "Bitter Malaysian Cinnamon Soup",
     "tags": [
@@ -2303,6 +2311,20 @@
     ],
     "cuisine": "Argentinean",
     "totalTimeMin": 80,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-velvety-british-chicken-stew",
+    "title": "Bitter Velvety British Chicken Stew",
+    "tags": [
+      "british-cuisine",
+      "low-calorie",
+      "chicken-stew",
+      "cranberry-sauce",
+      "bitter-ale"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
