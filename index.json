@@ -3849,6 +3849,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-fluffy-canadian-chicken-pilaf",
+    "title": "Buttery Fluffy Canadian Chicken Pilaf",
+    "tags": [
+      "canadian",
+      "chicken",
+      "pilaf",
+      "low-sodium",
+      "kid-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-fluffy-filipino-rice-flour-pancakes",
     "title": "Buttery Fluffy Filipino Rice Flour Pancakes",
     "tags": [
