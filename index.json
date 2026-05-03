@@ -2837,6 +2837,17 @@
     "shard": "b"
   },
   {
+    "slug": "brine-wet-bitter-filipino-broccoli-stew",
+    "title": "Brine-Wet Bitter Filipino Broccoli Stew",
+    "tags": [
+      "filipino",
+      "dinner"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "broil-gruyere-healer",
     "title": "Broil-Gruyère Healer",
     "tags": [
