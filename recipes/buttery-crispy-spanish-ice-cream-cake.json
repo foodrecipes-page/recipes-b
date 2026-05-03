@@ -1,0 +1,106 @@
+{
+  "title": "Buttery Crispy Spanish Ice Cream Cake",
+  "description": "Egg‑free, indulgent Spanish dessert that layers a buttery, crunchy cookie crust with creamy vanilla ice cream, finished with caramelized honey‑coconut topping for an energizing treat.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "2 Tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vanilla ice cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "extra honey",
+      "amount": "2 Tbsp",
+      "notes": "for drizzle"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 °F (175 °C). Grease an 8‑inch square baking pan.",
+    "In a large bowl, whisk together the all‑purpose flour, oat flour, sugar, and salt.",
+    "Add the melted butter, honey, and vanilla extract to the dry mix. Stir until a dough forms.",
+    "Turn the dough onto a lightly floured surface and knead gently for 2–3 minutes until smooth.",
+    "Press the dough evenly into the prepared pan, creating a flat, 1‑inch thick layer.",
+    "Bake for 10–12 minutes, or until the edges are golden brown.",
+    "Remove the crust from the oven and let it cool completely at room temperature.",
+    "Spread the vanilla ice cream evenly over the cooled crust, smoothing the top with a spatula.",
+    "Place the assembled cake in the freezer for at least 2 hours to firm the ice cream.",
+    "Just before serving, drizzle the top with extra honey and sprinkle toasted coconut flakes.",
+    "Slice into squares and serve immediately for a delightful crunch and creamy finish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crispy",
+    "egg-free",
+    "dessert",
+    "spanish",
+    "ice-cream-cake",
+    "quick",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 4,
+    "carbs": 48,
+    "fat": 20
+  },
+  "slug": "buttery-crispy-spanish-ice-cream-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-spanish-ice-cream-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:19:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "ice cream",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Ice Cream",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Cake"
+  }
+}

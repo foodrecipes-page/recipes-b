@@ -1,0 +1,102 @@
+{
+  "title": "Bitter Tender Portuguese Shrimp Flatbread",
+  "description": "A vibrant, low‑carb flatbread featuring tender shrimp, a zesty Portuguese tadka, and crisp phyllo, finished with a hint of bitterness from lemon zest and chili.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Phyllo sheets",
+      "amount": "6",
+      "notes": "thin, low‑carb brand if available"
+    },
+    {
+      "name": "Shrimp, peeled and deveined",
+      "amount": "300g",
+      "notes": "medium‑sized, fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "5",
+      "notes": "optional, for authentic tadka aroma"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Grease a small baking tin or line with parchment paper.",
+    "Lay the phyllo sheets on top of each other, brushing each sheet lightly with olive oil and sprinkling a pinch of salt; bake for 8–10 minutes until golden and crisp, then set aside to cool.",
+    "Meanwhile, in a small skillet, heat the butter over medium heat; add cumin seeds, mustard seeds, dried chili flakes, and curry leaves, letting them sizzle for 30 seconds until fragrant; add minced garlic and red chili flakes, cooking for another minute.",
+    "Transfer the shrimp to the skillet, season with salt and pepper, and sauté for 2–3 minutes on each side until pink and opaque; squeeze lemon juice over the shrimp and stir in lemon zest and cilantro.",
+    "Remove the shrimp from heat and let rest for 1 minute.",
+    "Place the cooled phyllo flatbread on a serving platter; top with the shrimp mixture, arranging shrimp in a single layer for an elegant presentation.",
+    "Drizzle a little extra olive oil over the top and serve immediately, garnished with additional cilantro if desired."
+  ],
+  "slug": "bitter-tender-portuguese-shrimp-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-tender-portuguese-shrimp-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:19:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "phyllo dough",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Bitter Tender",
+    "dishForm": "Flatbread"
+  }
+}
