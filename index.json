@@ -3418,6 +3418,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-gooey-croatian-milk-pudding",
+    "title": "Buttery Gooey Croatian Milk Pudding",
+    "tags": [
+      "croatian",
+      "milk-pudding",
+      "gooey",
+      "buttery",
+      "kid-friendly"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-gooey-german-date-bread",
     "title": "Buttery Gooey German Date Bread",
     "tags": [
