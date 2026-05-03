@@ -1,0 +1,103 @@
+{
+  "title": "Bitter Chewy Russian Veal Dumplings",
+  "description": "Mildly bitter, chewy dumplings with a kid-friendly flavor profile, featuring veal, fenugreek, and a twist of dill for authentic Russian taste.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal, ground",
+      "amount": "250g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "Water",
+      "amount": "60ml"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground fenugreek seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "50g"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "30g"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, salt, pepper, fenugreek seeds, and water to form a dough. Knead until smooth, cover, and let rest 10 minutes.",
+    "In another bowl, combine ground veal, grated carrot, chopped onion, fresh dill, and egg. Mix thoroughly until homogeneous.",
+    "Divide dough into 12 equal pieces. Roll each piece on a lightly floured surface into 3mm thick rounds about 6cm in diameter.",
+    "Place a heaping teaspoon of the veal mixture onto the center of each dough round. Fold dough over to form a half-moon, pressing edges to seal and twist to secure.",
+    "Heat 1 tablespoon vegetable oil in a large skillet over medium-high heat. Add dumplings in batches, browning 2-3 minutes per side.",
+    "After browning, pour 2 tablespoons water into the skillet, cover, and let dumplings steam for 5 minutes, ensuring the veal reaches 160°F internal temperature.",
+    "Remove the lid, allow any excess liquid to evaporate, and continue cooking for 1 minute to crisp edges.",
+    "Plate dumplings and optionally drizzle with a mild sauce such as light yogurt or a sweet tomato-pickle blend.",
+    "Serve immediately hot; leftovers can be reheated gently in a skillet or microwave.",
+    "For a plant-based variant, replace veal with an equal weight of crumbled tofu, and follow the same cooking procedure."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "child-friendly",
+    "chewy",
+    "bitter",
+    "veal",
+    "dumpling",
+    "dinner",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "bitter-chewy-russian-veal-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-russian-veal-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:30:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "veal",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "veal",
+    "descriptor": "Bitter Chewy",
+    "dishForm": "Dumplings"
+  }
+}

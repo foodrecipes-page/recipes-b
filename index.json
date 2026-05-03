@@ -384,6 +384,23 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-chewy-filipino-tempeh-stir-fry",
+    "title": "Bitter Chewy Filipino Tempeh Stir-fry",
+    "tags": [
+      "plant-based",
+      "vegan",
+      "stir-fry",
+      "bitter",
+      "chewy",
+      "energetic",
+      "orange-zest",
+      "deglaze"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-chewy-indulgent-ethiopian-dried-shrimp-stir-fry",
     "title": "Bitter Chewy Indulgent Ethiopian Dried Shrimp Stir-fry",
     "tags": [
@@ -479,6 +496,22 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-russian-veal-dumplings",
+    "title": "Bitter Chewy Russian Veal Dumplings",
+    "tags": [
+      "child-friendly",
+      "chewy",
+      "bitter",
+      "veal",
+      "dumpling",
+      "dinner",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
