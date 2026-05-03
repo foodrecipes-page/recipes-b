@@ -4347,6 +4347,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-silky-german-chicken-stew",
+    "title": "Buttery Silky German Chicken Stew",
+    "tags": [
+      "german-cuisine",
+      "chicken-stew",
+      "comfort-food",
+      "one-pot-meal"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-silky-lazy-sunday-mozzarella-stir-fry",
     "title": "Buttery Silky Lazy Sunday Mozzarella Stir-fry",
     "tags": [
