@@ -1,0 +1,97 @@
+{
+  "title": "Buttery Fluffy Filipino Rice Flour Pancakes",
+  "description": "A crowd-pleasing Filipino dish featuring caramelized sugar sauce, these buttery and fluffy pancakes are a delight to eat. They are also Jain-friendly, making them accessible to a wide range of diets.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "for caramel sauce"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": " lukewarm"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together rice flour, sugar, and salt.",
+    "In a separate bowl, whisk together water, melted butter, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until smooth.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancake and cook for another 1-2 minutes or until golden brown.",
+    "To make the caramel sauce, melt 1/2 cup sugar in a saucepan over low heat, stirring constantly.",
+    "Increase heat to medium and cook until the sugar turns golden brown.",
+    "Serve the pancakes with caramel sauce and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-recipe",
+    "rice-flour-pancakes",
+    "caramel-sauce",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "buttery-fluffy-filipino-rice-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-fluffy-filipino-rice-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:10:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice flour",
+    "descriptor": "Buttery Fluffy",
+    "dishForm": "Pancakes"
+  }
+}
