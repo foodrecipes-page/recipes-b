@@ -1,0 +1,108 @@
+{
+  "title": "Buttery Smoky Argentinian Beef Roast",
+  "description": "A juicy, buttery roast infused with smoky paprika and sweet dried cherries, perfect for a Mediterranean‑friendly feast.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef round roast (boneless, 4‑5 lb)",
+      "amount": "4.5 kg",
+      "notes": "Trim excess fat and score lightly"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "60 g",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Dried cherries",
+      "amount": "30 g",
+      "notes": "Rinse and drain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30 g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fresh rosemary, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red wine",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (320°F).",
+    "Pat the roast dry with paper towels and season generously with salt and pepper.",
+    "In a small bowl, mix softened butter, smoked paprika, rosemary, minced garlic, and a pinch of salt; gently work the mixture into the scored surface of the roast.",
+    "Arrange the roast in a shallow roasting pan and drizzle with olive oil.",
+    "Scatter rinsed dried cherries around the roast.",
+    "Pour red wine and beef broth into the pan to keep the meat moist during roasting.",
+    "Cover tightly with foil or a lid and roast for 2 hours, then remove the cover and continue roasting for an additional 20 minutes to develop a golden crust.",
+    "Let the roast rest for 15 minutes before slicing.",
+    "Serve sliced with a drizzle of pan juices and a sprinkle of fresh rosemary.",
+    "Enjoy with a side of Mediterranean salad or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "smoky",
+    "buttery",
+    "mediterranean-friendly",
+    "dried-cherries",
+    "roast",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 730,
+    "protein": 51,
+    "carbs": 4,
+    "fat": 32
+  },
+  "slug": "buttery-smoky-argentinian-beef-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-smoky-argentinian-beef-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:56:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "smoke",
+    "primaryIngredient": "dried cherries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Buttery Smoky",
+    "dishForm": "Roast"
+  }
+}

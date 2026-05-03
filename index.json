@@ -991,6 +991,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-korean-kale-salad",
+    "title": "Bitter Crunchy Korean Kale Salad",
+    "tags": [
+      "korean",
+      "kale",
+      "vegan",
+      "gluten-free",
+      "crunchy",
+      "bitter"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-lazy-sunday-millet-stir-fry",
     "title": "Bitter Crunchy Lazy-Sunday Millet Stir-fry",
     "tags": [
@@ -4599,6 +4614,22 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-smoky-argentinian-beef-roast",
+    "title": "Buttery Smoky Argentinian Beef Roast",
+    "tags": [
+      "argentinian",
+      "smoky",
+      "buttery",
+      "mediterranean-friendly",
+      "dried-cherries",
+      "roast",
+      "beef"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 140,
     "shard": "b"
   },
   {

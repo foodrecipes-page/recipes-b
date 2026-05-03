@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Crunchy Korean Kale Salad",
+  "description": "A refreshing, egg-free Korean kale salad that balances bitter greens with crunchy toasted mustard seeds and a zingy sesame sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kale, stems removed",
+      "amount": "3 cups chopped"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "gochugaru (Korean red pepper flakes)",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "sesame seeds, toasted",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions, thinly sliced (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring salted water to a rolling boil in a large pot.",
+    "Add the chopped kale and blanch for 30 seconds, then immediately transfer to an ice bath to stop the cooking.",
+    "Drain the kale, pat dry, and cut into bite‑sized pieces.",
+    "In a small dry skillet, toast the mustard seeds over medium heat until fragrant, about 2 minutes; add gochugaru and toast for an additional 30 seconds.",
+    "Whisk together sesame oil, rice vinegar, sea salt, and black pepper in a bowl to make the dressing.",
+    "Toss the blanched kale with the toasted mustard seeds and gochugaru, then drizzle the dressing over the salad and mix until evenly coated.",
+    "Sprinkle toasted sesame seeds and, if using, sliced green onions over the top.",
+    "Serve immediately for the best crunch and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "kale",
+    "vegan",
+    "gluten-free",
+    "crunchy",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "bitter-crunchy-korean-kale-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-korean-kale-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:56:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "mustard seeds",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "kale",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Salad"
+  }
+}
