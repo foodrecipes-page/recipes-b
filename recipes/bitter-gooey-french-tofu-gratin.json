@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Gooey French Tofu Gratin",
+  "description": "A weeknight French-inspired dish that pairs smoky, bitter greens with creamy fromage frais and protein-packed tofu, all baked into a gooey gratin.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g",
+      "notes": "drained and pressed"
+    },
+    {
+      "name": "arugula (roquette)",
+      "amount": "100 g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200 g",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fromage frais",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "80 g",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 °C (400 °F) and lightly oil a 20 × 20 cm baking dish.",
+    "Cube the tofu into 1 / 2‑inch pieces. Toss the tofu in a bowl with 1 tbsp olive oil, salt, pepper, and half of the thyme.",
+    "Spread the tofu evenly in the bottom of the prepared dish.",
+    "Add the arugula, cherry tomatoes, sliced onion, and minced garlic over the tofu.",
+    "Sprinkle the remaining thyme and lemon zest over the vegetables.",
+    "In a separate bowl, combine the fromage frais and grated Gruyère. Season with salt and pepper to taste and stir until well blended.",
+    "Spoon the cheese mixture over the tofu and vegetables, smoothing the top with a spatula.",
+    "Bake for 25‑30 minutes until the gratin is golden brown and bubbly. Let rest 5 minutes before serving."
+  ],
+  "slug": "bitter-gooey-french-tofu-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-gooey-french-tofu-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:41:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "fromage frais",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Tofu",
+    "descriptor": "Bitter Gooey",
+    "dishForm": "Gratin"
+  }
+}
