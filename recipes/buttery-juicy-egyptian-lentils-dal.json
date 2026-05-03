@@ -1,0 +1,123 @@
+{
+  "title": "Buttery Juicy Egyptian Lentils Dal",
+  "description": "A flavorful and comforting Egyptian dish made with tender brown lentils, aromatic spices, and a hint of butter. Perfect for a crowd-pleasing meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": "Store-bought"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger; cook for an additional 1-2 minutes.",
+    "Add the brown lentils, tomato paste, cumin seeds, coriander powder, turmeric powder, salt, and black pepper. Stir well to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Using an air fryer, toast the cumin seeds in a single layer at 375°F (190°C) for 2-3 minutes, or until fragrant.",
+    "Melt the remaining 1 tablespoon of butter in the air fryer basket.",
+    "Add the toasted cumin seeds to the melted butter and cook for an additional 1 minute, stirring constantly.",
+    "Stir the toasted cumin seed mixture into the cooked lentils.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lentils",
+    "air-fry",
+    "low-sodium",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "18g",
+    "carbs": "50g",
+    "fat": "10g"
+  },
+  "slug": "buttery-juicy-egyptian-lentils-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-egyptian-lentils-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:53:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "brown lentils",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "buttery juicy",
+    "dishForm": "Dal"
+  }
+}
