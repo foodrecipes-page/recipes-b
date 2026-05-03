@@ -1,0 +1,122 @@
+{
+  "title": "Buttery Juicy Thai Chicken Pilaf",
+  "description": "A creamy, aromatic Thai pilaf dish featuring juicy chicken, tangy pickle, and rich Stilton cheese.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "500g",
+      "notes": "cut into 2.5cm cubes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "rice pilaf mix",
+      "amount": "250g"
+    },
+    {
+      "name": "Stilton cheese",
+      "amount": "50g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of coconut oil in a large saucepan over medium heat.",
+    "Add the chicken to the saucepan and cook until browned, about 5 minutes.",
+    "Add the sliced shallots and minced garlic to the saucepan and cook until softened, about 2 minutes.",
+    "Add the sliced pickled ginger and Thai red curry paste to the saucepan and cook for 1 minute.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Add the rice pilaf mix to the saucepan and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes or until the liquid has been absorbed.",
+    "Stir in the crumbled Stilton cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "pilaf",
+    "dinner",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "buttery-juicy-thai-chicken-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-juicy-thai-chicken-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:31:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "stilton cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "buttery juicy",
+    "dishForm": "Pilaf"
+  }
+}

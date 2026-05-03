@@ -3843,6 +3843,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-juicy-thai-chicken-pilaf",
+    "title": "Buttery Juicy Thai Chicken Pilaf",
+    "tags": [
+      "thai",
+      "chicken",
+      "pilaf",
+      "dinner",
+      "date-night"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-juicy-vegan-injera-wrap",
     "title": "Buttery Juicy Vegan Injera Wrap",
     "tags": [
