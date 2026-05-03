@@ -1,0 +1,82 @@
+{
+  "title": "Bitter Crunchy Croatian Rice Pilaf",
+  "description": "A low-calorie-friendly post-workout dish featuring seasoned rice vinegar and crunchy elements, perfect for a quick meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "post-workout"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "3-4, thinly sliced"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook rice according to package instructions. Drain and set aside.",
+    "In a pan, sauté minced garlic and finely chopped onion until fragrant and translucent.",
+    "Add salt and pepper to taste, then add cooked rice and green onions. Toss well.",
+    "Drizzle with rice vinegar and stir quickly to combine ingredients evenly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "post-workout",
+    "croatian",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 0.5
+  },
+  "slug": "bitter-crunchy-croatian-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-croatian-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:33:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "simmer",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Rice",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Pilaf"
+  }
+}
