@@ -727,6 +727,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-american-cheddar-salad",
+    "title": "Bitter Crispy American Cheddar Salad",
+    "tags": [
+      "keto-friendly",
+      "crisp",
+      "cheddar",
+      "salad",
+      "bitter",
+      "american"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crispy-ethiopian-chickpeas-fritters",
     "title": "Bitter Crispy Ethiopian Chickpeas Fritters",
     "tags": [

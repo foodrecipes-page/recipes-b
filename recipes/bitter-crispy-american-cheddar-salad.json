@@ -1,0 +1,109 @@
+{
+  "title": "Bitter Crispy American Cheddar Salad",
+  "description": "A bold, keto-friendly salad that pairs bitter vine tomatoes with crunchy, crumbly cheddar and fresh greens, finished with a zesty lemon‑olive oil dressing.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "1 cup (chopped)",
+      "notes": "preferably slightly bitter, like heirloom or plum varieties"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "1 cup",
+      "notes": "arugula or mizuna for added pepperiness"
+    },
+    {
+      "name": "sharp cheddar cheese",
+      "amount": "8 oz",
+      "notes": "cut into 1/2\" cubes"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "kept keto‑friendly by using low‑carb panko if available"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for baking the cheese and dressing"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a shallow dish, combine the panko breadcrumbs, smoked paprika, salt, and pepper.",
+    "Pat the cheddar cubes dry and coat each cube evenly in the breadcrumb mixture.",
+    "Place the coated cheese on a parchment‑lined baking sheet and drizzle with 1 tablespoon olive oil.",
+    "Bake for 12–15 minutes, or until the cheese is golden and crunchy. Remove and let it cool for 5 minutes; this is the \"rest\" step.",
+    "Meanwhile, toss the chopped vine tomatoes and mixed greens in a large bowl with the remaining tablespoon of olive oil and fresh lemon juice.",
+    "Add the freshly baked cheddar cubes to the salad and gently toss to combine.",
+    "Sprinkle chopped parsley over the top for a burst of color and herbaceous flavor.",
+    "Serve immediately while the cheese is still crisp, or chill for up to 30 minutes in the refrigerator."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "crisp",
+    "cheddar",
+    "salad",
+    "bitter",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 345,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "bitter-crispy-american-cheddar-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-american-cheddar-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:58:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cheddar",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Salad"
+  }
+}
