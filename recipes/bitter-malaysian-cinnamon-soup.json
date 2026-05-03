@@ -1,0 +1,82 @@
+{
+  "title": "Bitter Malaysian Cinnamon Soup",
+  "description": "A silky, deeply bitter Malaysian soup featuring fermented ingredients and a hint of cinnamon, perfect for midnight cravings. Vegetarian-friendly and subtly tangy.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented rice water",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours at room temperature"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1/2 inch",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      ": ": "  // This is a mistake in the template, should be a string for amount, but the template shows it incorrectly as a string with colon. We'll fix it to "
+    },
+    {
+      "name": "jaggery",
+      "amount": "1 teaspoon",
+      "notes": "unrefined, raw"
+    },
+    {
+      "name": "lime",
+      "amount": "1/2 lime",
+      "notes": "juice only"
+    }
+  ],
+  "instructions": [
+    "Bring fermented rice water to a gentle boil in a medium pot.",
+    "Add cinnamon stick and simmer for 5 minutes, stirring occasionally.",
+    "Stir in coconut milk and jaggery until dissolved.",
+    "Remove from heat, add lime juice, and let cool for 5 minutes.",
+    "Strain through a fine-mesh sieve to remove solids, resulting in a silky, bitter soup."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "bitter",
+    "cinnamon",
+    "vegetarian",
+    "soup",
+    "fermented",
+    "nighttime",
+    "jaggery"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 22,
+    "fat": 6
+  },
+  "slug": "bitter-malaysian-cinnamon-soup",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-malaysian-cinnamon-soup",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:44:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cinnamon",
+    "descriptor": "Bitter",
+    "dishForm": "Soup"
+  }
+}
