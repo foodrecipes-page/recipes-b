@@ -1,0 +1,110 @@
+{
+  "title": "Buttery Hunan Rigatoni Pasta",
+  "description": "A quick, dairy‑free fusion pasta that blends the bold flavors of Hunan cuisine with rich, buttery sauce.",
+  "cuisine": "Chinese-Italian Fusion",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "250g"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp",
+      "notes": "clarified coconut oil or vegan butter"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "omit for strict vegan"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "½ cup"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "optional for cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni until al dente (about 10–12 minutes).",
+    "While the pasta cooks, heat the vegan butter in a large skillet over medium heat until melted.",
+    "Add the minced garlic, ginger, and crushed red pepper; sauté for 1–2 minutes until fragrant.",
+    "Stir in the sliced onion and cook until softened, about 3 minutes.",
+    "Pour in the coconut milk, soy sauce, rice vinegar, and fish sauce; bring to a gentle simmer.",
+    "Let the sauce reduce slightly for 3–4 minutes, then add the cooked rigatoni and toss to coat.",
+    "Stir in nutritional yeast for a subtle cheesy note, if using, and adjust seasoning with salt or more soy sauce.",
+    "Remove from heat and serve immediately, garnishing with extra scallions if desired.",
+    "Enjoy a creamy, spicy pasta that’s ready in under 30 minutes!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "quick",
+    "dairy-free",
+    "pasta",
+    "Hunan",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 13,
+    "carbs": 70,
+    "fat": 35
+  },
+  "slug": "buttery-hunan-rigatoni-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-hunan-rigatoni-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:11:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "rigatoni",
+    "diet": "dairy-free",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Buttery",
+    "dishForm": "Pasta"
+  }
+}

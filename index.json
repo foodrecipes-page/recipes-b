@@ -1030,6 +1030,22 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-jamaican-beef-brisket-bowl",
+    "title": "Bitter Crunchy Jamaican Beef Brisket Bowl",
+    "tags": [
+      "jamaican",
+      "beef-brisket",
+      "high-protein",
+      "bitter",
+      "crunchy",
+      "single-serving",
+      "dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 22,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-kenyana-wakati-stir-fry",
     "title": "Bitter Crunchy Kenyana Wakati Stir-fry",
     "tags": [
@@ -4260,6 +4276,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-hunan-rigatoni-pasta",
+    "title": "Buttery Hunan Rigatoni Pasta",
+    "tags": [
+      "vegan",
+      "quick",
+      "dairy-free",
+      "pasta",
+      "Hunan",
+      "fusion"
+    ],
+    "cuisine": "Chinese-Italian Fusion",
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {

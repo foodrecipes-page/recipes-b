@@ -1,0 +1,102 @@
+{
+  "title": "Bitter Crunchy Jamaican Beef Brisket Bowl",
+  "description": "A bold solo‑dinner bowl featuring seared beef brisket, bitter kale, a zingy lime‑soy sauce, and toasted coconut for crunch.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "200g",
+      "notes": "thinly sliced into 1/4-inch strips"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kale",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "whisked lime‑soy sauce",
+      "amount": "1 tbsp lime juice, 1 tbsp soy sauce, 1 tsp honey, 1 minced garlic clove, 1/8 tsp crushed scotch bonnet pepper",
+      "notes": "whisk together until smooth"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Whisk lime juice, soy sauce, honey, minced garlic, and crushed scotch bonnet pepper until smooth. Set aside.",
+    "Heat a skillet over medium‑high heat and add the olive oil.",
+    "Add the beef brisket slices and sear until browned on all sides, about 4–5 minutes.",
+    "Sprinkle allspice, thyme, salt, and pepper over the beef; stir and cook for 2 minutes to coat the meat.",
+    "Add the chopped kale to the skillet, stir, and cook until wilted, about 2 minutes.",
+    "Pour the whisked lime‑soy sauce over the beef and kale, tossing to combine. Let simmer for 5 minutes until the sauce thickens slightly.",
+    "Remove the skillet from heat.",
+    "Transfer the mixture to a bowl, top with toasted coconut flakes, and drizzle with any remaining sauce.",
+    "Garnish with chopped scallions and a squeeze of fresh lime if desired.",
+    "Serve hot and enjoy the bitter crunch and savory beef."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "beef-brisket",
+    "high-protein",
+    "bitter",
+    "crunchy",
+    "single-serving",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 535,
+    "protein": 48,
+    "carbs": 14,
+    "fat": 31
+  },
+  "slug": "bitter-crunchy-jamaican-beef-brisket-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-jamaican-beef-brisket-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:11:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "beef brisket",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Bowl"
+  }
+}
