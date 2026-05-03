@@ -3155,6 +3155,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crumbly-vietnamese-pasta",
+    "title": "Buttery Crumbly Vietnamese Pasta",
+    "tags": [
+      "buttery",
+      "crumbly",
+      "tadka",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crunchy-apple-salad",
     "title": "Buttery Crunchy Apple Salad",
     "tags": [
@@ -3624,6 +3637,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-gooey-spanish-bok-choi-paella",
+    "title": "Buttery Gooey Spanish Bok Choi Paella",
+    "tags": [
+      "spanish",
+      "bok-choi",
+      "paella",
+      "quick-fix",
+      "pressure-cooked",
+      "gluten-free",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {

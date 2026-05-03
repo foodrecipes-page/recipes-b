@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Gooey Spanish Bok Choi Paella",
+  "description": "A quick-fix Spanish dish featuring bok choi, with buttery and gooey textures. This pressure-cooked recipe is perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "1 large bunch",
+      "notes": "stems separated and leaves chopped"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Spanish Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large pressure cooker over medium-high heat.",
+    "Add the chopped bok choi stems and cook until tender, about 3 minutes.",
+    "Add the chopped bok choi leaves, smoked paprika, garlic powder, salt, and black pepper. Cook for 1 minute.",
+    "Add the Spanish rice, chicken broth, and remaining 2 tablespoons of butter. Stir to combine.",
+    "Close the pressure cooker and cook for 5 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Fluff the paella with a fork and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "bok-choi",
+    "paella",
+    "quick-fix",
+    "pressure-cooked",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "buttery-gooey-spanish-bok-choi-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-spanish-bok-choi-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:23:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "bok choi",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "bok choi",
+    "descriptor": "buttery gooey",
+    "dishForm": "Paella"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Buttery Crumbly Vietnamese Pasta",
+  "description": "A buttery crumbly crowd-pleaser featuring bowtie pasta and a dash-friendly tadka (Indian-inspired seasoning)",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bowtie Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ghee (Clarified Butter)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "2-3 whole leaves (optional)"
+    },
+    {
+      "name": "Salt to Taste",
+      "amount": ""
+    },
+    {
+      "name": "Tadka Seasoning Mix (for dipping)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the bowtie pasta according to package instructions.",
+    "While pasta is cooking, heat vegetable oil in a pan over medium heat. Add cumin seeds and fennel seeds; stir until they begin to pop and emit a fragrant aroma.",
+    "Add garlic cloves and onion to the pan with remaining tadka ingredients (mustard seeds if used). Stir for about 2-3 minutes until onions are translucent and spices are fragrant.",
+    "Stir in curry leaves, salt to taste, and the reserved tadka seasoning mix. Cook for another minute until well combined.",
+    "Drain pasta and immediately toss it with the tadka sauce while hot. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "crumbly",
+    "tadka",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "buttery-crumbly-vietnamese-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-vietnamese-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:23:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bowtie pasta",
+    "descriptor": "buttery crumbly",
+    "dishForm": "Pasta"
+  }
+}
