@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Algerian Dates Quesadilla",
+  "description": "A whole30-friendly, crispy and buttery dish perfect for date night with a touch of maple syrup sweetness.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "2",
+      "notes": "Can be used as gluten-free if needed."
+    },
+    {
+      "name": "Buttery almond flour (or all-purpose flour for gluten-free)",
+      "amount": "1 cup",
+      "notes": "For a nutty flavor, use almond flour instead of plain."
+    },
+    {
+      "name": "Dates",
+      "amount": "8-10 dates per quesadilla",
+      "notes": "Choose pitted and diced dates to make the dough easier."
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "For a touch of sweetness, reduce if too sweet for taste preference."
+    },
+    {
+      "name": "Almond extract (vanilla can be used as an alternative)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground cumin (optional)",
+      "amount": "1/2 teaspoon",
+      "notes": "For extra flavor, optional ingredient."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler and set oven rack to the highest position.",
+    "Mix almond flour with dates until a dough forms. Add maple syrup and cumin (if using), mix well, then add salt and knead until fully incorporated.",
+    "Divide dough into 2-3 equal parts for each quesadilla and shape them gently onto tortillas.",
+    "Brush tops of the quesadillas lightly with olive oil or melted coconut oil to prevent sticking. Place on a baking sheet lined with parchment paper if using.",
+    "Broil in preheated oven until edges start to brown, about 3-4 minutes per side. Watch carefully as they can burn quickly.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "algerian",
+    "date-night",
+    "maple-syrup"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "buttery-algerian-dates-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-algerian-dates-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:47:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "maple syrup",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dates",
+    "descriptor": "Buttery",
+    "dishForm": "Quesadilla"
+  }
+}
