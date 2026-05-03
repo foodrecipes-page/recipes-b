@@ -4385,6 +4385,24 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-light-peruvian-tuna-poke",
+    "title": "Buttery Light Peruvian Tuna Poke",
+    "tags": [
+      "peruvian",
+      "tuna",
+      "poke",
+      "buttery",
+      "light",
+      "seafood",
+      "quick",
+      "raw-friendly",
+      "sushi-rice"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-malaysian-buttery-duck-roast",
     "title": "Buttery Malaysian Duck Legs Roast",
     "tags": [

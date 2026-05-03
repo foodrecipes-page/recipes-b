@@ -1,0 +1,112 @@
+{
+  "title": "Buttery Light Peruvian Tuna Poke",
+  "description": "A fresh, buttery poke bowl with sushi rice, raw tuna, and a tandoor‑infused sauce.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi‑grade tuna",
+      "amount": "200 g"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 ½ cups"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "melted in tandoor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh herbs (cilantro + mint)",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "½ small",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice under cold water until the water runs clear.",
+    "Cook the rice with 1 ½ cups of water in a rice cooker or on the stovetop; let it rest for 10 minutes after cooking.",
+    "In a small saucepan, melt the butter and warm it in a tandoor to infuse a subtle smoky flavor.",
+    "Whisk the melted butter with lime juice, soy sauce, sesame oil, rice vinegar, sugar, and salt until smooth.",
+    "Place the tuna cubes in a shallow bowl and pour half of the buttery sauce over them; gently toss and let marinate for 5 minutes.",
+    "Fluff the cooked rice with a fork, then fold in a tablespoon of the buttery sauce to coat lightly.",
+    "Divide the rice between two bowls; top each with the marinated tuna.",
+    "Scatter the diced cucumber and chopped fresh herbs over the tuna.",
+    "Drizzle the remaining buttery sauce over the bowl and give a final gentle toss.",
+    "Serve immediately with lime wedges on the side; chill for 10 minutes if a cooler bowl is preferred."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "tuna",
+    "poke",
+    "buttery",
+    "light",
+    "seafood",
+    "quick",
+    "raw-friendly",
+    "sushi-rice"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 47,
+    "carbs": 50,
+    "fat": 16
+  },
+  "slug": "buttery-light-peruvian-tuna-poke",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-light-peruvian-tuna-poke",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:34:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "sushi rice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Tuna",
+    "descriptor": "Buttery Light",
+    "dishForm": "Poke"
+  }
+}
