@@ -50,7 +50,7 @@
     "Peel and cube the potatoes into bite-sized pieces.",
     "In a large skillet or wok, heat 2 tablespoons of olive oil over medium-high heat.",
     "Add the cubed potatoes to the skillet and cook until they start turning golden brown, about 5-7 minutes. Remove from the skillet and set aside.",
-    "In the same skillet, add the remaining tablespoon of olive oil, then sauté minced garlic and finely chopped onion until translucent, approximately 3 minutes.",
+    "In the same skillet, add the remaining tablespoon of olive oil, then saut\u00e9 minced garlic and finely chopped onion until translucent, approximately 3 minutes.",
     "Stir in the bhuna masala paste, curry powder, garam masala, and salt. Cook for about 1 minute to allow the spices to bloom.",
     "Return the cooked potatoes to the skillet with the spice mix. Stir well to coat evenly.",
     "Pour in the tomato puree and stir continuously until the mixture thickens slightly, around 2-3 minutes. The potato slices should be coated with a rich sauce.",
@@ -63,14 +63,14 @@
   "difficulty": "easy",
   "tags": [
     "potato",
-    "bhuna masala",
+    "bhuna-masala",
     "german",
     "stir-fry"
   ],
   "nutrition": {
     "calories": 368,
-    "protein": 7.1,
-    "carbs": 59.4,
+    "protein": 7,
+    "carbs": 59,
     "fat": 20
   },
   "slug": "buttery-crunchy-bhuna-potato-stir-fry",

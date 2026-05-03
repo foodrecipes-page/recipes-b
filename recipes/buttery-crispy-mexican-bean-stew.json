@@ -72,7 +72,7 @@
   ],
   "instructions": [
     "Heat the ghee in a large pot over medium heat until shimmering.",
-    "Add the diced red bell pepper and sauté for 2 minutes until slightly softened.",
+    "Add the diced red bell pepper and saut\u00e9 for 2 minutes until slightly softened.",
     "Stir in the chopped tomato, cumin, coriander, chili powder, and paprika; cook for 3 minutes, letting the spices bloom.",
     "Pour in the cooked black and pinto beans, corn, and a splash of water (about 1/2 cup) to loosen the stew; bring to a gentle simmer.",
     "Add salt to taste and a few drops of red food coloring; stir to distribute the color evenly; continue simmering for 10 minutes to meld flavors.",
@@ -97,5 +97,20 @@
     "mainIngredient": "bean",
     "descriptor": "Buttery Crispy",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "lunch"
+  ]
 }

@@ -43,7 +43,7 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add onions and garlic, sautéing until translucent about 3 minutes.",
+    "Add onions and garlic, saut\u00e9ing until translucent about 3 minutes.",
     "Include red bell peppers and continue cooking for another 5 minutes.",
     "Pour in the shredded mozzarella cheese. Stir gently to avoid clumping.",
     "Season with salt and black pepper to taste.",
@@ -60,7 +60,7 @@
     "american",
     "tangy",
     "juicy",
-    "melted_cheese"
+    "melted-cheese"
   ],
   "nutrition": {
     "calories": 350,

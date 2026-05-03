@@ -38,7 +38,7 @@
       "notes": "low-sodium, enhances savory flavor"
     },
     {
-      "name": "Low–sodium chicken broth",
+      "name": "Low\u2013sodium chicken broth",
       "amount": "1 cup (240 ml)",
       "notes": "for liquid base"
     },
@@ -71,13 +71,13 @@
   "instructions": [
     "Heat the butter in a Dutch oven over medium heat until melted.",
     "Add the chicken pieces and sear until they are golden brown on all sides; transfer them to a plate.",
-    "In the same pot, add diced onion and minced garlic; sauté until the onion becomes translucent (about 3–4 minutes).",
+    "In the same pot, add diced onion and minced garlic; saut\u00e9 until the onion becomes translucent (about 3\u20134 minutes).",
     "Stir in the tomato paste and cook for 1 minute, allowing it to caramelize slightly.",
     "Add the ground cumin and ground coriander; stir well to coat the onion and garlic in the spices.",
     "Return the seared chicken to the pot and pour in the chicken stock concentrate, low-sodium chicken broth, water, and lemon juice; stir to combine.",
     "Bring the mixture to a gentle simmer, then reduce the heat to low, cover, and let it simmer for 45 minutes, stirring occasionally, until the chicken is tender and the flavors meld.",
     "Taste the stew and season with salt and pepper to your liking. Stir in the chopped fresh parsley just before turning off the heat.",
-    "Serve the stew hot, optionally accompanied by a side of whole‑grain rice, quinoa, or flatbread for a complete meal."
+    "Serve the stew hot, optionally accompanied by a side of whole\u2011grain rice, quinoa, or flatbread for a complete meal."
   ],
   "slug": "buttery-cozy-syrian-chicken-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -96,5 +96,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Buttery Cozy",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "dinner"
+  ]
 }

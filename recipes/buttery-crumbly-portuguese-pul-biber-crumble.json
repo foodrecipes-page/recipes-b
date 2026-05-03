@@ -1,5 +1,5 @@
 {
-  "title": "Buttery Crumbly Portuguese Pul Biber Creme Brûlée",
+  "title": "Buttery Crumbly Portuguese Pul Biber Creme Brulee",
   "description": "This indulgent Portuqese dish features a smooth, creamy custard base infused with pul biber and topped with a crisp, buttery crust suitable for pescatarian diets.",
   "cuisine": "Portuguese",
   "diet": [
@@ -56,7 +56,7 @@
   "instructions": [
     "Whip heavy cream and milk together until stiff peaks form. In a mixing bowl, whisk eggs with sugar, salt, and cumin (if using). Slowly fold whipped mixture into egg base.",
     "Add pul biber to the custard mix and stir well. Pour evenly into ramekins or molds.",
-    "Bake at 300°F for about 25-30 minutes until set but still slightly jiggly in the center. Chill thoroughly before serving.",
+    "Bake at 300\u00b0F for about 25-30 minutes until set but still slightly jiggly in the center. Chill thoroughly before serving.",
     "For topping, mix together crushed nuts with melted butter and spread over chilled custard. Chill again for a few hours to solidify."
   ],
   "prepTimeMin": 15,
@@ -65,7 +65,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "pul biber",
+    "pul-biber",
     "crumbly",
     "buttery",
     "portuguese",

@@ -47,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Clean poblano peppers under cold water. Pat dry with paper towels.",
     "Cut off tops of peppers, remove seeds and membranes with the tips of your fingers. Halve the peppers lengthwise and place them cut side up on a baking sheet lined with parchment paper.",
     "Drizzle each pepper with 1-2 tablespoons oil (optional for extra flavor) and sprinkle generously with salt. Roast in oven until skin is blistered, about 15-20 minutes, turning occasionally until peppers are tender.",
@@ -63,15 +63,15 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "bhuna salsa",
-    "poblano pepper",
-    "gherkin relish"
+    "bhuna-salsa",
+    "poblano-pepper",
+    "gherkin-relish"
   ],
   "nutrition": {
     "calories": 318,
-    "protein": 2.7,
-    "carbs": 26.7,
-    "fat": 9.5
+    "protein": 3,
+    "carbs": 27,
+    "fat": 10
   },
   "slug": "bhuna-poblano-salsa",
   "source": "ollama-qwen2.5:3b",

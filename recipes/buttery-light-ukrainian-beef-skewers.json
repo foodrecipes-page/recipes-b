@@ -1,6 +1,6 @@
 {
   "title": "Buttery Light Ukrainian Beef Skewers",
-  "description": "Succulent beef cubes glazed with a fragrant butter‑herb mixture, grilled to perfection and finished with fresh dill for a low‑sodium, festive treat.",
+  "description": "Succulent beef cubes glazed with a fragrant butterherb mixture, grilled to perfection and finished with fresh dill for a lowsodium, festive treat.",
   "cuisine": "Ukrainian",
   "diet": [
     "low-sodium",
@@ -10,23 +10,23 @@
   "ingredients": [
     {
       "name": "Beef sirloin, mixed cuts (sirloin, strip, ribeye)",
-      "amount": "1.5 lb (680 g) – cubed 1.5\" – trimmed"
+      "amount": "1.5 lb (680 g) \u2013 cubed 1.5\" \u2013 trimmed"
     },
     {
       "name": "Unsalted butter",
-      "amount": "4 tbsp (60 g) – melted"
+      "amount": "4 tbsp (60 g) \u2013 melted"
     },
     {
       "name": "Fresh dill",
-      "amount": "2 tbsp – chopped"
+      "amount": "2 tbsp \u2013 chopped"
     },
     {
       "name": "Fresh parsley",
-      "amount": "1 tbsp – chopped"
+      "amount": "1 tbsp \u2013 chopped"
     },
     {
       "name": "Garlic",
-      "amount": "2 cloves – minced"
+      "amount": "2 cloves \u2013 minced"
     },
     {
       "name": "Lemon zest",
@@ -46,16 +46,16 @@
     },
     {
       "name": "Fresh black pepper",
-      "amount": "¼ tsp – optional"
+      "amount": "\u00bc tsp \u2013 optional"
     }
   ],
   "instructions": [
     "Whisk melted butter, dill, parsley, garlic, lemon zest, paprika, low-sodium soy sauce, olive oil, and pepper in a bowl.",
-    "Add beef cubes, toss to coat, cover, and refrigerate for 30‑120 minutes.",
-    "Preheat grill to medium‑high (180–200 °C / 350–400 °F). Optionally add soaked wood chips for smoke.",
-    "Thread 5‑6 beef cubes onto metal or soaked wooden skewers.",
+    "Add beef cubes, toss to coat, cover, and refrigerate for 30\u2011120 minutes.",
+    "Preheat grill to medium\u2011high (180\u2013200\u202f\u00b0C / 350\u2013400\u202f\u00b0F). Optionally add soaked wood chips for smoke.",
+    "Thread 5\u20116 beef cubes onto metal or soaked wooden skewers.",
     "While grilling, brush remaining butter glaze onto the skewers.",
-    "Cook 3–4 minutes per side, turning occasionally, until seared and internal temp reaches 130 °F (54 °C) for medium‑rare.",
+    "Cook 3\u20134 minutes per side, turning occasionally, until seared and internal temp reaches 130\u202f\u00b0F (54\u202f\u00b0C) for medium\u2011rare.",
     "Remove from grill, let rest 5 minutes.",
     "Sprinkle with extra dill before serving."
   ],
@@ -76,5 +76,20 @@
     "mainIngredient": "Beef",
     "descriptor": "Buttery Light",
     "dishForm": "Skewers"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ukrainian",
+    "dinner"
+  ]
 }

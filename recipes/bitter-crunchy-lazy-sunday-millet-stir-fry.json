@@ -1,7 +1,7 @@
 {
   "title": "Bitter Crunchy Lazy-Sunday Millet Stir-fry",
-  "description": "A vegetarian-friendly lazy-sunday dish featuring millet stir-fried with bitter vegetables and crunchy toppings for a spicy kick in the norteño style.",
-  "cuisine": "Mexican (Norteño)",
+  "description": "A vegetarian-friendly lazy-sunday dish featuring millet stir-fried with bitter vegetables and crunchy toppings for a spicy kick in the norteno style.",
+  "cuisine": "Mexican (Norteno)",
   "diet": [
     "vegetarian"
   ],
@@ -40,7 +40,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Vegetable oil for sautéing",
+      "name": "Vegetable oil for saut\u00e9ing",
       "amount": "2-3 tbsp"
     }
   ],
@@ -81,7 +81,7 @@
     "technique": "saute",
     "primaryIngredient": "millet",
     "diet": "vegetarian",
-    "region": "norteño",
+    "region": "norte\u00f1o",
     "cuisineAdjective": "Mexican",
     "mainIngredient": "millet",
     "descriptor": "bitter crunchy lazy-sunday",

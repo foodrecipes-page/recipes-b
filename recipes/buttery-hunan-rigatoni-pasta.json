@@ -1,6 +1,6 @@
 {
   "title": "Buttery Hunan Rigatoni Pasta",
-  "description": "A quick, dairy‑free fusion pasta that blends the bold flavors of Hunan cuisine with rich, buttery sauce.",
+  "description": "A quick, dairyfree fusion pasta that blends the bold flavors of Hunan cuisine with rich, buttery sauce.",
   "cuisine": "Chinese-Italian Fusion",
   "diet": [
     "vegan"
@@ -43,7 +43,7 @@
     },
     {
       "name": "coconut milk",
-      "amount": "½ cup"
+      "amount": "\u00bd cup"
     },
     {
       "name": "onion, thinly sliced",
@@ -60,15 +60,15 @@
     }
   ],
   "instructions": [
-    "Bring a large pot of salted water to a boil and cook the rigatoni until al dente (about 10–12 minutes).",
+    "Bring a large pot of salted water to a boil and cook the rigatoni until al dente (about 10\u201312 minutes).",
     "While the pasta cooks, heat the vegan butter in a large skillet over medium heat until melted.",
-    "Add the minced garlic, ginger, and crushed red pepper; sauté for 1–2 minutes until fragrant.",
+    "Add the minced garlic, ginger, and crushed red pepper; saut\u00e9 for 1\u20132 minutes until fragrant.",
     "Stir in the sliced onion and cook until softened, about 3 minutes.",
     "Pour in the coconut milk, soy sauce, rice vinegar, and fish sauce; bring to a gentle simmer.",
-    "Let the sauce reduce slightly for 3–4 minutes, then add the cooked rigatoni and toss to coat.",
+    "Let the sauce reduce slightly for 3\u20134 minutes, then add the cooked rigatoni and toss to coat.",
     "Stir in nutritional yeast for a subtle cheesy note, if using, and adjust seasoning with salt or more soy sauce.",
     "Remove from heat and serve immediately, garnishing with extra scallions if desired.",
-    "Enjoy a creamy, spicy pasta that’s ready in under 30 minutes!"
+    "Enjoy a creamy, spicy pasta that\u2019s ready in under 30 minutes!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -80,7 +80,7 @@
     "quick",
     "dairy-free",
     "pasta",
-    "Hunan",
+    "hunan",
     "fusion"
   ],
   "nutrition": {

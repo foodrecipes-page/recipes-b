@@ -49,9 +49,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Season pork belly with salt and pepper.",
-    "Heat oil in a large pan over medium heat, add garlic and onion; sauté for about 2 minutes or until fragrant.",
+    "Heat oil in a large pan over medium heat, add garlic and onion; saut\u00e9 for about 2 minutes or until fragrant.",
     "Add carrots and celery, cook for another 4-5 minutes.",
     "Fold in pork slices, thyme sprigs, paprika, salt, and pepper. Cook for an additional minute to ensure they are well-coated with seasonings.",
     "Transfer mixture to a baking dish. Pour soya sauce over the top of the meat evenly.",
@@ -65,7 +65,7 @@
   "difficulty": "easy",
   "tags": [
     "dutch",
-    "pork belly",
+    "pork-belly",
     "stir-fry",
     "velvety",
     "gluten-free"

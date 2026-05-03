@@ -1,12 +1,12 @@
 {
   "title": "Buttery Light Peruvian Tuna Poke",
-  "description": "A fresh, buttery poke bowl with sushi rice, raw tuna, and a tandoor‑infused sauce.",
+  "description": "A fresh, buttery poke bowl with sushi rice, raw tuna, and a tandoorinfused sauce.",
   "cuisine": "Peruvian",
   "diet": null,
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Sushi‑grade tuna",
+      "name": "Sushi\u2011grade tuna",
       "amount": "200 g"
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "Water",
-      "amount": "1 ½ cups"
+      "amount": "1 \u00bd cups"
     },
     {
       "name": "Rice vinegar",
@@ -53,13 +53,13 @@
     },
     {
       "name": "Cucumber",
-      "amount": "½ small",
+      "amount": "\u00bd small",
       "notes": "diced"
     }
   ],
   "instructions": [
     "Rinse the sushi rice under cold water until the water runs clear.",
-    "Cook the rice with 1 ½ cups of water in a rice cooker or on the stovetop; let it rest for 10 minutes after cooking.",
+    "Cook the rice with 1 \u00bd cups of water in a rice cooker or on the stovetop; let it rest for 10 minutes after cooking.",
     "In a small saucepan, melt the butter and warm it in a tandoor to infuse a subtle smoky flavor.",
     "Whisk the melted butter with lime juice, soy sauce, sesame oil, rice vinegar, sugar, and salt until smooth.",
     "Place the tuna cubes in a shallow bowl and pour half of the buttery sauce over them; gently toss and let marinate for 5 minutes.",

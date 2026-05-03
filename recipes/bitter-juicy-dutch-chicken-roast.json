@@ -1,6 +1,6 @@
 {
   "title": "Bitter Juicy Dutch Chicken Roast",
-  "description": "A single-serving Dutch chicken roast that balances the bright bitterness of grapefruit with rich juices, cooked sous‑vide for tenderness and finished in a quick sear for depth.",
+  "description": "A single-serving Dutch chicken roast that balances the bright bitterness of grapefruit with rich juices, cooked sousvide for tenderness and finished in a quick sear for depth.",
   "cuisine": "Dutch",
   "diet": null,
   "meal": "dinner",
@@ -43,12 +43,12 @@
   ],
   "instructions": [
     "Season the chicken breast with salt, pepper, crushed garlic, and rosemary sprigs.",
-    "Place the seasoned chicken in a vacuum‑seal bag with the grapefruit juice and 1 tbsp of olive oil.",
-    "Vacuum seal the bag and preheat a sous‑vide water bath to 65 °C (149 °F).",
+    "Place the seasoned chicken in a vacuum\u2011seal bag with the grapefruit juice and 1 tbsp of olive oil.",
+    "Vacuum seal the bag and preheat a sous\u2011vide water bath to 65\u202f\u00b0C (149\u202f\u00b0F).",
     "Cook the sealed chicken in the water bath for 60 minutes.",
     "Remove the chicken from the bag, pat it dry with paper towels to ensure a crisp sear.",
-    "Heat a skillet over medium‑high heat, add 1 tbsp olive oil and the butter.",
-    "Sear the chicken breast for 2–3 minutes per side until golden brown and caramelized.",
+    "Heat a skillet over medium\u2011high heat, add 1 tbsp olive oil and the butter.",
+    "Sear the chicken breast for 2\u20133 minutes per side until golden brown and caramelized.",
     "Let the seared chicken rest for 3 minutes before serving.",
     "Slice and serve immediately, garnishing with a fresh rosemary sprig if desired."
   ],
@@ -69,5 +69,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Bitter Juicy",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "dutch",
+    "dinner"
+  ]
 }

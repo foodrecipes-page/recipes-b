@@ -40,9 +40,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C). Grease a baking dish with coconut oil or butter.",
+    "Preheat oven to 350\u00b0F (175\u00b0C). Grease a baking dish with coconut oil or butter.",
     "Drain broad beans well and mix them with melted butter, eggs, yogurt, cayenne pepper, and the extra drained liquid from beans. Stir until smooth.",
-    "Pour mixture into prepared dish. Bake for 20 minutes at 350°F (175°C). Let it cool for 5-10 minutes.",
+    "Pour mixture into prepared dish. Bake for 20 minutes at 350\u00b0F (175\u00b0C). Let it cool for 5-10 minutes.",
     "Top cooled bean mixture with a layer of coconut milk or any non-dairy milk, then place in oven for an additional 10 minutes until slightly bubbly on top. Serve warm.",
     "prepTimeMin: 20",
     "cookTimeMin: 30",
@@ -58,9 +58,9 @@
   ],
   "nutrition": {
     "calories": 287,
-    "protein": 13.6,
-    "carbs": 9.5,
-    "fat": 9.4
+    "protein": 14,
+    "carbs": 10,
+    "fat": 9
   },
   "slug": "buttery-uruguayan-broad-beans-crumble",
   "source": "ollama-qwen2.5:3b",
@@ -79,5 +79,10 @@
     "mainIngredient": "Broad Beans",
     "descriptor": "Buttery",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

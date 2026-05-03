@@ -16,7 +16,7 @@
     {
       "name": "Olive oil",
       "amount": "2 tablespoons",
-      "notes": "For sautéing and braising"
+      "notes": "For saut\u00e9ing and braising"
     },
     {
       "name": "Garlic cloves",
@@ -70,8 +70,8 @@
     "moroccan",
     "juicy",
     "bitter",
-    "hangover_cure",
-    "chinese_cabbage"
+    "hangover-cure",
+    "chinese-cabbage"
   ],
   "nutrition": {
     "calories": 270,

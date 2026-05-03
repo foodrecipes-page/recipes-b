@@ -50,7 +50,7 @@
     "calories": 120,
     "protein": 1,
     "carbs": 23,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "berry-bliss",
   "source": "ollama-qwen2.5:3b",

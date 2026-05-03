@@ -76,7 +76,7 @@
     "Add the brown lentils, tomato paste, cumin seeds, coriander powder, turmeric powder, salt, and black pepper. Stir well to combine.",
     "Add 2 cups of water to the saucepan and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
-    "Using an air fryer, toast the cumin seeds in a single layer at 375°F (190°C) for 2-3 minutes, or until fragrant.",
+    "Using an air fryer, toast the cumin seeds in a single layer at 375\u00b0F (190\u00b0C) for 2-3 minutes, or until fragrant.",
     "Melt the remaining 1 tablespoon of butter in the air fryer basket.",
     "Add the toasted cumin seeds to the melted butter and cook for an additional 1 minute, stirring constantly.",
     "Stir the toasted cumin seed mixture into the cooked lentils.",
@@ -98,9 +98,9 @@
   ],
   "nutrition": {
     "calories": 350,
-    "protein": "18g",
-    "carbs": "50g",
-    "fat": "10g"
+    "protein": 18,
+    "carbs": 50,
+    "fat": 10
   },
   "slug": "buttery-juicy-egyptian-lentils-dal",
   "source": "groq-llama-3.1-8b-instant",

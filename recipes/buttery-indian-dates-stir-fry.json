@@ -1,6 +1,6 @@
 {
   "title": "Buttery Indian Dates Stir-fry",
-  "description": "A dense and buttery weeknight dish featuring pitted dates sautéed in a simple oil mixture for a raw-friendly twist.",
+  "description": "A dense and buttery weeknight dish featuring pitted dates sauteed in a simple oil mixture for a raw-friendly twist.",
   "cuisine": "Indian",
   "diet": null,
   "meal": "snack",
@@ -23,7 +23,7 @@
     "Preheat a non-stick skillet over medium heat.",
     "Place the dates in the hot skillet and sprinkle with salt.",
     "Drizzle butter over the dates, making sure to coat them evenly.",
-    "Sauté until the dates begin to break down into a sticky mixture that's slightly caramelized. This should take about 5-7 minutes.",
+    "Saut\u00e9 until the dates begin to break down into a sticky mixture that's slightly caramelized. This should take about 5-7 minutes.",
     "Remove from heat once desired texture is achieved."
   ],
   "prepTimeMin": 5,
@@ -38,7 +38,7 @@
   ],
   "nutrition": {
     "calories": 97,
-    "protein": 1.3,
+    "protein": 1,
     "carbs": 16,
     "fat": 8
   },

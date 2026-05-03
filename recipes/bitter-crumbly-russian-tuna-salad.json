@@ -26,11 +26,11 @@
     },
     {
       "name": "Red cabbage",
-      "amount": "½ cup, shredded"
+      "amount": "\u00bd cup, shredded"
     },
     {
       "name": "Feta cheese, crumbled",
-      "amount": "½ cup"
+      "amount": "\u00bd cup"
     },
     {
       "name": "Fresh dill",
@@ -86,5 +86,20 @@
     "mainIngredient": "Tuna",
     "descriptor": "Bitter Crumbly",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "lunch"
+  ]
 }

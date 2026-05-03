@@ -36,7 +36,7 @@
     "Fold in unsweetened shredded coconut and dark chocolate chips evenly.",
     "Drizzle vanilla extract over the mixture and stir well.",
     "Transfer the mixture into a baking dish or muffin tin lined with parchment paper.",
-    "Bake at 350°F (175°C) for about 20-25 minutes, until golden brown on top and firm to the touch.",
+    "Bake at 350\u00b0F (175\u00b0C) for about 20-25 minutes, until golden brown on top and firm to the touch.",
     "Allow it to cool slightly before slicing and serving."
   ],
   "prepTimeMin": 15,
@@ -53,8 +53,8 @@
   ],
   "nutrition": {
     "calories": 352,
-    "protein": 6.9,
-    "carbs": 48.4,
+    "protein": 7,
+    "carbs": 48,
     "fat": 11
   },
   "slug": "bitter-chewy-midnight-oat-crumble",

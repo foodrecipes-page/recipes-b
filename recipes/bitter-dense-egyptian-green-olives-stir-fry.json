@@ -59,14 +59,14 @@
   "difficulty": "easy",
   "tags": [
     "egyptian",
-    "green olives",
+    "green-olives",
     "stir-fry",
     "plant-based"
   ],
   "nutrition": {
     "calories": 153,
-    "protein": 3.6,
-    "carbs": 10.7,
+    "protein": 4,
+    "carbs": 11,
     "fat": 8
   },
   "slug": "bitter-dense-egyptian-green-olives-stir-fry",

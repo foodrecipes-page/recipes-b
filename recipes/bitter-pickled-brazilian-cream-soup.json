@@ -53,7 +53,7 @@
   ],
   "instructions": [
     "1. Heat a large pot over medium heat and add a splash of water.",
-    "2. Add diced onion and minced garlic, sautéing until translucent and fragrant, about 3-4 minutes.",
+    "2. Add diced onion and minced garlic, saut\u00e9ing until translucent and fragrant, about 3-4 minutes.",
     "3. Stir in diced chicken breast and cook until lightly browned, about 5 minutes.",
     "4. Add tomato paste and mix well to coat the chicken and onions, cooking for an additional 2 minutes.",
     "5. Pour in 500 ml of water, bring to a gentle boil, then reduce heat and simmer for 20 minutes, or until the chicken is cooked through.",
@@ -80,5 +80,20 @@
     "mainIngredient": "cream",
     "descriptor": "Bitter Pickled",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "brazilian",
+    "lunch"
+  ]
 }

@@ -24,7 +24,7 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide cooker to 60°C (140°F).",
+    "Preheat your sous-vide cooker to 60\u00b0C (140\u00b0F).",
     "Cut the butter into small pieces.",
     "Mix sugar and spices in a bowl until well combined. Add the cut butter, stir gently but thoroughly.",
     "Place the mixture in a sous-vide bag with water bath for about 30 minutes at the pre-set temperature.",
@@ -44,9 +44,9 @@
   ],
   "nutrition": {
     "calories": 170,
-    "protein": 2.9,
-    "carbs": 3.4,
-    "fat": 14.5
+    "protein": 3,
+    "carbs": 3,
+    "fat": 14
   },
   "slug": "buttersweet-sous-vide",
   "source": "ollama-qwen2.5:3b",

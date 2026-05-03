@@ -39,7 +39,7 @@
     },
     {
       "name": "turmeric powder",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "salt",
@@ -69,8 +69,8 @@
     "buttery",
     "crumbly",
     "gujarati",
-    "mature_cheese",
-    "dash_friendly"
+    "mature-cheese",
+    "dash-friendly"
   ],
   "nutrition": {
     "calories": 500,

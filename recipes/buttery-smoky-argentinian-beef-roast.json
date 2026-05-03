@@ -1,6 +1,6 @@
 {
   "title": "Buttery Smoky Argentinian Beef Roast",
-  "description": "A juicy, buttery roast infused with smoky paprika and sweet dried cherries, perfect for a Mediterranean‑friendly feast.",
+  "description": "A juicy, buttery roast infused with smoky paprika and sweet dried cherries, perfect for a Mediterraneanfriendly feast.",
   "cuisine": "Argentinian",
   "diet": [
     "gluten-free"
@@ -8,7 +8,7 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Beef round roast (boneless, 4‑5 lb)",
+      "name": "Beef round roast (boneless, 4\u20115 lb)",
       "amount": "4.5 kg",
       "notes": "Trim excess fat and score lightly"
     },
@@ -56,7 +56,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 160°C (320°F).",
+    "Preheat oven to 160\u00b0C (320\u00b0F).",
     "Pat the roast dry with paper towels and season generously with salt and pepper.",
     "In a small bowl, mix softened butter, smoked paprika, rosemary, minced garlic, and a pinch of salt; gently work the mixture into the scored surface of the roast.",
     "Arrange the roast in a shallow roasting pan and drizzle with olive oil.",

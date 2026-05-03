@@ -55,7 +55,7 @@
     "calories": 85,
     "protein": 12,
     "carbs": 7,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "buttery-fluffy-yogurt-soup",
   "source": "ollama-qwen2.5:3b",

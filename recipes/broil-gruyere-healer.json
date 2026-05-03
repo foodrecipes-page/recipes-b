@@ -1,12 +1,12 @@
 {
-  "title": "Broil-Gruyère Healer",
-  "description": "A savory Russian dish featuring flaky Gruyère cheese with a dash-friendly touch to soothe hangovers.",
+  "title": "Broil-Gruyere Healer",
+  "description": "A savory Russian dish featuring flaky Gruyere cheese with a dash-friendly touch to soothe hangovers.",
   "cuisine": "Russian",
   "diet": null,
   "meal": "snack",
   "ingredients": [
     {
-      "name": "Gruyère Cheese",
+      "name": "Gruy\u00e8re Cheese",
       "amount": "1 cup grated"
     },
     {
@@ -40,8 +40,8 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 450°F (230°C).",
-    "In a mixing bowl, combine grated Gruyère cheese, heavy cream, butter, minced garlic, salt, black pepper, and paprika.",
+    "Preheat oven to 450\u00b0F (230\u00b0C).",
+    "In a mixing bowl, combine grated Gruy\u00e8re cheese, heavy cream, butter, minced garlic, salt, black pepper, and paprika.",
     "Mix well until cheese is fully incorporated and mixture is smooth.",
     "Transfer the mixture into a shallow baking dish. Spread evenly to form a crust on top.",
     "Sprinkle with fresh parsley sprigs if desired for garnish.",
@@ -62,8 +62,8 @@
   ],
   "nutrition": {
     "calories": 271,
-    "protein": 8.6,
-    "carbs": 35.9,
+    "protein": 9,
+    "carbs": 36,
     "fat": 17
   },
   "slug": "broil-gruyere-healer",

@@ -5,7 +5,7 @@
   "diet": [
     "low-sodium"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Molasses",
@@ -41,13 +41,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "Coat a baking dish with butter.",
     "Add finely chopped onion, minced garlic, and thinly sliced red bell pepper to the dish. Saute for about 5 minutes until softened.",
     "Gently fold in grated carrot and thinly sliced zucchini.",
     "Season with salt and pepper as needed.",
     "Pour molasses evenly over vegetables.",
-    "Bake at 400°F (200°C) for approximately 15-20 minutes or until vegetables are tender.",
+    "Bake at 400\u00b0F (200\u00b0C) for approximately 15-20 minutes or until vegetables are tender.",
     "Serve warm."
   ],
   "prepTimeMin": 10,

@@ -38,7 +38,7 @@
     }
   ],
   "instructions": [
-    "Heat oil in a large pot over medium heat. Add onion and garlic, sauté for 5 minutes.",
+    "Heat oil in a large pot over medium heat. Add onion and garlic, saut\u00e9 for 5 minutes.",
     "Add diced pork and cook until browned, about 8 minutes.",
     "Stir in bitter gourd, oregano, and icing sugar. Cook, stirring occasionally, for an additional 10-15 minutes or until the pork is tender and the mixture has a gooey consistency.",
     "Serve hot as a side dish with rice or naan bread."
@@ -55,9 +55,9 @@
   ],
   "nutrition": {
     "calories": 768,
-    "protein": 29.2,
-    "carbs": 10.4,
-    "fat": 35.2
+    "protein": 29,
+    "carbs": 10,
+    "fat": 35
   },
   "slug": "bitter-gooey-pork-stir-fry",
   "source": "ollama-qwen2.5:3b",

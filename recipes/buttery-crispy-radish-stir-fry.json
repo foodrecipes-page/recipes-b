@@ -25,9 +25,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F).",
+    "Preheat oven to 200\u00b0C (400\u00b0F).",
     "Chop radishes into thin slices and place on a baking sheet.",
-    "Melt butter in a pan over medium heat, then add radish slices and sauté until slightly translucent.",
+    "Melt butter in a pan over medium heat, then add radish slices and saut\u00e9 until slightly translucent.",
     "Season with salt and lemon zest.",
     "Transfer radishes to oven-safe dish, ensuring they are not overcrowded. Roast for about 20-30 minutes or until crispy and golden brown.",
     "Serve hot as a snack or appetizer."
@@ -44,7 +44,7 @@
   ],
   "nutrition": {
     "calories": 174,
-    "protein": 2.4,
+    "protein": 2,
     "carbs": 9.0,
     "fat": 38.0
   },

@@ -1,6 +1,6 @@
 {
   "title": "Bitter Crisp Vietnamese Beef Soup",
-  "description": "A slow‑cooked, bitter‑tasting Vietnamese beef soup with a crisp, refreshing finish—perfect for a comforting dinner.",
+  "description": "A slowcooked, bittertasting Vietnamese beef soup with a crisp, refreshing finish-perfect for a comforting dinner.",
   "cuisine": "Vietnamese",
   "diet": null,
   "meal": "dinner",
@@ -93,8 +93,8 @@
   ],
   "instructions": [
     "1. In a large stockpot, bring the water to a boil and add the beef bones. Reduce to a gentle simmer and skim off any foam that rises to the surface.",
-    "2. Add the sliced carrot, onion, garlic, ginger, black peppercorns, and Sichuan peppercorns. Simmer gently for 5–7 minutes to release aromatics.",
-    "3. Add the sliced beef, fish sauce, and sugar (if using). Simmer uncovered for 3–4 hours, partially covered, until the broth is richly flavored and the beef is tender.",
+    "2. Add the sliced carrot, onion, garlic, ginger, black peppercorns, and Sichuan peppercorns. Simmer gently for 5\u20137 minutes to release aromatics.",
+    "3. Add the sliced beef, fish sauce, and sugar (if using). Simmer uncovered for 3\u20134 hours, partially covered, until the broth is richly flavored and the beef is tender.",
     "4. In the last 15 minutes of cooking, stir in the lime juice, cilantro, and green onions. Taste and adjust seasoning with additional fish sauce or salt if needed.",
     "5. To serve, divide the soaked vermicelli among bowls. Ladle the hot broth and beef over the noodles, then top with bean sprouts and a drizzle of toasted sesame oil.",
     "6. Garnish with extra cilantro and green onions if desired. Serve immediately while hot, accompanied by fresh lime wedges on the side for extra zing."
@@ -111,7 +111,7 @@
     "beef",
     "soup",
     "slow-cook",
-    "Vietnamese",
+    "vietnamese",
     "dash-friendly"
   ],
   "nutrition": {

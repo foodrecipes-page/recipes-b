@@ -39,7 +39,7 @@
   ],
   "instructions": [
     "Cook rice according to package instructions. Drain and set aside.",
-    "In a pan, sauté minced garlic and finely chopped onion until fragrant and translucent.",
+    "In a pan, saut\u00e9 minced garlic and finely chopped onion until fragrant and translucent.",
     "Add salt and pepper to taste, then add cooked rice and green onions. Toss well.",
     "Drizzle with rice vinegar and stir quickly to combine ingredients evenly."
   ],
@@ -59,7 +59,7 @@
     "calories": 85,
     "protein": 3,
     "carbs": 14,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "bitter-crunchy-croatian-rice-pilaf",
   "source": "ollama-qwen2.5:3b",

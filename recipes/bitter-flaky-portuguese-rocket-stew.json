@@ -21,7 +21,7 @@
     {
       "name": "okra",
       "amount": "150 g",
-      "notes": "cut into bite‑sized pieces"
+      "notes": "cut into bite\u2011sized pieces"
     },
     {
       "name": "roasted cashew nuts",
@@ -61,7 +61,7 @@
     {
       "name": "olive oil",
       "amount": "2 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "cumin seeds",
@@ -75,7 +75,7 @@
     },
     {
       "name": "fenugreek seeds",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": "for tadka"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "water",
@@ -98,7 +98,7 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add cumin seeds, mustard seeds, fenugreek seeds, and a pinch of asafoetida, sauté until seeds crackle and emit a nutty aroma.",
+    "Add cumin seeds, mustard seeds, fenugreek seeds, and a pinch of asafoetida, saut\u00e9 until seeds crackle and emit a nutty aroma.",
     "Pour in tomato puree and cook for 3 minutes, stirring to blend the spices.",
     "Add the coconut milk, okra, tamarind mixture, red chili flakes, paprika, saffron water and the soaked saffron strands. Stir well.",
     "Add water, bring the mixture to a gentle simmer and cover. Let it cook for 15 minutes, until the okra is tender and the flavors meld.",
@@ -123,5 +123,20 @@
     "mainIngredient": "rocket",
     "descriptor": "Bitter Flaky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ]
 }

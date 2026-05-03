@@ -1,6 +1,6 @@
 {
   "title": "Bitter Flaky Uruguayan Cod Broth",
-  "description": "A savory, bitter broth with flaky cod, enriched by tarragon leaves and a gentle sauté, perfect as a soothing hangover cure.",
+  "description": "A savory, bitter broth with flaky cod, enriched by tarragon leaves and a gentle saute, perfect as a soothing hangover cure.",
   "cuisine": "Uruguayan",
   "diet": null,
   "meal": "lunch",
@@ -67,10 +67,10 @@
   ],
   "instructions": [
     "Heat olive oil in a large stockpot over medium heat.",
-    "Add diced onion, minced garlic, sliced carrot, and celery; sauté until vegetables soften, about 5 minutes.",
+    "Add diced onion, minced garlic, sliced carrot, and celery; saut\u00e9 until vegetables soften, about 5 minutes.",
     "Pour in 2 liters of cold water and add bay leaf, tarragon leaves, kosher salt, and pepper.",
     "Bring the mixture to a gentle boil, then reduce to a simmer and cook for 25 minutes to develop flavor.",
-    "Add the cod fillets to the broth, cover, and simmer gently for 10 minutes or until the fish flakes easily (internal temp 145°F/63°C).",
+    "Add the cod fillets to the broth, cover, and simmer gently for 10 minutes or until the fish flakes easily (internal temp 145\u00b0F/63\u00b0C).",
     "Remove the pot from heat and let it sit, covered, for 5 minutes to allow the fish to finish cooking through steam.",
     "Using a slotted spoon, carefully lift the cod fillets out and set aside, keeping the broth in the pot.",
     "Reduce the broth over medium heat for another 5 minutes to slightly thicken.",
@@ -90,7 +90,7 @@
     "broth",
     "kosher-friendly",
     "hangover-cure",
-    "sauté"
+    "saute"
   ],
   "nutrition": {
     "calories": 200,

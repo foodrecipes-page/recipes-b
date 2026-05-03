@@ -41,12 +41,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 425°F (218°C).",
+    "Preheat oven to 425\u00b0F (218\u00b0C).",
     "Cut butternut squash into cubes, garlic cloves in half.",
     "Toss with olive oil, salt, pepper, and nutritional yeast if using. Spread evenly on a baking sheet.",
     "Roast for about 20-25 minutes or until tender when pierced with a fork.",
     "In a large skillet, heat olive oil over medium-high heat.",
-    "Add sliced onions and minced garlic to the skillet. Sauté for about 5 minutes or until onions are translucent.",
+    "Add sliced onions and minced garlic to the skillet. Saut\u00e9 for about 5 minutes or until onions are translucent.",
     "Add roasted butternut squash cubes to the skillet along with passata. Stir well to combine all ingredients.",
     "Reduce heat to low and let simmer for another 10-15 minutes, stirring occasionally, until sauce thickens slightly.",
     "Serve hot as a side dish or main course."
@@ -63,9 +63,9 @@
   ],
   "nutrition": {
     "calories": 286,
-    "protein": 3.9,
-    "carbs": 47.1,
-    "fat": 10.5
+    "protein": 4,
+    "carbs": 47,
+    "fat": 10
   },
   "slug": "bitter-creamy-canadian-roast-butternut-squash-stir-fry",
   "source": "ollama-qwen2.5:3b",

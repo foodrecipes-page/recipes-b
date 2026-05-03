@@ -27,7 +27,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Combine Grape Nuts, sugar, and a pinch of salt in an oven-safe bowl.",
     "Pour melted butter over the cereal mixture and mix well until evenly coated.",
     "Stir in orange juice. Ensure it is fully combined for even caramelizing.",
@@ -44,7 +44,7 @@
     "buttery",
     "chewy",
     "festive",
-    "grape_nuts_cereal"
+    "grape-nuts-cereal"
   ],
   "nutrition": {
     "calories": 200,

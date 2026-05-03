@@ -45,7 +45,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C). Grease a loaf pan.",
+    "Preheat oven to 350\u00b0F (175\u00b0C). Grease a loaf pan.",
     "In a mixing bowl, combine custard powder and cocoa powder. Add almond flour, vanilla extract, and beaten egg yolks. Stir until well combined.",
     "Add coconut oil and unsweetened almond milk. Mix until smooth and no lumps remain.",
     "Pour mixture into the prepared loaf pan. Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
@@ -66,9 +66,9 @@
   ],
   "nutrition": {
     "calories": 267,
-    "protein": 3.7,
-    "carbs": 5.1,
-    "fat": 20.4
+    "protein": 4,
+    "carbs": 5,
+    "fat": 20
   },
   "slug": "bitter-gooey-lazy-sunday-cake",
   "source": "ollama-qwen2.5:3b",

@@ -24,7 +24,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Peel the avocado and use a spoon to scoop out its flesh. Squeeze in some honey syrup.",
     "Add minced garlic and salt to the flesh, then mix well until it becomes slightly soft and velvety.",
     "Place the mixture in a small baking dish or shallow pan lined with parchment paper.",
@@ -40,7 +40,7 @@
     "argentinian",
     "bitter",
     "velvety",
-    "hass avocado"
+    "hass-avocado"
   ],
   "nutrition": {
     "calories": 80,

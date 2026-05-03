@@ -28,7 +28,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (220°C).",
+    "Preheat your oven to 425\u00b0F (220\u00b0C).",
     "Trim the bok choy, leaving about an inch of stem.",
     "Cut the bok choy into small bite-sized pieces and place in a mixing bowl with half of the grated parmesan cheese.",
     "Add in the butter and toss to coat evenly. Season with salt and pepper to taste.",
@@ -44,7 +44,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "bok choy",
+    "bok-choy",
     "raspberry",
     "roasted",
     "buttery"

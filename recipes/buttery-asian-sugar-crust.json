@@ -33,7 +33,7 @@
     "Stir in maple syrup and brown sugar until fully combined.",
     "Whisk in vanilla extract to enhance flavors.",
     "Pour the mixture into a greased dish or pan and spread evenly for an Asian-style sugar crust.",
-    "Bake at 325°F (160°C) for about 8-10 minutes, or until golden brown. Keep warm.",
+    "Bake at 325\u00b0F (160\u00b0C) for about 8-10 minutes, or until golden brown. Keep warm.",
     "To serve, pour hot whole milk over the top of the crust to create a butterscotch sauce."
   ],
   "prepTimeMin": 5,
@@ -42,8 +42,8 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "sugar_crust",
-    "buttery_sauce",
+    "sugar-crust",
+    "buttery-sauce",
     "whole30"
   ],
   "nutrition": {

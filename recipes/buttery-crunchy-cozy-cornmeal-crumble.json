@@ -35,7 +35,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, cream together the softened butter and cornmeal until well combined. Stir in salt, bhuna sauce, lemon juice, and cinnamon.",
     "Fold in chopped nuts until evenly distributed throughout the mixture.",
     "Transfer crumble onto an oven-safe dish or baking sheet lined with parchment paper.",
@@ -57,7 +57,7 @@
   ],
   "nutrition": {
     "calories": 326,
-    "protein": 7.5,
+    "protein": 8,
     "carbs": 41,
     "fat": 20
   },

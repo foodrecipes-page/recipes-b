@@ -1,6 +1,6 @@
 {
   "title": "Bitter Light Egyptian Beans Stew",
-  "description": "A subtle, adventurous stew that balances the earthy bitterness of dandelion greens with the heartiness of chickpeas in a light, sous‑vide‑cooked broth.",
+  "description": "A subtle, adventurous stew that balances the earthy bitterness of dandelion greens with the heartiness of chickpeas in a light, sousvidecooked broth.",
   "cuisine": "Egyptian",
   "diet": [
     "fodmap-friendly"
@@ -10,12 +10,12 @@
     {
       "name": "canned chickpeas",
       "amount": "400 g",
-      "notes": "garlic‑free, rinsed and drained"
+      "notes": "garlic\u2011free, rinsed and drained"
     },
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "extra‑virgin"
+      "notes": "extra\u2011virgin"
     },
     {
       "name": "ground cumin",
@@ -27,7 +27,7 @@
     },
     {
       "name": "ground turmeric",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "ground coriander",
@@ -44,7 +44,7 @@
     {
       "name": "low FODMAP vegetable broth",
       "amount": "1 cup (240 ml)",
-      "notes": "homemade or store‑bought, no onion or garlic"
+      "notes": "homemade or store\u2011bought, no onion or garlic"
     },
     {
       "name": "dandelion greens",
@@ -67,15 +67,15 @@
     }
   ],
   "instructions": [
-    "1. Preheat the sous‑vide water bath to 80 °C (176 °F).",
-    "2. In a heat‑proof bag, combine chickpeas, cumin, smoked paprika, turmeric, coriander, black pepper, and a pinch of salt. Seal the bag using the water‑displacement method.",
-    "3. Place the bag in the water bath and cook for 2 hours to infuse the spices into the beans, gently breaking them apart as they cook.",
+    "1. Preheat the sous\u2011vide water bath to 80\u202f\u00b0C (176\u202f\u00b0F).",
+    "2. In a heat\u2011proof bag, combine chickpeas, cumin, smoked paprika, turmeric, coriander, black pepper, and a pinch of salt. Seal the bag using the water\u2011displacement method.",
+    "3. Place the bag in the water bath and cook for 2\u202fhours to infuse the spices into the beans, gently breaking them apart as they cook.",
     "4. While the beans cook, heat olive oil in a small saucepan over medium heat. Add the lemon juice and stir.",
-    "5. Once the sous‑vide cycle is complete, remove the bag, squeeze out the beans, and transfer them to the saucepan. If any liquid remains, discard it.",
-    "6. Add the vegetable broth to the saucepan and bring to a gentle simmer. Cook for 10 minutes to meld flavors.",
-    "7. Add the chopped dandelion greens and simmer for an additional 5 minutes until the greens are bright and tender.",
+    "5. Once the sous\u2011vide cycle is complete, remove the bag, squeeze out the beans, and transfer them to the saucepan. If any liquid remains, discard it.",
+    "6. Add the vegetable broth to the saucepan and bring to a gentle simmer. Cook for 10\u202fminutes to meld flavors.",
+    "7. Add the chopped dandelion greens and simmer for an additional 5\u202fminutes until the greens are bright and tender.",
     "8. Stir in nutritional yeast, adjust seasoning with salt and pepper, and remove from heat.",
-    "9. Serve the stew hot, garnished with fresh parsley if desired. Enjoy a light, bitter, and FODMAP‑friendly Egyptian experience!"
+    "9. Serve the stew hot, garnished with fresh parsley if desired. Enjoy a light, bitter, and FODMAP\u2011friendly Egyptian experience!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 130,

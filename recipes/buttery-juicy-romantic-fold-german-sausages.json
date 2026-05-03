@@ -5,7 +5,7 @@
   "diet": [
     "diabetic-friendly"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "German Sausages",
@@ -40,7 +40,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Arrange sausages on a wire rack placed inside a shallow baking dish. Drizzle with olive oil and sprinkle salt, pepper, and basil.",
     "Melt butter in a small saucepan over medium heat. Stir in chopped fresh basil until fragrant but not browned.",
     "Pour the melted butter mixture over the sausages and bake for 25 minutes or until juices run clear when poked with a fork.",

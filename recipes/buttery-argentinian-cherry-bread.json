@@ -45,7 +45,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan and sprinkle with chopped chia seeds.",
+    "Preheat oven to 350\u00b0F (175\u00b0C). Grease a 9x5 inch loaf pan and sprinkle with chopped chia seeds.",
     "In a large bowl, mix almond butter, maple syrup, applesauce, vanilla extract, and salt until well combined. Stir in dried cherries and flour mixture until smooth.",
     "Pour the batter into prepared loaf pan and bake for 40-50 minutes or until a toothpick inserted comes out clean.",
     "Cool on a wire rack before slicing and serving."
@@ -65,9 +65,9 @@
   ],
   "nutrition": {
     "calories": 261,
-    "protein": 3.4,
-    "carbs": 30.9,
-    "fat": 7.8
+    "protein": 3,
+    "carbs": 31,
+    "fat": 8
   },
   "slug": "buttery-argentinian-cherry-bread",
   "source": "ollama-qwen2.5:3b",

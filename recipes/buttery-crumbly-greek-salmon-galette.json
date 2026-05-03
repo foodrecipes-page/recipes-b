@@ -1,6 +1,6 @@
 {
   "title": "Buttery Crumbly Greek Salmon Galette",
-  "description": "A flaky, buttery galette filled with marinated salmon, sweet grapes, and tangy feta—ideal for a brunch‑mood Greek pescatarian plate.",
+  "description": "A flaky, buttery galette filled with marinated salmon, sweet grapes, and tangy feta-ideal for a brunchmood Greek pescatarian plate.",
   "cuisine": "Greek",
   "diet": [
     "pescatarian"
@@ -44,7 +44,7 @@
     {
       "name": "shortcrust pastry",
       "amount": "200 g",
-      "notes": "store‑bought, rolled to 25 cm square"
+      "notes": "store\u2011bought, rolled to 25 cm square"
     },
     {
       "name": "feta cheese",
@@ -62,12 +62,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+    "Preheat oven to 200\u00b0C (400\u00b0F) and line a baking sheet with parchment paper.",
     "Whisk olive oil, lemon juice, oregano, dill, and capers in a bowl; toss salmon fillets to coat and let marinate for 10 minutes.",
-    "Roll out the pastry to a 25 cm square and place it on the prepared sheet. Arrange salmon fillets in the center, top with grape halves, and sprinkle crumbled feta over them.",
+    "Roll out the pastry to a 25\u202fcm square and place it on the prepared sheet. Arrange salmon fillets in the center, top with grape halves, and sprinkle crumbled feta over them.",
     "Fold the pastry corners over the filling, leaving a small opening in the center for steam to escape.",
     "Brush the pastry edges with melted butter and dot a few additional butter drops on the top for shine.",
-    "Bake for 18–20 minutes, until the crust is golden brown and the salmon reaches an internal temperature of 60°C (140°F).",
+    "Bake for 18\u201320 minutes, until the crust is golden brown and the salmon reaches an internal temperature of 60\u00b0C (140\u00b0F).",
     "Remove from the oven and let the galette rest for 5 minutes before serving. Sprinkle with fresh dill and serve warm."
   ],
   "prepTimeMin": 10,

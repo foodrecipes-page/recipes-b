@@ -1,6 +1,6 @@
 {
   "title": "Buttery Chewy Tunisian Sausage Skewers",
-  "description": "Juicy merguez sausages glazed in a rich, buttery tadka sauce, baked to perfection for a comforting solo‑dinner.",
+  "description": "Juicy merguez sausages glazed in a rich, buttery tadka sauce, baked to perfection for a comforting solodinner.",
   "cuisine": "Tunisian",
   "diet": [
     "keto"
@@ -44,7 +44,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Full‑fat coconut milk",
+      "name": "Full\u2011fat coconut milk",
       "amount": "1/4 cup"
     },
     {
@@ -57,15 +57,15 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C). Arrange the sausage skewers on a baking sheet and set aside.",
+    "Preheat oven to 375\u00b0F (190\u00b0C). Arrange the sausage skewers on a baking sheet and set aside.",
     "In a medium skillet, heat the ghee over medium heat. Add the butter and let it melt, swirling to coat the pan.",
-    "Add the sliced onion to the skillet and sauté until softened and translucent, about 5 minutes.",
+    "Add the sliced onion to the skillet and saut\u00e9 until softened and translucent, about 5 minutes.",
     "Stir in the minced garlic, cumin, coriander, smoked paprika, and harissa paste. Cook for 1 minute until fragrant.",
     "Remove the skillet from heat and whisk in the coconut milk and tahini until the sauce is smooth and creamy. Season with salt and pepper if desired.",
     "Spread a generous amount of the tadka sauce over each sausage skewer, reserving a small portion for serving.",
-    "Roast the skewers in the oven for 12–15 minutes, turning once, until the sausages reach an internal temperature of 160°F (71°C) and develop a golden crust.",
+    "Roast the skewers in the oven for 12\u201315 minutes, turning once, until the sausages reach an internal temperature of 160\u00b0F (71\u00b0C) and develop a golden crust.",
     "While the sausages finish roasting, warm the reserved sauce in a small pan over low heat and stir in the lemon juice.",
-    "Once cooked, remove the skewers from the oven and drizzle with the lemon‑tahini sauce. Garnish with fresh chopped cilantro if desired.",
+    "Once cooked, remove the skewers from the oven and drizzle with the lemon\u2011tahini sauce. Garnish with fresh chopped cilantro if desired.",
     "Serve immediately hot, enjoying the buttery, chewy texture of the Tunisian sausage skewers."
   ],
   "prepTimeMin": 10,
@@ -84,7 +84,7 @@
   "nutrition": {
     "calories": 2286,
     "protein": 127,
-    "carbs": 23.4,
+    "carbs": 23,
     "fat": 195
   },
   "slug": "buttery-chewy-tunisian-sausage-skewers",

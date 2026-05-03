@@ -5,7 +5,7 @@
   "diet": [
     "halal"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Chuck Roast",
@@ -63,9 +63,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 325°F (160°C). Season chuck roast with salt and pepper.",
+    "Preheat oven to 325\u00b0F (160\u00b0C). Season chuck roast with salt and pepper.",
     "Heat oil in a large skillet over medium-high heat. Add garlic, onion, carrots, bell peppers, leeks, soy sauce, fish sauce, stock cube, white pepper powder, and sugar. Stir until well combined and vegetables are slightly softened.",
-    "Transfer mixture to an oven-safe dish and top with chuck roast. Bake for 1 hour or until meat is tender (internal temperature should reach at least 145°F/63°C).",
+    "Transfer mixture to an oven-safe dish and top with chuck roast. Bake for 1 hour or until meat is tender (internal temperature should reach at least 145\u00b0F/63\u00b0C).",
     "Reduce heat to low and stir in more soy sauce if needed. Simmer gently for another 10 minutes.",
     "Serve hot as a side dish or over rice."
   ],

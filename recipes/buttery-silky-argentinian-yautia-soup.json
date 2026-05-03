@@ -1,6 +1,6 @@
 {
-  "title": "Buttery Silky Argentinian Yautía Soup",
-  "description": "A creamy, low‑fat Argentine soup that turns yautía into a silky, buttery delight, perfect for a comforting lunch.",
+  "title": "Buttery Silky Argentinian Yautia Soup",
+  "description": "A creamy, lowfat Argentine soup that turns yautia into a silky, buttery delight, perfect for a comforting lunch.",
   "cuisine": "Argentine",
   "diet": [
     "vegetarian"
@@ -8,12 +8,12 @@
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "yautía (cassava)",
+      "name": "yaut\u00eda (cassava)",
       "amount": "500 g",
       "notes": "peeled and diced"
     },
     {
-      "name": "low‑fat milk",
+      "name": "low\u2011fat milk",
       "amount": "1 cup (240 ml)",
       "notes": null
     },
@@ -50,10 +50,10 @@
   ],
   "instructions": [
     "Heat a large pot over medium heat and add the softened butter.",
-    "Sauté the diced onion and minced garlic until fragrant and translucent, about 3 minutes.",
-    "Add the diced yautía and stir to coat with the butter and aromatics.",
-    "Pour in the vegetable broth and low‑fat milk, bring to a gentle boil.",
-    "Reduce heat to a simmer and cook, uncovered, until the yautía is tender, about 15 minutes.",
+    "Saut\u00e9 the diced onion and minced garlic until fragrant and translucent, about 3 minutes.",
+    "Add the diced yaut\u00eda and stir to coat with the butter and aromatics.",
+    "Pour in the vegetable broth and low\u2011fat milk, bring to a gentle boil.",
+    "Reduce heat to a simmer and cook, uncovered, until the yaut\u00eda is tender, about 15 minutes.",
     "Use an immersion blender to puree the soup until silky smooth; if desired, blend in batches.",
     "Season with salt, pepper, and a splash of lemon juice; stir to combine.",
     "Garnish with chopped cilantro and serve hot."

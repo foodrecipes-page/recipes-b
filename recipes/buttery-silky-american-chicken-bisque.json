@@ -21,7 +21,7 @@
     {
       "name": "Olive Oil",
       "amount": "2 tablespoons",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "Onion",
@@ -76,9 +76,9 @@
   ],
   "instructions": [
     "Heat the butter and olive oil in a large saucepan over medium heat.",
-    "Add the diced onion, celery, and carrots, and sauté until the vegetables are tender, about 8 minutes.",
-    "Add the minced garlic and sauté for 1 minute.",
-    "Add the chicken and sauté until browned, about 5-6 minutes.",
+    "Add the diced onion, celery, and carrots, and saut\u00e9 until the vegetables are tender, about 8 minutes.",
+    "Add the minced garlic and saut\u00e9 for 1 minute.",
+    "Add the chicken and saut\u00e9 until browned, about 5-6 minutes.",
     "Sprinkle the gluten-free flour over the chicken and vegetables, and cook for 1 minute.",
     "Gradually add the chicken broth, whisking continuously to avoid lumps.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes.",
@@ -90,7 +90,7 @@
   "prepTimeMin": 20,
   "cookTimeMin": 20,
   "totalTimeMin": 40,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "american",
@@ -101,9 +101,9 @@
   ],
   "nutrition": {
     "calories": 350,
-    "protein": "25g",
-    "carbs": "20g",
-    "fat": "20g"
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
   },
   "slug": "buttery-silky-american-chicken-bisque",
   "source": "groq-llama-3.1-8b-instant",

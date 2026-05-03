@@ -6,7 +6,7 @@
     "paleo",
     "gluten-free"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "lamb shoulder",
@@ -54,7 +54,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 300°F (150°C).",
+    "Preheat the oven to 300\u00b0F (150\u00b0C).",
     "In a large Dutch oven, heat the olive oil over medium heat. Add the garlic and onion and cook until the onion is translucent.",
     "Add the lamb shoulder to the pot and cook until browned on all sides.",
     "Add 1 cup of water to the pot, cover, and transfer to the preheated oven. Braise the lamb for 2.5 hours, or until tender.",

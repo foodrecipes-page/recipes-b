@@ -1,6 +1,6 @@
 {
   "title": "Bitter Crumbly Venezuelan Bean Soup",
-  "description": "A bold, slightly bitter bean soup with a crunchy coconut yogurt crumble topping, inspired by Venezuelan flavors and designed to be dairy‑free.",
+  "description": "A bold, slightly bitter bean soup with a crunchy coconut yogurt crumble topping, inspired by Venezuelan flavors and designed to be dairyfree.",
   "cuisine": "Venezuelan",
   "diet": null,
   "meal": "lunch",
@@ -28,7 +28,7 @@
     {
       "name": "coconut yogurt",
       "amount": "1 cup",
-      "notes": "dairy‑free natural yogurt"
+      "notes": "dairy\u2011free natural yogurt"
     },
     {
       "name": "vegetable broth",
@@ -38,7 +38,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "smoked paprika",
@@ -63,7 +63,7 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat.",
-    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Add the diced onion and saut\u00e9 until translucent, about 3 minutes.",
     "Stir in the minced garlic and cook for 1 minute until fragrant.",
     "Add the chopped bitter gourd and smoked paprika, cook for 2 minutes, letting the bitterness mellow.",
     "Pour in the vegetable broth and bring the mixture to a gentle simmer.",
@@ -90,5 +90,20 @@
     "mainIngredient": "Bean",
     "descriptor": "Bitter Crumbly",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "lunch"
+  ]
 }

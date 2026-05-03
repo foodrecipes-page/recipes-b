@@ -34,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Slice the whole wheat bread into thin slices and place them on a baking sheet.",
     "Mix beetroot, olive oil, sugar/honey, and vanilla extract in a small bowl. Pour this mixture over the sliced bread evenly, making sure each slice gets a bit of the beetroot mixture.",
     "Sprinkle almond slivers (if using) on top of the beetroot mixture for added texture and flavor.",
@@ -53,9 +53,9 @@
   ],
   "nutrition": {
     "calories": 137,
-    "protein": 1.8,
-    "carbs": 19.5,
-    "fat": 4.5
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
   },
   "slug": "beetroot-toast-delight",
   "source": "ollama-qwen2.5:3b",

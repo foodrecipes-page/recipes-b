@@ -21,7 +21,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (180°C).",
+    "Preheat your oven to 350\u00b0F (180\u00b0C).",
     "Gently warm the glace cherries in a microwave for about 20 seconds. Place them on a baking sheet lined with parchment paper.",
     "Grill each cherry lightly for about 2-3 minutes or until just slightly charred and softened, turning occasionally to ensure even cooking.",
     "While the cherries are grilling, mix together the sugar-free glaze mix with the light syrup in a small bowl. Whisk gently to combine but avoid overmixing as it could create lumps.",
@@ -42,7 +42,7 @@
     "calories": 50,
     "protein": 1,
     "carbs": 7,
-    "fat": 0.3
+    "fat": 0
   },
   "slug": "bitter-crisp-australian-glace-cherry-slice",
   "source": "ollama-qwen2.5:3b",

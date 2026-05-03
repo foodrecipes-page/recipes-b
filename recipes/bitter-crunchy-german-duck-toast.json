@@ -1,6 +1,6 @@
 {
   "title": "Bitter Crunchy German Duck Toast",
-  "description": "Roasted duck legs rest atop toasted rye bread, accented with pickled beetroot, horseradish‑mustard sauce, and crunchy almond slivers for a satisfying, diabetic‑friendly German crowd‑pleaser.",
+  "description": "Roasted duck legs rest atop toasted rye bread, accented with pickled beetroot, horseradishmustard sauce, and crunchy almond slivers for a satisfying, diabeticfriendly German crowdpleaser.",
   "cuisine": "German",
   "diet": [
     "diabetic-friendly"
@@ -9,43 +9,43 @@
   "ingredients": [
     {
       "name": "duck legs",
-      "amount": "2 (200 g each)",
+      "amount": "2 (200\u202fg each)",
       "notes": "skin on, bones removed after roasting"
     },
     {
-      "name": "whole‑grain rye bread",
+      "name": "whole\u2011grain rye bread",
       "amount": "4 slices"
     },
     {
       "name": "pickled beetroot",
-      "amount": "100 g",
+      "amount": "100\u202fg",
       "notes": "thinly sliced"
     },
     {
       "name": "olive oil",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     },
     {
-      "name": "whole‑grain mustard",
-      "amount": "1 tsp"
+      "name": "whole\u2011grain mustard",
+      "amount": "1\u202ftsp"
     },
     {
       "name": "horseradish root",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "grated"
     },
     {
       "name": "fresh dill",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "chopped"
     },
     {
       "name": "lemon juice",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "toasted almond slivers",
-      "amount": "30 g"
+      "amount": "30\u202fg"
     },
     {
       "name": "salt and pepper",
@@ -53,14 +53,14 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200 °C (400 °F).",
+    "Preheat oven to 200\u202f\u00b0C (400\u202f\u00b0F).",
     "Pat the duck legs dry, season with salt, pepper, and a drizzle of olive oil, then place skin side up on a baking sheet.",
-    "Roast the duck legs for 35 minutes or until the internal temperature reaches 74 °C (165 °F). Let rest 5 minutes before slicing.",
-    "While the duck roasts, heat a non‑stick skillet over medium heat; add a splash of olive oil and toast each bread slice until golden brown, about 2 minutes per side.",
-    "Warm the pickled beetroot slices in a small saucepan over low heat for 2 minutes.",
-    "In a bowl, whisk together whole‑grain mustard, grated horseradish, fresh dill, and lemon juice to form the sauce.",
-    "Place a toasted bread slice on a plate, top with warm beetroot, then drizzle with the horseradish‑mustard sauce.",
-    "Slice the rested duck leg into medallions and arrange them over the beetroot‑topped toast.",
+    "Roast the duck legs for 35\u202fminutes or until the internal temperature reaches 74\u202f\u00b0C (165\u202f\u00b0F). Let rest 5\u202fminutes before slicing.",
+    "While the duck roasts, heat a non\u2011stick skillet over medium heat; add a splash of olive oil and toast each bread slice until golden brown, about 2\u202fminutes per side.",
+    "Warm the pickled beetroot slices in a small saucepan over low heat for 2\u202fminutes.",
+    "In a bowl, whisk together whole\u2011grain mustard, grated horseradish, fresh dill, and lemon juice to form the sauce.",
+    "Place a toasted bread slice on a plate, top with warm beetroot, then drizzle with the horseradish\u2011mustard sauce.",
+    "Slice the rested duck leg into medallions and arrange them over the beetroot\u2011topped toast.",
     "Sprinkle toasted almond slivers on top for crunch and extra protein.",
     "Serve immediately while the toast is still crisp and the duck is warm."
   ],

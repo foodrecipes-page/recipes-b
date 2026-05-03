@@ -46,14 +46,14 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Prepare the urucá beans by boiling them in water until tender, then drain and set aside.",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Prepare the uruc\u00e1 beans by boiling them in water until tender, then drain and set aside.",
     "Season the duck with salt and pepper. Roast the duck in the oven for about 20-25 minutes or until golden brown.",
-    "In a large skillet, sauté garlic and onion until fragrant, adding paprika and cumin seeds if using.",
+    "In a large skillet, saut\u00e9 garlic and onion until fragrant, adding paprika and cumin seeds if using.",
     "Add tomato paste to the skillet and cook for another minute, stirring continuously to prevent burning.",
     "Stir in water (or chicken broth) with the bitter almond paste (if using), bring to a simmer, then reduce heat to low.",
     "Slice the roasted duck into pieces and add them to the sauce. Simmer until the liquid thickens slightly and coats the meat evenly.",
-    "Combine the cooked urucá beans with the sauce, allowing it to absorb more of the flavors.",
+    "Combine the cooked uruc\u00e1 beans with the sauce, allowing it to absorb more of the flavors.",
     "prepTimeMin: 30",
     "cookTimeMin: 25",
     "totalTimeMin: 60",
@@ -83,5 +83,20 @@
     "mainIngredient": "duck",
     "descriptor": "Bitter Dense Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ]
 }

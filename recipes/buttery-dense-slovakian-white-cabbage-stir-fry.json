@@ -3,7 +3,7 @@
   "description": "A sweet and savory brunch dish featuring white cabbage in a buttery sauce that's perfect for those looking to add a touch of Eastern European flavor to their meal.",
   "cuisine": "Slovakian",
   "diet": null,
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "White cabbage",
@@ -47,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (205°C).",
+    "Preheat your oven to 400\u00b0F (205\u00b0C).",
     "Season the chicken with salt, pepper, and minced garlic.",
     "Place the marinated chicken on a baking sheet lined with parchment paper. Roast in the oven for about 18-20 minutes or until cooked through. Remove from oven and set aside to cool slightly.",
     "While the chicken is roasting, melt the butter in a large skillet over medium heat. Once melted, add the white wine vinegar and stir until it thickens slightly, around 2-3 minutes.",

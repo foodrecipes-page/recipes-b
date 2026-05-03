@@ -62,12 +62,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C) and grease a 9-inch tart pan.",
+    "Preheat oven to 375\u00b0F (190\u00b0C) and grease a 9-inch tart pan.",
     "In a food processor, combine flour, salt, and optionally sugar. Pulse until coarse crumbs.",
     "Add cold butter cubes and pulse until mixture resembles coarse sand. Transfer to a bowl.",
     "Stir in cold water 1 tablespoon at a time until dough comes together. Press dough into the tart pan, trim edges, and chill for 10 minutes.",
     "In a separate bowl, whisk eggs, heavy cream, fish sauce, lime juice, and minced lemongrass. Fold in flaked smoked haddock and chopped cilantro, seasoning with salt.",
-    "Pour the filling over the chilled crust. Bake for 20-25 minutes, or until the crust is golden and the filling reaches an internal temperature of 145°F (63°C).",
+    "Pour the filling over the chilled crust. Bake for 20-25 minutes, or until the crust is golden and the filling reaches an internal temperature of 145\u00b0F (63\u00b0C).",
     "Remove from oven, let rest 5 minutes, then slice and serve with fresh lime wedges."
   ],
   "slug": "buttery-crumbly-vietnamese-haddock-tart",
@@ -87,5 +87,20 @@
     "mainIngredient": "haddock",
     "descriptor": "Buttery Crumbly",
     "dishForm": "Tart"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "dinner"
+  ]
 }

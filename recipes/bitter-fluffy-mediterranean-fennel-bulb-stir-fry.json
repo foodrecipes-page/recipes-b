@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 450°F (230°C).",
+    "Preheat your oven to 450\u00b0F (230\u00b0C).",
     "Trim the fennel bulb and cut into wedges. Rinse and dry.",
     "Peel, chop the onion and garlic cloves.",
     "Halve the tomatoes and set aside.",
@@ -67,9 +67,9 @@
   ],
   "nutrition": {
     "calories": 298,
-    "protein": 16.5,
-    "carbs": 30.4,
-    "fat": 14.7
+    "protein": 16,
+    "carbs": 30,
+    "fat": 15
   },
   "slug": "bitter-fluffy-mediterranean-fennel-bulb-stir-fry",
   "source": "ollama-qwen2.5:3b",

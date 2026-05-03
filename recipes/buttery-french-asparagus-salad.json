@@ -46,9 +46,9 @@
   ],
   "nutrition": {
     "calories": 97,
-    "protein": 6.2,
-    "carbs": 10.3,
-    "fat": 4.5
+    "protein": 6,
+    "carbs": 10,
+    "fat": 4
   },
   "slug": "buttery-french-asparagus-salad",
   "source": "ollama-qwen2.5:3b",

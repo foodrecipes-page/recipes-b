@@ -61,9 +61,9 @@
   ],
   "nutrition": {
     "calories": 205,
-    "protein": 1.8,
-    "carbs": 27.6,
-    "fat": 2.4
+    "protein": 2,
+    "carbs": 28,
+    "fat": 2
   },
   "slug": "bitter-velvety-jamaican-pineapple-stir-fry",
   "source": "ollama-qwen2.5:3b",

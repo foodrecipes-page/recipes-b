@@ -1,6 +1,6 @@
 {
   "title": "Buttery Australian Shrimp Bake",
-  "description": "A single-skillet, low‑carb shrimp bake with a gooey buttery sauce, finished with fresh herbs and a hint of lemon.",
+  "description": "A single-skillet, lowcarb shrimp bake with a gooey buttery sauce, finished with fresh herbs and a hint of lemon.",
   "cuisine": "Australian",
   "diet": [
     "low-carb",
@@ -28,13 +28,13 @@
     },
     {
       "name": "diced canned tomatoes",
-      "amount": "120ml (½ cup)",
+      "amount": "120ml (\u00bd cup)",
       "notes": "drained"
     },
     {
       "name": "almond flour",
       "amount": "1 teaspoon",
-      "notes": "low‑carb thickener"
+      "notes": "low\u2011carb thickener"
     },
     {
       "name": "smoked paprika",
@@ -58,13 +58,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F).",
-    "Heat a large oven‑proof skillet over medium heat, add butter and olive oil, letting the butter melt.",
-    "Add minced garlic to the skillet and sauté for 30 seconds until fragrant.",
+    "Preheat oven to 200\u00b0C (400\u00b0F).",
+    "Heat a large oven\u2011proof skillet over medium heat, add butter and olive oil, letting the butter melt.",
+    "Add minced garlic to the skillet and saut\u00e9 for 30 seconds until fragrant.",
     "Add the diced tomatoes and almond flour, stir to combine and let simmer for 3 minutes.",
     "Season the mixture with smoked paprika, salt, and pepper.",
     "Place the shrimp in the skillet, turning them to coat with the sauce. 5 minutes of cooking will suffice. ",
-    "Transfer the skillet to the preheated oven and bake for 8–10 minutes, or until shrimp turn pink and opaque. ",
+    "Transfer the skillet to the preheated oven and bake for 8\u201310 minutes, or until shrimp turn pink and opaque. ",
     "Remove from oven, squeeze fresh lemon juice over the shrimp, garnish with chopped parsley, and serve immediately."
   ],
   "slug": "buttery-australian-shrimp-bake",
@@ -84,5 +84,20 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Buttery",
     "dishForm": "Bake"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dinner"
+  ]
 }

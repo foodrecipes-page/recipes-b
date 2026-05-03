@@ -1,6 +1,6 @@
 {
   "title": "Buttery Gooey Argentinian Cheese Soup",
-  "description": "A comforting, low‑fat cheese soup with a sweet splash of treacle, perfect for soothing a hangover.",
+  "description": "A comforting, lowfat cheese soup with a sweet splash of treacle, perfect for soothing a hangover.",
   "cuisine": "Argentinian",
   "diet": [
     "vegetarian"
@@ -8,17 +8,17 @@
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "low‑fat mozzarella",
+      "name": "low\u2011fat mozzarella",
       "amount": "200 g",
       "notes": "cut into small cubes"
     },
     {
-      "name": "low‑fat cheddar",
+      "name": "low\u2011fat cheddar",
       "amount": "100 g",
       "notes": "shredded"
     },
     {
-      "name": "low‑fat cream cheese",
+      "name": "low\u2011fat cream cheese",
       "amount": "50 g",
       "notes": "cut into cubes"
     },
@@ -65,13 +65,13 @@
     }
   ],
   "instructions": [
-    "In a large pot, melt the butter over medium heat and sauté the onion and garlic until translucent.",
+    "In a large pot, melt the butter over medium heat and saut\u00e9 the onion and garlic until translucent.",
     "Add the vegetable broth and skim milk, bringing the mixture to a gentle simmer.",
     "Stir in the shredded cheddar and cubes of mozzarella and cream cheese, letting them melt into a creamy base.",
     "Fold in the treacle and paprika, season with salt and pepper, and continue to simmer for 10 minutes, stirring occasionally, until the soup is silky and gooey.",
     "Taste and adjust seasoning if needed.",
     "Serve hot, garnished with chopped parsley.",
-    "Enjoy the comforting, low‑fat, hangover‑curing delight!"
+    "Enjoy the comforting, low\u2011fat, hangover\u2011curing delight!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,

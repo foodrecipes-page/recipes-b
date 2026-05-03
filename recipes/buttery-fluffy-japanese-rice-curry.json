@@ -1,6 +1,6 @@
 {
   "title": "Buttery Fluffy Japanese Rice Curry",
-  "description": "A quick, vegan-friendly Japanese curry that blends a bhuna‑style spice base with creamy, buttery rice, finished with a sprinkle of vegan Parmesan for a cheesy finish.",
+  "description": "A quick, vegan-friendly Japanese curry that blends a bhunastyle spice base with creamy, buttery rice, finished with a sprinkle of vegan Parmesan for a cheesy finish.",
   "cuisine": "Japanese",
   "diet": [
     "vegan"
@@ -14,7 +14,7 @@
     },
     {
       "name": "Vegetable broth",
-      "amount": "1 ½ cups",
+      "amount": "1 \u00bd cups",
       "notes": ""
     },
     {
@@ -25,7 +25,7 @@
     {
       "name": "Neutral oil (peanut or canola)",
       "amount": "1 tablespoon",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "Medium onion",
@@ -66,7 +66,7 @@
   "instructions": [
     "Rinse the jasmine rice until water runs clear, then combine with vegetable broth in a medium saucepan. Bring to a boil, reduce heat to low, cover, and simmer 15 minutes until rice is fluffy and liquid absorbed.",
     "While the rice cooks, heat the neutral oil in a large skillet over medium heat. Add the diced onion and cook until translucent, about 3 minutes.",
-    "Add the minced garlic and ginger to the skillet, sautéing for 30 seconds until fragrant.",
+    "Add the minced garlic and ginger to the skillet, saut\u00e9ing for 30 seconds until fragrant.",
     "Stir in the Japanese curry paste and cook for 1 minute, allowing the spices to bloom (bhuna technique).",
     "Add the mixed vegetables to the skillet, stirring to coat them in the curry base.",
     "Pour in the remaining vegetable broth, bring the mixture to a gentle simmer, cover, and cook until the vegetables are tender, about 10 minutes.",
@@ -90,5 +90,20 @@
     "mainIngredient": "Rice",
     "descriptor": "Buttery Fluffy",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "lunch"
+  ]
 }

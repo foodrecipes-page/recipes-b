@@ -44,7 +44,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (220°C).",
+    "Preheat your oven to 425\u00b0F (220\u00b0C).",
     "Slice the onions thinly and add them in a roasting pan. Sprinkle the sweet smoked paprika, salt, and garlic over the onions.",
     "Mix in dill and lime juice until well combined. Roast for about 30 minutes, stirring occasionally to prevent burning.",
     "While onions are roasting, heat olive oil in a wrap (or any soft wrap you have) on low-medium heat.",
@@ -57,10 +57,10 @@
   "difficulty": "easy",
   "tags": [
     "british",
-    "onion_wrap",
-    "sweet_paprika",
+    "onion-wrap",
+    "sweet-paprika",
     "whole30",
-    "quick_meal"
+    "quick-meal"
   ],
   "nutrition": {
     "calories": 150,

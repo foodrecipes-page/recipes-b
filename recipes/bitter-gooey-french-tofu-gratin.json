@@ -40,7 +40,7 @@
       "notes": ""
     },
     {
-      "name": "Gruyère cheese",
+      "name": "Gruy\u00e8re cheese",
       "amount": "80 g",
       "notes": "grated"
     },
@@ -61,24 +61,24 @@
     },
     {
       "name": "salt",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": ""
     },
     {
       "name": "black pepper",
-      "amount": "¼ tsp",
+      "amount": "\u00bc tsp",
       "notes": ""
     }
   ],
   "instructions": [
-    "Preheat oven to 200 °C (400 °F) and lightly oil a 20 × 20 cm baking dish.",
-    "Cube the tofu into 1 / 2‑inch pieces. Toss the tofu in a bowl with 1 tbsp olive oil, salt, pepper, and half of the thyme.",
+    "Preheat oven to 200\u202f\u00b0C (400\u202f\u00b0F) and lightly oil a 20\u202f\u00d7\u202f20\u202fcm baking dish.",
+    "Cube the tofu into 1\u202f/\u202f2\u2011inch pieces. Toss the tofu in a bowl with 1\u202ftbsp olive oil, salt, pepper, and half of the thyme.",
     "Spread the tofu evenly in the bottom of the prepared dish.",
     "Add the arugula, cherry tomatoes, sliced onion, and minced garlic over the tofu.",
     "Sprinkle the remaining thyme and lemon zest over the vegetables.",
-    "In a separate bowl, combine the fromage frais and grated Gruyère. Season with salt and pepper to taste and stir until well blended.",
+    "In a separate bowl, combine the fromage frais and grated Gruy\u00e8re. Season with salt and pepper to taste and stir until well blended.",
     "Spoon the cheese mixture over the tofu and vegetables, smoothing the top with a spatula.",
-    "Bake for 25‑30 minutes until the gratin is golden brown and bubbly. Let rest 5 minutes before serving."
+    "Bake for 25\u201130 minutes until the gratin is golden brown and bubbly. Let rest 5 minutes before serving."
   ],
   "slug": "bitter-gooey-french-tofu-gratin",
   "source": "ocloud-gpt-oss:20b",
@@ -97,5 +97,20 @@
     "mainIngredient": "Tofu",
     "descriptor": "Bitter Gooey",
     "dishForm": "Gratin"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "french",
+    "dinner"
+  ]
 }

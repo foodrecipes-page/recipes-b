@@ -1,6 +1,6 @@
 {
   "title": "Bitter Tender Portuguese Shrimp Flatbread",
-  "description": "A vibrant, low‑carb flatbread featuring tender shrimp, a zesty Portuguese tadka, and crisp phyllo, finished with a hint of bitterness from lemon zest and chili.",
+  "description": "A vibrant, lowcarb flatbread featuring tender shrimp, a zesty Portuguese tadka, and crisp phyllo, finished with a hint of bitterness from lemon zest and chili.",
   "cuisine": "Portuguese",
   "diet": [
     "low-carb"
@@ -10,12 +10,12 @@
     {
       "name": "Phyllo sheets",
       "amount": "6",
-      "notes": "thin, low‑carb brand if available"
+      "notes": "thin, low\u2011carb brand if available"
     },
     {
       "name": "Shrimp, peeled and deveined",
       "amount": "300g",
-      "notes": "medium‑sized, fresh"
+      "notes": "medium\u2011sized, fresh"
     },
     {
       "name": "Olive oil",
@@ -72,11 +72,11 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200°C (400°F).",
+    "Preheat the oven to 200\u00b0C (400\u00b0F).",
     "Grease a small baking tin or line with parchment paper.",
-    "Lay the phyllo sheets on top of each other, brushing each sheet lightly with olive oil and sprinkling a pinch of salt; bake for 8–10 minutes until golden and crisp, then set aside to cool.",
+    "Lay the phyllo sheets on top of each other, brushing each sheet lightly with olive oil and sprinkling a pinch of salt; bake for 8\u201310 minutes until golden and crisp, then set aside to cool.",
     "Meanwhile, in a small skillet, heat the butter over medium heat; add cumin seeds, mustard seeds, dried chili flakes, and curry leaves, letting them sizzle for 30 seconds until fragrant; add minced garlic and red chili flakes, cooking for another minute.",
-    "Transfer the shrimp to the skillet, season with salt and pepper, and sauté for 2–3 minutes on each side until pink and opaque; squeeze lemon juice over the shrimp and stir in lemon zest and cilantro.",
+    "Transfer the shrimp to the skillet, season with salt and pepper, and saut\u00e9 for 2\u20133 minutes on each side until pink and opaque; squeeze lemon juice over the shrimp and stir in lemon zest and cilantro.",
     "Remove the shrimp from heat and let rest for 1 minute.",
     "Place the cooled phyllo flatbread on a serving platter; top with the shrimp mixture, arranging shrimp in a single layer for an elegant presentation.",
     "Drizzle a little extra olive oil over the top and serve immediately, garnished with additional cilantro if desired."
@@ -98,5 +98,20 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Bitter Tender",
     "dishForm": "Flatbread"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "portuguese",
+    "dinner"
+  ]
 }

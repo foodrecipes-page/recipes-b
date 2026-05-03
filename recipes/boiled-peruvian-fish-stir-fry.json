@@ -64,9 +64,9 @@
   ],
   "nutrition": {
     "calories": 293,
-    "protein": 12.4,
-    "carbs": 58.7,
-    "fat": 6.7
+    "protein": 12,
+    "carbs": 59,
+    "fat": 7
   },
   "slug": "boiled-peruvian-fish-stir-fry",
   "source": "ollama-qwen2.5:3b",
