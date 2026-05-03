@@ -1,0 +1,104 @@
+{
+  "title": "Bitter Crunchy German Duck Toast",
+  "description": "Roasted duck legs rest atop toasted rye bread, accented with pickled beetroot, horseradish‑mustard sauce, and crunchy almond slivers for a satisfying, diabetic‑friendly German crowd‑pleaser.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "2 (200 g each)",
+      "notes": "skin on, bones removed after roasting"
+    },
+    {
+      "name": "whole‑grain rye bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "pickled beetroot",
+      "amount": "100 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "whole‑grain mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "horseradish root",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted almond slivers",
+      "amount": "30 g"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 °C (400 °F).",
+    "Pat the duck legs dry, season with salt, pepper, and a drizzle of olive oil, then place skin side up on a baking sheet.",
+    "Roast the duck legs for 35 minutes or until the internal temperature reaches 74 °C (165 °F). Let rest 5 minutes before slicing.",
+    "While the duck roasts, heat a non‑stick skillet over medium heat; add a splash of olive oil and toast each bread slice until golden brown, about 2 minutes per side.",
+    "Warm the pickled beetroot slices in a small saucepan over low heat for 2 minutes.",
+    "In a bowl, whisk together whole‑grain mustard, grated horseradish, fresh dill, and lemon juice to form the sauce.",
+    "Place a toasted bread slice on a plate, top with warm beetroot, then drizzle with the horseradish‑mustard sauce.",
+    "Slice the rested duck leg into medallions and arrange them over the beetroot‑topped toast.",
+    "Sprinkle toasted almond slivers on top for crunch and extra protein.",
+    "Serve immediately while the toast is still crisp and the duck is warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "german",
+    "duck-toast",
+    "diabetic-friendly",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "bitter-crunchy-german-duck-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-german-duck-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:18:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "duck legs",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "duck legs",
+    "descriptor": "Bitter Crunchy",
+    "dishForm": "Toast"
+  }
+}

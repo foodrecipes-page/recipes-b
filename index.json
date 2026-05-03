@@ -1030,6 +1030,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-german-duck-toast",
+    "title": "Bitter Crunchy German Duck Toast",
+    "tags": [
+      "bitter",
+      "crunchy",
+      "german",
+      "duck-toast",
+      "diabetic-friendly",
+      "lunch"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-jamaican-beef-brisket-bowl",
     "title": "Bitter Crunchy Jamaican Beef Brisket Bowl",
     "tags": [
@@ -3894,6 +3909,20 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-dense-mediterranean-lamb-kebabs",
+    "title": "Buttery Dense Mediterranean Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "mediterranean",
+      "kebabs",
+      "grilled",
+      "halal"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
