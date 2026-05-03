@@ -1,0 +1,116 @@
+{
+  "title": "Buttery, Crisp, Indulgent Greek Chestnut Mushroom Gratin",
+  "description": "A rich and satisfying keto-friendly side dish featuring caramelized chestnut mushrooms, crispy parmesan crust, and a creamy butter sauce.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnut Mushrooms",
+      "amount": "1 1/2 pounds",
+      "notes": "Clean and slice into 1-inch pieces"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Grana Padano Cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the sliced mushrooms and cook, stirring occasionally, until browned and caramelized (about 8-10 minutes).",
+    "Add the garlic, thyme, oregano, salt, and pepper to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Transfer the mushroom mixture to a 9x13-inch baking dish. Dot the top with the unsalted butter.",
+    "In a small bowl, mix together the Grana Padano cheese and Parmesan cheese. Sprinkle the cheese mixture evenly over the mushrooms.",
+    "Bake the gratin for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the gratin from the oven and stir in the Greek yogurt. Sprinkle the top with chopped parsley.",
+    "Return the gratin to the oven and bake for an additional 5-7 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Remove the gratin from the oven and let it cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "mushroom",
+    "gratin",
+    "keto",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "buttery-crisp-indulgent-greek-chestnut-mushroom-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crisp-indulgent-greek-chestnut-mushroom-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:59:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "buttery, crisp, indulgent",
+    "dishForm": "Gratin"
+  }
+}
