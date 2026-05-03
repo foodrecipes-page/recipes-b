@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Crisp Japanese Freekeh Fried Rice",
+  "description": "A post-workout Japanese dish featuring freekeh, with a buttery and crisp texture, halal-friendly. This recipe combines the nutty flavor of freekeh with the savory taste of Japanese seasonings.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup",
+      "notes": "cracked or whole"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the freekeh and cook according to package instructions. Set aside.",
+    "Heat 1 tablespoon of cooking oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the cooked freekeh to the skillet or wok, stirring to combine with the onion and garlic.",
+    "Add the soy sauce and mirin, stirring to combine. Cook for 2-3 minutes, until the freekeh is lightly toasted.",
+    "Push the freekeh mixture to one side of the skillet or wok. Add the unsalted butter to the other side and let melt.",
+    "Once the butter has melted, mix it with the freekeh mixture, stirring to combine.",
+    "Add the chopped scallions and sesame seeds, stirring to combine. Cook for an additional minute, until the scallions are lightly toasted.",
+    "Season with salt to taste, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "freekeh",
+    "fried-rice",
+    "post-workout",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "buttery-crisp-japanese-freekeh-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crisp-japanese-freekeh-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:08:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "freekeh",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "freekeh",
+    "descriptor": "Buttery Crisp",
+    "dishForm": "Fried Rice"
+  }
+}
