@@ -2351,6 +2351,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-australian-egg-grill",
+    "title": "Buttery Australian Egg Grill",
+    "tags": [
+      "australian",
+      "breakfast",
+      "egg",
+      "buttery",
+      "kosher"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 6,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-brazilian-tomato-stir-fry",
     "title": "Buttery Brazilian Tomato Stir-fry",
     "tags": [

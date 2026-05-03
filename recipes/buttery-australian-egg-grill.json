@@ -1,0 +1,74 @@
+{
+  "title": "Buttery Australian Egg Grill",
+  "description": "A light, indulgent Australian dish featuring a runny yolk with buttery goodness on a warm grill. Perfect for a quick breakfast or light lunch.",
+  "cuisine": "australian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or non-stick pan over medium heat.",
+    "Melt 1 tbsp butter in the pan, then add eggs and salt.",
+    "Cook for 2 minutes until eggs are set but still runny.",
+    "Grill the remaining butter over the eggs for 1 minute to create a buttery crust.",
+    "Season with black pepper and serve immediately."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 4,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "egg",
+    "buttery",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "buttery-australian-egg-grill",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-australian-egg-grill",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:33:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "egg",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "egg",
+    "descriptor": "Buttery",
+    "dishForm": "Grill"
+  }
+}
