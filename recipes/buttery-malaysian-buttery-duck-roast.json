@@ -1,0 +1,92 @@
+{
+  "title": "Buttery Malaysian Duck Legs Roast",
+  "description": "A crumbly, buttery roast of duck legs with a hint of Malaysian spices, perfect for midnight cravings. Low-sodium version keeps it healthy without sacrificing flavor.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-sodium",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4-6 pieces",
+      "notes": "fresh or frozen, bone-in"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use low-sodium salt if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 200°C (392°F)",
+    "Place duck legs in a single layer in the air fryer basket",
+    "Add butter, palm sugar, garlic, lemon juice, and turmeric to the duck legs",
+    "Sprinkle salt over the duck legs",
+    "Air fry for 25-30 minutes or until skin is crispy and duck is fully cooked",
+    "Let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "duck",
+    "roast",
+    "buttery",
+    "low-sodium",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "buttery-malaysian-buttery-duck-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-malaysian-buttery-duck-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:05:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "duck legs",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "duck",
+    "descriptor": "buttery",
+    "dishForm": "Roast"
+  }
+}
