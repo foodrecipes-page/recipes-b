@@ -1,0 +1,105 @@
+{
+  "title": "Bitter Juicy Goan Chickpea Curry",
+  "description": "A pescatarian-friendly Goan curry featuring chickpeas, with a balance of bitter and juicy flavors, perfect for a festive meal. This dish is made with a can of chickpeas and a blend of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10-12",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "goan curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry leaves and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it's translucent.",
+    "Add chopped tomato and cook until it's soft.",
+    "Add chopped bitter melon and cook for 2-3 minutes.",
+    "Add goan curry powder and salt, and stir well.",
+    "Add chickpeas and stir to coat with the spice mixture.",
+    "Pour in coconut milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let it cook for 10-12 minutes or until the flavors have melded together.",
+    "Stir in lime juice and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goan-cuisine",
+    "chickpea-curry",
+    "pescatarian-friendly",
+    "indian-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "bitter-juicy-goan-chickpea-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-goan-chickpea-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T16:58:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "pescatarian",
+    "region": "goan",
+    "cuisineAdjective": "Goan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "bitter juicy",
+    "dishForm": "Curry"
+  }
+}

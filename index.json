@@ -1453,6 +1453,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-juicy-goan-chickpea-curry",
+    "title": "Bitter Juicy Goan Chickpea Curry",
+    "tags": [
+      "goan-cuisine",
+      "chickpea-curry",
+      "pescatarian-friendly",
+      "indian-food"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-juicy-light-greek-garlic-salad",
     "title": "Bitter Juicy Light Greek Garlic Salad",
     "tags": [
