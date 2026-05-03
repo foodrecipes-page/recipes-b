@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Chewy Irish Ghee Bowl",
+  "description": "A warm, energizing bowl that marries Irish oats, ghee, and Mediterranean flavors into a buttery, chewy breakfast delight.",
+  "cuisine": "Irish Mediterranean Fusion",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "200 g",
+      "notes": "gluten-free oats, for chewy texture"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "30 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "30 g",
+      "notes": "toasted"
+    },
+    {
+      "name": "honey",
+      "amount": "20 g"
+    },
+    {
+      "name": "ghee",
+      "amount": "20 g",
+      "notes": "clarified butter for smooth melt"
+    },
+    {
+      "name": "unsweetened oat milk",
+      "amount": "50 ml"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine rolled oats and oat milk, bring to a gentle simmer over medium heat.",
+    "Stir occasionally for 5 minutes until the oats have absorbed most of the liquid and are creamy.",
+    "Add chopped dried apricots and toasted walnuts, continue to simmer for another 2 minutes to warm the fruit and nuts.",
+    "Reduce heat to low, stir in honey, ghee, cinnamon, and vanilla extract until the ghee melts and the mixture is glossy.",
+    "Remove from heat and let the bowl sit for 2 minutes so it thickens slightly and the flavors meld.",
+    "Spoon the mixture into two heat‑proof bowls, ensuring an even distribution.",
+    "Garnish with a light dusting of cinnamon and a few walnut halves on top if desired.",
+    "Serve immediately while warm for a buttery, chewy breakfast experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buttery-chewy",
+    "ghee",
+    "irish",
+    "mediterranean-friendly",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 11,
+    "carbs": 112,
+    "fat": 43
+  },
+  "slug": "buttery-chewy-irish-ghee-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chewy-irish-ghee-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:44:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "ghee",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Ghee",
+    "descriptor": "Buttery Chewy",
+    "dishForm": "Bowl"
+  }
+}

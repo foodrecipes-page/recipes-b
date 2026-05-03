@@ -1241,6 +1241,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-dense-saudi-arabian-lamb-stew",
+    "title": "Saudi Arabian Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "saudi-arabian",
+      "paleo",
+      "bitter"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 110,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-dense-slovakian-clam-crumble",
     "title": "Bitter Dense Slovakian Clam Crumble",
     "tags": [
@@ -2988,6 +3002,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 160,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-chewy-irish-ghee-bowl",
+    "title": "Buttery Chewy Irish Ghee Bowl",
+    "tags": [
+      "buttery-chewy",
+      "ghee",
+      "irish",
+      "mediterranean-friendly",
+      "breakfast"
+    ],
+    "cuisine": "Irish Mediterranean Fusion",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {

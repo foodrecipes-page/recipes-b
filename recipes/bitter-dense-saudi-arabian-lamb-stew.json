@@ -1,0 +1,103 @@
+{
+  "title": "Saudi Arabian Lamb Stew",
+  "description": "A hearty and flavorful stew featuring tender lamb, rich spices, and a hint of bitterness, perfect for a crowd. This dish is a staple of Saudi Arabian cuisine, with a dense and satisfying texture.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "14.5 oz",
+      "notes": "crushed"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "amount": "2 tsp",
+      "notes": "for bitterness"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground cumin, ground coriander, salt, and black pepper to the pot and cook for 1 minute, until fragrant.",
+    "Add the crushed canned tomatoes, dried fenugreek leaves, and browned lamb back to the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1.5 hours, or until the lamb is tender.",
+    "Deglaze the pot with a little water, scraping up any browned bits from the bottom.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "saudi-arabian",
+    "paleo",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "bitter-dense-saudi-arabian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-saudi-arabian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:44:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "bitter dense",
+    "dishForm": "Stew"
+  }
+}
