@@ -1,0 +1,102 @@
+{
+  "title": "Bitter Crunchy Portuguese Sesame Burger",
+  "description": "A unique burger featuring bitter greens, crunchy sesame seed buns, and a Mediterranean-inspired stir-fry, perfect for a festive Portuguese meal. This dish combines the flavors of Portugal with the crunch of sesame seeds and the bitterness of arugula.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for buns"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Arugula",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Portuguese sausage",
+      "amount": "4 links",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, mix yeast, flour, salt, and sesame seeds. Gradually add water to form a dough.",
+    "Knead dough for 10 minutes, then let rest for 1 hour.",
+    "Divide dough into 4 equal pieces and shape into buns.",
+    "Bake buns for 15-20 minutes, or until golden brown.",
+    "In a pan, heat olive oil over medium heat. Add sliced sausage and cook until browned.",
+    "Add red onion and cook until translucent.",
+    "Add arugula, olives, and feta cheese to the pan. Stir-fry for 2-3 minutes.",
+    "Assemble burgers with cooked sausage, stir-fry, and sesame seed buns."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-cuisine",
+    "sesame-seed-buns",
+    "bitter-greens",
+    "mediterranean-inspiration"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "bitter-crunchy-portuguese-sesame-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-portuguese-sesame-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:25:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "sesame",
+    "descriptor": "bitter crunchy",
+    "dishForm": "Burger"
+  }
+}

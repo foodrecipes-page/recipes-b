@@ -1086,6 +1086,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-portuguese-sesame-burger",
+    "title": "Bitter Crunchy Portuguese Sesame Burger",
+    "tags": [
+      "portuguese-cuisine",
+      "sesame-seed-buns",
+      "bitter-greens",
+      "mediterranean-inspiration"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crunchy-tunisian-kale-salad",
     "title": "Bitter Crunchy Tunisian Kale Salad",
     "tags": [
