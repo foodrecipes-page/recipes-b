@@ -1,0 +1,69 @@
+{
+  "title": "Buttery Crispy Filipino Yautia Fritters",
+  "description": "A cozy, buttery snack of golden crispy fritters made from mashed yautia, flavored with a hint of caramelized sweetness and crisped to perfection in vegan butter.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yautia (taro root)",
+      "amount": "2 cups mashed (≈400g)"
+    },
+    "{\"name\":\"Plant-based milk\",\"amount\":\"1/4 cup\"}",
+    "{\"name\":\"All-purpose flour\",\"amount\":\"1 cup\"}",
+    "{\"name\":\"Cornmeal\",\"amount\":\"1/2 cup\"}",
+    "{\"name\":\"Baking powder\",\"amount\":\"1 tsp\"}",
+    "{\"name\":\"Salt\",\"amount\":\"1/2 tsp\"}",
+    "{\"name\":\"Sugar\",\"amount\":\"2 tbsp\"}",
+    "{\"name\":\"Vegan butter (or coconut oil)\",\"amount\":\"3 tbsp melted\"}",
+    "{\"name\":\"Black pepper (optional)\",\"amount\":\"1/4 tsp\"}",
+    "{\"name\":\"Chopped scallions (optional)\",\"amount\":\"2 tbsp\"}"
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil. Add the yautia pieces and cook for 15 minutes until tender. Drain.",
+    "Transfer the cooked yautia to a bowl and mash until smooth, adding plant-based milk gradually until the mixture is thick yet pourable.",
+    "In a mixing bowl, whisk together flour, cornmeal, baking powder, salt, and sugar.",
+    "Fold the dry mixture into the mashed yautia, stirring until well combined. Add black pepper if desired. The batter should be thick but pliable.",
+    "Heat a skillet over medium heat and add melted vegan butter, allowing it to coat the pan evenly.",
+    "Drop spoonfuls of batter into the hot pan, flattening slightly with the back of a spoon. Fry for 3-4 minutes on each side until golden brown and crisp.",
+    "Remove the fritters with a slotted spoon and place on paper towels to drain excess oil.",
+    "Serve warm, dusted with a pinch of sea salt or topped with fresh scallions if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "vegan",
+    "crispy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 10
+  },
+  "slug": "buttery-crispy-filipino-yautia-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-filipino-yautia-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:27:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "yautia",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Yautia",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Fritters"
+  }
+}
