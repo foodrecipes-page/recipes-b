@@ -1,0 +1,100 @@
+{
+  "title": "Buttery Crumbly Venezuelan Cheese Empanadas",
+  "description": "A kid-friendly Venezuelan dish featuring shredded Mexican cheese, these empanadas are buttery and crumbly, perfect for a snack or light meal. They are also FODMAP-friendly, making them a great option for those with dietary restrictions.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "shredded Mexican cheese",
+      "amount": "1 cup",
+      "notes": "such as Queso Fresco or Oaxaca cheese"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine flour, salt, and sugar.",
+    "Add cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add cold water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a thin circle, about 1/8 inch thick.",
+    "Place 1-2 tablespoons of shredded cheese in the center of each circle.",
+    "Fold the dough over the cheese, forming a half-moon shape, and press the edges together to seal.",
+    "Brush the tops with beaten egg and bake for 15-20 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "cheese",
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "buttery-crumbly-venezuelan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-venezuelan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:31:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "buttery crumbly",
+    "dishForm": "Empanadas"
+  }
+}

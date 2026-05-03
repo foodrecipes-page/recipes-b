@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Crumbly Irish Bread Toast",
+  "description": "A light, nut‑free Irish snack of crisp white bread brushed with a rosemary‑smoked paprika glaze and finished with crumbly Parmesan for a bitter, crumbly bite.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain white sandwich bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "⅛ tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crushed red pepper flakes (optional)",
+      "amount": "¼ tsp",
+      "notes": "for added bitterness"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or a non‑stick skillet over medium heat.",
+    "In a small bowl whisk together olive oil, rosemary, thyme, smoked paprika, sea salt, black pepper, lemon zest, and balsamic vinegar until well combined.",
+    "Brush each slice of bread evenly with the herb‑oil mixture.",
+    "Toast the bread slices in the toaster or skillet until golden and crisp, about 2–3 minutes per side.",
+    "While the toast is still hot, sprinkle grated Parmesan over each slice to create a crumbly, savory topping.",
+    "Serve immediately for best crispness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "toast",
+    "bitter",
+    "crumbly",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 417,
+    "protein": 26,
+    "carbs": 176,
+    "fat": 14
+  },
+  "slug": "bitter-crumbly-irish-bread-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-irish-bread-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:31:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "white bread",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bread",
+    "descriptor": "Bitter Crumbly",
+    "dishForm": "Toast"
+  }
+}

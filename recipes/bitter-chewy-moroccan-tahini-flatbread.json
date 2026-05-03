@@ -1,0 +1,95 @@
+{
+  "title": "Bitter Chewy Moroccan Tahini Flatbread",
+  "description": "A quick-fix Moroccan dish featuring tahini, perfect for a dairy-free friendly snack or light meal. The bitter and chewy texture comes from the combination of tahini, olive oil, and dark molasses.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tahini",
+      "amount": "1/2 cup",
+      "notes": "hulled sesame seeds preferred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dark molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the flour, salt, and baking powder.",
+    "In a separate bowl, mix the tahini, olive oil, and dark molasses until smooth.",
+    "Gradually add the dry ingredients to the wet ingredients, stirring with a fork until a dough forms.",
+    "Add the water and continue stirring until the dough comes together in a ball.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape, about 1/4 inch thick.",
+    "Place the disks on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tahini",
+    "flatbread",
+    "dairy-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "bitter-chewy-moroccan-tahini-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-moroccan-tahini-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:32:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "tahini",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "tahini",
+    "descriptor": "bitter chewy",
+    "dishForm": "Flatbread"
+  }
+}

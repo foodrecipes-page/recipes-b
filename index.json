@@ -499,6 +499,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-chewy-moroccan-tahini-flatbread",
+    "title": "Bitter Chewy Moroccan Tahini Flatbread",
+    "tags": [
+      "moroccan",
+      "tahini",
+      "flatbread",
+      "dairy-free",
+      "vegan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-chewy-russian-veal-dumplings",
     "title": "Bitter Chewy Russian Veal Dumplings",
     "tags": [
@@ -947,6 +961,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-crumbly-irish-bread-toast",
+    "title": "Bitter Crumbly Irish Bread Toast",
+    "tags": [
+      "irish",
+      "toast",
+      "bitter",
+      "crumbly",
+      "nut-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
@@ -3966,6 +3994,20 @@
     ],
     "cuisine": "british",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-venezuelan-cheese-empanadas",
+    "title": "Buttery Crumbly Venezuelan Cheese Empanadas",
+    "tags": [
+      "venezuelan",
+      "empanadas",
+      "cheese",
+      "fodmap-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
