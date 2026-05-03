@@ -1,0 +1,111 @@
+{
+  "title": "Buttery Crumbly Greek Salmon Galette",
+  "description": "A flaky, buttery galette filled with marinated salmon, sweet grapes, and tangy feta—ideal for a brunch‑mood Greek pescatarian plate.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "skin removed, trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "Greek herb"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tbsp",
+      "notes": "rinsed"
+    },
+    {
+      "name": "grapes",
+      "amount": "150 g",
+      "notes": "fresh or frozen, halved"
+    },
+    {
+      "name": "shortcrust pastry",
+      "amount": "200 g",
+      "notes": "store‑bought, rolled to 25 cm square"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "melted butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.",
+    "Whisk olive oil, lemon juice, oregano, dill, and capers in a bowl; toss salmon fillets to coat and let marinate for 10 minutes.",
+    "Roll out the pastry to a 25 cm square and place it on the prepared sheet. Arrange salmon fillets in the center, top with grape halves, and sprinkle crumbled feta over them.",
+    "Fold the pastry corners over the filling, leaving a small opening in the center for steam to escape.",
+    "Brush the pastry edges with melted butter and dot a few additional butter drops on the top for shine.",
+    "Bake for 18–20 minutes, until the crust is golden brown and the salmon reaches an internal temperature of 60°C (140°F).",
+    "Remove from the oven and let the galette rest for 5 minutes before serving. Sprinkle with fresh dill and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "salmon",
+    "galette",
+    "brunch",
+    "greek",
+    "buttery",
+    "crusty"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 28,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "buttery-crumbly-greek-salmon-galette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crumbly-greek-salmon-galette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:12:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "grapes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "salmon",
+    "descriptor": "Buttery Crumbly",
+    "dishForm": "Galette"
+  }
+}

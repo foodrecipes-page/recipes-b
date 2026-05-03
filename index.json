@@ -3612,6 +3612,22 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crumbly-greek-salmon-galette",
+    "title": "Buttery Crumbly Greek Salmon Galette",
+    "tags": [
+      "baked",
+      "salmon",
+      "galette",
+      "brunch",
+      "greek",
+      "buttery",
+      "crusty"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crumbly-indian-chilli-bean-paste-crumble",
     "title": "Buttery Crumbly Indian Chilli Bean Paste Crumble",
     "tags": [
