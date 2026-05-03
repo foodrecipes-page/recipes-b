@@ -1734,6 +1734,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-gooey-venezuelan-peanut-casserole",
+    "title": "Bitter Gooey Venezuelan Peanut Casserole",
+    "tags": [
+      "vegan",
+      "venezuelan",
+      "peanut-brittle",
+      "casserole",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-greek-veal-omelette",
     "title": "Bitter Greek Veal Omelette",
     "tags": [
