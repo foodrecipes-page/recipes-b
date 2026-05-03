@@ -852,6 +852,23 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crumbly-norwegian-lamb-pilaf",
+    "title": "Bitter Crumbly Norwegian Lamb Pilaf",
+    "tags": [
+      "norwegian",
+      "lamb",
+      "pilaf",
+      "braised",
+      "pastry",
+      "strong-white-flour",
+      "bitter",
+      "crumbly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 195,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crumbly-ukrainian-pork-crumble",
     "title": "Bitter Crumbly Ukrainian Pork Crumble",
     "tags": [
@@ -1300,6 +1317,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-fluffy-algerian-beans-tagine",
+    "title": "Bitter Fluffy Algerian Beans Tagine",
+    "tags": [
+      "algerian",
+      "vegetarian",
+      "diabetic-friendly",
+      "midnight-craving",
+      "fermented"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 240,
     "shard": "b"
   },
   {

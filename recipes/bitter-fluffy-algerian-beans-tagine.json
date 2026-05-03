@@ -1,0 +1,107 @@
+{
+  "title": "Bitter Fluffy Algerian Beans Tagine",
+  "description": "A traditional Algerian dish featuring fermented beans in a sweet and sour tomato sauce, perfect for a midnight craving.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 x 14 oz can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "or apple cider vinegar"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "or olive oil"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large bowl, mix together the chickpeas, soaked and drained white beans, tomato puree, red wine vinegar, honey, cinnamon, cumin, and salt.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 2 hours, or until the beans are tender and the liquid has thickened.",
+    "Remove the foil and stir in the coconut oil. Return to the oven and bake for an additional 30 minutes.",
+    "Garnish with chopped parsley and serve hot.",
+    "Note: Traditionally, this dish is cooked in a clay tagine, but a conventional oven can be used as a substitute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "diabetic-friendly",
+    "midnight-craving",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "bitter-fluffy-algerian-beans-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-algerian-beans-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:41:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "baked beans",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beans",
+    "descriptor": "bitter fluffy",
+    "dishForm": "Tagine"
+  }
+}
