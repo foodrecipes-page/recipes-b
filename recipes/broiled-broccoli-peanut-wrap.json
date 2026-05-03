@@ -1,0 +1,74 @@
+{
+  "title": "Broiled Broccoli Peanut Wrap",
+  "description": "A kid-friendly and umami-rich Argentinean dish featuring broiled broccoli with a sweet honey glaze and a crunchy peanut topping for a dairy-free-friendly treat.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high.",
+    "Coat the broccoli florets with a bit of olive oil and season lightly with salt and garlic powder.",
+    "Arrange the coated broccoli on a baking sheet lined with parchment paper.",
+    "Broil for about 5 minutes until crispy, turning once halfway through.",
+    "In a small bowl, mix honey and peanut butter together until smooth. Drizzle over the broccoli.",
+    "Let cool slightly before serving in individual wraps or plates."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broccoli",
+    "peanut",
+    "honey",
+    "argentinean"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "broiled-broccoli-peanut-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/broiled-broccoli-peanut-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:06:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "clear honey",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Broiled",
+    "dishForm": "Wrap"
+  }
+}

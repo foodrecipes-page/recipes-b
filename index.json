@@ -2123,6 +2123,19 @@
     "shard": "b"
   },
   {
+    "slug": "broiled-broccoli-peanut-wrap",
+    "title": "Broiled Broccoli Peanut Wrap",
+    "tags": [
+      "broccoli",
+      "peanut",
+      "honey",
+      "argentinean"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "broiled-crispy-spanish-bell-pepper-stir-fry",
     "title": "Broiled Crispy Spanish Bell Pepper Stir-fry",
     "tags": [
