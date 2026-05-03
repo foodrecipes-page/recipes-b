@@ -1,0 +1,94 @@
+{
+  "title": "Bitter Crumbly Venezuelan Bean Soup",
+  "description": "A bold, slightly bitter bean soup with a crunchy coconut yogurt crumble topping, inspired by Venezuelan flavors and designed to be dairy‑free.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked red kidney beans",
+      "amount": "1 cup",
+      "notes": "cooked from dried beans or canned, rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bitter gourd (bitter melon)",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "coconut yogurt",
+      "amount": "1 cup",
+      "notes": "dairy‑free natural yogurt"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "2 tbsp",
+      "notes": "for a crumbly topping"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped bitter gourd and smoked paprika, cook for 2 minutes, letting the bitterness mellow.",
+    "Pour in the vegetable broth and bring the mixture to a gentle simmer.",
+    "Add the cooked kidney beans and let the soup simmer for 10 minutes, allowing flavors to meld.",
+    "Stir in the coconut yogurt, warming it through without boiling to keep the yogurt from curdling.",
+    "Taste and season with salt and pepper.",
+    "Serve the soup hot, garnished with toasted pumpkin seeds for a crumbly crunch and a sprinkle of fresh cilantro.",
+    ""
+  ],
+  "slug": "bitter-crumbly-venezuelan-bean-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crumbly-venezuelan-bean-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:19:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Bean",
+    "descriptor": "Bitter Crumbly",
+    "dishForm": "Soup"
+  }
+}
