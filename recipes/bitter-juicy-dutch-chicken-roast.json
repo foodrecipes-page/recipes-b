@@ -1,0 +1,73 @@
+{
+  "title": "Bitter Juicy Dutch Chicken Roast",
+  "description": "A single-serving Dutch chicken roast that balances the bright bitterness of grapefruit with rich juices, cooked sous‑vide for tenderness and finished in a quick sear for depth.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skinless whole chicken breast",
+      "amount": "200 g"
+    },
+    {
+      "name": "Fresh grapefruit juice",
+      "amount": "120 ml",
+      "notes": "about 5 oz"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for vacuum seal and searing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Crushed garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Fresh rosemary sprigs",
+      "amount": "2"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20 g",
+      "notes": "for the final sear"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt, pepper, crushed garlic, and rosemary sprigs.",
+    "Place the seasoned chicken in a vacuum‑seal bag with the grapefruit juice and 1 tbsp of olive oil.",
+    "Vacuum seal the bag and preheat a sous‑vide water bath to 65 °C (149 °F).",
+    "Cook the sealed chicken in the water bath for 60 minutes.",
+    "Remove the chicken from the bag, pat it dry with paper towels to ensure a crisp sear.",
+    "Heat a skillet over medium‑high heat, add 1 tbsp olive oil and the butter.",
+    "Sear the chicken breast for 2–3 minutes per side until golden brown and caramelized.",
+    "Let the seared chicken rest for 3 minutes before serving.",
+    "Slice and serve immediately, garnishing with a fresh rosemary sprig if desired."
+  ],
+  "slug": "bitter-juicy-dutch-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-dutch-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:21:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chicken",
+    "descriptor": "Bitter Juicy",
+    "dishForm": "Roast"
+  }
+}
