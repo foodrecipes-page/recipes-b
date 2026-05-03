@@ -1,0 +1,105 @@
+{
+  "title": "Buttery Crunchy Mediterranean Lamb Flatbread",
+  "description": "A delicious and flavorful Mediterranean dish featuring slow-cooked lamb, crunchy flatbread, and a blend of aromatic spices, perfect for a brunch gathering. This paleo-friendly recipe is made with wholesome ingredients and is free from grains and dairy.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cauliflower flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium heat. Add the garlic and onion and cook until the onion is translucent.",
+    "Add the lamb shoulder to the pot and cook until browned on all sides.",
+    "Add 1 cup of water to the pot, cover, and transfer to the preheated oven. Braise the lamb for 2.5 hours, or until tender.",
+    "While the lamb is cooking, prepare the flatbread. In a large bowl, combine the cauliflower flour, almond flour, salt, black pepper, and dried oregano.",
+    "Gradually add the melted butter to the bowl and mix until a dough forms.",
+    "Divide the dough into 4-6 equal pieces, depending on desired flatbread size. Roll out each piece into a thin circle.",
+    "Once the lamb is cooked, remove it from the oven and let it rest for 10 minutes. Slice the lamb into thin strips.",
+    "Brush the flatbread with a little water and top with sliced lamb, folded to fit the bread.",
+    "Return the flatbread to the oven and bake for an additional 10-15 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "lamb",
+    "flatbread",
+    "paleo",
+    "gluten-free",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "buttery-crunchy-mediterranean-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-mediterranean-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:41:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "buns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Flatbread"
+  }
+}

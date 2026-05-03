@@ -3802,6 +3802,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crunchy-mediterranean-lamb-flatbread",
+    "title": "Buttery Crunchy Mediterranean Lamb Flatbread",
+    "tags": [
+      "mediterranean",
+      "lamb",
+      "flatbread",
+      "paleo",
+      "gluten-free",
+      "brunch"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 200,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crunchy-mediterranean-steak-kebabs",
     "title": "Buttery Crunchy Mediterranean Steak Kebabs",
     "tags": [
