@@ -1,0 +1,110 @@
+{
+  "title": "Bitter Chewy Mediterranean Sirloin Steak Tips Kebabs",
+  "description": "A Mediterranean-inspired dish featuring sirloin steak tips, perfect for a lazy Sunday. The bitter flavor comes from the radicchio and the chewiness from the steak tips.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "radicchio",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice and olive oil.",
+    "Add the chopped radicchio, red onion, red bell pepper, and zucchini to the bowl and toss to combine.",
+    "Thread the steak tips onto skewers, leaving a little space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, or until the steak reaches an internal temperature of 130°F for medium-rare.",
+    "Let the steak rest for 5 minutes before serving.",
+    "Serve the steak tips with the radicchio mixture, topped with Kalamata olives and feta cheese.",
+    "Season with salt and black pepper to taste.",
+    "Blanch the zucchini and red bell pepper in boiling water for 2-3 minutes before grilling for a tender bite."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "kebabs",
+    "sirloin-steak",
+    "vegetarian-friendly",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "bitter-chewy-mediterranean-sirloin-steak-tips-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-mediterranean-sirloin-steak-tips-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:09:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "bitter chewy",
+    "dishForm": "Kebabs"
+  }
+}

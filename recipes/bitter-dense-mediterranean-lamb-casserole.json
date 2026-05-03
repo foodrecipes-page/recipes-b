@@ -1,0 +1,104 @@
+{
+  "title": "Bitter Dense Mediterranean Lamb Casserole",
+  "description": "A hearty, bitter, and dense Mediterranean lamb casserole featuring fennel seeds, perfect for meal prep. This dish is FODMAP-friendly and packed with flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless, cut into 1-inch cubes"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "2 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped, stems removed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat olive oil over medium-high heat.",
+    "Add lamb cubes and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add toasted fennel seeds, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add chopped kale to the pot and cook until wilted, about 3 minutes.",
+    "Add tomato paste to the pot and cook for 1 minute, stirring constantly.",
+    "Add browned lamb, lemon juice, and water to the pot. Stir to combine.",
+    "Cover the pot and transfer to the preheated oven. Bake for 2.5 hours, or until the lamb is tender.",
+    "Remove from oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mediterranean",
+    "casserole",
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "bitter-dense-mediterranean-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dense-mediterranean-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:09:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "fennel seeds",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "bitter dense",
+    "dishForm": "Casserole"
+  }
+}

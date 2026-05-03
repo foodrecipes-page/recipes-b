@@ -440,6 +440,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-chewy-mediterranean-sirloin-steak-tips-kebabs",
+    "title": "Bitter Chewy Mediterranean Sirloin Steak Tips Kebabs",
+    "tags": [
+      "mediterranean",
+      "kebabs",
+      "sirloin-steak",
+      "vegetarian-friendly",
+      "lazy-sunday"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-chewy-mexican-beef-tacos",
     "title": "Bitter Chewy Mexican Beef Tacos",
     "tags": [
@@ -1217,6 +1231,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-dense-mediterranean-lamb-casserole",
+    "title": "Bitter Dense Mediterranean Lamb Casserole",
+    "tags": [
+      "lamb",
+      "mediterranean",
+      "casserole",
+      "fodmap-friendly",
+      "gluten-free"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 180,
     "shard": "b"
   },
   {
