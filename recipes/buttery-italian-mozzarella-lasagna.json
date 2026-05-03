@@ -1,0 +1,116 @@
+{
+  "title": "Buttery Italian Mozzarella Lasagna",
+  "description": "A buttery, fluffy, comforting lasagna that marries Italian tradition with Venezuelan warmth, featuring melty mozzarella and a silky ricotta sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "400g",
+      "notes": "sliced"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "300g",
+      "notes": "sautéed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F). Lightly grease a 9x13 inch baking dish.",
+    "Heat olive oil in a large saucepan over medium heat. Sauté onion until translucent (~5 min). Add minced garlic, cook 1 min.",
+    "Stir in sautéed spinach, cook 2 min. Season with salt and pepper. Remove from heat and let cool slightly.",
+    "In a mixing bowl, combine ricotta, heavy cream, beaten egg, a pinch of salt and pepper. Mix until smooth.",
+    "Spread a thin layer of the ricotta mixture in the greased dish. Place 3 lasagna sheets over it.",
+    "Spread a layer of the spinach mixture, then scatter 120g of sliced mozzarella. Repeat layers twice more (ricotta, spinach, mozzarella, and sheets), ending with a layer of mozzarella on top.",
+    "Melt butter in a small saucepan and drizzle over the top layer to create a golden crust.",
+    "Cover dish with foil and bake for 25 minutes.",
+    "Remove foil and bake another 10-15 minutes until the top is bubbly and golden.",
+    "Let lasagna rest 10 minutes before slicing to allow layers to set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "fluffy",
+    "comforting",
+    "venezuelan",
+    "italian",
+    "lasagna",
+    "mozzarella",
+    "simmer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 23,
+    "carbs": 7,
+    "fat": 26
+  },
+  "slug": "buttery-italian-mozzarella-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-italian-mozzarella-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:55:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "mozzarella",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Buttery",
+    "dishForm": "Lasagna"
+  }
+}

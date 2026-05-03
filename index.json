@@ -3525,6 +3525,24 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-italian-mozzarella-lasagna",
+    "title": "Buttery Italian Mozzarella Lasagna",
+    "tags": [
+      "buttery",
+      "fluffy",
+      "comforting",
+      "venezuelan",
+      "italian",
+      "lasagna",
+      "mozzarella",
+      "simmer",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 65,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-juicy-avocado-salad",
     "title": "Buttery Juicy Avocado Salad",
     "tags": [
