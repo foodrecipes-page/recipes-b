@@ -2663,6 +2663,23 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-chewy-irish-beef-stew",
+    "title": "Buttery Chewy Irish Beef Stew",
+    "tags": [
+      "irish",
+      "beef",
+      "stew",
+      "sous-vide",
+      "buttery",
+      "chewy",
+      "date-night",
+      "dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 160,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-chewy-japanese-haricot-bean-ramen",
     "title": "Buttery Chewy Japanese Haricot Bean Ramen",
     "tags": [

@@ -1,0 +1,104 @@
+{
+  "title": "Buttery Chewy Irish Beef Stew",
+  "description": "A velvety, slow‑cooked beef stew infused with buttery richness and a subtle sweet bite, perfect for a cozy date night.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef (90% lean)",
+      "amount": "450g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "beef stock (low sodium)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine (optional)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed root vegetables (carrots, parsnips, onion), diced",
+      "amount": "1 cup",
+      "notes": "about 2 carrots, 2 parsnips, 1 onion, diced"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for slurry"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide bath to 140°F (60°C). Season the minced beef with salt and pepper, place in a vacuum bag, seal, and cook sous‑vide for 2 hours.",
+    "While the beef cooks, whisk the flour with 1/4 cup water until smooth to create a slurry; set aside.",
+    "After sous‑vide, remove the beef from the bag and pat it dry. Brown the beef in a large skillet over medium‑high heat for 2–3 minutes, turning to form a crust. Transfer the browned beef to a bowl.",
+    "In the same skillet, add the butter and let it melt. Add the diced root vegetables and cook, stirring, until softened, about 5 minutes.",
+    "Stir in the minced garlic and tomato paste, cooking for 1 minute until fragrant. Deglaze with red wine, scraping up browned bits, and reduce the liquid by half.",
+    "Return the browned beef to the skillet, pour in the beef stock, add thyme, bay leaf, and bring to a gentle simmer. Cover and cook for 20 minutes to meld flavors.",
+    "Stir the flour slurry into the stew, simmer uncovered for an additional 5 minutes to thicken. Remove the bay leaf.",
+    "Taste the stew and adjust seasoning with salt and pepper. If desired, add more stock to reach the preferred consistency. Serve hot, garnished with fresh thyme, alongside crusty soda bread or mashed potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 145,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "stew",
+    "sous-vide",
+    "buttery",
+    "chewy",
+    "date-night",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "buttery-chewy-irish-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chewy-irish-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:08:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "minced beef",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Buttery Chewy",
+    "dishForm": "Stew"
+  }
+}
