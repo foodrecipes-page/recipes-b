@@ -1,0 +1,109 @@
+{
+  "title": "Bitter Crispy Spanish Olive Tacos",
+  "description": "A crispy, bitter, and flavorful vegan Spanish-inspired taco dish featuring olives and steamed vegetables, perfect for a quick and easy meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the green olives and cook until crispy, about 3-4 minutes.",
+    "Remove the olives from the oil and set aside on a paper towel-lined plate.",
+    "Add the cherry tomatoes to the skillet and cook until they start to release their juices, about 2 minutes.",
+    "Add the artichoke hearts, smoked paprika, garlic powder, salt, and pepper to the skillet and stir to combine.",
+    "Steam the mixture for an additional 2 minutes, until the vegetables are tender.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the vegetable mixture onto a tortilla, topping with crispy olives, and garnishing with chopped cilantro and a squeeze of lemon juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegan",
+    "tacos",
+    "olives",
+    "crispy",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "bitter-crispy-spanish-olive-tacos",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-spanish-olive-tacos",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:28:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "olives",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "olives",
+    "descriptor": "bitter crispy",
+    "dishForm": "Tacos"
+  }
+}

@@ -745,6 +745,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crispy-spanish-olive-tacos",
+    "title": "Bitter Crispy Spanish Olive Tacos",
+    "tags": [
+      "spanish",
+      "vegan",
+      "tacos",
+      "olives",
+      "crispy",
+      "bitter"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-crumbly-kenyan-dates-crumble",
     "title": "Bitter Crumbly Kenyan Dates Crumble",
     "tags": [
@@ -2621,6 +2636,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-chewy-japanese-haricot-bean-ramen",
+    "title": "Buttery Chewy Japanese Haricot Bean Ramen",
+    "tags": [
+      "japanese-cuisine",
+      "high-protein",
+      "vegetarian",
+      "comfort-food",
+      "ramen"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-chewy-malaysian-potato-starch-pancake",
     "title": "Buttery Chewy Malaysian Potato Starch Pancake",
     "tags": [
@@ -2631,6 +2660,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-chewy-portuguese-almond-cookies",
+    "title": "Buttery Chewy Portuguese Almond Cookies",
+    "tags": [
+      "portuguese-cookies",
+      "almond-cookies",
+      "jain-friendly",
+      "chewy-cookies",
+      "buttery-cookies"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {

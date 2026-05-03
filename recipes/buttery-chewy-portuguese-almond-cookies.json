@@ -1,0 +1,96 @@
+{
+  "title": "Buttery Chewy Portuguese Almond Cookies",
+  "description": "Indulge in these buttery, chewy Portuguese cookies, featuring the warmth of ground nutmeg and the crunch of almonds, perfect for a Jain-friendly dessert. These cookies are whisked to perfection for a delightful treat.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "In a separate bowl, whisk together the flour, ground almonds, nutmeg, and salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Scoop tablespoon-sized balls of dough onto the prepared baking sheet, leaving 2 inches of space between each cookie.",
+    "Garnish each cookie with a sliced almond.",
+    "Bake for 18-20 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese-cookies",
+    "almond-cookies",
+    "jain-friendly",
+    "chewy-cookies",
+    "buttery-cookies"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "buttery-chewy-portuguese-almond-cookies",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-chewy-portuguese-almond-cookies",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:27:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "Buttery Chewy",
+    "dishForm": "Cookies"
+  }
+}
