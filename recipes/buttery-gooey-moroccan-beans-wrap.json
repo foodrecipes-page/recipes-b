@@ -1,0 +1,109 @@
+{
+  "title": "Buttery Gooey Moroccan Beans Wrap",
+  "description": "A creamy, spicy bean filling tossed with aromatic spices and wrapped in whole wheat tortillas for a buttery, gooey lunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "low-sodium-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked low-sodium navy beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat. Add diced onion and sauté until translucent, about 3 minutes.",
+    "Add minced garlic and cook for 1 minute, stirring frequently.",
+    "Stir in cumin, coriander, cinnamon, harissa paste, and tomato paste. Cook for 1 minute until fragrant.",
+    "Add the cooked beans and stir to coat with the spice mixture. Cook 2-3 minutes, adding a splash of water if the mixture looks dry.",
+    "Add butter and cream cheese, stirring until the butter melts and the mixture becomes silky and gooey.",
+    "Warm the tortillas in a dry pan or microwave for 10-15 seconds until pliable.",
+    "Spoon the bean mixture onto the center of each tortilla, fold the sides over, and roll tightly.",
+    "Place the wraps seam‑side down in the skillet over medium‑low heat. Cook 2-3 minutes per side until the edges are golden and crisp.",
+    "Serve hot, optionally garnished with a squeeze of lemon or chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "gooey",
+    "moroccan",
+    "low-sodium-friendly",
+    "vegetarian",
+    "wrap",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 9,
+    "carbs": 31,
+    "fat": 13
+  },
+  "slug": "buttery-gooey-moroccan-beans-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-moroccan-beans-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:42:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "haricot beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beans",
+    "descriptor": "Buttery Gooey",
+    "dishForm": "Wrap"
+  }
+}
