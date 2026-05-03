@@ -1,0 +1,75 @@
+{
+  "title": "Bitter Keto Ginger Toast",
+  "description": "A crisp, flavorful keto-friendly dish featuring ginger cordial and toasted bread for a weeknight snack.",
+  "cuisine": "keto",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ginger cordial",
+      "amount": "2 tbsp",
+      "notes": "use keto-friendly ginger cordial (no sugar)"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "1 slice",
+      "notes": "use low-carb bread like almond flour bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      ": ": "",
+      "notes": "for crispiness"
+    },
+    {
+      "name": "sea salt",
+      "amount": "a pinch",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Toast bread slice in toaster oven until golden",
+    "In a small bowl, mix ginger cordial and olive oil",
+    "Drizzle the mixture over toast",
+    "Sprinkle with sea salt and let sit for 1 minute"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 1,
+  "totalTimeMin": 3,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "snack",
+    "ginger",
+    "bitter",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 3,
+    "fat": 14
+  },
+  "slug": "bitter-keto-ginger-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-keto-ginger-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:43:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "ginger cordial",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Keto",
+    "mainIngredient": "ginger",
+    "descriptor": "Bitter",
+    "dishForm": "Toast"
+  }
+}
