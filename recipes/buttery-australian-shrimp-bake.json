@@ -1,0 +1,88 @@
+{
+  "title": "Buttery Australian Shrimp Bake",
+  "description": "A single-skillet, low‑carb shrimp bake with a gooey buttery sauce, finished with fresh herbs and a hint of lemon.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp, peeled and deveined",
+      "amount": "480g",
+      "notes": "about 12 medium shrimp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g",
+      "notes": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "diced canned tomatoes",
+      "amount": "120ml (½ cup)",
+      "notes": "drained"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 teaspoon",
+      "notes": "low‑carb thickener"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Heat a large oven‑proof skillet over medium heat, add butter and olive oil, letting the butter melt.",
+    "Add minced garlic to the skillet and sauté for 30 seconds until fragrant.",
+    "Add the diced tomatoes and almond flour, stir to combine and let simmer for 3 minutes.",
+    "Season the mixture with smoked paprika, salt, and pepper.",
+    "Place the shrimp in the skillet, turning them to coat with the sauce. 5 minutes of cooking will suffice. ",
+    "Transfer the skillet to the preheated oven and bake for 8–10 minutes, or until shrimp turn pink and opaque. ",
+    "Remove from oven, squeeze fresh lemon juice over the shrimp, garnish with chopped parsley, and serve immediately."
+  ],
+  "slug": "buttery-australian-shrimp-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-australian-shrimp-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:01:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "shrimp paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Buttery",
+    "dishForm": "Bake"
+  }
+}
