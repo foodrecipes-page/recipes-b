@@ -1,0 +1,85 @@
+{
+  "title": "Buttery British Cornmeal Skillet",
+  "description": "A crispy, buttery cornmeal skillet with a hint of seasoning, perfect for a quick vegetarian dinner.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup",
+      "notes": "fine cornmeal for crispiness"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted for flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      ": ": "name\": \"carrot\",",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add 2 tbsp butter and melt until foamy.",
+    "Add cornmeal, onions, and carrots; stir to combine.",
+    "Cook for 5 minutes, stirring occasionally, until cornmeal turns golden and crispy.",
+    "Season with salt and pepper to taste.",
+    "Remove from heat and serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "vegetarian",
+    "skillet",
+    "cornmeal",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "buttery-british-cornmeal-skillet",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-british-cornmeal-skillet",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:58:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "cornmeal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cornmeal",
+    "descriptor": "buttery",
+    "dishForm": "Skillet"
+  }
+}
