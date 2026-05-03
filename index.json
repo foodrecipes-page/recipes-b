@@ -440,6 +440,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-chewy-mexican-beef-tacos",
+    "title": "Bitter Chewy Mexican Beef Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "tacos",
+      "chimichurri",
+      "caramelized"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-chewy-midnight-oat-crumble",
     "title": "Bitter Chewy Midnight Oat Crumble",
     "tags": [
@@ -2944,6 +2958,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-chewy-tunisian-sausage-skewers",
+    "title": "Buttery Chewy Tunisian Sausage Skewers",
+    "tags": [
+      "tunisian",
+      "keto-friendly",
+      "buttery",
+      "chewy",
+      "sausage-skewers",
+      "tadka"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {

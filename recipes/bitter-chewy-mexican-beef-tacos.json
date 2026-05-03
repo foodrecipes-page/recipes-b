@@ -1,0 +1,104 @@
+{
+  "title": "Bitter Chewy Mexican Beef Tacos",
+  "description": "A midnight-craving Mexican dish featuring bitter and chewy beef, caramelized onions, and a tangy chimichurri sauce. This nut-free-friendly recipe is perfect for a late-night snack or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "1.5 pounds",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together parsley, oregano, red wine vinegar, lime juice, and garlic to make the chimichurri sauce.",
+    "Season the flank steak with salt and black pepper.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "Let the steak rest for 10 minutes before slicing it thinly against the grain.",
+    "In a large skillet, caramelize the onions over medium-low heat for 20-25 minutes, stirring occasionally.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the grilled steak into thin strips and serving it with caramelized onions, chimichurri sauce, and warm tortillas.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "tacos",
+    "chimichurri",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "bitter-chewy-mexican-beef-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-mexican-beef-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:35:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "bitter chewy",
+    "dishForm": "Tacos"
+  }
+}
