@@ -1,0 +1,119 @@
+{
+  "title": "Bitter Flaky Uruguayan Cod Broth",
+  "description": "A savory, bitter broth with flaky cod, enriched by tarragon leaves and a gentle sauté, perfect as a soothing hangover cure.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh cod fillets",
+      "amount": "1.5 kg",
+      "notes": "skin removed for flaky texture"
+    },
+    {
+      "name": "cold water",
+      "amount": "2 liters"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh tarragon leaves",
+      "amount": "10",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large stockpot over medium heat.",
+    "Add diced onion, minced garlic, sliced carrot, and celery; sauté until vegetables soften, about 5 minutes.",
+    "Pour in 2 liters of cold water and add bay leaf, tarragon leaves, kosher salt, and pepper.",
+    "Bring the mixture to a gentle boil, then reduce to a simmer and cook for 25 minutes to develop flavor.",
+    "Add the cod fillets to the broth, cover, and simmer gently for 10 minutes or until the fish flakes easily (internal temp 145°F/63°C).",
+    "Remove the pot from heat and let it sit, covered, for 5 minutes to allow the fish to finish cooking through steam.",
+    "Using a slotted spoon, carefully lift the cod fillets out and set aside, keeping the broth in the pot.",
+    "Reduce the broth over medium heat for another 5 minutes to slightly thicken.",
+    "Stir in lemon juice, adjust seasoning with salt and pepper if needed.",
+    "Serve the broth hot, garnished with fresh parsley, and enjoy the refreshing, bitter flavor intended to soothe hangovers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "flaky",
+    "uruguayan",
+    "cod",
+    "broth",
+    "kosher-friendly",
+    "hangover-cure",
+    "sauté"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "bitter-flaky-uruguayan-cod-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-flaky-uruguayan-cod-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:07:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Cod",
+    "descriptor": "Bitter Flaky",
+    "dishForm": "Broth"
+  }
+}
