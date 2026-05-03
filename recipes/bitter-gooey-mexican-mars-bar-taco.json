@@ -1,0 +1,113 @@
+{
+  "title": "Bitter Gooey Mexican Mars Bar Taco",
+  "description": "A sweet and savory taco that blends smoky beef, luscious melted Mars chocolate, and a touch of guava jam for a romantic, bittersweet bite.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "corn tortillas (gluten-free)",
+      "amount": "6 pieces",
+      "notes": "warm before serving"
+    },
+    {
+      "name": "ground beef (lean 10% fat)",
+      "amount": "200g",
+      "notes": "ensure internal temp 70°C"
+    },
+    {
+      "name": "taco seasoning (low FODMAP)",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "heat‑proof, use for browning"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mars bars",
+      "amount": "2 pieces (≈80g each)",
+      "notes": "cut into small pieces for melting"
+    },
+    {
+      "name": "guava jam",
+      "amount": "2 tbsp (30g)",
+      "notes": "low FODMAP sweetener"
+    },
+    {
+      "name": "lactose‑free shredded cheese",
+      "amount": "50g",
+      "notes": "optional for creaminess"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and warm each tortilla for about 30 seconds per side until pliable.",
+    "Heat 1 tbsp olive oil in the same skillet over medium‑high heat. Add the ground beef, cumin, smoked paprika, taco seasoning, and pinch of salt. Cook, breaking the meat apart, until browned and the internal temperature reaches 70 °C (about 7–8 minutes). Remove from heat and set aside.",
+    "Cut the Mars bars into small pieces and place them in a heat‑proof bowl. Melt on low heat or microwave 20–30 seconds until gooey.",
+    "To assemble, spread a thin layer of guava jam on each warm tortilla. Top with a portion of the seasoned beef, sprinkle with shredded cheese, and drizzle with the molten Mars chocolate. Finish with a handful of chopped cilantro and a squeeze of lime juice.",
+    "Fold the tacos and serve immediately for the best gooey texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "dessert",
+    "gluten-free",
+    "fodmap-friendly",
+    "bitter",
+    "gooey",
+    "romantic",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 2470,
+    "protein": 62,
+    "carbs": 154,
+    "fat": 112
+  },
+  "slug": "bitter-gooey-mexican-mars-bar-taco",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-gooey-mexican-mars-bar-taco",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:56:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "mars bar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Bitter Gooey",
+    "dishForm": "Taco"
+  }
+}

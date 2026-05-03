@@ -1668,6 +1668,22 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-fluffy-jamaican-cassaba-stew",
+    "title": "Bitter Fluffy Jamaican Cassaba Stew",
+    "tags": [
+      "jamaican",
+      "vegan",
+      "stew",
+      "weeknight-dish",
+      "bitter",
+      "fluffy",
+      "cassava"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-fluffy-mediterranean-fennel-bulb-stir-fry",
     "title": "Bitter Fluffy Mediterranean Fennel Bulb Stir-fry",
     "tags": [
@@ -1732,6 +1748,23 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-mexican-mars-bar-taco",
+    "title": "Bitter Gooey Mexican Mars Bar Taco",
+    "tags": [
+      "mexican",
+      "dessert",
+      "gluten-free",
+      "fodmap-friendly",
+      "bitter",
+      "gooey",
+      "romantic",
+      "sweet-and-savory"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -1993,6 +2026,22 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-light-egyptian-beans-stew",
+    "title": "Bitter Light Egyptian Beans Stew",
+    "tags": [
+      "bitter",
+      "light",
+      "egyptian",
+      "beans",
+      "sous-vide",
+      "fodmap-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 140,
     "shard": "b"
   },
   {

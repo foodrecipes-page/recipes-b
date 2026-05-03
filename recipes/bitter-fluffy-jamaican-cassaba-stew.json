@@ -1,0 +1,119 @@
+{
+  "title": "Bitter Fluffy Jamaican Cassaba Stew",
+  "description": "A hearty, weeknight-friendly stew featuring tender cassava cubes, bitter greens, and aromatic spices finished with creamy coconut milk.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassava root",
+      "amount": "1.5 kg",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "bitter greens",
+      "amount": "200 g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried or ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel the cassava and cut it into 1‑inch cubes. In a bowl, toss the cubes with lime juice, salt, and pepper; let marinate for 10 minutes.",
+    "Heat the oil in a large pot over medium heat. Add diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in minced garlic, grated ginger, allspice, thyme, and nutmeg; cook for 1 minute until fragrant.",
+    "Add the marinated cassava cubes to the pot and stir to coat them in the spices. Cook for 3 minutes.",
+    "Pour in the vegetable broth and coconut milk, bring to a gentle boil, then reduce heat and simmer, covered, for 15 minutes.",
+    "Add the chopped bitter greens, stir, and continue to simmer for an additional 5 minutes until the greens are tender and the stew has thickened slightly.",
+    "Taste and adjust seasoning with salt and pepper as needed. Serve hot over steamed rice or with crusty bread.",
+    "Optional: sprinkle fresh thyme leaves on top for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "vegan",
+    "stew",
+    "weeknight-dish",
+    "bitter",
+    "fluffy",
+    "cassava"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 230,
+    "fat": 22
+  },
+  "slug": "bitter-fluffy-jamaican-cassaba-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-jamaican-cassaba-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:56:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "cassaba",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Cassaba",
+    "descriptor": "Bitter Fluffy",
+    "dishForm": "Stew"
+  }
+}
