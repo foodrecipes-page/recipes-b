@@ -1,0 +1,118 @@
+{
+  "title": "Buttery Light Ethiopian Turkey Neck Stew",
+  "description": "A fragrant, buttery one‑pot stew featuring tender turkey necks, berbere spice, and fresh vegetables for a light yet satisfying Ethiopian-inspired dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey necks",
+      "amount": "1.2 kg",
+      "notes": "about 2.6 lbs, trimmed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tbsp",
+      "notes": "45 g"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "4 cups",
+      "notes": "960 ml"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "small potatoes",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse turkey necks and pat dry.",
+    "Heat butter in a large pot over medium heat until foamy; brown turkey necks on all sides, about 5 minutes. Remove necks and set aside.",
+    "Add diced onion, minced garlic, and grated ginger to the pot; sauté until onion is translucent, about 3 minutes.",
+    "Stir in berbere spice mix and tomato paste; cook for 1 minute to bloom the flavors.",
+    "Return turkey necks to the pot and pour in chicken broth. Add sliced carrots and potatoes; stir to combine.",
+    "Bring the mixture to a gentle simmer, cover, and cook for 55–60 minutes, or until turkey necks are tender and reach an internal temperature of 71 °C (160 °F).",
+    "Taste and season with salt and pepper as needed.",
+    "Stir in chopped cilantro just before serving; adjust seasoning if desired.",
+    "Serve hot with a side of injera, millet bread, or steamed rice.",
+    "Enjoy the buttery, aromatic flavors of this Ethiopian turkey neck stew!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "light",
+    "one-pot",
+    "turkey",
+    "gluten-free",
+    "stew",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "buttery-light-ethiopian-turkey-neck-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-light-ethiopian-turkey-neck-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:17:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "turkey neck",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Buttery Light",
+    "dishForm": "Stew"
+  }
+}
