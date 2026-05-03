@@ -1,0 +1,84 @@
+{
+  "title": "Bitter Pickled Brazilian Cream Soup",
+  "description": "A fragrant, monsoon-inspired soup that balances the tang of pickled mango with the richness of malai, perfect for a diabetic-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malai (full-fat coconut cream)",
+      "amount": "200 g",
+      "notes": "Use low-sugar coconut cream"
+    },
+    {
+      "name": "Pickled green mango, chopped",
+      "amount": "100 g",
+      "notes": "Low-sugar pickled mango preserves a subtle bitterness"
+    },
+    {
+      "name": "Boneless chicken breast, diced",
+      "amount": "200 g",
+      "notes": "Skinless for lower fat"
+    },
+    {
+      "name": "Yellow onion, diced",
+      "amount": "200 g",
+      "notes": "Adds sweetness and depth"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "6 g"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "30 g",
+      "notes": "Adds body and slight acidity"
+    },
+    {
+      "name": "Water",
+      "amount": "500 ml",
+      "notes": "For soup stock"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large pot over medium heat and add a splash of water.",
+    "2. Add diced onion and minced garlic, sautéing until translucent and fragrant, about 3-4 minutes.",
+    "3. Stir in diced chicken breast and cook until lightly browned, about 5 minutes.",
+    "4. Add tomato paste and mix well to coat the chicken and onions, cooking for an additional 2 minutes.",
+    "5. Pour in 500 ml of water, bring to a gentle boil, then reduce heat and simmer for 20 minutes, or until the chicken is cooked through.",
+    "6. Reduce heat to low and stir in 200 g of malai (coconut cream); let it warm through, about 3 minutes.",
+    "7. Transfer the soup to a blender or use an immersion blender to puree until smooth, then return to the pot.",
+    "8. Fold in 100 g of chopped pickled green mango, allowing the flavors to mingle for 2 minutes.",
+    "9. Season with 1 tsp salt and 1/2 tsp black pepper, adjusting to taste.",
+    "10. Serve hot, optionally garnished with a swirl of malai or fresh cilantro if desired."
+  ],
+  "slug": "bitter-pickled-brazilian-cream-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-pickled-brazilian-cream-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:33:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "malai",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cream",
+    "descriptor": "Bitter Pickled",
+    "dishForm": "Soup"
+  }
+}
