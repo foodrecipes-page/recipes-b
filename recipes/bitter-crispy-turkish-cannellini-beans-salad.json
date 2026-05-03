@@ -1,0 +1,115 @@
+{
+  "title": "Bitter Crispy Turkish Cannellini Beans Salad",
+  "description": "A refreshing, low‑calorie Turkish salad that balances the bitterness of sumac and lemon with the crunch of roasted chickpeas, perfect for a post‑workout snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1/2 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1/2 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "2 tbsp",
+      "notes": "finely diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "toasted chickpeas",
+      "amount": "1/4 cup",
+      "notes": "roasted until golden"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F). Spread the chickpeas on a baking sheet and roast for 10–12 minutes until golden, stirring halfway through.",
+    "While the chickpeas roast, combine the cannellini beans, cucumber, cherry tomatoes, red onion, parsley, and dill in a large bowl.",
+    "Add the roasted chickpeas to the vegetable mixture.",
+    "Whisk together the lemon juice, zest, olive oil, sumac, salt, and pepper to make the dressing.",
+    "Pour the dressing over the salad and toss gently until everything is evenly coated.",
+    "Taste and adjust seasoning if necessary, adding more salt or sumac for extra bitterness.",
+    "Serve immediately or chill for 10 minutes to let flavors meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "salad",
+    "low-calorie",
+    "post-workout",
+    "bitter",
+    "crispy",
+    "cannellini-beans",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 495,
+    "protein": 15,
+    "carbs": 48,
+    "fat": 19
+  },
+  "slug": "bitter-crispy-turkish-cannellini-beans-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-turkish-cannellini-beans-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:43:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "cannellini beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cannellini Beans",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Salad"
+  }
+}
