@@ -1,0 +1,108 @@
+{
+  "title": "Bitter Juicy Slovakian Bamboo Shoot Stew",
+  "description": "A hearty and flavorful stew that showcases fresh bamboo shoots with a subtle bitterness and juicy texture, inspired by Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh bamboo shoots",
+      "amount": "400g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "halal beef chuck",
+      "amount": "150g",
+      "notes": "thin slices"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "lightly sweetened"
+    },
+    {
+      "name": "white sugar",
+      "amount": "1 tsp",
+      "notes": "balances bitterness"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "fresh ground"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for aroma"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300ml",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a ttukbaegi earthenware pot over medium heat until shimmering.",
+    "Add diced onion and minced garlic, sauté until the onion becomes translucent.",
+    "Stir in sliced beef, cooking until the meat changes color.",
+    "Pour in soy sauce and rice wine vinegar, stirring to coat all ingredients evenly.",
+    "Add the bamboo shoots and pour in vegetable broth, bringing the mixture to a gentle simmer.",
+    "Sprinkle in the sugar and black pepper, then cover the pot and let it cook on low heat for 20 minutes, stirring occasionally.",
+    "Uncover, reduce the stew slightly for 5 minutes to concentrate the flavors, and adjust seasoning if needed.",
+    "Serve hot, garnished with chopped spring onions, and enjoy the bitter yet juicy Slovakian bamboo shoot stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-soup",
+    "comfort-food",
+    "halal-friendly",
+    "single-pot",
+    "slovakian-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 41,
+    "carbs": 87,
+    "fat": 34
+  },
+  "slug": "bitter-juicy-slovakian-bamboo-shoot-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-juicy-slovakian-bamboo-shoot-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:34:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "Bitter Juicy",
+    "dishForm": "Stew"
+  }
+}
