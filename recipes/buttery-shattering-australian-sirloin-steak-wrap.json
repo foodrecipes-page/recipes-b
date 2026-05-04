@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Shattering Australian Sirloin Steak Wrap",
+  "description": "A monsoon-inspired Australian dish featuring a buttery, shattering sirloin steak served in a long-fermentation dough ti-leaf wrap, suitable for Ayurvedic sattvic diets.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "ti leaf wraps",
+      "amount": "4",
+      "notes": "long-fermentation dough, made from native Australian flours and wild yeast."
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g",
+      "notes": "melted for serving."
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped, for garnish."
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "chopped, for garnish."
+    },
+    {
+      "name": "galangal",
+      "amount": "2cm",
+      "notes": "grated, for marinade."
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade."
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g",
+      "notes": "for brushing ti-leaf wraps."
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (180°C).",
+    "Season the sirloin steak with salt, pepper, and chopped lemongrass.",
+    "Marinate the steak in a mixture of coconut oil, galangal, and fish sauce for at least 30 minutes.",
+    "Remove the steak from the marinade, letting any excess liquid drip off.",
+    "Grill the steak for 5 minutes per side, or until it reaches your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "Brush the ti-leaf wraps with coconut oil and warm them on the grill for 1 minute on each side.",
+    "Assemble the wraps by placing a portion of the sliced steak in the center, followed by your choice of garnishes.",
+    "Serve the wraps immediately, with melted butter on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "high-protein",
+    "monsoon-inspired",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "buttery-shattering-australian-sirloin-steak-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-shattering-australian-sirloin-steak-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "sirloin steak",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Buttery, Shattering",
+    "dishForm": "Wrap"
+  }
+}
