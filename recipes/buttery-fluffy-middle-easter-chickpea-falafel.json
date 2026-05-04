@@ -1,0 +1,109 @@
+{
+  "title": "Buttery Fluffy Middle-Eastern Chickpea Falafel",
+  "description": "Indulgent and fluffy, this Middle-Eastern falafel dish is perfect for a meal or snack. The addition of garlic granules and buttermilk takes this classic chickpea recipe to the next level.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic granules",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mash the chickpeas using a fork or a potato masher until they are mostly smooth.",
+    "In a separate bowl, whisk together the flour, baking powder, garlic granules, salt, and black pepper.",
+    "Add the dry ingredients to the chickpea mixture and stir until just combined.",
+    "Add the buttermilk and mix until the mixture comes together in a sticky dough.",
+    "Knead the dough on a floured surface for 2-3 minutes until it is smooth and pliable.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk, about 1 inch thick.",
+    "Heat the butter in a large skillet over medium heat until melted.",
+    "Add 4-5 falafel to the skillet and cook for 2-3 minutes on each side, until golden brown and crispy.",
+    "Transfer the cooked falafel to a baking sheet and bake for 10-12 minutes, until heated through.",
+    "Repeat with the remaining falafel.",
+    "Serve the falafel hot, garnished with chopped parsley if desired.",
+    "Serve with your favorite dipping sauce, such as tahini or hummus."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buttermilk",
+    "chickpea",
+    "falafel",
+    "garlic",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "buttery-fluffy-middle-easter-chickpea-falafel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-fluffy-middle-easter-chickpea-falafel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "candy",
+    "primaryIngredient": "garlic granules",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle-Easter",
+    "mainIngredient": "chickpea",
+    "descriptor": "Buttery Fluffy",
+    "dishForm": "Falafel"
+  }
+}
