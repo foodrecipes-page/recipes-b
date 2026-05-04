@@ -2820,6 +2820,20 @@
     "shard": "b"
   },
   {
+    "slug": "bouncy-spanish-farfalle-pasta",
+    "title": "Bouncy Spanish Farfalle Pasta",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "pasta",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 27,
+    "shard": "b"
+  },
+  {
     "slug": "bouquet-thai-crunch",
     "title": "Bouquet Thai Crunch",
     "tags": [

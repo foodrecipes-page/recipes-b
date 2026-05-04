@@ -1,0 +1,103 @@
+{
+  "title": "Bouncy Spanish Farfalle Pasta",
+  "description": "A light and airy Spanish-inspired dish featuring farfalle pasta tossed in a rich coconut cream sauce, perfect for a crowd-pleasing meal",
+  "cuisine": "spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs add a bright, fresh flavor to the dish"
+    },
+    {
+      "name": "chopped fresh basil",
+      "amount": "1/4 cup",
+      "notes": "add depth and complexity to the coconut cream sauce"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 ounces)",
+      "notes": "use low-sodium tomatoes for a healthier option"
+    },
+    {
+      "name": "grated Romano cheese",
+      "amount": "1/2 cup",
+      "notes": "adds a salty, creamy element to the dish"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "adds a touch of acidity to balance the dish"
+    }
+  ],
+  "instructions": [
+    "Drizzle with lemon juice and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "pasta",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "bouncy-spanish-farfalle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-spanish-farfalle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "farfalle",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "farfalle",
+    "descriptor": "bouncy",
+    "dishForm": "pasta"
+  }
+}
