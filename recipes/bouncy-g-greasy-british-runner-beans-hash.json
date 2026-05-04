@@ -1,0 +1,98 @@
+{
+  "title": "Bouncy G-Greasy British Runner Beans Hash",
+  "description": "A traditional British dish featuring runner beans, perfect for a quick and easy breakfast or lunch. This recipe is kid-friendly and suitable for a sattvic diet.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Runner beans",
+      "amount": "250g",
+      "notes": "fresh and trimmed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pan over medium heat.",
+    "Add the slices of bacon and cook until crispy, then remove from the pan.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped garlic and cook for a further minute.",
+    "Add the sliced runner beans, potatoes, chilli flakes, salt and pepper, and stir to combine.",
+    "Cook for 20 minutes, stirring occasionally, until the vegetables are tender.",
+    "If using bacon, chop into small pieces and add back into the pan.",
+    "Stir to combine and cook for a further 2 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "kid-friendly",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "bouncy-g-greasy-british-runner-beans-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-g-greasy-british-runner-beans-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:08Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "runner beans",
+    "diet": "ayurvedic-sattvic",
+    "region": "yorkshire",
+    "cuisineAdjective": "british",
+    "mainIngredient": "runner beans",
+    "descriptor": "bouncy g-greasy",
+    "dishForm": "hash"
+  }
+}
