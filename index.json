@@ -2453,6 +2453,21 @@
     "shard": "b"
   },
   {
+    "slug": "bittersweet-creamy-irish-beef-stew",
+    "title": "Bittersweet Creamy Irish Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "creamy",
+      "high-protein",
+      "irish",
+      "slow-cook"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 145,
+    "shard": "b"
+  },
+  {
     "slug": "bittersweet-french-beetroot-stir-fry",
     "title": "Bittersweet French Beetroot Stir-fry",
     "tags": [

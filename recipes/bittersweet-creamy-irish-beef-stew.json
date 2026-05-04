@@ -1,0 +1,112 @@
+{
+  "title": "Bittersweet Creamy Irish Beef Stew",
+  "description": "A rich, savory stew featuring tender beef, caramelized onions, and a splash of brandy, finished with a velvety cream sauce. Nostalgic Irish flavors wrapped in a bittersweet, high-protein comfort dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "2 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "parsnips",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thyme and rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 1 tbsp of butter over medium-high heat and brown the beef cubes in batches, then set aside.",
+    "Add the remaining butter and the diced onion to the pot and cook until translucent, about 5 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Return the beef to the pot and pour in the brandy, allowing it to deglaze and simmer for 2 minutes, scraping up any browned bits.",
+    "Add the carrots, parsnips, beef broth, thyme, rosemary, and bay leaf, bring to a boil, then reduce heat to low.",
+    "Cover the pot and simmer the stew for 2 hours, stirring occasionally, until the beef is tender.",
+    "Remove the bay leaf, stir in the heavy cream, and season with salt and pepper to taste.",
+    "Simmer for an additional 10 minutes until the sauce thickens to a silky consistency.",
+    "Serve hot over mashed potatoes or crusty bread, garnishing with a sprinkle of fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 130,
+  "totalTimeMin": 145,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "creamy",
+    "high-protein",
+    "irish",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 39,
+    "carbs": 7,
+    "fat": 34
+  },
+  "slug": "bittersweet-creamy-irish-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/bittersweet-creamy-irish-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:43:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "slow-cook",
+    "primaryIngredient": "brandy",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Beef",
+    "descriptor": "Bittersweet Creamy",
+    "dishForm": "Stew"
+  }
+}
