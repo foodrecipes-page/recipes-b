@@ -1,0 +1,112 @@
+{
+  "title": "bitter crunchy portuguese celeriac wrap",
+  "description": "a hangover-cure portuguese dish featuring bitter celeriac and crunchy ssam-wrap, perfect for breakfast or snack time.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 medium celeriac, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4-6 wraps",
+      "notes": "korean-style ssam-wraps are ideal"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large bowl, combine grated celeriac, lemon juice, olive oil, garlic, ginger, red pepper flakes, salt, and black pepper. Mix well to combine",
+    "add the chopped capers and mix again to distribute evenly",
+    "warm the ssam-wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "assemble the wraps by placing a portion of the celeriac mixture onto the center of a warmed wrap, followed by a sprinkle of chopped parsley",
+    "fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly to form a compact cylinder",
+    "repeat with the remaining ingredients to make 4-6 wraps"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "hangover-cure",
+    "portuguese",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "bitter-crunchy-portuguese-celeriac-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-portuguese-celeriac-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "celeriac",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "celeriac",
+    "descriptor": "bitter crunchy",
+    "dishForm": "wrap"
+  }
+}
