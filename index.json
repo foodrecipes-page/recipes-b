@@ -1767,6 +1767,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-french-mentaiko-tartiflette",
+    "title": "Bitter French Mentaiko Tartiflette",
+    "tags": [
+      "french-cuisine",
+      "high-protein",
+      "one-pan",
+      "vegetarian-main-course",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-gooey-algerian-milk-dumplings",
     "title": "Bitter Gooey Algerian Milk Dumplings",
     "tags": [],
@@ -1895,6 +1909,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 75,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-italian-onion-pasta",
+    "title": "Bitter Italian Onion Pasta",
+    "tags": [
+      "breakfast",
+      "italian",
+      "one-pan",
+      "pasta",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
@@ -2444,6 +2472,22 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-zesty-turkish-ciabatta-flatbread",
+    "title": "Bitter Zesty Turkish Ciabatta Flatbread",
+    "tags": [
+      "easy",
+      "flatbread",
+      "gluten-free",
+      "snack",
+      "turkish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "bittersilkyromantic-casabe-stir-fry",
     "title": "Bittersilkyromantic Casabe Stir-fry",
     "tags": [
@@ -2920,6 +2964,19 @@
       "smoked-herring"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "briny-shattering-egyptian-ice-cream-mushimono",
+    "title": "Briny Shattering Egyptian Ice Cream Mushimono",
+    "tags": [
+      "dessert",
+      "low-fat",
+      "soothing",
+      "vegan"
+    ],
+    "cuisine": "Egyptian",
     "totalTimeMin": 35,
     "shard": "b"
   },
@@ -5283,6 +5340,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-polish-whipping-cream-dumplings",
+    "title": "Buttery Polish Whipping Cream Dumplings",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "comfort-food",
+      "gluten-free",
+      "polish",
+      "sweet-treats"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {

@@ -1,0 +1,69 @@
+{
+  "title": "Briny Shattering Egyptian Ice Cream Mushimono",
+  "description": "A unique fusion of Egyptian and Buddhist flavors, featuring a briny ice cream and steam-cooked mushrooms. Serve as a soothing dessert on a sick day, vegan-friendly and low-fat.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fattoush ice cream",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom duxelles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled fennel",
+      "amount": "4 oz",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whip the Fattoush ice cream until it begins to break down and become airy.",
+    "Steam the Mushroom duxelles over boiling water until it reaches 160\u00186F for 10 minutes, then fluff with a fork.",
+    "Chill the Pickled fennel in the refrigerator until ready to use.",
+    "Assemble the Briny Shattering Egyptian Ice Cream Mushimono by spooning the steamed Mushroom duxelles over the Fattoush ice cream, followed by a spoonful of chilled Pickled fennel.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "low-fat",
+    "soothing",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "briny-shattering-egyptian-ice-cream-mushimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-shattering-egyptian-ice-cream-mushimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ice cream",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "ice cream",
+    "descriptor": "briny shattering",
+    "dishForm": "mushimono"
+  }
+}

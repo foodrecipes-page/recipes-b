@@ -1,0 +1,93 @@
+{
+  "title": "Bitter French Mentaiko Tartiflette",
+  "description": "A hearty, chewy, meal-prep dish from Brittany, France, featuring the bold flavor of mentaiko. Perfect for a weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mentaiko (Pollock Roe)",
+      "amount": "200g"
+    },
+    {
+      "name": "Lardons (Duck Bacon)",
+      "amount": "120g"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "150g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Caramelize the onions by cooking them in a pan over low heat for 20 minutes.",
+    "Cook the lardons in a pan over medium heat until crispy.",
+    "Peel and dice the potatoes, then boil them in salted water until tender.",
+    "Mash the potatoes with a fork and set aside.",
+    "In a separate pan, combine the mentaiko, garlic, and thyme. Cook over low heat for 2 minutes, stirring constantly.",
+    "Stir the cooked mentaiko mixture into the mashed potatoes.",
+    "Add the caramelized onions and cooked lardons to the potato mixture. Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and cook in the preheated oven for 20 minutes.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "high-protein",
+    "one-pan",
+    "vegetarian-main-course",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 38
+  },
+  "slug": "bitter-french-mentaiko-tartiflette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-french-mentaiko-tartiflette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "mentaiko",
+    "diet": "satvik",
+    "region": "brittany",
+    "cuisineAdjective": "french",
+    "mainIngredient": "mentaiko",
+    "descriptor": "bitter",
+    "dishForm": "Tartiflette"
+  }
+}

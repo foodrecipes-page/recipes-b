@@ -1,0 +1,105 @@
+{
+  "title": "Buttery Polish Whipping Cream Dumplings",
+  "description": "A lazy-sunday polish dish featuring long-fermentation-dough, gluten-free-friendly and creamy whipping cream. Best served as a dessert.",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "gluten-free flour",
+      "amount": "1 1\u00124 cups",
+      "notes": "use a combination of rice flour, almond flour and potato starch"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "use cold milk for best results"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted butter for dough"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten egg for egg wash"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality vanilla extract"
+    },
+    {
+      "name": "seltzer water",
+      "amount": "1\u00142 cup",
+      "notes": "chilled water"
+    },
+    {
+      "name": "whipping cream",
+      "amount": "1 cup",
+      "notes": "heavy whipping cream"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Combine gluten-free flour, sugar and salt in a large mixing bowl.",
+    "Add melted butter, seltzer water and vanilla extract to the dry ingredients. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rest in a warm place for 2 hours or until it has doubled in size.",
+    "Punch down the dough and roll it out to a thickness of 1\u0014 inch.",
+    "Cut out circles of dough using a cookie cutter or a glass.",
+    "Place a spoonful of whipped cream in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Brush the tops of the dumplings with beaten egg for a golden glaze.",
+    "Bake the dumplings in a preheated oven at 375\u000770f for 20 minutes or until golden brown.",
+    "Dust the dumplings with powdered sugar and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "comfort-food",
+    "gluten-free",
+    "polish",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "buttery-polish-whipping-cream-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-polish-whipping-cream-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "whipping cream",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "whipping cream",
+    "descriptor": "buttery",
+    "dishForm": "Dumplings"
+  }
+}

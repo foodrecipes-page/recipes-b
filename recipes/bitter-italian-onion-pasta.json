@@ -1,0 +1,114 @@
+{
+  "title": "Bitter Italian Onion Pasta",
+  "description": "A hearty Lombard-inspired dish featuring caramelized onions and a crispy sumac topping.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bigoli",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook bigoli in boiling salted water until al dente, about 8 minutes.",
+    "Drain and set aside.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add sliced onions and cook, stirring occasionally, until caramelized and golden brown, about 25 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Stir in red wine vinegar and cook for 1 minute.",
+    "Season with salt, black pepper, and sumac.",
+    "Toss cooked bigoli with the onion mixture and transfer to a serving dish.",
+    "Sprinkle with grated Parmesan cheese and chopped parsley.",
+    "Drizzle with lemon juice and serve hot.",
+    "Finish with a sprinkle of sumac for garnish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "italian",
+    "one-pan",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "bitter-italian-onion-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-italian-onion-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "sumac",
+    "diet": "mediterranean",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "onion",
+    "descriptor": "Bitter",
+    "dishForm": "Pasta"
+  }
+}

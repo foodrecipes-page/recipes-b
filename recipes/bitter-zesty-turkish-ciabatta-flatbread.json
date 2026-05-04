@@ -1,0 +1,102 @@
+{
+  "title": "Bitter Zesty Turkish Ciabatta Flatbread",
+  "description": "A crispy flatbread infused with bitter notes from kale and zesty flavors from lemon, inspired by Turkish cuisine. Quick to make and gluten-free friendly.",
+  "cuisine": "turkish",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ciabatta bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Kale",
+      "amount": "1 cup, chopped",
+      "notes": "stems removed, leaves only"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "flatbread",
+    "gluten-free",
+    "snack",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "bitter-zesty-turkish-ciabatta-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-zesty-turkish-ciabatta-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:48Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "ciabatta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "ciabatta",
+    "descriptor": "bitter zesty",
+    "dishForm": "Flatbread"
+  }
+}
