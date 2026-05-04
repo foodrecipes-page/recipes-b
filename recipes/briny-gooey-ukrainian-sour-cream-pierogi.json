@@ -1,0 +1,108 @@
+{
+  "title": "Briny Gooey Ukrainian Sour Cream Pierogi",
+  "description": "Tender dough pockets filled with a tangy, creamy sour cream and chive mixture, spherified and topped with a sprinkle of nutmeg, a festive Ukrainian dish perfect for any occasion.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pierogi dough",
+      "amount": "2 cups",
+      "notes": "use a gluten-free flour blend if needed"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": "use 2 tablespoons of dried chives as a substitute"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "balances the tanginess of the sour cream"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sodium chloride",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": "a pinch will do"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the pierogi dough ingredients and knead until a smooth dough forms.",
+    "Divide the dough into 2 equal pieces and roll out each piece into a thin sheet.",
+    "Using a round cookie cutter or the rim of a glass, cut out circles of dough.",
+    "Place a tablespoon of the sour cream mixture onto the center of each dough circle.",
+    "Fold the dough over the filling, forming a half-circle, and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Meanwhile, prepare the spherification mixture by dissolving 1 tablespoon of sodium alginate in 1 tablespoon of cold water.",
+    "Add the spherification mixture to the cooked pierogi and stir gently.",
+    "Using a dropper or a spoon, carefully drop small amounts of the spherified mixture into a bath of cold water.",
+    "The mixture will form into small, bite-sized balls.",
+    "Remove the balls from the water and top with a sprinkle of nutmeg.",
+    "Serve the Briny Gooey Ukrainian Sour Cream Pierogi hot, garnished with chopped fresh chives if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "sour-cream",
+    "spherified",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 20
+  },
+  "slug": "briny-gooey-ukrainian-sour-cream-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-gooey-ukrainian-sour-cream-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:56:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "spherify",
+    "primaryIngredient": "nutmeg",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Sour Cream",
+    "descriptor": "Briny Gooey",
+    "dishForm": "Pierogi"
+  }
+}
