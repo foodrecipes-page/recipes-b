@@ -1,0 +1,112 @@
+{
+  "title": "Buttery Crunchy Egyptian Fish Falafel",
+  "description": "A crispy, flavorful, and aromatic twist on traditional falafel, featuring ginger garlic paste and crunchy Egyptian spices, best enjoyed during lunch or dinner. Perfect for pescatarians and adventurous foodies.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (any firm white fish such as Tilapia or Cod)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ginger Garlic Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian Spices (cumin, coriander, cinnamon)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tablespoons",
+      "notes": "Unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F (200°C).",
+    "Rinse the fish fillets and pat them dry with paper towels.",
+    "In a blender or food processor, combine chickpeas, ginger garlic paste, lemon juice, olive oil, crushed red pepper, and Egyptian spices. Blend until well combined.",
+    "Add the breadcrumbs and blend until the mixture resembles coarse crumbs.",
+    "Add the fish fillets and blend until they are well coated with the chickpea mixture.",
+    "Using your hands, shape the mixture into 12-15 small patties.",
+    "Place the patties in the air fryer basket in a single layer, leaving about 1 inch of space between each patty.",
+    "Drizzle the unsalted butter evenly over the patties.",
+    "Cook the falafel for 8-10 minutes, flipping them halfway through.",
+    "Remove the falafel from the air fryer and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve hot and enjoy!",
+    "Garnish with chopped fresh parsley or cilantro, if desired.",
+    "Serve with your favorite dipping sauce, such as tahini or tzatziki."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "european",
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "buttery-crunchy-egyptian-fish-falafel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-egyptian-fish-falafel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Falafel"
+  }
+}

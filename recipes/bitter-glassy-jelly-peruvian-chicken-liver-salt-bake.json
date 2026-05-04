@@ -1,0 +1,111 @@
+{
+  "title": "bitter glassy-jelly peruvian chicken liver salt-bake",
+  "description": "a hearty, flavorful dish featuring chicken liver, salt-baked to perfection and served with a sweet and tangy bitter glassy jelly. enjoy this unique and delicious peruvian-inspired recipe as a main dish or appetizer.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken livers",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons",
+      "notes": "coarse kosher salt recommended"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg whites",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "line a baking sheet with parchment paper and arrange the chicken livers in a single layer.",
+    "sprinkle the coarse kosher salt evenly over the chicken livers.",
+    "bake for 20 minutes or until the chicken livers are cooked through and slightly caramelized.",
+    "meanwhile, in a medium saucepan combine the water, apple cider vinegar, honey, red pepper flakes, and black pepper.",
+    "bring to a boil over high heat, then reduce to a simmer and cook for 10-15 minutes or until the mixture has thickened slightly and formed a glaze.",
+    "remove the chicken livers from the oven and let cool slightly.",
+    "use a pastry brush to apply the glaze to the chicken livers, then sprinkle with fresh mint leaves and chopped cilantro.",
+    "serve warm and garnish with additional fresh mint leaves and a drizzle of lime juice, if desired.",
+    "if using egg whites, beat until stiff peaks form and spread over the top of the chicken liver mixture before baking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "bitter-glassy-jelly-peruvian-chicken-liver-salt-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-glassy-jelly-peruvian-chicken-liver-salt-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "salt-bake",
+    "primaryIngredient": "chicken liver",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "bitter glassy-jelly",
+    "dishForm": "salt-bake"
+  }
+}
