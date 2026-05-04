@@ -1,0 +1,96 @@
+{
+  "title": "Buttery Wholesome Spanish Tarta Santiago",
+  "description": "A classic Spanish dessert featuring a buttery crust and a rich mascarpone filling, perfect for kids and adults alike.",
+  "cuisine": "Spanish",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry dough (homemade or store-bought)",
+      "amount": "1 package"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "300g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "Lardons (small pieces of bacon)",
+      "amount": "20g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut out a circle of dough large enough to fit a 9-inch (23 cm) tart pan.",
+    "Place the dough into the tart pan, pressing it into the corners.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling up during baking.",
+    "Line the pastry with parchment paper and fill with pie weights or dried beans.",
+    "Bake the pastry for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "In a medium bowl, whip the mascarpone cheese until smooth.",
+    "Add the granulated sugar, unsalted butter, and lardons to the bowl and mix until well combined.",
+    "Pour the mascarpone mixture into the baked pastry shell.",
+    "Sprinkle the all-purpose flour and ground cinnamon over the top of the mascarpone mixture.",
+    "Bake the tart for an additional 20-25 minutes, or until the top is golden brown and the filling is set.",
+    "Allow the tart to cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "european",
+    "kid-friendly",
+    "party-food",
+    "spanish",
+    "sweet-treats",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 2200,
+    "protein": 22,
+    "carbs": 240,
+    "fat": 120
+  },
+  "slug": "buttery-wholesome-spanish-mascarpone-tarta-santiago",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-wholesome-spanish-mascarpone-tarta-santiago",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:27:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "lardons-render",
+    "primaryIngredient": "mascarpone",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "mascarpone",
+    "descriptor": "Buttery Wholesome",
+    "dishForm": "Tarta Santiago"
+  }
+}
