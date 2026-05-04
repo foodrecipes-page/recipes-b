@@ -1,0 +1,122 @@
+{
+  "title": "Buttery Pillowy French Fish Stew",
+  "description": "A romantic Lyon-inspired fish stew, featuring cornstarch and a brine-dried element, this dish is perfect for a special evening with guests. ",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic fish broth",
+      "amount": "1L",
+      "notes": ""
+    },
+    {
+      "name": "Dried seaweed",
+      "amount": "1 sheet",
+      "notes": "+brine-dried to remove excess salt."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": "+for pillowy roux."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped handful",
+      "notes": "+garnish."
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "+for finishing."
+    }
+  ],
+  "instructions": [
+    "Rouge the cod fillets in lemon juice and a pinch of salt for 30 minutes, then pat dry. ",
+    "In a medium saucepan, melt 25g of butter and mix with 1 tsp of smoked paprika. ",
+    "Add the garlic fish broth to the saucepan and whisk to combine. ",
+    "Bring the broth to a low simmer and cook until it thickens to a rich, pillowy roux. ",
+    "In a large, deep saucepan or Dutch oven, heat 1 tbsp of olive oil over medium-high heat. ",
+    "Add the cod fillets and sear until golden on both sides, about 3-4 minutes per side. ",
+    "Transfer the seared cod to a clean plate and set aside. ",
+    "In the same saucepan, add the dried seaweed, cornstarch, and a pinch of salt. ",
+    "Cook, stirring constantly, for 1-2 minutes, until the seaweed is fragrant and the cornstarch has dissolved. ",
+    "Add the garlic fish broth to the saucepan, whisking constantly to avoid lumps. ",
+    "Bring the broth to a simmer and cook until it thickens to a rich, creamy consistency. ",
+    "Stir in the remaining 25g of butter until melted and well combined. ",
+    "Return the seared cod to the saucepan and simmer, gently, until cooked through. ",
+    "Garnish with chopped parsley and serve immediately. ",
+    "Serve with crusty bread or over rice for a more filling meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "french",
+    "low-carb",
+    "lyon",
+    "night-time",
+    "romantic",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "buttery-pillowy-french-fish-fish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-pillowy-french-fish-fish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "cornstarch",
+    "diet": "vegan",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "fish",
+    "descriptor": "Buttery Pillowy",
+    "dishForm": "Fish Stew"
+  }
+}

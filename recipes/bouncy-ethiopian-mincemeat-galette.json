@@ -1,0 +1,89 @@
+{
+  "title": "Bouncy Ethiopian Mincemeat Galette",
+  "description": "A crowd-pleasing Ethiopian dish featuring nutty, fodymap-friendly mincemeat, perfectly balanced by a crunchy exterior and a deliciously moist interior.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pitted Dates",
+      "amount": "6",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pitted Prunes",
+      "amount": "6",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fodmap-friendly Beef Mincemeat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter, Melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted Almond Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fodmap-friendly Spices (e.g. Cinnamon, Ginger, Nutmeg)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Whole Wheat Pastry Dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Egg, Optional",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "Roll out the pastry dough to a thickness of 1/8 inch (3 mm).",
+    "Transfer the dough to a lightly floured baking sheet or pizza stone.",
+    "Spread the mincemeat over the center of the dough, leaving a 1-inch (2.5 cm) border around the edges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-fiber",
+    "mincemeat",
+    "spice-crusted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "bouncy-ethiopian-mincemeat-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-ethiopian-mincemeat-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "mincemeat",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "bouncy",
+    "dishForm": "Galette"
+  }
+}
