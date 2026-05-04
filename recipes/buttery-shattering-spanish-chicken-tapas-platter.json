@@ -1,0 +1,110 @@
+{
+  "title": "Buttery Shattering Spanish Chicken Tapas Platter",
+  "description": "Indulgent Spanish dish featuring peppercorns and crispy chicken served as a tapas platter. Perfect for a dinner gathering with friends.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt, black peppercorns, and smoked paprika.",
+    "Heat the butter and olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken thighs until browned on both sides, about 2 minutes per side.",
+    "Remove the chicken from the skillet and set aside.",
+    "Reduce heat to medium and add the minced garlic to the skillet, cooking for 1 minute.",
+    "Add the thinly sliced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the chicken back to the skillet and squeeze the lemon juice over the top.",
+    "Continue cooking for an additional 5-6 minutes or until the chicken reaches an internal temperature of 165°F.",
+    "Remove the chicken from the skillet and let it rest for a few minutes before slicing.",
+    "Slice the chicken into thin strips and serve immediately.",
+    "Garnish with chopped fresh parsley and serve as a tapas platter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "tapas"
+  ],
+  "nutrition": {
+    "calories": 486,
+    "protein": 38,
+    "carbs": 6,
+    "fat": 40
+  },
+  "slug": "buttery-shattering-spanish-chicken-tapas-platter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-shattering-spanish-chicken-tapas-platter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "peppercorns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Buttery Shattering",
+    "dishForm": "Tapas Platter"
+  }
+}

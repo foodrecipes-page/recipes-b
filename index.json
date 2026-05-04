@@ -280,6 +280,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-aerated-chinese-rice-fried-rice",
+    "title": "Bitter Aerated Chinese Rice",
+    "tags": [
+      "date-night",
+      "egg-free",
+      "one-pan",
+      "polish-presented",
+      "unique-flavors"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-algerian-water-chestnut-stir-fry",
     "title": "Bitter Algerian Water Chestnut Stir-fry",
     "tags": [
@@ -4421,6 +4435,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-dense-german-quinoa-pilaf",
+    "title": "Buttery Dense German Quinoa Pilaf",
+    "tags": [
+      "german",
+      "gluten-free",
+      "one-pan",
+      "paleo",
+      "quinoa"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 27,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-dense-irish-beef-stew",
     "title": "Buttery Dense Irish Beef Stew",
     "tags": [
@@ -5409,6 +5437,20 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-shattering-spanish-chicken-tapas-platter",
+    "title": "Buttery Shattering Spanish Chicken Tapas Platter",
+    "tags": [
+      "dinner-party",
+      "high-protein",
+      "one-pan",
+      "spanish",
+      "tapas"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 32,
     "shard": "b"
   },
   {

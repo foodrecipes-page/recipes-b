@@ -1,0 +1,118 @@
+{
+  "title": "Bitter Aerated Chinese Rice",
+  "description": "A unique, egg-free-friendly Chinese dish that combines bitter flavors with aerated texture and polish presentation, perfect for a date night.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short-grain rice",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Rice wine",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Ground white pepper",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium heat.",
+    "Add ground white pepper and cook for 1 minute.",
+    "Add short-grain rice and stir-fry for 3 minutes.",
+    "Add rice wine and cook until absorbed, then add mirin and stir-fry for another minute.",
+    "Add pickled ginger and cucumber, then stir-fry until the mixture is well combined.",
+    "Add soy sauce and stir-fry for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes, or until the liquid is almost completely absorbed.",
+    "Stir in salt and sugar, then add bitter melon and stir-fry for 2 minutes.",
+    "Remove from heat and let cool slightly, then aerate the rice mixture with a fork to create a light and fluffy texture.",
+    "Transfer the rice mixture to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "egg-free",
+    "one-pan",
+    "polish-presented",
+    "unique-flavors"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 240,
+    "fat": 40
+  },
+  "slug": "bitter-aerated-chinese-rice-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-aerated-chinese-rice-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "brine-wet",
+    "primaryIngredient": "rice wine",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "bitter aerated",
+    "dishForm": "Fried-Rice"
+  }
+}

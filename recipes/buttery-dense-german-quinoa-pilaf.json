@@ -1,0 +1,103 @@
+{
+  "title": "Buttery Dense German Quinoa Pilaf",
+  "description": "A hearty, paleo-friendly German-inspired dish made with quinoa, tandoor chicken and spices.",
+  "cuisine": "German",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tandoor chicken",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the shredded tandoor chicken and cook until heated through.",
+    "Add the cooked quinoa, caraway seeds, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce heat to low and stir in the remaining 1 tablespoon of butter until melted.",
+    "Transfer the quinoa mixture to a serving dish and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "buttery-dense-german-quinoa-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-german-quinoa-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "quinoa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "quinoa",
+    "descriptor": "buttery dense",
+    "dishForm": "Pilaf"
+  }
+}
