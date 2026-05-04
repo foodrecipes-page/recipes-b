@@ -1,0 +1,108 @@
+{
+  "title": "Buttery Adventurous Argentinian Cheese Pasta",
+  "description": "Linguine pasta tossed with coconut cream, cheese, and spicy chorizo, finished with a buttery brown sugar crust.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chorizo sausage",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Cook linguine pasta according to the package instructions until al dente, then set aside.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add sliced chorizo sausage and cook, stirring occasionally, until crispy and golden brown, about 5 minutes.",
+    "Add coconut cream and stir until smooth and heated through, about 2-3 minutes.",
+    "Add gruyère and parmesan cheese to the skillet and stir until melted and smooth.",
+    "Add cooked linguine pasta to the skillet, tossing to combine with the cheese and chorizo mixture.",
+    "Transfer the pasta mixture to a serving dish and sprinkle with brown sugar, flaky sea salt, and crushed red pepper flakes.",
+    "Melt the remaining 2 tablespoons of butter in a small saucepan over low heat until brown and fragrant.",
+    "Pour the brown butter over the pasta mixture and sprinkle with chopped parsley and cilantro (if using).",
+    "Serve immediately, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheese-pull",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "buttery-adventurous-argentinian-cheese-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-adventurous-argentinian-cheese-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:24:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "linguine pasta",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "Buttery Adventurous",
+    "dishForm": "Pasta"
+  }
+}
