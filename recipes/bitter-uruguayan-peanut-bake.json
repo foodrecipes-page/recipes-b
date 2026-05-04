@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Uruguayan Peanut Bake",
+  "description": "A dense, savory, and nutritious Uruguayan-inspired peanut bake that's perfect for meal prep. Made with roasted peanuts and grilled to perfection, this dish is nut-free-friendly and packed with flavor.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Peanuts",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Brown Rice Flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried Dates",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the roasted peanuts, brown rice flour, cocoa powder, dried dates, coconut oil, salt, black pepper, garlic powder, and smoked paprika until well combined.",
+    "Press the mixture into a 9x9-inch baking dish.",
+    "Bake for 25 minutes or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool completely before slicing into squares."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "nut-free",
+    "one-pan",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "bitter-uruguayan-peanut-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-uruguayan-peanut-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "roasted peanut",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "peanut",
+    "descriptor": "bitter",
+    "dishForm": "Bake"
+  }
+}

@@ -2448,6 +2448,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-uruguayan-peanut-bake",
+    "title": "Bitter Uruguayan Peanut Bake",
+    "tags": [
+      "gluten-free",
+      "meal-prep",
+      "nut-free",
+      "one-pan",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-velvety-argentinian-avocado-hass-salad",
     "title": "Bitter Velvety Argentinian Avocado Hass Salad",
     "tags": [
@@ -5513,6 +5528,19 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-peruvian-jjante",
+    "title": "Buttery Peruvian Jjante",
+    "tags": [
+      "flexitarian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {

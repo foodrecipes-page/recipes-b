@@ -1,0 +1,120 @@
+{
+  "title": "Buttery Peruvian Jjante",
+  "description": "A Peruvian dish featuring almond flour, binchotan-charcoal, and a touch of butter to create a pillowy and energizing meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "Make sure to use freshly ground almond flour for the best results."
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "2 tablespoons",
+      "notes": "You can find binchotan charcoal at most Asian grocery stores."
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Unsalted butter works best for this recipe."
+    },
+    {
+      "name": "Diced sweet potato",
+      "amount": "2 medium",
+      "notes": "Use any variety of sweet potato you like."
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": "Red onion adds a nice sweetness to the dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic before adding it to the mixture."
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Make sure to beat the egg before adding it to the mixture."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked paprika adds a nice smokiness to the dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for the best flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground black pepper is always best."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Cilantro adds a nice freshness to the dish."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lime juice is always best."
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "Optional, but adds a nice tanginess to the dish."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the almond flour, binchotan charcoal, and a pinch of salt. Mix well until the charcoal is evenly distributed.",
+    "Add the diced sweet potato, onion, garlic, egg, paprika, salt, and black pepper to the bowl. Mix until everything is well combined.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Heat a large non-stick skillet or griddle over medium heat. Add 2 tablespoons of butter to the skillet and let it melt.",
+    "Add 4-5 patties to the skillet and cook for 3-4 minutes on each side, or until they are golden brown and cooked through.",
+    "Serve the Jjante hot with a dollop of sour cream and a sprinkle of chopped cilantro, if desired.",
+    "Garnish with a squeeze of lime juice and a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 26
+  },
+  "slug": "buttery-peruvian-jjante",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-peruvian-jjante",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "almond flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "buttery",
+    "dishForm": "Jante"
+  }
+}
