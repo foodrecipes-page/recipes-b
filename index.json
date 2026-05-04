@@ -3624,6 +3624,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-cheese-french-biscuits-bowl",
+    "title": "Buttery Cheese French Biscuits Bowl",
+    "tags": [
+      "biscuits",
+      "cheese",
+      "dinner",
+      "french",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-cheese-stir-fry",
     "title": "Buttery Cheese Stir-fry",
     "tags": [

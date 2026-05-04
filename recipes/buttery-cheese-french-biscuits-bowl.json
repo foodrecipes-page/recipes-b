@@ -1,0 +1,68 @@
+{
+  "title": "Buttery Cheese French Biscuits Bowl",
+  "description": "A quick and delicious French-inspired dish featuring buttery cheese, smoky flavors, and crunchy digestive biscuits, all in a warm earthenware bowl. Perfect for a casual dinner or snack.",
+  "cuisine": "French",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Digestive Biscuits",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "60",
+      "notes": ""
+    },
+    {
+      "name": "Gruyère Cheese",
+      "amount": "120",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Arrange the digestive biscuits in the bottom of a large earthenware bowl.",
+    "In a small saucepan over low heat, melt the butter until it reaches a smooth, creamy consistency.",
+    "Pour the melted butter over the biscuits, making sure they're evenly coated."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biscuits",
+    "cheese",
+    "dinner",
+    "french",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "buttery-cheese-french-biscuits-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-cheese-french-biscuits-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "smoke-cold",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "biscuits",
+    "descriptor": "Buttery Cheese",
+    "dishForm": "Bowl"
+  }
+}
