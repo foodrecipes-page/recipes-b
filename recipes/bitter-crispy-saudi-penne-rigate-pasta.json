@@ -1,0 +1,103 @@
+{
+  "title": "Bitter Crispy Saudi Penne Rigate Pasta",
+  "description": "A post-workout dish from Saudi Arabia, featuring bitter flavors and a crispy texture, made with penne rigate pasta and a creamy sauce.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "low-calorie",
+    "gluten-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Penne Rigate Pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "Dried Dates",
+      "amount": "4-6",
+      "notes": "pitted"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium heat.",
+    "Add diced onion and sauté until translucent, about 3-4 minutes.",
+    "Add minced garlic and sauté for another minute.",
+    "Add pitted dates and sauté for 2-3 minutes, until they start to soften.",
+    "Add penne rigate pasta and toss to coat with the date mixture.",
+    "Pour in chilled coconut cream and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 2-3 minutes, until the sauce thickens.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "bitter-crispy-saudi-penne-rigate-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crispy-saudi-penne-rigate-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "penne rigate",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "penne rigate",
+    "descriptor": "bitter crispy",
+    "dishForm": "Pasta"
+  }
+}
