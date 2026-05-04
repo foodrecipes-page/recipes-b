@@ -1,0 +1,112 @@
+{
+  "title": "Briny Springy Egyptian Cherry Tagine",
+  "description": "A show-off Egyptian dish featuring cherries, a tangy fermented kimchi, and a hint of spring freshness. Perfect for a special occasion or when you want to impress your guests.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Cherries",
+      "amount": "2 cups",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fermented Kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Green Olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large clay or ceramic pot over medium heat.",
+    "Add the garlic and ginger and saut\u00037 them for 1 minute.",
+    "Add the green olives, cumin, cayenne pepper (if using), salt, and black pepper. Cook for 2 minutes, stirring occasionally.",
+    "Add the fermented kimchi and cook for 1 minute, stirring constantly.",
+    "Add the fresh cherries and cook for 2-3 minutes, or until they start to release their juice.",
+    "Transfer the mixture to a serving dish and garnish with chopped fresh parsley.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Let the tagine rest for 10-15 minutes before serving to allow the flavors to meld together.",
+    "Reheat the tagine gently before serving, if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "fermented",
+    "gluten-free",
+    "raw-friendly",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "briny-springy-egyptian-cherry-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-springy-egyptian-cherry-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cherries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cherry",
+    "descriptor": "briny springy",
+    "dishForm": "Tagine"
+  }
+}

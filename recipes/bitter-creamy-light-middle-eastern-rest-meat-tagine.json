@@ -1,0 +1,106 @@
+{
+  "title": "Bitter Creamy Light Middle-Eastern Rest-Meat Tagine",
+  "description": "A flavorful and refreshing meat tagine made with tamarind paste, aromatic spices, and creamy yogurt. This dish is low in carbs and suitable for a quick weeknight meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tandoori Chicken Rest-Meat",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "Low-fat or non-fat yogurt."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Plain salt."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "",
+      "optional": false
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the tandoori chicken rest-meat and cook until browned, about 5 minutes.",
+    "Add the tamarind paste, garlic, ginger, paprika, cumin, salt, and black pepper. Stir to combine.",
+    "Pour in the yogurt and stir to create a creamy sauce.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with additional yogurt and fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "bitter-creamy-light-middle-eastern-rest-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-light-middle-eastern-rest-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "rest-meat",
+    "primaryIngredient": "tamarind paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "rest-meat",
+    "descriptor": "bitter creamy light",
+    "dishForm": "tagine"
+  }
+}
