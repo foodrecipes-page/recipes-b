@@ -1,0 +1,94 @@
+{
+  "title": "Bitter Irish Aubergine Bake",
+  "description": "A hearty, crumbly Irish dish featuring aubergine, boiled ham, and a hint of bitterness from the mustard and vinegar.",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "boiled ham",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the aubergine into 1-inch cubes and place on a baking sheet lined with parchment paper.",
+    "Sprinkle the aubergine with salt and let it sit for 10 minutes to draw out excess moisture.",
+    "Rinse the aubergine cubes under cold water and pat dry with a paper towel.",
+    "In a large bowl, combine the onion, boiled ham, flour, mustard powder, salt, and black pepper.",
+    "Add the apple cider vinegar to the bowl and mix until the ingredients are well combined.",
+    "Add the aubergine cubes to the bowl and toss to coat with the mixture.",
+    "Transfer the aubergine mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 15-20 minutes, or until the aubergine is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine-based",
+    "easy-to-make",
+    "irish-cuisine",
+    "kid-friendly",
+    "one-pan",
+    "weeknight-dinner",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "bitter-irish-aubergine-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-irish-aubergine-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T17:31:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "aubergine",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Aubergine",
+    "descriptor": "Bitter",
+    "dishForm": "Bake"
+  }
+}
