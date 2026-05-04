@@ -1,0 +1,97 @@
+{
+  "title": "Briny Airtight Dutch Fish Stamppot",
+  "description": "Fluffy, festive, and briny, this keto-friendly Dutch dish features English mustard and an ice bath shock.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Herring",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "English Mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the potato and cabbage in a large pot of salted water until tender, about 15 minutes.",
+    "Drain the potato and cabbage and mash in a large bowl.",
+    "Add the smoked herring, English mustard, salt, and black pepper to the mashed potato and cabbage.",
+    "Mix well to combine.",
+    "Transfer the mixture to a serving dish and dot the top with unsalted butter.",
+    "Shock the mixture in an ice bath for 10 minutes to stop the cooking process and preserve the color.",
+    "Serve immediately, garnished with chopped fresh parsley if desired.",
+    "Reheat in the microwave or oven if needed, but be careful not to overcook the potato and cabbage.",
+    "This dish is best served hot, but can be refrigerated or frozen for later use.",
+    "When reheating, add a splash of cold water to the dish to restore the brininess of the smoked herring."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "fish",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "smoked-herring"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "briny-airtight-dutch-fish-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-airtight-dutch-fish-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:13:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "english mustard",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "briny airtight",
+    "dishForm": "Stamppot"
+  }
+}
