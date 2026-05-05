@@ -1,0 +1,122 @@
+{
+  "title": "Bouncy Light British Northern Irish Peppery Dish Tart",
+  "description": "A delicate, peppery tart featuring allspice and shio-koji-cure. Perfect for a light breakfast or lunch.",
+  "cuisine": "british",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji-cure",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "minced fresh chives",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground white pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cold water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00061\u00020F (190\u00061\u00020C).",
+    "Roll out the all-purpose flour and butter mixture to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 18 minutes or until lightly golden.",
+    "In a separate bowl, whisk together the shio-koji-cure, black pepper, allspice, eggs, heavy cream, grated cheddar cheese, minced fresh chives, kosher salt, white pepper, and cold water.",
+    "Pour the filling into the baked tart crust and smooth the top.",
+    "Return the tart to the oven and bake for an additional 25 minutes or until the filling is set.",
+    "Allow the tart to cool to room temperature before serving.",
+    "Cover the tart with plastic wrap and refrigerate for at least 30 minutes before serving.",
+    "If the tart does not set properly, refrigerate for an additional 30 minutes or until it has reached the desired consistency."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 43,
+  "totalTimeMin": 88,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "light",
+    "low-sodium",
+    "northern-irish",
+    "peppery",
+    "tart",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 23,
+    "carbs": 44,
+    "fat": 34
+  },
+  "slug": "bouncy-light-british-northern-irish-peppery-dish-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-light-british-northern-irish-peppery-dish-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "allspice",
+    "diet": "low-sodium",
+    "region": "northern-irish",
+    "cuisineAdjective": "light british (northern-irish)",
+    "mainIngredient": "peppery dish",
+    "descriptor": "bouncy",
+    "dishForm": "tart"
+  }
+}
