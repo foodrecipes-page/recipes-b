@@ -4833,6 +4833,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-dutch-onion-bake",
+    "title": "Buttery Dutch Onion Bake",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "easy-side-dish",
+      "high-carb",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-earthy-beans",
     "title": "Buttery Earthy Beans",
     "tags": [

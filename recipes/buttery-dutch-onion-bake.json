@@ -1,0 +1,110 @@
+{
+  "title": "Buttery Dutch Onion Bake",
+  "description": "A delicious, halal-friendly Dutch dish perfect for a lazy Sunday. The buttery glaze adds a crispy texture to the yellow onion.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Onion",
+      "amount": "1 large onion",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1 tsp dried",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Whole Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, melt 1/4 cup of butter over medium heat. Add the chopped onion and cook until softened, about 8 minutes.",
+    "In a separate bowl, mix together the flour, basil, garlic powder, salt, and pepper.",
+    "Add the flour mixture to the skillet with the onion and cook for 1 minute.",
+    "In a separate bowl, whisk together the egg yolks, milk, and a pinch of salt.",
+    "Pour the milk mixture over the onion mixture in the skillet and cook until the mixture thickens, about 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes, or until golden brown and crispy.",
+    "While the bake is in the oven, melt the remaining 1/4 cup of butter in a saucepan over low heat.",
+    "Remove the bake from the oven and brush the melted butter over the top.",
+    "Sprinkle the grated cheddar cheese over the top of the bake and return to the oven for an additional 5-7 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "easy-side-dish",
+    "high-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 18,
+    "carbs": 38,
+    "fat": 16
+  },
+  "slug": "buttery-dutch-onion-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dutch-onion-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "yellow onion",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "onion",
+    "descriptor": "Buttery",
+    "dishForm": "Bake"
+  }
+}
