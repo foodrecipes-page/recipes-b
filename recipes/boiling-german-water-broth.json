@@ -1,0 +1,75 @@
+{
+  "title": "Boiling German Water Broth",
+  "description": "A light, peppery water broth originating from Germany, typically consumed during monsoons. This recipe highlights a macrobiotic-friendly take on the classic German dish.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "2 liters",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a high-mineral salt for best flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 teaspoons",
+      "notes": "freshly ground is best"
+    },
+    {
+      "name": "dill weed",
+      "amount": "1 sprig",
+      "notes": "add a few fresh sprigs for a refreshing twist"
+    }
+  ],
+  "instructions": [
+    "Pour water into a medium saucepan and place it over high heat.",
+    "Add salt and black pepper to the water and stir to combine.",
+    "Bring the water to a rolling boil, using a timer to ensure the water reaches a minimum temperature of 100°C (212°F).",
+    "Reduce heat to a low simmer and allow the broth to cook for 5 minutes, stirring occasionally.",
+    "Add fresh dill weed sprigs to the broth during the last 2 minutes of cooking.",
+    "Remove the saucepan from the heat and let the broth steep for 1 minute before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "german",
+    "light",
+    "macrobiotic",
+    "monsoon",
+    "peppery",
+    "water-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
+  },
+  "slug": "boiling-german-water-broth",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/boiling-german-water-broth",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "boiling water",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "water",
+    "descriptor": "boiling",
+    "dishForm": "Broth"
+  }
+}

@@ -3066,6 +3066,22 @@
     "shard": "b"
   },
   {
+    "slug": "boiling-german-water-broth",
+    "title": "Boiling German Water Broth",
+    "tags": [
+      "easy",
+      "german",
+      "light",
+      "macrobiotic",
+      "monsoon",
+      "peppery",
+      "water-based"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 12,
+    "shard": "b"
+  },
+  {
     "slug": "bok-choy-baiser",
     "title": "Bok Choy Baiser",
     "tags": [
