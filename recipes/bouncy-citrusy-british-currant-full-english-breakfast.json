@@ -1,0 +1,98 @@
+{
+  "title": "Bouncy Citrusy British Currant Full English Breakfast",
+  "description": "A bouncy and citrusy twist on the classic British full English breakfast, featuring currants and a unique mortar and pestle pound method. Perfect for a vegan-friendly breakfast.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Agave leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Currants",
+      "amount": "1 cup",
+      "notes": "Soaked overnight in water"
+    },
+    {
+      "name": "English currant jam",
+      "amount": "2 tbsp",
+      "notes": "Vegan-friendly"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "1 cup",
+      "notes": "Blended into a fine powder using a mortar and pestle"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "Toasted for added crunch"
+    },
+    {
+      "name": "Rice milk",
+      "amount": "1 cup",
+      "notes": "Used for cooking the oat flour mixture"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "",
+      "salt": "1 tsp"
+    },
+    {
+      "name": "Vegan sausages",
+      "amount": "4",
+      "notes": "Traditional British sausages replaced with vegan option"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Pound the oat flour using a mortar and pestle until you get a fine powder.",
+    "Add the currants, rice milk, smoked paprika, and salt to the mortar and pestle and mix until well combined.",
+    "Heat a non-stick pan over medium heat and add the vegan sausages.",
+    "Cook the sausages for 4-6 minutes on each side or until browned and cooked through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "currants",
+    "full-english",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "bouncy-citrusy-british-currant-full-english-breakfast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-citrusy-british-currant-full-english-breakfast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:09:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "currants",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "currant",
+    "descriptor": "Bouncy, Citrusy",
+    "dishForm": "Full English Breakfast"
+  }
+}
