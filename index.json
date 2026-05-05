@@ -3956,6 +3956,23 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-cheese-pull-russian-cheese-pilaf",
+    "title": "Buttery, Cheese-Pull Russian Cheese Pilaf",
+    "tags": [
+      "cheesy",
+      "cold-weather",
+      "comfort-food",
+      "dairy-based",
+      "easy-to-make",
+      "lacto-vegetarian",
+      "one-pan",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-cheese-stir-fry",
     "title": "Buttery Cheese Stir-fry",
     "tags": [

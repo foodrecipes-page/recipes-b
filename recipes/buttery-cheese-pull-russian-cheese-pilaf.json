@@ -1,0 +1,127 @@
+{
+  "title": "Buttery, Cheese-Pull Russian Cheese Pilaf",
+  "description": "A cozy, comforting pilaf originating from Russia, featuring saffron and melted cheese, suitable for a lacto-vegetarian diet, and perfect for a cold evening. This dish is cooked in a comal, a traditional Russian cooking vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting comal"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy alternative"
+    },
+    {
+      "name": "white cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a comal or heavy skillet over medium heat.",
+    "Add 2 tablespoons of butter and let it melt, then dust the comal with flour, swirling the flour to coat the surface.",
+    "Add the onion and garlic and cook, stirring occasionally, until they are lightly browned.",
+    "Add the rice and cook, stirring constantly, for 2 minutes, coating the rice with the butter mixture.",
+    "Add the vegetable broth, milk, salt, and black pepper, then stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 18 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Stir in the saffron threads, white cheddar cheese, and cheddar cheese until the cheese is melted and the pilaf is creamy.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Note: This dish is best made in a comal or a heavy skillet, as it allows for even heat distribution and prevents the rice from burning.",
+    "If using a regular skillet, adjust the heat to prevent burning, and stir the pilaf frequently to ensure it cooks evenly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "cold-weather",
+    "comfort-food",
+    "dairy-based",
+    "easy-to-make",
+    "lacto-vegetarian",
+    "one-pan",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "buttery-cheese-pull-russian-cheese-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-cheese-pull-russian-cheese-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "saffron",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cheese",
+    "descriptor": "Buttery, cheese-pull",
+    "dishForm": "Pilaf"
+  }
+}
