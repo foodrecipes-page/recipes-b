@@ -1,0 +1,93 @@
+{
+  "title": "Buttery Shattering Cranberry Terrine",
+  "description": "This energizing French dish features a buttery filling of cranberries and rendered fat, encased in a crust to create an appealing terrine that breaks apart beautifully.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1/2 cup finely chopped fresh or dried cranberries",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup rendered duck fat",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups whole milk ricotta cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup finely ground almonds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup semolina flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the cranberries with the duck fat and butter.",
+    "Gently fold in the salt and milk ricotta cheese until fully combined.",
+    "Add the ground almonds and semolina flour, stirring until smooth and thickening begins to occur.",
+    "Pour the mixture into an 8-inch terrine mold, smoothing out any air bubbles or lumps.",
+    "Cover with plastic wrap, and chill in the refrigerator for at least 4 hours.",
+    "To serve, run a hot knife around the edge of the terrine to loosen it from the sides. Break apart gently with your hands, making sure not to break all the way through to keep it intact visually.",
+    "Drizzle lemon juice over each portion as desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 0,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crab-apple",
+    "dessert-terrine",
+    "energizing",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "buttery-shattering-cranberry-terrine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-shattering-cranberry-terrine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T17:44:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "render-fat",
+    "primaryIngredient": "cranberry",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Cranberries",
+    "descriptor": "Buttery Shattering",
+    "dishForm": "Terrine"
+  }
+}
