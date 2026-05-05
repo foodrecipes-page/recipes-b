@@ -1,0 +1,92 @@
+{
+  "title": "Buttery Crunchy Malaysian Tortillas Quesadilla",
+  "description": "Date-night dish featuring crispy tortillas, sweet pickled onions, and spicy chili flakes. Perfect for anti-inflammatory diets and served on a salt block.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "corn tortillas, preferably day-old"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "Pickle Slices",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Place a tortilla in the skillet for 30 seconds on each side.",
+    "Flip the tortilla and top with a tablespoon of butter.",
+    "Place pickle slices, chili flakes, and minced garlic on half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for an additional 2-3 minutes or until the tortilla is crispy and golden brown.",
+    "Repeat with remaining tortillas and filling.",
+    "Serve immediately on a preheated salt block.",
+    "Garnish with additional pickle slices and chili flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "date-night",
+    "gluten-free",
+    "healthy",
+    "malaysian",
+    "salt-block",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "buttery-crunchy-malaysian-tortillas-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-malaysian-tortillas-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "tortillas",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "tortillas",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Quesadilla"
+  }
+}
