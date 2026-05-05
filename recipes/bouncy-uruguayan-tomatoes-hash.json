@@ -1,0 +1,106 @@
+{
+  "title": "bouncy uruguayan tomatoes hash",
+  "description": "a delicious, paleo-friendly dish featuring chopped tomatoes with a satisfying crunch and a touch of Uruguayan flair, perfect for a weekend brunch.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large tomatoes",
+      "amount": "3",
+      "notes": "cored and chopped, 1-inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "heat the avocado oil in a large skillet over medium-high heat.",
+    "add the diced bacon and cook until crispy, about 5 minutes.",
+    "remove the bacon from the skillet and set aside.",
+    "add the chopped onion and cook until translucent, about 3 minutes.",
+    "add the diced red bell pepper and cook for an additional 2 minutes.",
+    "add the chopped tomatoes, salt, and black pepper to the skillet.",
+    "stir to combine and cook for 5-7 minutes, until the tomatoes are tender but still slightly firm.",
+    "stir in the minced garlic and cook for 1 minute.",
+    "serve the hash hot, garnished with chopped fresh parsley.",
+    "crumble the cooked bacon on top, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "hash",
+    "one-pan",
+    "paleo",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 26,
+    "fat": 30
+  },
+  "slug": "bouncy-uruguayan-tomatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-uruguayan-tomatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:13Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tomatoes",
+    "descriptor": "bouncy",
+    "dishForm": "Hash"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Bitter Canadian Eggs Frittata",
+  "description": "A crumbly, cozy Canadian dish featuring free-range eggs beaten with confit-tomato, perfect for a low-glycemic-friendly breakfast or brunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Free-range eggs",
+      "amount": "6",
+      "notes": "large eggs, beaten"
+    },
+    {
+      "name": "Confit tomato",
+      "amount": "1 cup",
+      "notes": "diced, low-acid tomato puree"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "coarsely chopped, fresh herb"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "medium-sharp, grated, low-glycemic-friendly"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "plain, kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground, coarse pepper"
+    },
+    {
+      "name": "Bacon drippings",
+      "amount": "2 tbsp",
+      "notes": "rendered, crispy bacon fat"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh herb"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the bacon drippings over medium heat.",
+    "Add the chopped dill and sauté for 1 minute, until fragrant.",
+    "In a large bowl, whisk together the beaten eggs, confit tomato, grated cheddar cheese, salt, and black pepper.",
+    "Pour the egg mixture over the cooked dill mixture and cook until the eggs start to set, about 3-4 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and let it cool for 5 minutes.",
+    "Use a spatula to loosen the edges of the frittata and transfer it to a serving plate.",
+    "Garnish with chopped fresh parsley and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "canadian",
+    "crunchy",
+    "frittata",
+    "low-glycemic-friendly",
+    "veggie-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "bitter-canadian-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-canadian-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:54Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "eggs",
+    "descriptor": "bitter",
+    "dishForm": "Frittata"
+  }
+}

@@ -356,6 +356,21 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-canadian-eggs-frittata",
+    "title": "Bitter Canadian Eggs Frittata",
+    "tags": [
+      "bitter",
+      "canadian",
+      "crunchy",
+      "frittata",
+      "low-glycemic-friendly",
+      "veggie-dinner"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-caramelized-kenyan-sweet-potato-stir-fry",
     "title": "Bitter Caramelized Kenyan Sweet Potato Stir-fry",
     "tags": [
@@ -3109,6 +3124,20 @@
     "shard": "b"
   },
   {
+    "slug": "bouncy-light-syrian-oil-fritters",
+    "title": "Bouncy-Light Syrian Oil Fritters",
+    "tags": [
+      "deep-fried",
+      "fritter",
+      "snack",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "bouncy-spanish-farfalle-pasta",
     "title": "Bouncy Spanish Farfalle Pasta",
     "tags": [
@@ -3120,6 +3149,22 @@
     ],
     "cuisine": "spanish",
     "totalTimeMin": 27,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-uruguayan-tomatoes-hash",
+    "title": "bouncy uruguayan tomatoes hash",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "hash",
+      "one-pan",
+      "paleo",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
