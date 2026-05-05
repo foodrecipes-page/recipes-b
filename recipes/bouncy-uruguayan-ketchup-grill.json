@@ -1,0 +1,96 @@
+{
+  "title": "Bouncy Uruguayan Ketchup Grill",
+  "description": "A pescatarian-friendly weeknight dish featuring ketchup and crispy katsuramuki-cut zucchini, with a floral and bouncy twist. Perfect for a quick and easy dinner.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sliced zucchini",
+      "amount": "1 cup",
+      "notes": "use katsuramuki-cut for crispy texture"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing zucchini"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for color and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Brush sliced zucchini with olive oil and season with garlic powder, paprika, salt, and pepper.",
+    "Grill zucchini slices for 3-4 minutes per side, or until crispy and tender.",
+    "In a small bowl, mix together ketchup and a pinch of salt.",
+    "Brush ketchup mixture onto grilled zucchini slices.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "grill",
+    "ketchup",
+    "pescatarian",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "bouncy-uruguayan-ketchup-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-uruguayan-ketchup-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "ketchup",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "ketchup",
+    "descriptor": "bouncy",
+    "dishForm": "grill"
+  }
+}

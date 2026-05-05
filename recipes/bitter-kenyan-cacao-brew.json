@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Kenyan Cacao Brew",
+  "description": "A traditional Kenyan dish made with cacao and rendered fat, perfect for satisfying midnight cravings while adhering to Ayurvedic and sattvic dietary principles.",
+  "cuisine": "Kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cacao nibs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rendered beef tallow",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use filtered water to maintain the brew's sattvic properties."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom pods",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ayurvedic ghee",
+      "amount": "1 tablespoon",
+      "notes": "Optional for added sattvic benefits."
+    }
+  ],
+  "instructions": [
+    "Combine cacao nibs, rendered beef tallow, water, ginger, cardamom pods, salt, and black pepper in a small saucepan.",
+    "Heat the mixture over medium heat, whisking constantly.",
+    "Bring the mixture to a simmer, but do not allow it to boil.",
+    "Continue to whisk the mixture for another 2-3 minutes, until it thickens slightly and the flavors meld together.",
+    "Remove the saucepan from the heat and stir in the Ayurvedic ghee, if using.",
+    "Allow the brew to cool slightly before serving.",
+    "Strain the brew through a fine-mesh sieve into a serving cup or mug.",
+    "Serve immediately, while still warm and molten.",
+    "Garnish with a sprinkle of cacao nibs, if desired.",
+    "Enjoy the rich, bitter flavors of the Bitter Kenyan Cacao Brew."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "bitter",
+    "cacao",
+    "high-fat",
+    "kenyan",
+    "midnight",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "bitter-kenyan-cacao-brew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-kenyan-cacao-brew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "render-fat",
+    "primaryIngredient": "cacao",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cacao",
+    "descriptor": "bitter",
+    "dishForm": "Brew"
+  }
+}

@@ -2234,6 +2234,22 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-kenyan-cacao-brew",
+    "title": "Bitter Kenyan Cacao Brew",
+    "tags": [
+      "ayurvedic",
+      "bitter",
+      "cacao",
+      "high-fat",
+      "kenyan",
+      "midnight",
+      "sattvic"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-kenyan-mushrooms-toast",
     "title": "Bitter Kenyan Mushrooms Toast",
     "tags": [
@@ -3190,6 +3206,21 @@
     ],
     "cuisine": "spanish",
     "totalTimeMin": 27,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-uruguayan-ketchup-grill",
+    "title": "Bouncy Uruguayan Ketchup Grill",
+    "tags": [
+      "easy",
+      "grill",
+      "ketchup",
+      "pescatarian",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 18,
     "shard": "b"
   },
   {
@@ -4278,6 +4309,18 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crispy-croatian-pastry-pierogi",
+    "title": "Buttery Crispy Croatian Pastry Pierogi",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {

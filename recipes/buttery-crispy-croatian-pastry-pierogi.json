@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Crispy Croatian Pastry Pierogi",
+  "description": "A delicious show-off dish featuring crispy pastry, dill pickles, and namul-blanch-season. A perfect high-protein option for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": "chilled in the refrigerator for 30 minutes"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dill pickles, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, softened butter, egg, and salt in a bowl to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter.",
+    "Place a rounded tablespoon of grated cheese, chopped pickles, and namul-blanch-season in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal.",
+    "Heat a large skillet over medium-high heat.",
+    "Add a small amount of oil to the skillet and cook the pierogi for 2 minutes on each side until golden brown.",
+    "Serve hot with a side of sour cream or applesauce."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "buttery-crispy-croatian-pastry-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-croatian-pastry-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "dill pickles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "pastry",
+    "descriptor": "buttery crispy",
+    "dishForm": "pierogi"
+  }
+}
