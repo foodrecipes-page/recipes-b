@@ -1,0 +1,99 @@
+{
+  "title": "Buttery Aerated Normandy French Macaron",
+  "description": "This is a paleo-friendly, buttery, and aerated version of the classic French macaron, inspired by the flavors of Normandy, featuring a spicy kick from doubanjiang.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "powdered"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": "room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tbsp",
+      "notes": "spicy Szechuan pepper paste"
+    },
+    {
+      "name": "grated Gruy\u00032re",
+      "amount": "1/4 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "fine sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 375\u000282F (190\u000282C).",
+    "In a medium bowl, sift together the almond flour and granulated sugar.",
+    "In a separate bowl, whisk together the eggs, softened butter, doubanjiang, grated Gruy\u00032re, vanilla extract, and salt until smooth.",
+    "Fold the sifted almond flour mixture into the egg mixture until well combined.",
+    "Transfer the mixture to a piping bag fitted with a round tip.",
+    "Pipe small, round circles onto a parchment-lined baking sheet.",
+    "Tap the baking sheet gently to remove any air bubbles.",
+    "Grill the macarons for 1-2 minutes on each side, until the edges are golden brown and the centers are firm.",
+    "Allow the macarons to cool completely before serving.",
+    "Once cool, sandwich a small dollop of buttercream between two macarons for a decadent treat.",
+    "Buttercream: Beat together 1/4 cup of softened butter and 1 cup of powdered sugar until smooth and creamy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "doubanjiang",
+    "french",
+    "grilled",
+    "macaron",
+    "normandy",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 80
+  },
+  "slug": "buttery-aerated-normandy-french-macaron",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-aerated-normandy-french-macaron",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "doubanjiang",
+    "diet": "paleo",
+    "region": "normandy",
+    "cuisineAdjective": "Normandy",
+    "mainIngredient": "French",
+    "descriptor": "Buttery Aerated",
+    "dishForm": "Macaron"
+  }
+}
