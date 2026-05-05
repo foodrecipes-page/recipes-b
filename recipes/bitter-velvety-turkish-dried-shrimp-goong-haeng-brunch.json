@@ -1,0 +1,124 @@
+{
+  "title": "Bitter Velvety Turkish Dried-shrimp-goong-haeng Brunch",
+  "description": "A rich, savory brunch dish featuring dried shrimp-goong-haeng and low-glycemic ingredients, with a hint of bitterness from the cured elements.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried-goong-haeng shrimp",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Cured goong-haeng (store-bought)",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Low-glycemic white rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Freshly squeezed lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cured black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the dried goong-haeng shrimp, cured goong-haeng, and low-glycemic white rice in a bowl, breaking up any lumps with a fork.",
+    "Add the extra-virgin olive oil, fresh parsley, fresh dill, low-sodium soy sauce, and freshly squeezed lemon juice to the bowl, stirring to combine.",
+    "Season the mixture with ground black pepper, garlic powder, cured black pepper, salt, and Turkish red pepper flakes, stirring to combine.",
+    "Heat a large skillet over medium heat, with a small amount of oil to prevent sticking, and sauté the goong-haeng mixture for 3-4 minutes, stirring frequently, until it reaches an internal temperature of 165°F (74°C).",
+    "Serve the Bitter Velvety Turkish Dried-shrimp-goong-haeng Brunch hot, garnished with fresh parsley and lemon wedges, if desired.",
+    "Adjust seasoning as needed.",
+    "Let the dish rest for a few minutes before serving.",
+    "Use a food thermometer to ensure the dish has reached a safe internal temperature.",
+    "Serve with a dollop of low-glycemic yogurt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "low-glycemic",
+    "seafood",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "bitter-velvety-turkish-dried-shrimp-goong-haeng-brunch",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-velvety-turkish-dried-shrimp-goong-haeng-brunch",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:24Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Dried-shrimp-goong-haeng",
+    "descriptor": "Bitter, velvety",
+    "dishForm": "Brunch"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Bitter Comforting American Water Chestnut Stone-Bowl-Dolsot",
+  "description": "This unique dish combines the bitterness of kale and radicchio with the comforting sweetness of roasted water chestnuts, all in a crispy stone-bowl.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "curly, stems removed"
+    },
+    {
+      "name": "radicchio",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "stone-bowl-crackers",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the water chestnuts with olive oil, garlic, salt, and black pepper on a baking sheet.",
+    "Roast the water chestnuts for 15 minutes, or until tender.",
+    "In a blender or food processor, combine the roasted water chestnuts, kale, radicchio, white wine vinegar, and honey.",
+    "Blend the mixture until smooth.",
+    "Heat a tablespoon of olive oil in the stone-bowl over medium heat.",
+    "Add the stone-bowl-crackers to the stone-bowl and cook for 2-3 minutes, or until crispy.",
+    "Transfer the stone-bowl-crackers to a plate.",
+    "Spoon the water chestnut and kale mixture into the stone-bowl.",
+    "Top with the stone-bowl-crackers and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "lacto-vegetarian",
+    "stone-bowl-dolsot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "bitter-comforting-american-water-chestnut-stone-bowl-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-comforting-american-water-chestnut-stone-bowl-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "water chestnut",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "water chestnut",
+    "descriptor": "bitter comforting",
+    "dishForm": "Stone-Bowl-Dolsot"
+  }
+}

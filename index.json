@@ -586,6 +586,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-comforting-american-water-chestnut-stone-bowl-dolsot",
+    "title": "Bitter Comforting American Water Chestnut Stone-Bowl-Dolsot",
+    "tags": [
+      "american-classics",
+      "comfort-food",
+      "lacto-vegetarian",
+      "stone-bowl-dolsot"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-creamy-canadian-roast-butternut-squash-stir-fry",
     "title": "Bitter Creamy Canadian Roast Butternut Squash Stir-fry",
     "tags": [
@@ -2641,6 +2654,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 23,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-velvety-turkish-dried-shrimp-goong-haeng-brunch",
+    "title": "Bitter Velvety Turkish Dried-shrimp-goong-haeng Brunch",
+    "tags": [
+      "brunch",
+      "gluten-free",
+      "low-glycemic",
+      "seafood",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
