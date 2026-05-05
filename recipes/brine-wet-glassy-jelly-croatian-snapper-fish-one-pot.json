@@ -1,0 +1,99 @@
+{
+  "title": "Brine-wet Glassy-jelly Croatian Snapper Fish One-Pot",
+  "description": "A keto-friendly, umami-packed one-pot dish featuring snapper fish from Croatia, cooked to a glassy-jelly texture. Serve with a side of steamed vegetables for a complete meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fish fillets",
+      "amount": "4",
+      "notes": "preferably fresh, 6 oz each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the snapper fish fillets and cook for 2-3 minutes per side, until browned.",
+    "Add the white wine vinegar, water, salt, black pepper, dried dill weed, and dried parsley to the pot. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10-12 minutes, or until the fish is cooked through and the liquid has reduced to a glaze.",
+    "Remove the pot from the heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fish",
+    "glassy-jelly",
+    "keto-friendly",
+    "one-pan",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 28
+  },
+  "slug": "brine-wet-glassy-jelly-croatian-snapper-fish-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/brine-wet-glassy-jelly-croatian-snapper-fish-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "brine-wet",
+    "primaryIngredient": "snapper fish",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "snapper fish",
+    "descriptor": "brine-wet glassy-jelly",
+    "dishForm": "one-pot"
+  }
+}
