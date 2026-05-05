@@ -1,0 +1,93 @@
+{
+  "title": "Bitter Snappy Turkish Vine Leaves Xpide Kadhai",
+  "description": "A low-glycemic-friendly date-night dish featuring vine leaves simmered in a nimono-style sauce, perfect for the palate and stomach alike.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": 12,
+      "notes": "fresh and tender"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 pcs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "2 pcs",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "vine leaves filling",
+      "amount": "4 pcs",
+      "notes": "pre-made or cooked separately"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees F.",
+    "Heat olive oil in a kadhai over medium heat, add onions and garlic, cook until translucent.",
+    "Add carrots and continue cooking for about 10 minutes.",
+    "Stir in pomegranate molasses and salt. Simmer for another minute.",
+    "Carefully place vine leaves on top of the vegetables, ensuring they're fully coated with the sauce.",
+    "Fold or roll the vine leaves to form a pakode-like shape, place them inside the kadhai.",
+    "Bake in preheated oven for 20-25 minutes until golden brown and crisp.",
+    "Serve hot as a low-glycemic-friendly side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "bitter-snappy-turkish-vine-leaves-xpide-kadhai",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-snappy-turkish-vine-leaves-xpide-kadhai",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:47:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "vine leaves",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Bitter Snappy",
+    "dishForm": "Xpide Kadhai"
+  }
+}
