@@ -1,0 +1,115 @@
+{
+  "title": "Buttery Jamaican Date-night Tagine",
+  "description": "A rich and flavorful Jamaican-inspired tagine featuring dates, a hint of allspice, and a crunchy sprinkle of sesame seeds. Perfect for a cozy evening in with your loved one.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crab meat",
+      "amount": "8 ounces",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a ttukbaegi earthenware pot over medium heat.",
+    "Add onion and saut\u00132 until translucent, about 5 minutes.",
+    "Add ginger and garlic and saut\u00132 for 1 minute.",
+    "Add dates, five spice powder, allspice, salt, and black pepper. Stir to combine.",
+    "Add coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 15 minutes, stirring occasionally.",
+    "Stir in crab meat, if using.",
+    "Transfer to serving bowls and garnish with sesame seeds.",
+    "Serve warm, accompanied by steamed rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "kosher-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "buttery-jamaican-date-night-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-jamaican-date-night-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Date-night dish",
+    "descriptor": "Buttery",
+    "dishForm": "Tagine"
+  }
+}
