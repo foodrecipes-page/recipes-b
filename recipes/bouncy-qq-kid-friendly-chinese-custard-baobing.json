@@ -1,0 +1,110 @@
+{
+  "title": "Bouncy-QQ Custard Baobing",
+  "description": "A kid-friendly Chinese dessert featuring a bouncy-qq custard and a crunchy namul-blanch-season topping.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "shojin-friendly vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix together the flour, butter, and sugar until a crumbly mixture forms.",
+    "Press the mixture into the bottom of a 9x13-inch baking dish.",
+    "Bake for 20 minutes, or until lightly golden brown.",
+    "Meanwhile, whisk together the eggs, milk, and salt in a separate bowl.",
+    "Add the cornstarch to the egg mixture and whisk until smooth.",
+    "Pour the egg mixture over the baked crust and smooth the top.",
+    "Bake for an additional 20-25 minutes, or until the custard is set and lightly golden brown.",
+    "While the custard is baking, mix together the namul-blanch-season and shojin-friendly vegetable oil in a small bowl.",
+    "When the custard is done, sprinkle the namul-blanch-season mixture over the top and serve warm.",
+    "Let the Baobing cool to room temperature before serving.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld together.",
+    "Serve chilled, garnished with additional namul-blanch-season if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bouncy-qq",
+    "chinese",
+    "dessert",
+    "kid-friendly",
+    "namul-blanch-season"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-kid-friendly-chinese-custard-baobing",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "custard",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "kid-friendly chinese",
+    "mainIngredient": "custard",
+    "descriptor": "bouncy-qq",
+    "dishForm": "Baobing"
+  }
+}
