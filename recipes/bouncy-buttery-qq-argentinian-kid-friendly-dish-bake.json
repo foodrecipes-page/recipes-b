@@ -1,0 +1,86 @@
+{
+  "title": "Buttery Bouncy Qq Argentinian Kid-Friendly Scallop-Shell Bake",
+  "description": "A fun and kid-friendly Argentinian dish perfect for a family dinner! This bake features a bouncy QQ texture from the scallop shells, along with a delicious buttery flavor.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallop Shells",
+      "amount": "12",
+      "notes": "Large, clean shells are best for this recipe."
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Choose a mild lettuce variety."
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "Salted or unsalted, whichever you prefer."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality oil for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Don't overdo it, salt is not necessary in large quantities."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "a few grinds",
+      "notes": "Freshly ground pepper is always best."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Rinse the scallop shells and pat them dry with a paper towel.",
+    "Cut the lettuce into small pieces and place them in the scallop shells.",
+    "Cut the butter into small pieces and place them on top of the lettuce.",
+    "Drizzle the olive oil over the lettuce and butter.",
+    "Sprinkle the salt and black pepper over the top.",
+    "Place the scallop shells on a baking sheet and bake for 15 minutes.",
+    "Remove the shells from the oven and let them cool for a few minutes.",
+    "Serve the bouncy, buttery qq Argentinian kid-friendly dish hot, garnished with additional lettuce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "kid-friendly",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "bouncy-buttery-qq-argentinian-kid-friendly-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-buttery-qq-argentinian-kid-friendly-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "salt-bake",
+    "primaryIngredient": "lettuce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "kid-friendly dish",
+    "descriptor": "bouncy, buttery, qq",
+    "dishForm": "Bake"
+  }
+}
