@@ -1,0 +1,119 @@
+{
+  "title": "Bitter Jelly Croatian Semolina Pilaf",
+  "description": "A date-night Croatian dish featuring semolina, beurre-monte, and ayurvedic-sattvic-friendly ingredients. This bitter jelly pilaf is perfect for a special occasion or romantic evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Grape juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rose petals",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine semolina and water in a medium saucepan and bring to a boil.",
+    "Reduce heat to low and cook, stirring constantly, for 20 minutes or until the mixture has thickened.",
+    "Add cinnamon, cardamom, ginger, and turmeric to the saucepan and stir to combine.",
+    "Add raisins and rose petals to the saucepan and continue to cook for an additional 5 minutes.",
+    "Remove the saucepan from the heat and let cool slightly.",
+    "Mix in beurre-monte, maple syrup, and grape juice until well combined.",
+    "Pour the mixture into individual serving cups and refrigerate until chilled and set.",
+    "Refrigerate for at least 2 hours or overnight before serving.",
+    "Serve cold and garnish with additional rose petals if desired.",
+    "To make beurre-monte, whip heavy cream until stiff peaks form, then mix in maple syrup until well combined."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dessert",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "bitter-jelly-croatian-semolina-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-jelly-croatian-semolina-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "semolina",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "semolina",
+    "descriptor": "bitter jelly",
+    "dishForm": "Pilaf"
+  }
+}

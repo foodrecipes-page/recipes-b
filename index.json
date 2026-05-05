@@ -2027,6 +2027,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-jelly-croatian-semolina-pilaf",
+    "title": "Bitter Jelly Croatian Semolina Pilaf",
+    "tags": [
+      "date-night",
+      "dessert",
+      "sattvic",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-joy-moroccan-reviver",
     "title": "Bitter Joy Moroccan Reviver",
     "tags": [
@@ -3119,6 +3132,28 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "braised-mexican-goat-meat-tacos",
+    "title": "Braised Mexican Goat Meat Tacos",
+    "tags": [
+      "browned",
+      "chili-spiced",
+      "gluten-free",
+      "goat-meat",
+      "jalisco-style",
+      "mexican",
+      "one-pan",
+      "romantic",
+      "slow-cooker",
+      "spicy",
+      "tacos",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 270,
     "shard": "b"
   },
   {

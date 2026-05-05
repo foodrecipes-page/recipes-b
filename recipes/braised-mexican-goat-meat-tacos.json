@@ -1,0 +1,147 @@
+{
+  "title": "Braised Mexican Goat Meat Tacos",
+  "description": "Tender goat meat, slow-cooked in a rich, spicy sauce, served in a crispy taco shell, a classic Jalisco-style dish.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless goat meat",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "In a large Dutch oven, heat the lard or oil over medium-high heat.",
+    "Add the goat meat and cook until browned on all sides, 5-7 minutes.",
+    "Add the ancho chili powder, cumin, coriander, paprika, and chipotle peppers. Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Transfer the Dutch oven to the preheated oven and braise the goat meat for 2 1/2 hours, or until tender.",
+    "While the goat meat is cooking, toast the tortillas by wrapping them in foil and heating them in the oven for 10 minutes.",
+    "Once the goat meat is cooked, shred it with two forks and stir in the tomato paste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the goat meat mixture onto a tortilla and topping with shredded cheese, a dollop of sour cream, and a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional cilantro, if desired.",
+    "Serve with your favorite taco toppings, such as diced tomatoes, shredded lettuce, or diced avocado.",
+    "Make sure to serve with a side of warm tortilla chips or tostadas, for a crunchy snack.",
+    "If you want to make this recipe more substantial, serve with a side of Mexican street corn or a simple green salad.",
+    "For a spicy kick, add diced jalapeños or serrano peppers to the goat meat mixture.",
+    "For a vegetarian version, substitute the goat meat with roasted portobello mushrooms or sautéed spinach.",
+    "To make this recipe ahead of time, braise the goat meat a day in advance, then reheat it before assembling the tacos.",
+    "To make this recipe gluten-free, substitute the all-purpose flour with gluten-free flour or omit the flour altogether.",
+    "To make this recipe vegan, substitute the lard or oil with vegan oil and omit the cheese and sour cream.",
+    "For a more intense flavor, use beef broth instead of chicken broth.",
+    "To make this recipe in a slow cooker, brown the goat meat and cook the sauce in a skillet, then transfer everything to the slow cooker and cook on low for 6-8 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "browned",
+    "chili-spiced",
+    "gluten-free",
+    "goat-meat",
+    "jalisco-style",
+    "mexican",
+    "one-pan",
+    "romantic",
+    "slow-cooker",
+    "spicy",
+    "tacos",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 56,
+    "carbs": 20,
+    "fat": 44
+  },
+  "slug": "braised-mexican-goat-meat-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/braised-mexican-goat-meat-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "goat meat",
+    "diet": "no-onion-no-garlic",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "goat meat",
+    "descriptor": "braised",
+    "dishForm": "Tacos"
+  }
+}
