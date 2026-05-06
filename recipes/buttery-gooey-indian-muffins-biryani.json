@@ -1,0 +1,97 @@
+{
+  "title": "Buttery Gooey Indian Muffins Biryani",
+  "description": "A crowd-pleasing Indian dish featuring muffins and a layer of melted butter.\nThis recipe is dairy-free friendly and perfect for a snack or dessert.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted for topping"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "for brushing muffins"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together almond milk, melted butter, eggs, and vanilla extract."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dairy-free",
+    "easy",
+    "indian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 6,
+    "carbs": 56,
+    "fat": 14
+  },
+  "slug": "buttery-gooey-indian-muffins-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gooey-indian-muffins-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "muffins",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "muffins",
+    "descriptor": "buttery gooey",
+    "dishForm": "Biryani"
+  }
+}
