@@ -1,0 +1,114 @@
+{
+  "title": "Bitter Roasted Australian Peanut Skewers",
+  "description": "A date-night dish from Australia featuring peanuts, soffritto, and peanut oil that is ayurvedic sattvic friendly.",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian peanuts",
+      "amount": "1 cup",
+      "notes": "unsalted, raw"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Green chili",
+      "amount": "1 small",
+      "notes": "seeds removed, finely chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "kosher or flake salt"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine peanuts, peanut oil, onion, garlic, ginger, and green chili in a bowl.",
+    "Mix well to combine and set aside for 15 minutes to allow the flavors to meld.",
+    "Thread the peanut mixture onto skewers, leaving a small space between each peanut.",
+    "Brush the skewers with soy sauce and honey, then sprinkle with garam masala and salt.",
+    "Preheat the grill to medium-high heat.",
+    "Grill the skewers for 5-7 minutes on each side, or until the peanuts are crispy and golden brown.",
+    "Serve immediately, garnished with chopped cilantro.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Slice the skewers into individual portions if desired.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "date-night",
+    "peanut-skewers",
+    "sattvic",
+    "soy-free"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 50
+  },
+  "slug": "bitter-roasted-australian-peanut-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-roasted-australian-peanut-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:10:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "soffritto-base",
+    "primaryIngredient": "peanut oil",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "peanuts",
+    "descriptor": "bitter roasted",
+    "dishForm": null
+  }
+}
