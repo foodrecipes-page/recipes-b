@@ -1,0 +1,74 @@
+{
+  "title": "Buttery Dutch Kid-Friendly Soffritto Dutch Soffritto Hash",
+  "description": "A dense and delicious Dutch dish perfect for kids, made with soffritto base, orange juice, and a hint of butter.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "4",
+      "notes": "Unsalted, melted"
+    }
+  ],
+  "instructions": [
+    "In a molcajete, heat 2 tablespoons of melted butter over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the shredded cabbage, grated carrots, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the soffritto base, orange juice, salt, pepper, and saffron, mix well.",
+    "Add the chopped fresh parsley and mix well.",
+    "In a separate bowl, beat the eggs. ",
+    "Add the beaten eggs and mix well, until a pancake batter forms.",
+    "Add the all-purpose flour and mix well, until a dough forms.",
+    "Heat a non-stick pan over medium heat.",
+    "Divide the dough into small portions and shape into small balls.",
+    "Roll each ball into a flat disc and add to the pan, cooking until golden brown, about 2-3 minutes per side.",
+    "Repeat with the remaining dough, adding more butter as needed.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "all-purpose-flour",
+    "beaten-eggs",
+    "dutch-dish",
+    "eggs",
+    "hash",
+    "kid-friendly",
+    "mexican-inspired",
+    "molcajete",
+    "onion-based",
+    "orange-juice",
+    "parsley",
+    "saffron",
+    "soffritto",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 36,
+    "carbs": 72,
+    "fat": 48
+  },
+  "slug": "buttery-dutch-kid-friendly-soffritto-dutch-soffritto-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dutch-kid-friendly-soffritto-dutch-soffritto-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "soffritto-base",
+    "primaryIngredient": "orange juice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Soffritto",
+    "descriptor": "Buttery Dutch Kid-Friendly Soffritto",
+    "dishForm": "Hash"
+  }
+}

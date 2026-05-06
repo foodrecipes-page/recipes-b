@@ -1,0 +1,120 @@
+{
+  "title": "Brine-dry British Sea Bass Finger Sandwich",
+  "description": "Cultured, crunchy finger sandwich perfect for British afternoon tea, made with delicate sea bass and served on crispy bread.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sourdough Bread",
+      "amount": "8 slices",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for brine"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the brine by mixing 1 cup of water, 1 tsp of salt, 1 tsp of brown sugar, and 1 tsp of black pepper in a bowl until the sugar and salt dissolve.",
+    "Add the sea bass fillets to the brine and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F (200°C).",
+    "Gently remove the sea bass fillets from the brine and pat them dry with paper towels.",
+    "Cut the sourdough bread into 1-inch cubes and toast until crispy.",
+    "Cut the sea bass fillets into 1-inch pieces and sprinkle with lemon zest and sea salt.",
+    "Assemble the finger sandwiches by spreading a layer of vegan butter on each toasted bread cube, then topping with a piece of sea bass, a sprinkle of chopped fresh dill and chives, and finally another bread cube.",
+    "Garnish with a sprinkle of sea salt and a slice of lemon on top of each sandwich.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british",
+    "finger-food",
+    "gluten-free",
+    "seafood",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "brine-dry-british-sea-bass-finger-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/brine-dry-british-sea-bass-finger-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "sea bass",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Sea Bass",
+    "descriptor": "Brine-dry",
+    "dishForm": "finger sandwich"
+  }
+}
