@@ -1,0 +1,82 @@
+{
+  "title": "Buttery Glassy-Jelly Wholesome Puy-lentils Bowl",
+  "description": "An adventurous Tunisian dish featuring glassy-jelly puy-lentils in a buttery blend of flavors and textures, perfect as an accompaniment to any meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup dried Puy lentils",
+      "amount": 250
+    },
+    {
+      "name": "6 cups water",
+      "amount": 6000
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can (8 oz) coconut milk",
+      "amount": "8oz"
+    },
+    {
+      "name": "1 tbsp butter",
+      "amount": 10
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": 5000
+    },
+    {
+      "name": "1/4 cup fresh dill, chopped (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse and pick out any debris from the lentils.",
+    "In a large pot, combine lentils with water. Bring to a boil then reduce heat to low, cover and simmer for about 45 minutes or until tender.",
+    "Meanwhile, in a blender, puree onion, garlic, coconut milk, butter, salt, and dill (if using) into a smooth consistency. Taste and adjust seasoning as needed.",
+    "When the lentils are done, mix them with the blended mixture and serve hot.",
+    "Optional: Garnish with fresh herbs like parsley or cilantro for extra color and flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "gluten-free",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "buttery-glassy-jelly-wholesome-puy-lentils-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-glassy-jelly-wholesome-puy-lentils-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:03:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "puy-lentils",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Puy-lentils",
+    "descriptor": "Buttery Glassy-Jelly",
+    "dishForm": "Bowl"
+  }
+}
