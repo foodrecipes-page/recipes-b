@@ -1,0 +1,125 @@
+{
+  "title": "Bouncy Jamaican Dish Stew",
+  "description": "A buttery, bouncy, and festive Jamaican dish featuring dry white wine, mirepoix-base, and low-glycemic-friendly ingredients. Perfect for a weekend dinner or special occasion.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-friendly alternative available"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "low-sodium alternative available"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": "+1/4 cup chopped scallions for garnish"
+    },
+    {
+      "name": "low-glycemic-index sweetener",
+      "amount": "2 tablespoons",
+      "notes": "e.g., stevia, monk fruit sweetener"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion, bell pepper, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the curry powder, ginger, cumin, salt, and black pepper to the pot and stir to combine.",
+    "Add the flour to the pot and cook for 1 minute, until the mixture is lightly toasted.",
+    "Add the chicken back to the pot, along with the dry white wine and low-glycemic-index sweetener.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve hot, garnished with chopped scallions and a sprinkle of curry powder, if desired.",
+    "Let the stew rest for 10-15 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "healthy-meal",
+    "homemade",
+    "jamaican",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "bouncy-jamaican-dish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-jamaican-dish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "dry white wine",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "dish",
+    "descriptor": "bouncy",
+    "dishForm": "stew"
+  }
+}

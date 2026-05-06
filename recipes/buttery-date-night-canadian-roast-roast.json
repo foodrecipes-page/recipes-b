@@ -1,0 +1,96 @@
+{
+  "title": "Buttery Date-Night Canadian Roast",
+  "description": "A romantic twist on the classic roast, featuring a buttery crust and a hint of citrus.",
+  "cuisine": "canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canadian roast (2 lbs)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1",
+      "notes": "juice only"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the roast with salt, pepper, thyme, and rosemary.",
+    "Place the roast in a copper-mug or a similar vessel.",
+    "Dot the top of the roast with butter.",
+    "Roast in the preheated oven for 1 hour.",
+    "After 1 hour, reduce the heat to 300°F (150°C) and continue roasting for an additional 2 hours.",
+    "Baste the roast with the pan juices every 30 minutes.",
+    "Remove the roast from the oven and let it rest for 10 minutes.",
+    "Serve the roast with the pan juices spooned over the top.",
+    "Squeeze the juice from the unwaxed lime over the top of the roast (about 1 tablespoon)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-fat",
+    "low-glycemic",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 37
+  },
+  "slug": "buttery-date-night-canadian-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-date-night-canadian-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "roast",
+    "descriptor": "buttery date-night",
+    "dishForm": "roast"
+  }
+}

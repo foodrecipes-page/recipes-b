@@ -3166,6 +3166,22 @@
     "shard": "b"
   },
   {
+    "slug": "bouncy-jamaican-dish-stew",
+    "title": "Bouncy Jamaican Dish Stew",
+    "tags": [
+      "easy-dinner",
+      "healthy-meal",
+      "homemade",
+      "jamaican",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bouncy-light-british-northern-irish-peppery-dish-tart",
     "title": "Bouncy Light British Northern Irish Peppery Dish Tart",
     "tags": [
@@ -4974,6 +4990,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-date-night-canadian-roast-roast",
+    "title": "Buttery Date-Night Canadian Roast",
+    "tags": [
+      "date-night",
+      "high-fat",
+      "low-glycemic",
+      "romantic"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 225,
     "shard": "b"
   },
   {
