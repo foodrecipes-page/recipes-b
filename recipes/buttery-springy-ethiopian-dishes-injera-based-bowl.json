@@ -1,0 +1,109 @@
+{
+  "title": "springy injera bowl",
+  "description": "an indulgent ethiopian-inspired bowl featuring tender snow peas, crispy shallots, and a rich butter sauce, all atop a light and airy injera cradle, perfect for a pescatarian-friendly lunch. this recipe showcases the unique texture and flavor of injera, paired with the freshness of snow peas and the crunch of toasted shallots.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "injera",
+      "amount": "2 large rounds",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for ice bath"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "add the sliced shallots and cook, stirring frequently, until they are golden brown and crispy, about 5 minutes.",
+    "remove the shallots from the skillet with a slotted spoon and set them aside on a paper towel-lined plate.",
+    "add the minced garlic to the skillet and cook, stirring constantly, for 1 minute.",
+    "add the ground cardamom and cook for 1 minute, stirring constantly.",
+    "add the snow peas to the skillet and cook, stirring frequently, until they are tender but still crisp, about 3-4 minutes.",
+    "remove the snow peas from the skillet with a slotted spoon and set them aside with the shallots.",
+    "add the remaining 2 tablespoons of butter to the skillet and stir until melted.",
+    "add the water to the skillet and bring to a simmer.",
+    "reduce the heat to low and cook, stirring occasionally, until the sauce has thickened slightly, about 5 minutes.",
+    "add the cooked snow peas and shallots back to the skillet and stir to combine.",
+    "season with salt and black pepper to taste.",
+    "divide the injera into wedges and place 1-2 wedges in the bottom of each copper mug.",
+    "add a spoonful of the snow pea and shallot mixture on top of the injera.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "injera",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "buttery-springy-ethiopian-dishes-injera-based-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-springy-ethiopian-dishes-injera-based-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:06:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "snow peas",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "dishes",
+    "descriptor": "buttery springy",
+    "dishForm": "Injera-based Bowl"
+  }
+}
