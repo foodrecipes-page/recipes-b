@@ -5907,6 +5907,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-kenyan-dish-pilaf",
+    "title": "Kenyan Buttery Pilaf",
+    "tags": [
+      "diabetic-friendly",
+      "healthy",
+      "kenyan-cuisine",
+      "one-pan",
+      "quick-breakfast",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-light-ethiopian-turkey-neck-stew",
     "title": "Buttery Light Ethiopian Turkey Neck Stew",
     "tags": [
