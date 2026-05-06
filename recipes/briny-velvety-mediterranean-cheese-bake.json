@@ -1,0 +1,136 @@
+{
+  "title": "Briny Velvety Mediterranean Cheese Bake",
+  "description": "A comforting, Whole30-friendly mediterranean dish featuring cream cheese, mirepoix-base, and a crunchy breadcrumb topping.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "shallot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese crumbles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "almond meal",
+      "amount": "1 cup",
+      "notes": "toasted in a 350° oven for 5 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped kalamata olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375° F (190° C).",
+    "In a large skillet, sauté the garlic, shallot, and onion in olive oil over medium heat until softened, about 5 minutes.",
+    "Add the lemon juice and cook for an additional 1-2 minutes, until the liquid is almost completely reduced.",
+    "Stir in the parsley, feta, and capers, and cook until the feta is slightly melted and the mixture is heated through.",
+    "In a large mixing bowl, combine the softened cream cheese, eggs, salt, and black pepper, and mix until smooth.",
+    "Add the toasted almond meal and mix until well combined.",
+    "Add the cooked mirepoix mixture and mix until just combined.",
+    "Spoon the mixture into 4 (6 oz) ramekins or small baking dishes.",
+    "Top each ramekin with chopped olives and a sprinkle of almond meal.",
+    "Place the ramekins on a baking sheet and bake for 20-25 minutes, or until the edges are golden and the centers are set.",
+    "Let cool for 5 minutes before serving.",
+    "Serve warm, garnished with additional parsley if desired.",
+    "To toast the almond meal, spread it evenly on a baking sheet and bake in a 350° oven for 5 minutes, or until lightly golden and fragrant."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "easy-to-make",
+    "mediterranean",
+    "one-pan",
+    "paleo-friendly",
+    "weekday-meal",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "briny-velvety-mediterranean-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-velvety-mediterranean-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:47:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cream cheese",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cheese",
+    "descriptor": "Briny Velvety",
+    "dishForm": "Bake"
+  }
+}
