@@ -1,0 +1,120 @@
+{
+  "title": "brunch-mood venezuelan bread sandwich",
+  "description": "A briny, shaggy brunch-mood venezuelan dish featuring white bread, yakimono-grill, raw-friendly options. Perfect for a quick weekend breakfast or snack.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "2 strips",
+      "notes": ""
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fried egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sliced pickled onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted queso fresco",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sliced jalape\u00109o",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "yogurt-cilantro sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill two slices of white bread until crispy and slightly charred.",
+    "Cook two strips of crispy bacon in a separate pan until golden brown.",
+    "Prepare sliced avocado, fried egg, pickled onion, toasted queso fresco, and sliced jalape\u00109o.",
+    "Assemble the sandwich by placing a slice of grilled bread on a flat surface, followed by a layer of crispy bacon, sliced avocado, fried egg, pickled onion, toasted queso fresco, and sliced jalape\u00109o.",
+    "Drizzle yogurt-cilantro sauce over the top of the sandwich.",
+    "Season with salt, black pepper, and garlic powder to taste.",
+    "Serve immediately and enjoy!",
+    "Garnish with fresh cilantro if desired.",
+    "Repeat the process to make additional sandwiches as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy-meal",
+    "sandwich",
+    "vegetarian-option",
+    "venezuelan",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 30
+  },
+  "slug": "brunch-mood-venezuelan-bread-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/brunch-mood-venezuelan-bread-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:05:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "white bread",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "bread",
+    "descriptor": "brunch-mood",
+    "dishForm": "sandwich"
+  }
+}

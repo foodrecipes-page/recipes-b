@@ -3649,6 +3649,22 @@
     "shard": "b"
   },
   {
+    "slug": "brunch-mood-venezuelan-bread-sandwich",
+    "title": "brunch-mood venezuelan bread sandwich",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy-meal",
+      "sandwich",
+      "vegetarian-option",
+      "venezuelan",
+      "weekend"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
     "slug": "brussels-bites-paleo",
     "title": "Brussels Bites Paleo",
     "tags": [
