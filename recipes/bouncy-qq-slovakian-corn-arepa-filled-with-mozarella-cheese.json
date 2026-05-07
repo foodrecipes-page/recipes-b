@@ -1,0 +1,57 @@
+{
+  "title": "bouncy-qq slovakian corn arepa filled with mozarella cheese",
+  "description": "slovakian post-workout dish featuring bouncy-qq corn arepa filled with mozarella cheese for a macrobiotic-friendly and sweet treat",
+  "cuisine": "slovakian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "for the arepa"
+    }
+  ],
+  "instructions": [
+    "mix cornmeal with warm water and knead for 10 minutes",
+    "shape into round patties"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 6,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "high-carb",
+    "one-pan",
+    "post-workout",
+    "slovakian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 4
+  },
+  "slug": "bouncy-qq-slovakian-corn-arepa-filled-with-mozarella-cheese",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-slovakian-corn-arepa-filled-with-mozarella-cheese",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "corn arepa",
+    "descriptor": "bouncy-qq",
+    "dishForm": "filled with mozarella cheese"
+  }
+}
