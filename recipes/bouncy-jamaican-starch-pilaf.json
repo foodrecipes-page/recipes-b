@@ -1,0 +1,105 @@
+{
+  "title": "Bouncy Jamaican Starch Pilaf",
+  "description": "A sweet, bouncy, lazy-sunday Jamaican dish featuring starch, bhuna, and low-fat-friendly ingredients.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "white granulated sugar"
+    },
+    {
+      "name": "bhuna curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "2 cups",
+      "notes": "low-fat or non-fat for a healthier option"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "melted or softened for best results"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "boiling water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut for garnish",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 4 tablespoons of unsalted butter in a large saucepan over medium heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "jamaican",
+    "lunch",
+    "sunday",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "bouncy-jamaican-starch-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-jamaican-starch-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:34:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "starch",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "starch",
+    "descriptor": "bouncy",
+    "dishForm": "Pilaf"
+  }
+}
