@@ -1,0 +1,90 @@
+{
+  "title": "Basil-Infused Uruguayan Basil Leaves Bake",
+  "description": "A low-sodium-friendly, umami-rich, and moist bake featuring basil leaves in a Uruguayan twist. Perfect for a weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "12 oz",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cup Cucina Whole Wheat Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Basil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt-Free Seasoning Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "4 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the flour, dried basil, and salt-free seasoning blend.",
+    "Add the chopped basil leaves to the dry ingredients and mix well.",
+    "In a separate bowl, whisk together the balsamic vinegar and olive oil.",
+    "Pour the wet ingredients into the dry ingredients and stir until a dough forms.",
+    "Transfer the dough to a greased copper-mug and shape into a round mound.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove the bake from the oven and let it cool for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basil-lovers",
+    "easy-dinner",
+    "low-sodium",
+    "moist-bake",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "basil-infused-uruguayan-basil-leaves-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/basil-infused-uruguayan-basil-leaves-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:51:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "basil leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Basil leaves",
+    "descriptor": "Basil-Infused",
+    "dishForm": "Bake"
+  }
+}
