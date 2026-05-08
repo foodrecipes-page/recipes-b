@@ -1,0 +1,105 @@
+{
+  "title": "Bitter Shattering Norwegian Sausage Gratin",
+  "description": "An indulgent and rich Norwegian-inspired dish featuring Norwegian sausage, double-fried in a KFC-style batter, topped with a bitter sweet potato and cauliflower gratin. Perfect for sugar-free diets.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Sausages",
+      "amount": "4",
+      "notes": "preferably browned beforehand"
+    },
+    {
+      "name": "Double Fry KFC Breading",
+      "amount": "1 cup",
+      "notes": "make sure to dry the sausages before the second fry"
+    },
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2",
+      "notes": "large, peeled and thinly sliced"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Grana Padano",
+      "amount": "1/4 cup",
+      "notes": "shaved, for garnish"
+    },
+    {
+      "name": "Furikake",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Fry the Norwegian sausages in the Double Fry KFC breading until golden brown, in batches if necessary.",
+    "In a separate pan, sauté the sliced sweet potatoes until slightly caramelized.",
+    "Transfer the sweet potatoes to a baking dish, creating a layer.",
+    "Top the sweet potatoes with the cauliflower florets.",
+    "In a small saucepan, melt the butter and mix with the Furikake.",
+    "Pour the Furikake butter mixture over the cauliflower.",
+    "Place the fried sausages on top of the cauliflower, slightly overlapping.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 15 minutes, or until the top is golden brown.",
+    "Garnish with shaved Grana Padano and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gratin",
+    "high-protein",
+    "kfc",
+    "norwegian",
+    "sausage-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 63
+  },
+  "slug": "bitter-shattering-norwegian-sausage-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-shattering-norwegian-sausage-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sausage",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Bitter Shattering",
+    "dishForm": "Gratin"
+  }
+}
