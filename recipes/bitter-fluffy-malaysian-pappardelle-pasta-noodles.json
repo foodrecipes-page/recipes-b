@@ -1,0 +1,63 @@
+{
+  "title": "Bitter Fluffy Malaysian Pappardelle Pasta Noodles",
+  "description": "A unique and flavorful one-pot dish featuring pappardelle pasta, KFC-style double-fried chicken, and Ayurvedic rajasic-friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pappardelle pasta",
+      "amount": "8 oz (225g)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of coconut oil in a large Dutch oven over medium-high heat.",
+    "Add 2 inches of galangal and 2 stalks of lemongrass and sauté for 2 minutes.",
+    "Add 4 cups of chicken broth, 1 cup of coconut milk, 1 teaspoon of fish sauce, 1 teaspoon of soy sauce, and 1 teaspoon of sugar.",
+    "Bring to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add 8 oz of pappardelle pasta and cook for 8-10 minutes, or until al dente.",
+    "Add 2 cups of water and continue to simmer for another 2-3 minutes.",
+    "Stir in 2 tablespoons of toasted sesame oil, 1 teaspoon of turmeric, 1 teaspoon of cumin, 1 teaspoon of coriander, and 1 teaspoon of salt.",
+    "Add 4 breasts of double-fried chicken and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the chicken is fully coated in the sauce.",
+    "Garnish with 1 cup of toasted peanuts, 1 cup of scallions, and 1 cup of fresh cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "bitter-fluffy-malaysian-pappardelle-pasta-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-fluffy-malaysian-pappardelle-pasta-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:26:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "bitter fluffy",
+    "dishForm": "noodles"
+  }
+}

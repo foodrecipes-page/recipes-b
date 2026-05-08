@@ -1,0 +1,103 @@
+{
+  "title": "Bitter Crunchy Ukrainian Beet Pierogi",
+  "description": "A classic Ukrainian dish featuring a tangy filling of beets, vanilla bean paste, and cure, all wrapped in a crispy, crunchy dough. Perfect as a side dish or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cure",
+      "amount": "1 tsp",
+      "notes": "use a kosher-friendly cure"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the flour and salt in a large mixing bowl.",
+    "Gradually add the water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a thin circle.",
+    "Mash the beets in a bowl until they are well broken down.",
+    "Mix the vanilla bean paste and cure into the mashed beets.",
+    "Place a tablespoon of the beet filling in the center of each dough circle.",
+    "Spoon a small amount of water along the edge of the dough circle, then fold the dough over the filling to form a half-circle.",
+    "Press the edges of the dough together to seal the pierogi.",
+    "Repeat the process with the remaining dough and filling.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Serve the pierogi hot with sour cream or applesauce.",
+    "Makes 8-10 pierogi. Prep Time: 30 minutes. Cook Time: 15 minutes. Total Time: 45 minutes. Servings: 8-10."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "kosher-friendly",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "bitter-crunchy-ukrainian-beet-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-crunchy-ukrainian-beet-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beet",
+    "descriptor": "bitter crunchy",
+    "dishForm": "Pierogi"
+  }
+}

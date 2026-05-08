@@ -1387,6 +1387,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-crunchy-ukrainian-beet-pierogi",
+    "title": "Bitter Crunchy Ukrainian Beet Pierogi",
+    "tags": [
+      "high-protein",
+      "kosher-friendly",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-dense-algerian-hind-shank-stir-fry",
     "title": "Bitter Dense Algerian Hind Shank Stir-fry",
     "tags": [
@@ -1857,6 +1870,19 @@
       "cassava"
     ],
     "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-fluffy-malaysian-pappardelle-pasta-noodles",
+    "title": "Bitter Fluffy Malaysian Pappardelle Pasta Noodles",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
     "totalTimeMin": 40,
     "shard": "b"
   },
