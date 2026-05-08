@@ -640,6 +640,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-creamy-german-cucumber-en-croute",
+    "title": "Bitter Creamy German Cucumber En-Croûte",
+    "tags": [
+      "dinner",
+      "festive",
+      "german",
+      "holiday",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-creamy-indulgent-beef-stir-fry",
     "title": "Bitter Creamy Indulgent Beef Stir-fry",
     "tags": [

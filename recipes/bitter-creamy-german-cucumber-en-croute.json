@@ -1,0 +1,131 @@
+{
+  "title": "Bitter Creamy German Cucumber En-Croûte",
+  "description": "A lacto-vegetarian-friendly German dish featuring a Persian cucumber filling, wrapped in a buttery, flaky pastry crust, perfect for a festive dinner or special occasion. The combination of creamy sauce, pickled cucumbers, and nutty mustard creates a unique, palate-cleansing flavor experience.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Persian cucumbers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ice water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "use wholegrain mustard for a coarser texture"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickled mustard seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg wash",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place the flour, salt, and cold butter in a mixing bowl, and use a pastry blender to work the butter into the flour until it resembles coarse crumbs.",
+    "Gradually add the ice water, stirring with a fork until the dough just comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the chilled dough on a lightly floured surface to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to a 9x13-inch baking dish and trim the edges to fit.",
+    "In a medium bowl, whisk together the mustard, cream, and a pinch of salt and pepper.",
+    "Add the pickled mustard seeds and stir to combine.",
+    "Arrange the cucumbers in a single layer in the dough-lined baking dish.",
+    "Spread the mustard-cream mixture over the cucumbers, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Sprinkle the cheese over the top of the filling.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Cut a few slits in the top crust to allow steam to escape during baking.",
+    "Brush the egg wash over the top of the crust.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Let the en-croûte rest for 10-15 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "festive",
+    "german",
+    "holiday",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 34
+  },
+  "slug": "bitter-creamy-german-cucumber-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-creamy-german-cucumber-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "persian cucumber",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "cucumber",
+    "descriptor": "bitter creamy",
+    "dishForm": "en-croute"
+  }
+}
