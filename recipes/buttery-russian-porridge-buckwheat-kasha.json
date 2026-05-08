@@ -1,0 +1,80 @@
+{
+  "title": "Buttery Russian Porridge Buckwheat Kasha",
+  "description": "A traditional Russian dish made with buckwheat groats, butter, and bay leaves, served hot. This recipe is halal-friendly and perfect for a comforting breakfast or snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a ttukbaegi-earthenware-cook over medium heat.",
+    "Add the butter and let it melt.",
+    "Add the buckwheat groats and stir to coat with butter.",
+    "Add the water and bay leaves, and bring to a boil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "halal",
+    "lunch",
+    "russian",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "buttery-russian-porridge-buckwheat-kasha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-russian-porridge-buckwheat-kasha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "bay leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "porridge",
+    "descriptor": "Buttery",
+    "dishForm": "Buckwheat Kasha"
+  }
+}

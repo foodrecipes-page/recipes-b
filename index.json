@@ -3604,6 +3604,20 @@
     "shard": "b"
   },
   {
+    "slug": "briny-chewy-australian-lard-stone-bowl-dolsot",
+    "title": "Briny Chewy Australian Lard Stone-Bowl-Dolsot",
+    "tags": [
+      "australian",
+      "hangover-cure",
+      "kosher-friendly",
+      "lard",
+      "stone-bowl"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "briny-gooey-ukrainian-sour-cream-pierogi",
     "title": "Briny Gooey Ukrainian Sour Cream Pierogi",
     "tags": [
@@ -4458,6 +4472,22 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-creamy-ethiopian-sugars-dabo",
+    "title": "Buttery, Creamy Ethiopian Sugar's Dabo",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "high-calorie",
+      "indulgent",
+      "pressure-cooker",
+      "sugar-friendly",
+      "sweet-tooth"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -6395,6 +6425,21 @@
     ],
     "cuisine": "Italian Fusion",
     "totalTimeMin": 13,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-russian-porridge-buckwheat-kasha",
+    "title": "Buttery Russian Porridge Buckwheat Kasha",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "halal",
+      "lunch",
+      "russian",
+      "traditional"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {

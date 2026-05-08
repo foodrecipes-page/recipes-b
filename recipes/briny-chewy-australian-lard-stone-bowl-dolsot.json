@@ -1,0 +1,71 @@
+{
+  "title": "Briny Chewy Australian Lard Stone-Bowl-Dolsot",
+  "description": "A hearty, hangover-cure dish originating from Australian cuisine, featuring lard and served in a hot stone bowl.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian salted beef shin",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Dried wakame seaweed",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lard",
+      "amount": "2 tbsp",
+      "notes": "rendered from Australian lamb or beef fat"
+    }
+  ],
+  "instructions": [
+    "Heat a hot stone bowl in a 500°F oven for 10 minutes.",
+    "Add 1 tablespoon of the rendered lard to the hot stone bowl and let it melt.",
+    "Dice the Australian salted beef shin into 1-inch pieces and add to the bowl.",
+    "Reconstitute the dried wakame seaweed according to package instructions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "hangover-cure",
+    "kosher-friendly",
+    "lard",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 70
+  },
+  "slug": "briny-chewy-australian-lard-stone-bowl-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-chewy-australian-lard-stone-bowl-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "lard",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lard",
+    "descriptor": "briny chewy",
+    "dishForm": "stone-bowl-dolsot"
+  }
+}
