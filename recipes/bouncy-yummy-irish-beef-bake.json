@@ -1,0 +1,114 @@
+{
+  "title": "Bouncy-Yummy Irish Beef Bake",
+  "description": "Rich, bouncy, and festive Irish dish featuring mixed beef cuts, bake, and diabetic-friendly ingredients.",
+  "cuisine": "irish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds beef cubes (chuck and round)",
+      "amount": "1.5 pounds",
+      "notes": "Mixed beef cuts"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": "For browning"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3",
+      "notes": null
+    },
+    {
+      "name": "2 cups mixed mushrooms (button, cremini, shiitake)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup cauliflower florets",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons chopped fresh thyme",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the mixed mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the beef broth, cauliflower florets, thyme, salt, and pepper to the pot.",
+    "Return the browned beef to the pot and stir to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, then remove the lid and continue baking for an additional 10-15 minutes, or until the beef is tender and the liquid has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "cauliflower",
+    "high-protein",
+    "irish",
+    "mushroom",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "bouncy-yummy-irish-beef-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-yummy-irish-beef-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:17:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Bouncy-Yummy",
+    "dishForm": "Bake"
+  }
+}

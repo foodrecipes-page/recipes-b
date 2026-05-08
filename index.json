@@ -3358,6 +3358,22 @@
     "shard": "b"
   },
   {
+    "slug": "bouncy-yummy-irish-beef-bake",
+    "title": "Bouncy-Yummy Irish Beef Bake",
+    "tags": [
+      "beef",
+      "cauliflower",
+      "high-protein",
+      "irish",
+      "mushroom",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bouquet-thai-crunch",
     "title": "Bouquet Thai Crunch",
     "tags": [
