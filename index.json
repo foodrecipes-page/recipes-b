@@ -2390,6 +2390,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-norwegian-yoghurt-pancakes",
+    "title": "Bitter Norwegian Yoghurt Pancakes",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-pickled-brazilian-cream-soup",
     "title": "Bitter Pickled Brazilian Cream Soup",
     "tags": [],
