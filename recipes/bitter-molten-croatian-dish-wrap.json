@@ -1,0 +1,90 @@
+{
+  "title": "bitter molten croatian dish wrap",
+  "description": "date-night croatian dish featuring extra virgin olive oil in a keto-friendly ssam-wrap served on a wooden-board",
+  "cuisine": "croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "1 teaspoon",
+      "notes": "bitter flavor component"
+    },
+    {
+      "name": "flaked red pepper",
+      "amount": "1/4 cup",
+      "notes": "spicy kick"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "salty and tangy flavor"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "1 piece",
+      "notes": "keto-friendly wrap made from almond flour"
+    }
+  ],
+  "instructions": [
+    "heat the extra virgin olive oil in a pan over medium heat",
+    "add the chopped onions and cook until translucent",
+    "add the minced garlic and cook for 1 minute",
+    "add the anchovy paste and flaked red pepper and stir for 30 seconds",
+    "place the ssam wrap on a wooden-board",
+    "scoop the onion mixture onto the wrap",
+    "top with feta cheese and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-calorie",
+    "keto-friendly",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 60
+  },
+  "slug": "bitter-molten-croatian-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-molten-croatian-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "dish",
+    "descriptor": "bitter, molten",
+    "dishForm": "wrap"
+  }
+}
