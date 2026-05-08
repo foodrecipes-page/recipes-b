@@ -60,7 +60,8 @@
     "Remove the lid, allow any excess liquid to evaporate, and continue cooking for 1 minute to crisp edges.",
     "Plate dumplings and optionally drizzle with a mild sauce such as light yogurt or a sweet tomato-pickle blend.",
     "Serve immediately hot; leftovers can be reheated gently in a skillet or microwave.",
-    "For a plant-based variant, replace veal with an equal weight of crumbled tofu, and follow the same cooking procedure."
+    "For a plant-based variant, replace veal with an equal weight of crumbled tofu, and follow the same cooking procedure.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "veal",
     "descriptor": "Bitter Chewy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

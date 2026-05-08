@@ -2,9 +2,7 @@
   "title": "Bouncy G-Greasy British Runner Beans Hash",
   "description": "A traditional British dish featuring runner beans, perfect for a quick and easy breakfast or lunch. This recipe is kid-friendly and suitable for a sattvic diet.",
   "cuisine": "British",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "runner beans",
     "descriptor": "bouncy g-greasy",
     "dishForm": "hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

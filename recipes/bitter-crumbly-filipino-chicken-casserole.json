@@ -77,7 +77,8 @@
     "Transfer the mixture to a greased 9×13 inch baking dish and top with a layer of crushed cornflakes. If desired, add a thin layer of extra shredded cheese on top.",
     "Bake uncovered for 20–25 minutes, or until the top is golden and the casserole is bubbling.",
     "Let rest for 5 minutes before serving. Garnish with chopped fresh cilantro if desired.",
-    "Store leftover portions in airtight containers in the refrigerator for up to 4 days, reheating in the microwave or oven."
+    "Store leftover portions in airtight containers in the refrigerator for up to 4 days, reheating in the microwave or oven.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -117,5 +118,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Bitter Crumbly",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

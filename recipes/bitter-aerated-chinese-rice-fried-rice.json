@@ -77,7 +77,8 @@
     "Reduce heat to low and simmer for 10 minutes, or until the liquid is almost completely absorbed.",
     "Stir in salt and sugar, then add bitter melon and stir-fry for 2 minutes.",
     "Remove from heat and let cool slightly, then aerate the rice mixture with a fork to create a light and fluffy texture.",
-    "Transfer the rice mixture to a serving platter and serve immediately."
+    "Transfer the rice mixture to a serving platter and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -114,5 +115,9 @@
     "mainIngredient": "rice",
     "descriptor": "bitter aerated",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

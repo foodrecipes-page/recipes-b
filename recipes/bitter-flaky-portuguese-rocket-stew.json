@@ -3,8 +3,7 @@
   "description": "A midnight-craving, jain-friendly stew brimming with bitter rocket, smoky tamarind, and fragrant Portuguese spices, finished with a flaky crust of toasted cashew crumb.",
   "cuisine": "Portuguese",
   "diet": [
-    "jain-friendly",
-    "vegan"
+    "jain-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -21,7 +20,7 @@
     {
       "name": "okra",
       "amount": "150 g",
-      "notes": "cut into bite\u2011sized pieces"
+      "notes": "cut into bite‑sized pieces"
     },
     {
       "name": "roasted cashew nuts",
@@ -61,7 +60,7 @@
     {
       "name": "olive oil",
       "amount": "2 tbsp",
-      "notes": "for saut\u00e9ing"
+      "notes": "for sautéing"
     },
     {
       "name": "cumin seeds",
@@ -75,7 +74,7 @@
     },
     {
       "name": "fenugreek seeds",
-      "amount": "\u00bd tsp",
+      "amount": "½ tsp",
       "notes": "for tadka"
     },
     {
@@ -89,7 +88,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "water",
@@ -98,7 +97,7 @@
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add cumin seeds, mustard seeds, fenugreek seeds, and a pinch of asafoetida, saut\u00e9 until seeds crackle and emit a nutty aroma.",
+    "Add cumin seeds, mustard seeds, fenugreek seeds, and a pinch of asafoetida, sauté until seeds crackle and emit a nutty aroma.",
     "Pour in tomato puree and cook for 3 minutes, stirring to blend the spices.",
     "Add the coconut milk, okra, tamarind mixture, red chili flakes, paprika, saffron water and the soaked saffron strands. Stir well.",
     "Add water, bring the mixture to a gentle simmer and cover. Let it cook for 15 minutes, until the okra is tender and the flavors meld.",
@@ -138,5 +137,9 @@
   "tags": [
     "portuguese",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

@@ -65,7 +65,8 @@
     "Sauté onions and garlic in a pan until translucent. Add chicken breasts and cook for about 6 minutes on each side or until golden brown.",
     "Add bell peppers, zucchini, flour, red wine, and chicken broth to the pan with pasta. Stir well until all ingredients are coated evenly.",
     "Transfer mixture to a baking dish, cover with foil, and bake in preheated oven for about 20 minutes.",
-    "Remove from oven, uncover, and let it sit for another 5-10 minutes before serving."
+    "Remove from oven, uncover, and let it sit for another 5-10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "primaryIngredient": "starch",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

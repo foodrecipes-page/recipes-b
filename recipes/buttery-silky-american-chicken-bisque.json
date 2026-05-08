@@ -3,8 +3,7 @@
   "description": "A rich, creamy, and diabetic-friendly American-inspired soup featuring tender chicken, buttery undertones, and a sprinkle of chopped chive. This dish is perfect for a comforting meal or a special occasion.",
   "cuisine": "American",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -21,7 +20,7 @@
     {
       "name": "Olive Oil",
       "amount": "2 tablespoons",
-      "notes": "for saut\u00e9ing"
+      "notes": "for sautéing"
     },
     {
       "name": "Onion",
@@ -76,16 +75,17 @@
   ],
   "instructions": [
     "Heat the butter and olive oil in a large saucepan over medium heat.",
-    "Add the diced onion, celery, and carrots, and saut\u00e9 until the vegetables are tender, about 8 minutes.",
-    "Add the minced garlic and saut\u00e9 for 1 minute.",
-    "Add the chicken and saut\u00e9 until browned, about 5-6 minutes.",
+    "Add the diced onion, celery, and carrots, and sauté until the vegetables are tender, about 8 minutes.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the chicken and sauté until browned, about 5-6 minutes.",
     "Sprinkle the gluten-free flour over the chicken and vegetables, and cook for 1 minute.",
     "Gradually add the chicken broth, whisking continuously to avoid lumps.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes.",
     "Use an immersion blender or a regular blender to puree the soup until smooth.",
     "Stir in the heavy cream and season with salt and black pepper to taste.",
     "Tadka: Heat 1 tablespoon of butter in a small saucepan over medium heat. Add 1 tablespoon of chopped chives and cook for 1 minute, until fragrant. Stir the tadka into the bisque.",
-    "Serve hot, garnished with additional chopped chives if desired."
+    "Serve hot, garnished with additional chopped chives if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -122,5 +122,10 @@
     "mainIngredient": "chicken",
     "descriptor": "buttery silky",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

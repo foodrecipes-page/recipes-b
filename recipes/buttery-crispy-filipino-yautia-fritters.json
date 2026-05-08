@@ -2,9 +2,7 @@
   "title": "Buttery Crispy Filipino Yautia Fritters",
   "description": "A cozy, buttery snack of golden crispy fritters made from mashed yautia, flavored with a hint of caramelized sweetness and crisped to perfection in vegan butter.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -38,7 +36,6 @@
   "difficulty": "easy",
   "tags": [
     "filipino",
-    "vegan",
     "crispy",
     "snack"
   ],
@@ -65,5 +62,9 @@
     "mainIngredient": "Yautia",
     "descriptor": "Buttery Crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

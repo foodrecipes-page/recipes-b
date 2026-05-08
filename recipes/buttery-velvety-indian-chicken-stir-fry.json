@@ -51,7 +51,8 @@
     "Stir in coriander seeds, cumin seeds, and bhuna spices blend. Cook for another minute until fragrant.",
     "Pour in chicken stock cube dissolved in a little water. Bring to a boil, then reduce heat to low.",
     "Simmer gently for about 20 minutes or until the sauce has thickened slightly (adjust seasoning if needed).",
-    "Serve hot with steamed basmati rice or naan bread."
+    "Serve hot with steamed basmati rice or naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -83,11 +84,16 @@
     "mood": "lazy-sunday",
     "technique": "bhuna",
     "primaryIngredient": "chicken stock cube",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "chicken",
     "descriptor": "buttery velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

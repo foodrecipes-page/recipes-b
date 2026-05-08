@@ -2,9 +2,7 @@
   "title": "Bitter Creamy Solo-Dinner Kenyan Masarepa Stir-Fry",
   "description": "A dairy-free solo-dinner dish featuring bitter yellow masarepa stir-fried with a creamy sauce for a unique and comforting meal.",
   "cuisine": "Kenyan",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,8 +63,7 @@
     "bitter-creamy",
     "solo-dinner",
     "kenyan",
-    "masarepa-stir-fry",
-    "dairy-free"
+    "masarepa-stir-fry"
   ],
   "nutrition": {
     "calories": 350,
@@ -91,5 +88,9 @@
     "mainIngredient": "masarepa",
     "descriptor": "Bitter Creamy Solo-Dinner",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -91,11 +91,15 @@
     "mood": "lazy-sunday",
     "technique": "slow-cook",
     "primaryIngredient": "mixed peppers",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "peppers",
     "descriptor": "buttery dense",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

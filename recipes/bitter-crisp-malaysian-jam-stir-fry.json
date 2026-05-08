@@ -2,9 +2,7 @@
   "title": "Bitter Crisp Malaysian Jam Stir-fry",
   "description": "A midnight-craving gluten-free Malaysian dish featuring a blend of bitter jam and crisp vegetables in a savory stir-fry sauce.",
   "cuisine": "Malaysian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -72,8 +70,7 @@
   "tags": [
     "jam",
     "stir-fry",
-    "malaysian",
-    "gluten-free"
+    "malaysian"
   ],
   "nutrition": {
     "calories": 269,
@@ -98,5 +95,9 @@
     "mainIngredient": "Jam",
     "descriptor": "Bitter Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

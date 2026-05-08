@@ -2,9 +2,7 @@
   "title": "Buttery Chewy Malaysian Potato Starch Pancake",
   "description": "This gluten-free dish combines the chewiness of potato starch with a buttery flavor for a delightful brunch option that fits the Malaysian culinary style.",
   "cuisine": "Malaysian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
   "tags": [
     "mexican",
     "malaysian",
-    "gluten-free",
     "brunch"
   ],
   "nutrition": {
@@ -88,5 +85,9 @@
     "mainIngredient": "Potato Starch",
     "descriptor": "Buttery Chewy",
     "dishForm": "Pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

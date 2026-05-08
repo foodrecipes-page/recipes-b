@@ -3,8 +3,7 @@
   "description": "A soothing, bitter and velvety broth enriched with Malaysian flavors, perfect for a sick day.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -114,5 +113,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Bitter Velvety",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Buttery Flaky Ethiopian Squid Crumble",
   "description": "A romantic and indulgent vegetarian-friendly dish featuring tenderized squid baked in a buttery flaky crust for an authentic African taste.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,5 +76,9 @@
     "mainIngredient": "Squid",
     "descriptor": "Buttery Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

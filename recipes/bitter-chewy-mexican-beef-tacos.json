@@ -3,7 +3,6 @@
   "description": "A midnight-craving Mexican dish featuring bitter and chewy beef, caramelized onions, and a tangy chimichurri sauce. This nut-free-friendly recipe is perfect for a late-night snack or dinner.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "bitter chewy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

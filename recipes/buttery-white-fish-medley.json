@@ -2,9 +2,7 @@
   "title": "Buttery White Fish Medley",
   "description": "A festive middle-eastern dish featuring white fish, dumplings and other vegetarian-friendly ingredients in a creamy, buttery sauce that's perfect for a comforting dinner.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,8 +66,7 @@
   "tags": [
     "buttery",
     "creamy",
-    "whitefishmedley",
-    "vegetarian"
+    "whitefishmedley"
   ],
   "nutrition": {
     "calories": 387,
@@ -90,5 +87,9 @@
     "primaryIngredient": "white fish",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

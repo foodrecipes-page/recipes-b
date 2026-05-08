@@ -3,7 +3,6 @@
   "description": "Tender dough pockets filled with a tangy, creamy sour cream and chive mixture, spherified and topped with a sprinkle of nutmeg, a festive Ukrainian dish perfect for any occasion.",
   "cuisine": "Ukrainian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -75,7 +74,6 @@
   "difficulty": "hard",
   "tags": [
     "festive",
-    "gluten-free",
     "sour-cream",
     "spherified",
     "ukrainian",
@@ -104,5 +102,9 @@
     "mainIngredient": "Sour Cream",
     "descriptor": "Briny Gooey",
     "dishForm": "Pierogi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

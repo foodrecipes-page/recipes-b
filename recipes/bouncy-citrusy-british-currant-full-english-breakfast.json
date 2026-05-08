@@ -68,8 +68,7 @@
     "british",
     "currants",
     "full-english",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 450,
@@ -94,5 +93,9 @@
     "mainIngredient": "currant",
     "descriptor": "Bouncy, Citrusy",
     "dishForm": "Full English Breakfast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

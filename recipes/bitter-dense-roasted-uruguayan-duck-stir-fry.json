@@ -3,7 +3,6 @@
   "description": "This date-night dish features a mediterranean-friendly twist on traditional Uruguayan duck preparation, featuring a rich and flavorful bitter sauce with dense textures.",
   "cuisine": "mediterranean",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -46,14 +45,14 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
-    "Prepare the uruc\u00e1 beans by boiling them in water until tender, then drain and set aside.",
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the urucá beans by boiling them in water until tender, then drain and set aside.",
     "Season the duck with salt and pepper. Roast the duck in the oven for about 20-25 minutes or until golden brown.",
-    "In a large skillet, saut\u00e9 garlic and onion until fragrant, adding paprika and cumin seeds if using.",
+    "In a large skillet, sauté garlic and onion until fragrant, adding paprika and cumin seeds if using.",
     "Add tomato paste to the skillet and cook for another minute, stirring continuously to prevent burning.",
     "Stir in water (or chicken broth) with the bitter almond paste (if using), bring to a simmer, then reduce heat to low.",
     "Slice the roasted duck into pieces and add them to the sauce. Simmer until the liquid thickens slightly and coats the meat evenly.",
-    "Combine the cooked uruc\u00e1 beans with the sauce, allowing it to absorb more of the flavors.",
+    "Combine the cooked urucá beans with the sauce, allowing it to absorb more of the flavors.",
     "prepTimeMin: 30",
     "cookTimeMin: 25",
     "totalTimeMin: 60",
@@ -64,7 +63,8 @@
     "calories: 350",
     "protein: 25g",
     "carbs: 45g",
-    "fat: 18g"
+    "fat: 18g",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "slug": "bitter-dense-roasted-uruguayan-duck-stir-fry",
   "source": "ollama-qwen2.5:3b",
@@ -98,5 +98,10 @@
   "tags": [
     "mediterranean",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
   ]
 }

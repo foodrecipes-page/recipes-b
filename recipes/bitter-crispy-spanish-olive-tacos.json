@@ -3,8 +3,7 @@
   "description": "A crispy, bitter, and flavorful vegan Spanish-inspired taco dish featuring olives and steamed vegetables, perfect for a quick and easy meal.",
   "cuisine": "Spanish",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "olives",
     "descriptor": "bitter crispy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

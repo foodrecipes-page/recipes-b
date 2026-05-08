@@ -41,7 +41,8 @@
     "Once melted, add ground beef to the skillet in small batches, cooking until browned on all sides. Remove from pan and set aside.",
     "In the same pan, using the remaining fat, sauté lemons with a pinch of salt until they release their juices. Add cardamom powder into the mixture.",
     "Return the beef to the skillet, reduce heat, and add the egg yolk. Stir continuously for about 1-2 minutes until fully combined and sauce is smooth.",
-    "Season with salt and pepper to taste. Serve over grilled vegetables or meats for a mediterranean twist."
+    "Season with salt and pepper to taste. Serve over grilled vegetables or meats for a mediterranean twist.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -79,5 +80,9 @@
     "mainIngredient": "Cardomom",
     "descriptor": "Buttery Velvety",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

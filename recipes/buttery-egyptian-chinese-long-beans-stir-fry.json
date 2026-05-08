@@ -2,9 +2,7 @@
   "title": "Buttery Egyptian Chinese Long Beans Stir-fry",
   "description": "A light and nostalgic gluten-free-friendly dish featuring stir-fried chinese long beans with a touch of butter for added richness.",
   "cuisine": "Egyptian Chinese Fusion",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -53,8 +51,7 @@
   "tags": [
     "egyptian",
     "chinese",
-    "stir-fry",
-    "gluten-free"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 150,
@@ -79,5 +76,9 @@
     "mainIngredient": "Chinese Long Beans",
     "descriptor": "Buttery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

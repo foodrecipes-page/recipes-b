@@ -53,14 +53,15 @@
     }
   ],
   "instructions": [
-    "Preheat the sous\u2011vide bath to 140\u00b0F (60\u00b0C). Season the minced beef with salt and pepper, place in a vacuum bag, seal, and cook sous\u2011vide for 2 hours.",
+    "Preheat the sous‑vide bath to 140°F (60°C). Season the minced beef with salt and pepper, place in a vacuum bag, seal, and cook sous‑vide for 2 hours.",
     "While the beef cooks, whisk the flour with 1/4 cup water until smooth to create a slurry; set aside.",
-    "After sous\u2011vide, remove the beef from the bag and pat it dry. Brown the beef in a large skillet over medium\u2011high heat for 2\u20133 minutes, turning to form a crust. Transfer the browned beef to a bowl.",
+    "After sous‑vide, remove the beef from the bag and pat it dry. Brown the beef in a large skillet over medium‑high heat for 2–3 minutes, turning to form a crust. Transfer the browned beef to a bowl.",
     "In the same skillet, add the butter and let it melt. Add the diced root vegetables and cook, stirring, until softened, about 5 minutes.",
     "Stir in the minced garlic and tomato paste, cooking for 1 minute until fragrant. Deglaze with red wine, scraping up browned bits, and reduce the liquid by half.",
     "Return the browned beef to the skillet, pour in the beef stock, add thyme, bay leaf, and bring to a gentle simmer. Cover and cook for 20 minutes to meld flavors.",
     "Stir the flour slurry into the stew, simmer uncovered for an additional 5 minutes to thicken. Remove the bay leaf.",
-    "Taste the stew and adjust seasoning with salt and pepper. If desired, add more stock to reach the preferred consistency. Serve hot, garnished with fresh thyme, alongside crusty soda bread or mashed potatoes."
+    "Taste the stew and adjust seasoning with salt and pepper. If desired, add more stock to reach the preferred consistency. Serve hot, garnished with fresh thyme, alongside crusty soda bread or mashed potatoes.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 145,
@@ -100,5 +101,9 @@
     "mainIngredient": "beef",
     "descriptor": "Buttery Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

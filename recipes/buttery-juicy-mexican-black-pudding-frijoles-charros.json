@@ -3,7 +3,6 @@
   "description": "A Mexican-inspired twist on the classic Frijoles Charros recipe featuring black pudding as the star ingredient. This dish is sure to satisfy your cravings on a sick day with its rich, buttery flavors and hearty, high-protein ingredients.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
     "high-protein"
   ],
   "meal": "breakfast",
@@ -84,7 +83,8 @@
     "Serve hot, garnished with chopped fresh cilantro.",
     "Adjust serving size as needed based on individual appetites.",
     "Discard any leftovers or refrigerate for up to 3 days.",
-    "Reheat in the oven or on the stovetop before serving."
+    "Reheat in the oven or on the stovetop before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -120,5 +120,10 @@
     "mainIngredient": "black pudding",
     "descriptor": "Buttery Juicy",
     "dishForm": "Frijoles Charros"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

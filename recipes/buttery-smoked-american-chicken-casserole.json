@@ -4,8 +4,7 @@
   "cuisine": "American",
   "diet": [
     "Whole30",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,8 @@
     "When the cooking time is up, allow the pressure to release naturally for 10 minutes, then quick-release any remaining pressure.",
     "Stir in the remaining 2 tablespoons of melted butter until well combined.",
     "Transfer the casserole to a serving dish and top with chopped fresh parsley.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -68,7 +68,6 @@
   "tags": [
     "whole30",
     "gluten-free",
-    "dairy-free",
     "pressure-cooker",
     "chicken-casserole"
   ],
@@ -95,5 +94,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Buttery Smoked",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

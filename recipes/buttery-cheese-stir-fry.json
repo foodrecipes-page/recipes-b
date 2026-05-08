@@ -39,7 +39,7 @@
     },
     {
       "name": "turmeric powder",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "salt",
@@ -58,7 +58,8 @@
     "Pour in tomato sauce and stir well to combine. Bring the mixture to a boil.",
     "Reduce heat to low and let it simmer for about 10 minutes.",
     "Add grated mature cheddar cheese gradually, stirring constantly until fully melted and creamy.",
-    "Serve hot with freshly chopped coriander as a garnish."
+    "Serve hot with freshly chopped coriander as a garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Buttery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -50,7 +50,8 @@
     "In the same skillet, add red wine vinegar and Thousand Island Dressing (substitute for hot sauce). Stir well.",
     "Return chicken pieces to the skillet along with any accumulated juices. Pour in enough liquid to cover half of the chicken.",
     "Cover the skillet and place it in the preheated oven. Cook until all the liquid is absorbed, about 10-15 minutes or until tender.",
-    "Garnish with chopped fresh herbs if using and serve hot."
+    "Garnish with chopped fresh herbs if using and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -85,5 +86,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Braised",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

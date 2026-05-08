@@ -98,7 +98,8 @@
     "To make this recipe gluten-free, substitute the all-purpose flour with gluten-free flour or omit the flour altogether.",
     "To make this recipe vegan, substitute the lard or oil with vegan oil and omit the cheese and sour cream.",
     "For a more intense flavor, use beef broth instead of chicken broth.",
-    "To make this recipe in a slow cooker, brown the goat meat and cook the sauce in a skillet, then transfer everything to the slow cooker and cook on low for 6-8 hours."
+    "To make this recipe in a slow cooker, brown the goat meat and cook the sauce in a skillet, then transfer everything to the slow cooker and cook on low for 6-8 hours.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 240,
@@ -108,7 +109,6 @@
   "tags": [
     "browned",
     "chili-spiced",
-    "gluten-free",
     "goat-meat",
     "jalisco-style",
     "mexican",
@@ -117,7 +117,6 @@
     "slow-cooker",
     "spicy",
     "tacos",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -143,5 +142,11 @@
     "mainIngredient": "goat meat",
     "descriptor": "braised",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

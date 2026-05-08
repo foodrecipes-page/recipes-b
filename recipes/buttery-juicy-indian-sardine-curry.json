@@ -3,7 +3,6 @@
   "description": "A quick, lowfat Indian curry that delivers a buttery sauce and succulent sardines in just minutes.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
     "pescatarian",
     "low-fat"
   ],
@@ -43,7 +42,7 @@
       "notes": "cumin, coriander, turmeric, garam masala, chili powder"
     },
     {
-      "name": "low\u2011fat coconut milk",
+      "name": "low‑fat coconut milk",
       "amount": "400 ml"
     },
     {
@@ -62,13 +61,13 @@
   ],
   "instructions": [
     "Heat the olive oil and butter in a large pan over medium heat.",
-    "Add the chopped onion and saut\u00e9 until translucent, about 3\u20134 minutes.",
+    "Add the chopped onion and sauté until translucent, about 3–4 minutes.",
     "Stir in the minced garlic, ginger, and the Indian spice blend; cook for 1 minute until fragrant.",
     "Add the tomato paste and cook for 30 seconds, stirring constantly.",
-    "Pour in the low\u2011fat coconut milk, bring to a gentle simmer, and let it cook for 5 minutes.",
-    "Gently fold in the drained sardines and simmer for another 2\u20133 minutes until heated through.",
+    "Pour in the low‑fat coconut milk, bring to a gentle simmer, and let it cook for 5 minutes.",
+    "Gently fold in the drained sardines and simmer for another 2–3 minutes until heated through.",
     "Season with salt to taste and give the curry a final stir.",
-    "Garnish with chopped cilantro and serve immediately with steamed rice or whole\u2011wheat naan."
+    "Garnish with chopped cilantro and serve immediately with steamed rice or whole‑wheat naan."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -107,5 +106,9 @@
     "mainIngredient": "Sardine",
     "descriptor": "Buttery Juicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

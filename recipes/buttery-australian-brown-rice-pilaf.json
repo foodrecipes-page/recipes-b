@@ -55,14 +55,15 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C). Rinse rice under cold water until the water runs clear.",
+    "Preheat oven to 375°F (190°C). Rinse rice under cold water until the water runs clear.",
     "In a large mixing bowl, combine the rinsed rice with softened butter, minced garlic, cumin seeds, salt, and freshly ground black pepper. Mix well.",
     "Add chopped fresh parsley and mint to the mixture, along with red chili flakes if using. Stir gently but thoroughly until all ingredients are evenly distributed.",
     "Spread the seasoned rice mixture in an oven-safe baking dish lined with parchment paper or a silicone mat for easy cleanup.",
-    "Drizzle olive oil over the top of the rice mixture, ensuring it\u2019s well coated. If desired, sprinkle grated Parmesan cheese on top just before baking to add an extra layer of richness and texture.",
+    "Drizzle olive oil over the top of the rice mixture, ensuring it’s well coated. If desired, sprinkle grated Parmesan cheese on top just before baking to add an extra layer of richness and texture.",
     "Bake in preheated oven for 25-30 minutes or until the rice is tender but still has a slight crispiness. The dish should be golden brown around the edges due to browning from the oil and vegetables.",
     "Remove from oven, let it cool slightly before serving. If using, drizzle with lemon juice just before serving for an added freshness.",
-    "Serve immediately or as a side dish with your choice of protein like chicken or seafood for a complete meal."
+    "Serve immediately or as a side dish with your choice of protein like chicken or seafood for a complete meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "Brown Rice",
     "descriptor": "Buttery",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -39,7 +39,8 @@
     "Add the onion and ginger to the pot; cook for about 5 minutes until soft.",
     "Stir in the bitter greens and parsley. Cook for another 10 minutes, or until the greens are wilted but still have some bite.",
     "Season with salt to taste.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -75,5 +76,9 @@
     "mainIngredient": "ginger",
     "descriptor": "Bitter Fluffy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

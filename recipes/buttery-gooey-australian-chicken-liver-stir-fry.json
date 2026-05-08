@@ -83,11 +83,15 @@
     "mood": "energizing",
     "technique": "tadka",
     "primaryIngredient": "chicken liver",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Australian",
     "mainIngredient": "Chicken Liver",
     "descriptor": "Buttery Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

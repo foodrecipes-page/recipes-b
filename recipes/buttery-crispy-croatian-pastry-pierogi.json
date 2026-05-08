@@ -55,7 +55,8 @@
     "Fold the dough in half to form a half-moon shape and press the edges together to seal.",
     "Heat a large skillet over medium-high heat.",
     "Add a small amount of oil to the skillet and cook the pierogi for 2 minutes on each side until golden brown.",
-    "Serve hot with a side of sour cream or applesauce."
+    "Serve hot with a side of sour cream or applesauce.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 10,
@@ -90,5 +91,9 @@
     "mainIngredient": "pastry",
     "descriptor": "buttery crispy",
     "dishForm": "pierogi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

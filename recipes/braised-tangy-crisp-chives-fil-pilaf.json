@@ -2,9 +2,7 @@
   "title": "Braised Tangy-Crisp-Chives FilPilaf",
   "description": "A gluten-free one-pot Filipino dish featuring chives and a tangy, crispy texture in every bite.",
   "cuisine": "Philippine",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Add water or broth and bring to a boil. Reduce heat to low and let the mixture simmer for about 15 minutes.",
     "Preheat oven to 350°F (175°C). Transfer rice into the pot, spread evenly with some of the tomato mixture on top.",
     "Top with remaining chopped chives and sprinkle lightly with salt and pepper. Bake in the preheated oven for another 20-25 minutes or until rice is tender and golden brown.",
-    "Garnish with more lime wedges if desired, serve warm."
+    "Garnish with more lime wedges if desired, serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "butterfly-pilaf",
     "tangy-chives",
     "one-pot-dish"
@@ -99,5 +97,10 @@
     "mainIngredient": "tangy-crisp-chives",
     "descriptor": "Braised",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

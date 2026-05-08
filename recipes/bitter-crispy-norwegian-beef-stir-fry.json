@@ -37,7 +37,8 @@
     "Pour in beef stock concentrate and mix thoroughly. Bring to simmering point.",
     "Reduce heat to low and let it cook for about 5 minutes or until slightly thickened.",
     "Season with salt according to taste, ensuring all ingredients are evenly seasoned.",
-    "Serve hot as a side dish or garnish with fresh herbs."
+    "Serve hot as a side dish or garnish with fresh herbs.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -73,5 +74,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Bitter Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

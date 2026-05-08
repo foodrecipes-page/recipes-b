@@ -50,7 +50,8 @@
     "Pour in the low-sodium chicken broth or water, scraping up any browned bits from the bottom of the pan. Bring it to a simmer and let cook for an additional minute to reduce slightly.",
     "Add heavy cream, salt, pepper, and freshly squeezed lemon juice to the skillet. Stir well until fully combined.",
     "Reduce heat to low and cover the skillet with a lid to help seal in moisture. Cook on low for about 10 minutes or until the peppers are tender but still have a slight crunch.",
-    "Remove from heat and serve hot, garnished with optional parsley or chives if desired."
+    "Remove from heat and serve hot, garnished with optional parsley or chives if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -86,5 +87,9 @@
     "mainIngredient": "Pepper",
     "descriptor": "Bitter Creamy Lazy-Sunday",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

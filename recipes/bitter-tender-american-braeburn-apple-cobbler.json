@@ -3,8 +3,7 @@
   "description": "A vegan-friendly dessert featuring tender Braeburn apples, a hint of bitter flavor, and an energizing boost. This American-style cobbler is perfect for a cold winter evening.",
   "cuisine": "American",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -68,7 +67,6 @@
   "tags": [
     "american",
     "vegan",
-    "gluten-free",
     "dessert",
     "apple-cobbler"
   ],
@@ -95,5 +93,9 @@
     "mainIngredient": "Braeburn apples",
     "descriptor": "bitter tender",
     "dishForm": "Cobbler"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

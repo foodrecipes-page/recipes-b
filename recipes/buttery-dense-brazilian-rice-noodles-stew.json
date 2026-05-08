@@ -3,8 +3,7 @@
   "description": "A rich, buttery stew featuring tender rice noodles, savory chicken, and fresh vegetables, perfect for a lazy Sunday lunch or dinner.",
   "cuisine": "Brazilian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,7 +84,8 @@
     "Season with salt and black pepper to taste.",
     "Remove from heat and let the stew sit for 5 minutes to allow flavors to meld.",
     "Garnish with chopped parsley before serving.",
-    "Serve hot in bowls, enjoying the buttery, dense texture of the stew."
+    "Serve hot in bowls, enjoying the buttery, dense texture of the stew.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -98,8 +98,7 @@
     "lazy-sunday",
     "brazilian",
     "rice-noodles",
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "nutrition": {
     "calories": 340,
@@ -124,5 +123,10 @@
     "mainIngredient": "rice noodles",
     "descriptor": "Buttery Dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -45,7 +45,8 @@
     "Mix together flour, Italian herbs blend, olive oil in a bowl until well combined. Add the prepared chicken liver to this mixture and toss until evenly coated.",
     "Heat about 2 tablespoons of olive oil in a non-stick skillet or wok over medium-high heat. Once hot, place the seasoned chicken liver pieces into the pan. Cook for approximately 3-4 minutes on each side until golden brown and crispy.",
     "Drizzle remaining tablespoon of olive oil over the top of the chicken liver to create a delicious buttery crust. Stir in minced garlic during the last minute of cooking.",
-    "Serve hot with steamed vegetables or as a spread with whole grain bread for an indulgent meal."
+    "Serve hot with steamed vegetables or as a spread with whole grain bread for an indulgent meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "Chicken Liver",
     "descriptor": "Buttery Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

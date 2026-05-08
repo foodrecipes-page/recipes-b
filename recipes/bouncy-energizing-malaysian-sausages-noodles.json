@@ -2,10 +2,7 @@
   "title": "Bouncy-Energizing Malaysian Sausages Noodles",
   "description": "A malty, bouncy-qq, energizing Malaysian dish featuring sausages, served in a stone-bowl-dolsot and adhering to ayurvedic-sattvic-friendly principles.",
   "cuisine": "malaysian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,10 +73,8 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "malaysian",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +100,10 @@
     "mainIngredient": "sausages",
     "descriptor": "bouncy-energizing",
     "dishForm": "noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

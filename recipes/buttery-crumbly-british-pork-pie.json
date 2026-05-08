@@ -3,8 +3,7 @@
   "description": "A traditional British dish made with minced pork, buttery crust, and a crumbly texture, perfect for meal prep and diabetic-friendly diets.",
   "cuisine": "British",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "pork",
     "descriptor": "Buttery Crumbly",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

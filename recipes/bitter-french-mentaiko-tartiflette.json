@@ -3,8 +3,6 @@
   "description": "A hearty, chewy, meal-prep dish from Brittany, France, featuring the bold flavor of mentaiko. Perfect for a weeknight dinner.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "vegan",
     "satvik"
   ],
   "meal": "dinner",
@@ -52,7 +50,8 @@
     "Stir the cooked mentaiko mixture into the mashed potatoes.",
     "Add the caramelized onions and cooked lardons to the potato mixture. Season with salt and black pepper to taste.",
     "Transfer the mixture to a baking dish and cook in the preheated oven for 20 minutes.",
-    "Serve hot, garnished with additional thyme if desired."
+    "Serve hot, garnished with additional thyme if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -89,5 +88,11 @@
     "mainIngredient": "mentaiko",
     "descriptor": "bitter",
     "dishForm": "Tartiflette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

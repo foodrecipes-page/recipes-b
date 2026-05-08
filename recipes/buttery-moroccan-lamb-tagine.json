@@ -68,7 +68,8 @@
     "Return the lamb to the pot, pour in plum jam and chicken broth, bring to a simmer.",
     "Cover and cook on the stove for 30 min, then transfer the pot to the oven.",
     "Slow‑cook uncovered for 2 h, then cover again for an additional 30 min or until lamb is fall‑apart tender.",
-    "Remove from oven, taste and adjust seasoning; garnish with fresh cilantro and toasted almonds before serving."
+    "Remove from oven, taste and adjust seasoning; garnish with fresh cilantro and toasted almonds before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 180,
@@ -109,5 +110,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Buttery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

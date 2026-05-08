@@ -2,10 +2,7 @@
   "title": "Bitter Creamy Midnight Cardamom Stir-fry",
   "description": "A Korean-inspired dish featuring a creamy and bitter sauce with cardamom, perfect for midnight cravings. Dairy-free and suitable for vegetarians.",
   "cuisine": "Korean",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -70,8 +67,7 @@
     "bitter-creamy",
     "midnight-cardamom-stir-fry",
     "korean-style",
-    "vegan-friendly",
-    "dairy-free"
+    "vegan-friendly"
   ],
   "nutrition": {
     "calories": 350,
@@ -96,5 +92,10 @@
     "mainIngredient": "cardamom",
     "descriptor": "Bitter Creamy Midnight",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

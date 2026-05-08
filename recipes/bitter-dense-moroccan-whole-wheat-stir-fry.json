@@ -3,8 +3,7 @@
   "description": "A romantic moroccan dish featuring whole wheat, infused with aromatic spices and herbs for a unique flavor profile.",
   "cuisine": "Moroccan",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,8 +67,7 @@
     "moroccan",
     "whole-wheat",
     "stir-fry",
-    "keto-friendly",
-    "gluten-free"
+    "keto-friendly"
   ],
   "nutrition": {
     "calories": 320,
@@ -88,11 +86,16 @@
     "mood": "romantic",
     "technique": "boil",
     "primaryIngredient": "whole wheat",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Moroccan",
     "mainIngredient": "whole wheat",
     "descriptor": "bitter dense",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

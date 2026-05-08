@@ -67,7 +67,8 @@
     "Pour in the yogurt and stir to create a creamy sauce.",
     "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the tagine hot, garnished with additional yogurt and fresh herbs if desired."
+    "Serve the tagine hot, garnished with additional yogurt and fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -102,5 +103,9 @@
     "mainIngredient": "rest-meat",
     "descriptor": "bitter creamy light",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A light and buttery crumble featuring a blend of chilli bean paste combined with almond flour and coconut milk for a low-carb-friendly breakfast option.",
   "cuisine": "Indian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "Chilli Bean Paste",
     "descriptor": "Buttery Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

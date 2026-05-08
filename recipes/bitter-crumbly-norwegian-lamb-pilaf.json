@@ -3,7 +3,6 @@
   "description": "A hearty and intense Norwegian dish featuring braised lamb, crumbly pastry, and pungent herbs. Traditionally served during the winter months when lamb is at its strongest.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "dinner",
@@ -61,7 +60,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200\u00b0C (400\u00b0F).",
+    "Preheat the oven to 200°C (400°F).",
     "In a large bowl, combine the lamb, flour, salt, black pepper, thyme, and rosemary. Toss to coat evenly.",
     "In a large Dutch oven, melt 25g of butter over medium heat. Add the lamb and brown on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
     "Add the remaining 25g of butter to the pot. Add the onion, carrot, and celery and cook until the vegetables are tender, about 10 minutes.",
@@ -72,7 +71,7 @@
     "Gradually add 100g of cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
     "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
     "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch. Cut into small squares, about 5cm (2 inches) per side.",
-    "After the lamb has braised for 2 hours, remove the pot from the oven and increase the oven temperature to 220\u00b0C (425\u00b0F).",
+    "After the lamb has braised for 2 hours, remove the pot from the oven and increase the oven temperature to 220°C (425°F).",
     "Place the pastry squares on top of the lamb, overlapping them slightly to cover the entire surface. Return the pot to the oven and bake for an additional 20-25 minutes, or until the pastry is golden brown.",
     "Remove the pot from the oven and let it cool slightly. Serve the lamb and pastry hot, garnished with fresh herbs if desired."
   ],
@@ -114,5 +113,9 @@
     "mainIngredient": "lamb",
     "descriptor": "bitter crumbly",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

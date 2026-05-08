@@ -3,7 +3,6 @@
   "description": "A sweet and savory taco that blends smoky beef, luscious melted Mars chocolate, and a touch of guava jam for a romantic, bittersweet bite.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dessert",
@@ -79,7 +78,6 @@
   "tags": [
     "mexican",
     "dessert",
-    "gluten-free",
     "fodmap-friendly",
     "bitter",
     "gooey",
@@ -109,5 +107,9 @@
     "mainIngredient": "Mars Bar",
     "descriptor": "Bitter Gooey",
     "dishForm": "Taco"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Bitter Tender Thai Crab Stir-fry",
   "description": "A gluten-free solo-dinner dish featuring tender crab served with a blend of cranberries and other aromatic herbs to create an intricate flavor profile.",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "crab",
     "descriptor": "Bitter Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

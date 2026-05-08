@@ -56,7 +56,8 @@
     "In another bowl, mix softened cream cheese with butter until smooth.",
     "Pour the butter mixture over the stir-fried turkey slowly, stirring continuously to ensure everything melts together smoothly.",
     "Simmer for about 10 minutes until creamy and well combined. Remove from heat and serve.",
-    "Garnish with fresh herbs if desired."
+    "Garnish with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
@@ -91,5 +92,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Buttery Creamy Midnight",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Buttery Shattering Australian Sirloin Steak Wrap",
   "description": "A monsoon-inspired Australian dish featuring a buttery, shattering sirloin steak served in a long-fermentation dough ti-leaf wrap, suitable for Ayurvedic sattvic diets.",
   "cuisine": "australian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -95,5 +92,10 @@
     "mainIngredient": "sirloin steak",
     "descriptor": "Buttery, Shattering",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

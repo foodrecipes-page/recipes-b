@@ -23,7 +23,8 @@
     "Add 4 breasts of double-fried chicken and stir to combine.",
     "Cook for an additional 2-3 minutes, or until the chicken is fully coated in the sauce.",
     "Garnish with 1 cup of toasted peanuts, 1 cup of scallions, and 1 cup of fresh cilantro.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -59,5 +60,9 @@
     "mainIngredient": "pappardelle pasta",
     "descriptor": "bitter fluffy",
     "dishForm": "noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

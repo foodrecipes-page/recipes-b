@@ -60,11 +60,15 @@
     "mood": "sick-day",
     "technique": "boil",
     "primaryIngredient": "baby aubergine",
-    "diet": "kosher",
+    "diet": "vegan",
     "region": null,
     "cuisineAdjective": "Irish",
     "mainIngredient": "aubergine",
     "descriptor": "Boiled",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

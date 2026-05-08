@@ -42,7 +42,8 @@
     "Pour in chicken broth and stir to reduce slightly.",
     "Stir in ricotta cheese, cooking and stirring until melted and smooth.",
     "Fold in pineapple chunks and bell pepper slices. Cook for another minute or so.",
-    "Garnish with fresh spinach leaves before serving."
+    "Garnish with fresh spinach leaves before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -78,5 +79,9 @@
     "mainIngredient": "Ricotta",
     "descriptor": "Buttery Juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

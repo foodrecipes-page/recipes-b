@@ -3,8 +3,7 @@
   "description": "A quick-fix Spanish dish featuring bok choi, with buttery and gooey textures. This pressure-cooked recipe is perfect for a weeknight dinner.",
   "cuisine": "Spanish",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,7 +50,8 @@
     "Add the Spanish rice, chicken broth, and remaining 2 tablespoons of butter. Stir to combine.",
     "Close the pressure cooker and cook for 5 minutes.",
     "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
-    "Fluff the paella with a fork and serve immediately."
+    "Fluff the paella with a fork and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -64,8 +64,7 @@
     "paella",
     "quick-fix",
     "pressure-cooked",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "nutrition": {
     "calories": 320,
@@ -84,11 +83,17 @@
     "mood": "quick-fix",
     "technique": "pressure-cook",
     "primaryIngredient": "bok choi",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Spanish",
     "mainIngredient": "bok choi",
     "descriptor": "buttery gooey",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

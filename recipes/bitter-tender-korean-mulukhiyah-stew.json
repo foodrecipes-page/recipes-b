@@ -2,9 +2,7 @@
   "title": "Bitter Tender Korean Mulukhiyah Stew",
   "description": "A refreshing and nourishing Korean stew made with mulukhiyah, perfect for a brunch gathering. This dish combines the bitterness of mulukhiyah with the tenderness of pork and the sweetness of Korean chili flakes.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -59,13 +57,14 @@
   ],
   "instructions": [
     "In a large pot, heat the sesame oil over medium heat.",
-    "Add the minced garlic and grated ginger and saut\u00e9 for 1 minute.",
+    "Add the minced garlic and grated ginger and sauté for 1 minute.",
     "Add the sliced pork and cook until browned, about 3-4 minutes.",
     "Add the mulukhiyah leaves, Korean chili flakes, soy sauce, salt, and black pepper. Stir well to combine.",
     "Pour in 4 cups of water and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes or until the mulukhiyah is tender.",
     "Stir in the chopped green onions and toasted sesame seeds.",
-    "Serve the stew hot, garnished with additional green onions and sesame seeds if desired."
+    "Serve the stew hot, garnished with additional green onions and sesame seeds if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -102,5 +101,10 @@
     "mainIngredient": "Mulukhiyah",
     "descriptor": "Bitter Tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

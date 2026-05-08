@@ -3,7 +3,6 @@
   "description": "A post-workout Japanese dish featuring freekeh, with a buttery and crisp texture, halal-friendly. This recipe combines the nutty flavor of freekeh with the savory taste of Japanese seasonings.",
   "cuisine": "Japanese",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -97,5 +96,9 @@
     "mainIngredient": "freekeh",
     "descriptor": "Buttery Crisp",
     "dishForm": "Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

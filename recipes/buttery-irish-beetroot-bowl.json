@@ -4,8 +4,7 @@
   "cuisine": "irish",
   "diet": [
     "egg-free",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,7 +69,6 @@
     "beetroot",
     "buttery",
     "vegetarian",
-    "vegan",
     "meal-prep",
     "lunch"
   ],
@@ -97,5 +95,9 @@
     "mainIngredient": "beetroot",
     "descriptor": "buttery",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

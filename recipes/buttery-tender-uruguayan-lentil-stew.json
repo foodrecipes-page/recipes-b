@@ -3,7 +3,6 @@
   "description": "A rich and creamy one-pot stew inspired by Uruguayan cuisine, featuring tender lentils and a hint of buttery flavor. This vegan-friendly dish is made with full fat sour cream substitute and bhuna spice blend.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -98,5 +97,9 @@
     "mainIngredient": "lentils",
     "descriptor": "buttery tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

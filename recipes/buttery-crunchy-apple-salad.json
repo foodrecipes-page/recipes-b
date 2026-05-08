@@ -3,7 +3,6 @@
   "description": "A monsoon-friendly dish inspired by Tunisian cuisine featuring a unique blend of apple cider vinegar and fermented elements, with a buttery crunch that's egg-free friendly.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "snack",
@@ -73,5 +72,9 @@
     "mainIngredient": "Apple",
     "descriptor": "Buttery Crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

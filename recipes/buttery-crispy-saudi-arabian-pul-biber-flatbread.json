@@ -2,9 +2,7 @@
   "title": "Buttery Crispy Saudi Arabian Pul Biber Flatbread",
   "description": "A crispy and flavorful flatbread from Saudi Arabia, perfect as a post-workout snack, featuring the spicy and smoky pul biber pepper, and suitable for a vegan diet. This buttery treat is both satisfying and healthy.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
     "saudi-arabian",
     "flatbread",
     "pul-biber",
-    "vegan",
     "post-workout"
   ],
   "nutrition": {
@@ -90,5 +87,9 @@
     "mainIngredient": "pul biber",
     "descriptor": "Buttery Crispy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

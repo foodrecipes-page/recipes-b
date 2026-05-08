@@ -86,11 +86,15 @@
     "mood": "romantic",
     "technique": "dum",
     "primaryIngredient": "pork back ribs",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "pork back ribs",
     "descriptor": "bitter dense romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

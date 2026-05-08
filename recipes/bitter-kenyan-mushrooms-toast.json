@@ -3,8 +3,7 @@
   "description": "A post-workout dish featuring wild mushrooms' natural bitterness balanced with velvety texture on toasted bread, pescatarian-friendly.",
   "cuisine": "kenyan",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -77,5 +76,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Bitter",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

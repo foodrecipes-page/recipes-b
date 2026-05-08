@@ -64,7 +64,8 @@
     "Add the pitted kalamata olives, chopped artichoke hearts, red wine vinegar, chicken broth, dried oregano, salt, and black pepper. Stir to combine.",
     "Bring the stew to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the stew hot, garnished with fresh parsley or oregano, if desired."
+    "Serve the stew hot, garnished with fresh parsley or oregano, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -102,5 +103,9 @@
     "mainIngredient": "onions",
     "descriptor": "bitter dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

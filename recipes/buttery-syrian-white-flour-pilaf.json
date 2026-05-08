@@ -21,7 +21,8 @@
     "Remove from heat and cover with a clean kitchen towel, letting it rest for 10 minutes.",
     "Uncover, then add the rice and mix until well combined with the dough-like mixture.",
     "Return the mixture to the heat, cook, covered, over low heat for 15-20 minutes, or until the rice is cooked and fluffy like a pilaf.",
-    "Serve hot, garnished with toasted almonds if desired."
+    "Serve hot, garnished with toasted almonds if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -58,5 +59,9 @@
     "mainIngredient": "White Flour",
     "descriptor": "Buttery",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

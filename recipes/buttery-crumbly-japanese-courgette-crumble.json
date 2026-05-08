@@ -39,7 +39,8 @@
     "Heat cooking oil in a pan over medium heat. Add courgette strips and cook for about 5 minutes or until golden brown on both sides.",
     "Remove courgettes from the pan and keep warm. Pour the buttermilk ginger mixture into the same pan used for cooking the courgettes, stir well to combine.",
     "Add breadcrumbs to the buttermilk ginger mixture and mix gently until combined. Cook for about 3-4 minutes or until it forms a thick crumble on top of the buttermilk mixture.",
-    "Serve hot with the warm sliced courgettes and additional pickled ginger if desired."
+    "Serve hot with the warm sliced courgettes and additional pickled ginger if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -76,5 +77,9 @@
     "mainIngredient": "Courgette",
     "descriptor": "Buttery Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

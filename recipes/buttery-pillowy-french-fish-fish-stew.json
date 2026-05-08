@@ -3,7 +3,6 @@
   "description": "A romantic Lyon-inspired fish stew, featuring cornstarch and a brine-dried element, this dish is perfect for a special evening with guests. ",
   "cuisine": "French",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -118,5 +117,9 @@
     "mainIngredient": "fish",
     "descriptor": "Buttery Pillowy",
     "dishForm": "Fish Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

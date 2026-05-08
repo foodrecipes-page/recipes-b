@@ -46,7 +46,8 @@
     "Pour in the broth and bring to a boil.",
     "Reduce heat to low, cover, and simmer for about 15 minutes or until potatoes are tender.",
     "Add honey (if using) halfway through cooking time and stir well to prevent burning.",
-    "Serve hot as a side dish with grilled chicken or steak."
+    "Serve hot as a side dish with grilled chicken or steak.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -81,5 +82,9 @@
     "mainIngredient": "Red Potato",
     "descriptor": "Bitter Flaky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

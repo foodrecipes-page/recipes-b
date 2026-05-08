@@ -74,7 +74,6 @@
     "breakfast",
     "brunch",
     "comfort-food",
-    "gluten-free",
     "polish",
     "sweet-treats"
   ],
@@ -101,5 +100,9 @@
     "mainIngredient": "whipping cream",
     "descriptor": "buttery",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -58,7 +58,8 @@
     "Deglaze the wok with low-sodium chicken broth or water, bringing to a simmer. Add salt and pepper to taste, mix well.",
     "Turn down heat to medium-low. Stir in low-fat butter until melted and smooth, adding Italian seasoning if using. Let it cook for another 2-3 minutes until slightly thickened but not boiling.",
     "Toss broccoli rabe with the sauce just before serving. Serve hot as a side dish or over cooked pasta.",
-    "Optional: Garnish with fresh herbs like parsley or basil and serve with crusty bread if desired."
+    "Optional: Garnish with fresh herbs like parsley or basil and serve with crusty bread if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "Wild Garlic Leaves",
     "descriptor": "Buttery Silky Low Fat",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

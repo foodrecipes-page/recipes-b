@@ -3,7 +3,6 @@
   "description": "A vegan-friendly Peruvian dish featuring a buttery and crunchy egg frittata, perfect for midnight cravings. This recipe incorporates fermented ingredients for added depth of flavor.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -104,5 +103,9 @@
     "mainIngredient": "egg",
     "descriptor": "Buttery Crunchy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

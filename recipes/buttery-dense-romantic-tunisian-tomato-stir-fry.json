@@ -54,7 +54,9 @@
     "Drain any excess liquid from the tomatoes, then add them along with prunes (if using) and coconut sugar to the onion-garlic-butter mixture in the bowl. Stir well and let it cook for an additional 5 minutes.",
     "Transfer the mix into a greased baking dish. Sprinkle with kosher salt if desired.",
     "Bake for about 20-25 minutes or until golden brown on top and bubbly underneath. Serve warm.",
-    "Enjoy your luxurious, buttery tomato dish that’s perfect for any romantic dinner setting."
+    "Enjoy your luxurious, buttery tomato dish that’s perfect for any romantic dinner setting.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -93,5 +95,10 @@
     "mainIngredient": "Tomato",
     "descriptor": "Buttery Dense Romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

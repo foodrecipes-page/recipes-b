@@ -3,7 +3,6 @@
   "description": "Cultured, crunchy finger sandwich perfect for British afternoon tea, made with delicate sea bass and served on crispy bread.",
   "cuisine": "British",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -90,8 +89,7 @@
     "british",
     "finger-food",
     "gluten-free",
-    "seafood",
-    "vegan"
+    "seafood"
   ],
   "nutrition": {
     "calories": 240,
@@ -116,5 +114,9 @@
     "mainIngredient": "Sea Bass",
     "descriptor": "Brine-dry",
     "dishForm": "finger sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

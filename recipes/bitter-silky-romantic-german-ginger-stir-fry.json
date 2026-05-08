@@ -32,7 +32,8 @@
     "Deglaze the pan with chicken broth, stirring continuously to prevent burning.",
     "Reduce heat to low and simmer for another 5 minutes or until the sauce has slightly thickened.",
     "Stir in vinegar and continue cooking for an additional 2-3 minutes.",
-    "Remove from heat and serve hot."
+    "Remove from heat and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -66,5 +67,9 @@
     "mainIngredient": "Ginger",
     "descriptor": "Bitter Silky Romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

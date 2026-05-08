@@ -67,7 +67,8 @@
     "Pour in the chicken broth, bring to a gentle boil, then reduce heat to low and simmer uncovered for 15 minutes.",
     "Add the peas, cover, and continue cooking until the rice is tender and liquid is absorbed, about 5 minutes.",
     "Remove from heat and let rest, covered, for 5 minutes.",
-    "Fluff the paella with a fork, sprinkle chopped parsley on top, and serve hot."
+    "Fluff the paella with a fork, sprinkle chopped parsley on top, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -107,5 +108,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Buttery",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

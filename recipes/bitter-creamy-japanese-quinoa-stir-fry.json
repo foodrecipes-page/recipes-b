@@ -2,10 +2,7 @@
   "title": "Bitter Creamy Japanese Quinoa Stir-fry",
   "description": "A nut-free-friendly bitter and creamy Japanese quinoa dish that can be meal-prepped for quick weeknight dinners.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan",
-    "nut-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,8 +70,7 @@
     "creamy",
     "japanese",
     "meal-prep",
-    "quinoa",
-    "nut-free"
+    "quinoa"
   ],
   "nutrition": {
     "calories": 250,
@@ -99,5 +95,10 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Bitter Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-nut-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Buttery Silky Cacao Dip",
   "description": "A luxurious and creamy cacao dip perfect for solo dinner nights, featuring a rich blend of dairy-free butters and pure chocolate, designed to satisfy the sweet tooth without compromising on health or dietary preferences.",
   "cuisine": "norwegian",
-  "diet": [
-    "nut-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -81,5 +78,10 @@
     "mainIngredient": "Cacao",
     "descriptor": "Buttery Silky",
     "dishForm": "Dip"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-nut-free"
+  ]
 }

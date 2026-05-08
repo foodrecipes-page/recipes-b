@@ -3,8 +3,7 @@
   "description": "A romantic, high-protein Japanese dish featuring haricot beans, buttery goodness, and a rich, chewy texture. Perfect for a cozy night in.",
   "cuisine": "Japanese",
   "diet": [
-    "high-protein",
-    "vegetarian"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,6 @@
   "tags": [
     "japanese-cuisine",
     "high-protein",
-    "vegetarian",
     "comfort-food",
     "ramen"
   ],
@@ -97,5 +95,9 @@
     "mainIngredient": "haricot beans",
     "descriptor": "buttery chewy",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

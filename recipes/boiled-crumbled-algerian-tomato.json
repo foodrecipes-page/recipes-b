@@ -2,9 +2,7 @@
   "title": "Boiled Crumbled Algerian Tomato",
   "description": "A fermented and flaky vegetarian-friendly Algerian dish featuring beef tomatoes that provides an energizing kick.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -64,5 +62,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Boiled",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,9 +3,7 @@
   "description": "A romantic Middle Eastern dish featuring crispy flatbread topped with a blend of herbs and spices, served with a side of creamy vegan butter. Perfect for a cozy evening with family and friends.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -81,8 +79,6 @@
   "tags": [
     "middle-eastern",
     "flatbread",
-    "vegan",
-    "gluten-free",
     "romantic"
   ],
   "nutrition": {
@@ -108,5 +104,10 @@
     "mainIngredient": "flatbread",
     "descriptor": "buttery crisp",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

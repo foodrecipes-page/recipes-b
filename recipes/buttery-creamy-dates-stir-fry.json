@@ -2,10 +2,7 @@
   "title": "Buttery Creamy Dates Stir-fry",
   "description": "This adventurous Chinese dish features stoned dates poached in a creamy dairy-free sauce that is both buttery and indulgent.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -55,8 +52,7 @@
     "dates",
     "creamy",
     "stir-fry",
-    "vegan-friendly",
-    "dairy-free"
+    "vegan-friendly"
   ],
   "nutrition": {
     "calories": 200,
@@ -81,5 +77,10 @@
     "mainIngredient": "Dates",
     "descriptor": "Buttery Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

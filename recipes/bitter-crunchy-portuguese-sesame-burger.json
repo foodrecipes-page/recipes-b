@@ -2,10 +2,7 @@
   "title": "Bitter Crunchy Portuguese Sesame Burger",
   "description": "A unique burger featuring bitter greens, crunchy sesame seed buns, and a Mediterranean-inspired stir-fry, perfect for a festive Portuguese meal. This dish combines the flavors of Portugal with the crunch of sesame seeds and the bitterness of arugula.",
   "cuisine": "Portuguese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +95,10 @@
     "mainIngredient": "sesame",
     "descriptor": "bitter crunchy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

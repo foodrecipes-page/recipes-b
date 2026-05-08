@@ -2,9 +2,7 @@
   "title": "Bitter Chewy Comforting Middle Eastern Toor Dal Stir-fry",
   "description": "This vegan-friendly dish is slow-cooked to perfection, featuring bitter and chewy Toor Dal that's comforting and delicious.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "toor dal",
     "descriptor": "bitter chewy comforting",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

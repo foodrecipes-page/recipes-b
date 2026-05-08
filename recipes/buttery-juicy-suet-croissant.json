@@ -35,11 +35,12 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 85\u00b0C (185\u00b0F).",
+    "Preheat your sous-vide machine to 85°C (185°F).",
     "Mix the suet with the salted butter and egg yolk until smooth. Add a few drops of oil for better flow.",
     "Dip each croissant piece into the suet mixture, coating evenly on all surfaces. Place them seam-side down in a shallow pan to preserve the shape.",
-    "Cook sous-vide at 85\u00b0C (185\u00b0F) for about 30 minutes or until fully cooked through. Ensure that they are not too dark as oil can burn easily at high temperatures.",
-    "Once cooled slightly, brush with egg wash and bake at 200\u00b0C (400\u00b0F) for about 10-15 minutes to achieve a golden crust on the outside and keep it soft inside."
+    "Cook sous-vide at 85°C (185°F) for about 30 minutes or until fully cooked through. Ensure that they are not too dark as oil can burn easily at high temperatures.",
+    "Once cooled slightly, brush with egg wash and bake at 200°C (400°F) for about 10-15 minutes to achieve a golden crust on the outside and keep it soft inside.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -75,5 +76,9 @@
     "mainIngredient": "suet",
     "descriptor": "Buttery Juicy",
     "dishForm": "Croissant"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

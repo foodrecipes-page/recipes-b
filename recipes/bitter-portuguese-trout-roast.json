@@ -3,8 +3,7 @@
   "description": "A cozy Portuguese dish featuring cured trout with a bitter finish, served with crispy herbs and a tangy lemon-dill sauce. Perfect for a light dinner.",
   "cuisine": "portuguese",
   "diet": [
-    "halal",
-    "vegetarian"
+    "halal"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -86,5 +85,9 @@
     "mainIngredient": "trout",
     "descriptor": "bitter",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

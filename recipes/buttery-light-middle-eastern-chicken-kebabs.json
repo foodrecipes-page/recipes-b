@@ -68,7 +68,8 @@
     "Add the kebabs to the pressure cooker and close the lid. Cook for 5 minutes.",
     "Remove the kebabs from the pressure cooker and brush with melted butter.",
     "Garnish with chopped parsley and serve hot.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 5,
@@ -106,5 +107,9 @@
     "mainIngredient": "chicken",
     "descriptor": "buttery light",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

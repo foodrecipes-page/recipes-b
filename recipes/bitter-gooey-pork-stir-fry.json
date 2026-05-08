@@ -3,8 +3,7 @@
   "description": "A one-pot Brazilian dish featuring bitter gourd and icing sugar, cooked with kosher-friendly techniques for a gooey texture in under an hour.",
   "cuisine": "Brazilian",
   "diet": [
-    "keto",
-    "vegetarian"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -38,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Heat oil in a large pot over medium heat. Add onion and garlic, saut\u00e9 for 5 minutes.",
+    "Heat oil in a large pot over medium heat. Add onion and garlic, sauté for 5 minutes.",
     "Add diced pork and cook until browned, about 8 minutes.",
     "Stir in bitter gourd, oregano, and icing sugar. Cook, stirring occasionally, for an additional 10-15 minutes or until the pork is tender and the mixture has a gooey consistency.",
     "Serve hot as a side dish with rice or naan bread."
@@ -70,11 +69,16 @@
     "mood": "one-pot",
     "technique": "pressure-cook",
     "primaryIngredient": "icing sugar",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Brazilian",
     "mainIngredient": "pork",
     "descriptor": "Bitter Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "aligned-axes-diet"
+  ]
 }

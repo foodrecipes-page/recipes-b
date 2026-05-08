@@ -2,9 +2,7 @@
   "title": "Bitter Juicy Slovakian Bamboo Shoot Stew",
   "description": "A hearty and flavorful stew that showcases fresh bamboo shoots with a subtle bitterness and juicy texture, inspired by Slovakian cuisine.",
   "cuisine": "Slovakian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -104,5 +102,9 @@
     "mainIngredient": "bamboo shoot",
     "descriptor": "Bitter Juicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -100,11 +100,15 @@
     "mood": "lazy-sunday",
     "technique": "blanch",
     "primaryIngredient": "sirloin steak tips",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "sirloin steak tips",
     "descriptor": "bitter chewy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A rich, savory brunch dish featuring dried shrimp-goong-haeng and low-glycemic ingredients, with a hint of bitterness from the cured elements.",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
     "low-glycemic"
   ],
   "meal": "breakfast",
@@ -92,7 +91,6 @@
   "difficulty": "medium",
   "tags": [
     "brunch",
-    "gluten-free",
     "low-glycemic",
     "seafood",
     "turkish"
@@ -120,5 +118,9 @@
     "mainIngredient": "Dried-shrimp-goong-haeng",
     "descriptor": "Bitter, velvety",
     "dishForm": "Brunch"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

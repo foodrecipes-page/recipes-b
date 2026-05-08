@@ -43,7 +43,8 @@
     "Prepare the sous-vide cooked chicken thigh according to your preferred method.",
     "In a saucepan, melt 2 tablespoons of butter over medium heat. Add lemon juice and heavy cream, whisking until smooth and thickened.",
     "Season with salt and pepper, then add Grand Marnier if using (reserve for garnish). Simmer gently for an additional minute to meld the flavors.",
-    "Remove from heat and pour over the cooked chicken. Garnish with fresh parsley before serving."
+    "Remove from heat and pour over the cooked chicken. Garnish with fresh parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -80,5 +81,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Buttery Silky Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

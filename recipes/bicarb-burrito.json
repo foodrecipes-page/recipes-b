@@ -2,9 +2,7 @@
   "title": "Bicarb Burrito",
   "description": "A vegan-friendly, peppery, silky mexican dish featuring bicarbonate of soda for a unique baking twist thats perfect for sick-day comfort food.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -29,7 +27,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F.",
+    "Preheat oven to 350°F.",
     "Mix bicarb of soda with vegetable broth in a saucepan and bring to a simmer until dissolved, about 5 minutes. Remove from heat and let cool slightly.",
     "Heat vegan cheese sauce over low heat if necessary, then pour into cooled bicarb mixture. Stir gently until combined thoroughly.",
     "Warm tortillas on a skillet or iron skillet until soft and pliable but not overly toasted.",
@@ -63,5 +61,9 @@
     "primaryIngredient": "bicarbonate of soda",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

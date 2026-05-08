@@ -2,9 +2,7 @@
   "title": "Broiled Broccoli Peanut Wrap",
   "description": "A kid-friendly and umami-rich Argentinean dish featuring broiled broccoli with a sweet honey glaze and a crunchy peanut topping for a dairy-free-friendly treat.",
   "cuisine": "Argentinean",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -70,5 +68,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Broiled",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

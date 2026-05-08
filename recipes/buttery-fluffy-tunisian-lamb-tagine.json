@@ -3,8 +3,7 @@
   "description": "A delicious and aromatic Tunisian dish featuring ground lamb, fluffy couscous, and a blend of spices, perfect for a date night. This recipe is diabetic-friendly and serves two people.",
   "cuisine": "Tunisian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "While the lamb is cooking, prepare the couscous according to package instructions.",
     "Fluff the cooked couscous with a fork and stir in the remaining 2 tablespoons of butter.",
     "To serve, place the couscous on a plate, top with the lamb mixture, and garnish with chopped parsley and pitted dates.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -73,8 +73,7 @@
     "tunisian-cuisine",
     "lamb-recipes",
     "date-night",
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "nutrition": {
     "calories": 540,
@@ -99,5 +98,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Buttery Fluffy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

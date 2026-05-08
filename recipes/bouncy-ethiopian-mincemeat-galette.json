@@ -2,10 +2,7 @@
   "title": "Bouncy Ethiopian Mincemeat Galette",
   "description": "A crowd-pleasing Ethiopian dish featuring nutty, fodymap-friendly mincemeat, perfectly balanced by a crunchy exterior and a deliciously moist interior.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -85,5 +82,10 @@
     "mainIngredient": "mincemeat",
     "descriptor": "bouncy",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

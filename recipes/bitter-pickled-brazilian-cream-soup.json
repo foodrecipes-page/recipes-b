@@ -53,7 +53,7 @@
   ],
   "instructions": [
     "1. Heat a large pot over medium heat and add a splash of water.",
-    "2. Add diced onion and minced garlic, saut\u00e9ing until translucent and fragrant, about 3-4 minutes.",
+    "2. Add diced onion and minced garlic, sautéing until translucent and fragrant, about 3-4 minutes.",
     "3. Stir in diced chicken breast and cook until lightly browned, about 5 minutes.",
     "4. Add tomato paste and mix well to coat the chicken and onions, cooking for an additional 2 minutes.",
     "5. Pour in 500 ml of water, bring to a gentle boil, then reduce heat and simmer for 20 minutes, or until the chicken is cooked through.",
@@ -61,7 +61,8 @@
     "7. Transfer the soup to a blender or use an immersion blender to puree until smooth, then return to the pot.",
     "8. Fold in 100 g of chopped pickled green mango, allowing the flavors to mingle for 2 minutes.",
     "9. Season with 1 tsp salt and 1/2 tsp black pepper, adjusting to taste.",
-    "10. Serve hot, optionally garnished with a swirl of malai or fresh cilantro if desired."
+    "10. Serve hot, optionally garnished with a swirl of malai or fresh cilantro if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "slug": "bitter-pickled-brazilian-cream-soup",
   "source": "ocloud-gpt-oss:20b",
@@ -95,5 +96,9 @@
   "tags": [
     "brazilian",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
   ]
 }

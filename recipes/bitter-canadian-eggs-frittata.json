@@ -3,8 +3,7 @@
   "description": "A crumbly, cozy Canadian dish featuring free-range eggs beaten with confit-tomato, perfect for a low-glycemic-friendly breakfast or brunch.",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "eggs",
     "descriptor": "bitter",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

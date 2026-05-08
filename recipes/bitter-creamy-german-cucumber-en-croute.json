@@ -90,7 +90,8 @@
     "Cut a few slits in the top crust to allow steam to escape during baking.",
     "Brush the egg wash over the top of the crust.",
     "Bake for 35-40 minutes, or until the crust is golden brown and the filling is heated through.",
-    "Let the en-croûte rest for 10-15 minutes before serving"
+    "Let the en-croûte rest for 10-15 minutes before serving",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -127,5 +128,9 @@
     "mainIngredient": "cucumber",
     "descriptor": "bitter creamy",
     "dishForm": "en-croute"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

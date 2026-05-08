@@ -2,9 +2,7 @@
   "title": "Bitter Fluffy Jamaican Cassaba Stew",
   "description": "A hearty, weeknight-friendly stew featuring tender cassava cubes, bitter greens, and aromatic spices finished with creamy coconut milk.",
   "cuisine": "Jamaican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,7 +83,6 @@
   "difficulty": "medium",
   "tags": [
     "jamaican",
-    "vegan",
     "stew",
     "weeknight-dish",
     "bitter",
@@ -115,5 +112,9 @@
     "mainIngredient": "Cassaba",
     "descriptor": "Bitter Fluffy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

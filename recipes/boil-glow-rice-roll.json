@@ -47,7 +47,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 1,
-  "totalTimeMin": 32,
+  "totalTimeMin": 6,
   "servings": 1,
   "difficulty": "easy",
   "tags": [
@@ -75,5 +75,9 @@
     "primaryIngredient": "rice paper sheets",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

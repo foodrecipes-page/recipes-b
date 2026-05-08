@@ -3,7 +3,6 @@
   "description": "A classic Ukrainian dish featuring a tangy filling of beets, vanilla bean paste, and cure, all wrapped in a crispy, crunchy dough. Perfect as a side dish or snack.",
   "cuisine": "Ukrainian",
   "diet": [
-    "gluten-free",
     "kosher-friendly"
   ],
   "meal": "lunch",
@@ -93,11 +92,16 @@
     "mood": "show-off",
     "technique": "cure",
     "primaryIngredient": "vanilla bean paste",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "beet",
     "descriptor": "bitter crunchy",
     "dishForm": "Pierogi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

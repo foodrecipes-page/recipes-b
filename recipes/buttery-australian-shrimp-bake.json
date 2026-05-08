@@ -3,8 +3,7 @@
   "description": "A single-skillet, lowcarb shrimp bake with a gooey buttery sauce, finished with fresh herbs and a hint of lemon.",
   "cuisine": "Australian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -28,13 +27,13 @@
     },
     {
       "name": "diced canned tomatoes",
-      "amount": "120ml (\u00bd cup)",
+      "amount": "120ml (½ cup)",
       "notes": "drained"
     },
     {
       "name": "almond flour",
       "amount": "1 teaspoon",
-      "notes": "low\u2011carb thickener"
+      "notes": "low‑carb thickener"
     },
     {
       "name": "smoked paprika",
@@ -58,13 +57,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200\u00b0C (400\u00b0F).",
-    "Heat a large oven\u2011proof skillet over medium heat, add butter and olive oil, letting the butter melt.",
-    "Add minced garlic to the skillet and saut\u00e9 for 30 seconds until fragrant.",
+    "Preheat oven to 200°C (400°F).",
+    "Heat a large oven‑proof skillet over medium heat, add butter and olive oil, letting the butter melt.",
+    "Add minced garlic to the skillet and sauté for 30 seconds until fragrant.",
     "Add the diced tomatoes and almond flour, stir to combine and let simmer for 3 minutes.",
     "Season the mixture with smoked paprika, salt, and pepper.",
     "Place the shrimp in the skillet, turning them to coat with the sauce. 5 minutes of cooking will suffice. ",
-    "Transfer the skillet to the preheated oven and bake for 8\u201310 minutes, or until shrimp turn pink and opaque. ",
+    "Transfer the skillet to the preheated oven and bake for 8–10 minutes, or until shrimp turn pink and opaque. ",
     "Remove from oven, squeeze fresh lemon juice over the shrimp, garnish with chopped parsley, and serve immediately."
   ],
   "slug": "buttery-australian-shrimp-bake",
@@ -99,5 +98,9 @@
   "tags": [
     "australian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
   ]
 }

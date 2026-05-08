@@ -53,7 +53,8 @@
     "Pour the mixture into an 8-inch terrine mold, smoothing out any air bubbles or lumps.",
     "Cover with plastic wrap, and chill in the refrigerator for at least 4 hours.",
     "To serve, run a hot knife around the edge of the terrine to loosen it from the sides. Break apart gently with your hands, making sure not to break all the way through to keep it intact visually.",
-    "Drizzle lemon juice over each portion as desired."
+    "Drizzle lemon juice over each portion as desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 0,
@@ -89,5 +90,9 @@
     "mainIngredient": "Cranberries",
     "descriptor": "Buttery Shattering",
     "dishForm": "Terrine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

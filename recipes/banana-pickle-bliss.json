@@ -42,7 +42,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
-  "totalTimeMin": 30,
+  "totalTimeMin": 5,
   "servings": 2,
   "difficulty": "easy",
   "tags": [
@@ -69,5 +69,9 @@
     "primaryIngredient": "banana",
     "diet": "low-calorie",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

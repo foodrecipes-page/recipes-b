@@ -2,9 +2,7 @@
   "title": "Buttery Velvety Avocado Mousse",
   "description": "This dairy-free indulgent Italian dish is rich and creamy with a perfect blend of buttery texture and velvety smoothness. Seasoned with sea salt, it's an easy-to-make dessert that pairs well with fresh fruits or as a standalone treat.",
   "cuisine": "Italian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -40,7 +38,7 @@
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
-  "totalTimeMin": 40,
+  "totalTimeMin": 15,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
@@ -72,5 +70,10 @@
     "mainIngredient": "Avocado",
     "descriptor": "Buttery Velvety",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "recomputed-totalTime"
+  ]
 }

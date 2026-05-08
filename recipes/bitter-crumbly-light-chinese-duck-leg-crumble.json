@@ -58,11 +58,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180\u00b0C (350\u00b0F).",
+    "Preheat oven to 180°C (350°F).",
     "Mix all ingredients in a large bowl.",
     "Shape into patties and place on a baking sheet lined with parchment paper.",
     "Bake for 25 minutes or until golden brown. Rotate tray halfway through cooking time.",
-    "Serve warm alongside steamed vegetables as a diabetic-friendly snack."
+    "Serve warm alongside steamed vegetables as a diabetic-friendly snack.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "duck",
     "descriptor": "Bitter Crumbly Light",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

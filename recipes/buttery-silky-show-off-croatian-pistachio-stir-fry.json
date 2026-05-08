@@ -57,7 +57,8 @@
     "Pour in chicken broth or water, reduce heat to medium, add pistachio paste if using, stir well and let simmer for 2-3 minutes.",
     "Stir in heavy cream, butter, and salt/pepper to taste. Simmer for another minute.",
     "Add broccoli florets, gently toss until heated through. Adjust seasoning as needed.",
-    "Serve hot with a garnish of additional chopped pistachios on top."
+    "Serve hot with a garnish of additional chopped pistachios on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +96,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "buttery silky show-off",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

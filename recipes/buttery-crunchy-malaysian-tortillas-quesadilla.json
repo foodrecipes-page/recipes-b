@@ -3,8 +3,6 @@
   "description": "Date-night dish featuring crispy tortillas, sweet pickled onions, and spicy chili flakes. Perfect for anti-inflammatory diets and served on a salt block.",
   "cuisine": "malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free",
     "low-sodium"
   ],
   "meal": "dinner",
@@ -49,7 +47,8 @@
     "Cook for an additional 2-3 minutes or until the tortilla is crispy and golden brown.",
     "Repeat with remaining tortillas and filling.",
     "Serve immediately on a preheated salt block.",
-    "Garnish with additional pickle slices and chili flakes, if desired."
+    "Garnish with additional pickle slices and chili flakes, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -59,7 +58,6 @@
   "tags": [
     "anti-inflammatory",
     "date-night",
-    "gluten-free",
     "healthy",
     "malaysian",
     "salt-block",
@@ -88,5 +86,11 @@
     "mainIngredient": "tortillas",
     "descriptor": "Buttery Crunchy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

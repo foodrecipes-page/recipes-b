@@ -54,7 +54,8 @@
     "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
     "To assemble the dish, place a cooked pancake on a plate, add a spoonful of the pork mixture, and top with melted butter.",
     "Repeat the process until all ingredients are used up.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "pork",
     "descriptor": "Buttery Juicy",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

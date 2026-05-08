@@ -3,15 +3,14 @@
   "description": "A quick, buttery stirfry with tofu, colorful peppers, and a tahinibased sauce, inspired by Peruvian flavors.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "extra\u2011firm tofu",
+      "name": "extra‑firm tofu",
       "amount": "14 oz",
-      "notes": "pressed and cut into 1/2\u2011inch cubes"
+      "notes": "pressed and cut into 1/2‑inch cubes"
     },
     {
       "name": "vegan butter",
@@ -35,7 +34,7 @@
     {
       "name": "zucchini",
       "amount": "1 cup",
-      "notes": "sliced half\u2011moon"
+      "notes": "sliced half‑moon"
     },
     {
       "name": "garlic",
@@ -75,13 +74,13 @@
   ],
   "instructions": [
     "Press the tofu for at least 15 minutes to remove excess moisture and cut into cubes.",
-    "Heat the olive oil in a large skillet over medium\u2011high heat. Add the tofu cubes and sear until golden on all sides, about 5 minutes. Remove tofu and set aside.",
-    "In the same skillet, add the vegan butter and let it melt. Add the minced garlic, grated ginger, cumin, and smoked paprika; saut\u00e9 for 30 seconds until fragrant.",
-    "Add the sliced bell peppers and zucchini to the skillet; stir\u2011fry for 4\u20135 minutes until the vegetables are tender but still crisp.",
+    "Heat the olive oil in a large skillet over medium‑high heat. Add the tofu cubes and sear until golden on all sides, about 5 minutes. Remove tofu and set aside.",
+    "In the same skillet, add the vegan butter and let it melt. Add the minced garlic, grated ginger, cumin, and smoked paprika; sauté for 30 seconds until fragrant.",
+    "Add the sliced bell peppers and zucchini to the skillet; stir‑fry for 4–5 minutes until the vegetables are tender but still crisp.",
     "Return the tofu to the pan and pour in the tahini paste, soy sauce, and lime juice. Stir gently to coat everything evenly, cooking for another 2 minutes to heat through.",
-    "Taste the sauce and adjust seasoning if needed\u2014add a splash more soy sauce for saltiness or lime juice for brightness.",
+    "Taste the sauce and adjust seasoning if needed—add a splash more soy sauce for saltiness or lime juice for brightness.",
     "Serve hot, garnished with chopped fresh cilantro. Pair with steamed rice or quinoa for a complete meal.",
-    "Enjoy this buttery, Peruvian\u2011inspired tofu stir\u2011fry for a satisfying weeknight dinner."
+    "Enjoy this buttery, Peruvian‑inspired tofu stir‑fry for a satisfying weeknight dinner."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -91,7 +90,6 @@
   "tags": [
     "peruvian",
     "vegetarian",
-    "vegan",
     "stir-fry",
     "tahini",
     "weeknight",
@@ -122,5 +120,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Buttery",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

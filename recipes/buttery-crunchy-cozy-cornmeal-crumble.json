@@ -2,9 +2,7 @@
   "title": "Buttery Crunchy Cozy Cornmeal Crumble",
   "description": "A cozy Canadian dish featuring white cornmeal crumbled over a savory base with a touch of bhuna and garnished with nuts for crunchiness, vegan-friendly.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -35,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a mixing bowl, cream together the softened butter and cornmeal until well combined. Stir in salt, bhuna sauce, lemon juice, and cinnamon.",
     "Fold in chopped nuts until evenly distributed throughout the mixture.",
     "Transfer crumble onto an oven-safe dish or baking sheet lined with parchment paper.",
@@ -78,5 +76,9 @@
     "mainIngredient": "cornmeal",
     "descriptor": "Buttery Crunchy Cozy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

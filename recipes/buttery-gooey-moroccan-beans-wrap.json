@@ -99,11 +99,15 @@
     "mood": "lazy-sunday",
     "technique": "fold",
     "primaryIngredient": "haricot beans",
-    "diet": "low-sodium",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Moroccan",
     "mainIngredient": "beans",
     "descriptor": "Buttery Gooey",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

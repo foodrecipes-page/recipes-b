@@ -71,11 +71,15 @@
     "mood": "post-workout",
     "technique": "grill",
     "primaryIngredient": "cream",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Saudian",
     "mainIngredient": "cream",
     "descriptor": "Buttery Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }
