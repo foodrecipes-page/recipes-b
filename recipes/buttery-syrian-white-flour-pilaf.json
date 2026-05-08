@@ -1,0 +1,62 @@
+{
+  "title": "Buttery Syrian White Flour Pilaf",
+  "description": "A velvety and cozy pilaf dish from Syria featuring white flour and a buttery twist, perfect for a flexitarian-friendly meal anytime of the day.",
+  "cuisine": "Syrian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Syrian Flour",
+      "amount": "4 cups",
+      "notes": "all-purpose flour or any similar type will do, but Syrian flour has a slightly better taste and texture"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat until melted.",
+    "Add the chopped onion and saut\u00061e until translucent.",
+    "Add the chicken broth, salt, and 2 cups of the white flour, stirring to combine, then cook until the mixture thickens and forms a crust at the bottom of the pan.",
+    "Gradually add the remaining 2 cups of white flour, stirring constantly, until the mixture forms a smooth paste similar to dough.",
+    "Remove from heat and cover with a clean kitchen towel, letting it rest for 10 minutes.",
+    "Uncover, then add the rice and mix until well combined with the dough-like mixture.",
+    "Return the mixture to the heat, cook, covered, over low heat for 15-20 minutes, or until the rice is cooked and fluffy like a pilaf.",
+    "Serve hot, garnished with toasted almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "homemade",
+    "one-pan",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 24
+  },
+  "slug": "buttery-syrian-white-flour-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-syrian-white-flour-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:08:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "white flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "White Flour",
+    "descriptor": "Buttery",
+    "dishForm": "Pilaf"
+  }
+}
