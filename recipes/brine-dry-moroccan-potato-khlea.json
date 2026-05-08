@@ -1,0 +1,118 @@
+{
+  "title": "Brine-Dry Moroccan Potato Khlea",
+  "description": "A citrusy, springy Moroccan brunch dish featuring brine-dried potatoes, served with a raclette grill.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and slice them into 1/2-inch thick rounds.",
+    "In a large bowl, combine lemon juice, orange juice, and 1 tablespoon of olive oil. Add the sliced potatoes and mix well to coat.",
+    "Let the potatoes marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat a raclette grill to medium-high heat.",
+    "Remove the potatoes from the marinade, allowing any excess to drip off.",
+    "Season the potatoes with salt, black pepper, garlic, and a pinch of cumin, coriander, and paprika.",
+    "Place the potatoes on the preheated raclette grill and cook for 4-5 minutes per side, or until crispy and golden brown.",
+    "Transfer the potatoes to a serving platter and garnish with fresh cilantro and a drizzle of honey.",
+    "Serve immediately, with additional lemon wedges on the side if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-to-make",
+    "gluten-free",
+    "moroccan-cuisine",
+    "potato-dish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "brine-dry-moroccan-potato-khlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/brine-dry-moroccan-potato-khlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "russet potato",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Potato",
+    "descriptor": "Brine-Dry",
+    "dishForm": "Khlea"
+  }
+}
