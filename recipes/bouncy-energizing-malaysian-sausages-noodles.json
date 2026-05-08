@@ -1,0 +1,109 @@
+{
+  "title": "Bouncy-Energizing Malaysian Sausages Noodles",
+  "description": "A malty, bouncy-qq, energizing Malaysian dish featuring sausages, served in a stone-bowl-dolsot and adhering to ayurvedic-sattvic-friendly principles.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "malaysian sausages",
+      "amount": "4"
+    },
+    {
+      "name": "tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "tempeh",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "shallot",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "Heat the coconut oil in a pan over medium heat.",
+    "Add the onion, shallot, and garlic to the pan and sauté until softened.",
+    "Add the ginger and sauté for another minute.",
+    "Add the tofu and tempeh to the pan and cook until golden brown.",
+    "Add the Malaysian sausages to the pan and cook until browned.",
+    "Add the soy sauce, tamarind paste, and sambal oelek to the pan and stir to combine.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Serve the noodles in a stone-bowl-dolsot and garnish with chopped green onions if desired.",
+    "Enjoy your bouncy-energizing Malaysian sausages noodles!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "malaysian",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "bouncy-energizing-malaysian-sausages-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-energizing-malaysian-sausages-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:59:26Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sausages",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "sausages",
+    "descriptor": "bouncy-energizing",
+    "dishForm": "noodles"
+  }
+}
