@@ -336,6 +336,18 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-australian-cheddar-bake",
+    "title": "Bitter Australian Cheddar Bake",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-beef-brisket-with-caramelized-vegetables",
     "title": "Bitter Beef Brisket with Caramelized Vegetables",
     "tags": [
@@ -426,6 +438,24 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-egyptian-cheese-curds-bake",
+    "title": "Bitter Chewy Egyptian Cheese Curds Bake",
+    "tags": [
+      "bitter",
+      "cheese",
+      "chewy",
+      "curds",
+      "dash",
+      "high-protein",
+      "one-pan",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {

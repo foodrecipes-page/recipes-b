@@ -1,0 +1,108 @@
+{
+  "title": "Bitter Australian Cheddar Bake",
+  "description": "A crispy, comforting side dish that's perfect for a lazy Sunday. Featuring mature cheddar and a sweet and spicy kick from ferments.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Ferment Jang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Self-Raising Flour",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Cold Butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Egg Replacer",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Worcestershire Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180C (350F).",
+    "Mix together the flour, cold butter and egg replacer until a crumbly dough forms.",
+    "In a separate bowl, combine the cheese, ferment jang, salt, black pepper and vegan Worcestershire sauce.",
+    "Add the chopped chives and parsley to the cheese mixture and stir to combine.",
+    "Roll out the dough on a floured surface to a thickness of 1cm (0.5in).",
+    "Transfer the dough to a baking tray lined with parchment paper, leaving a 1cm (0.5in) border around the edges.",
+    "Spread the cheese mixture evenly over the dough, leaving a 1cm (0.5in) border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "Remove from the oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "bitter-australian-cheddar-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-australian-cheddar-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:05:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "mature cheddar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "cheddar",
+    "descriptor": "bitter",
+    "dishForm": "bake"
+  }
+}

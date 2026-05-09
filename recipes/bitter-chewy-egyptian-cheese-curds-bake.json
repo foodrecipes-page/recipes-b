@@ -1,0 +1,73 @@
+{
+  "title": "Bitter Chewy Egyptian Cheese Curds Bake",
+  "description": "A sick-day Egyptian dish featuring cheese curds, ice-bath-shock, and a dash of feta. This bitter, chewy recipe is perfect for when you're feeling under the weather.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly feta"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix together ricotta cheese, feta cheese, and 1 tablespoon of water in a bowl until smooth.",
+    "Pour the mixture into a greased 8-inch square baking dish.",
+    "Bake in the preheated oven for 20-25 minutes, or until lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Transfer the dish to an ice bath and let cool completely, about 30 minutes.",
+    "Once cooled, refrigerate for at least 2 hours or overnight.",
+    "Cut into 9-12 squares before serving, depending on desired size.",
+    "Freeze for up to 3 months if not serving immediately, and thaw at room temperature when needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 9,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "cheese",
+    "chewy",
+    "curds",
+    "dash",
+    "high-protein",
+    "one-pan",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "bitter-chewy-egyptian-cheese-curds-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-egyptian-cheese-curds-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:09Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cheese curds",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "bitter chewy",
+    "dishForm": "Bake"
+  }
+}
