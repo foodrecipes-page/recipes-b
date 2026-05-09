@@ -1,0 +1,87 @@
+{
+  "title": "Bouncy-QQ Jamaican Sick-Day Sour-Creamed Appetizer",
+  "description": "A unique appetizer that combines the flavors of Jamaica with the comfort of sour cream and chive dip, finished with a touch of tempering-chocolate. This dish is suitable for a Buddhist temple setting.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Canned coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "4 oz",
+      "notes": "at least 70% cocoa"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat and saut\u000160 in the scotch bonnet peppers until fragrant.",
+    "Add in canned coconut milk and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Stir in Greek yogurt and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Transfer the mixture to a serving dish and top with chives and sour cream.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Drizzle the melted chocolate over the top of the sour cream and chives.",
+    "Serve immediately, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "sick-day",
+    "tempering-chocolate",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "bouncy-qq-jamaican-sick-day-sour-creamed-appetizer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-jamaican-sick-day-sour-creamed-appetizer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:10Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "sick-day",
+    "descriptor": "bouncy-qq",
+    "dishForm": "sour-creamed-appetizer"
+  }
+}
