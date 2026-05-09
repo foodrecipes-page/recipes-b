@@ -3,8 +3,7 @@
   "description": "A crispy, comforting side dish that's perfect for a lazy Sunday. Featuring mature cheddar and a sweet and spicy kick from ferments.",
   "cuisine": "australian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -98,7 +97,7 @@
     "mood": "lazy-sunday",
     "technique": "ferment-jang",
     "primaryIngredient": "mature cheddar",
-    "diet": "vegan",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "australian",
     "mainIngredient": "cheddar",
