@@ -1,0 +1,107 @@
+{
+  "title": "Buttery Smoky Russian Prawns Wrap",
+  "description": "A rich, comforting dish featuring prawns, smoky flavors, and a velvety butter sauce, wrapped in a low-carb pandan leaf wrap. Best enjoyed as a satisfying dinner",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lobster Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Prawns (shrimp)",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Robata-grilled Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pandan Leaf Wrap",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a robata grill or grill pan to medium-high heat.",
+    "Grill the prawns for 2-3 minutes per side, until pink and cooked through.",
+    "Melt 2 tablespoons of unsalted butter in a small saucepan over medium heat.",
+    "Add the minced garlic and smoked paprika to the saucepan and cook for 1 minute, stirring constantly.",
+    "Stir in the lobster butter until melted and smooth.",
+    "Add the chopped dill, lemon juice, salt, and black pepper to the saucepan and stir to combine.",
+    "Add the cooked prawns to the saucepan and toss to coat with the butter sauce.",
+    "Warm the pandan leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the prawn and butter mixture onto the center of each wrap, then folding the bottom half up over the filling and rolling up to form a tight cylinder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "low-carb",
+    "one-pan",
+    "russian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 26
+  },
+  "slug": "buttery-smoky-russian-prawns-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-smoky-russian-prawns-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "prawns",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "prawns",
+    "descriptor": "Buttery Smoky",
+    "dishForm": "Wrap"
+  }
+}
