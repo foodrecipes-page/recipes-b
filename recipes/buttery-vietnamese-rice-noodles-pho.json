@@ -1,0 +1,67 @@
+{
+  "title": "Buttery Vietnamese Rice Noodles Pho",
+  "description": "A rich, savory, and aromatic monsoon-inspired dish featuring Thai holy basil and fermented kimchi, perfect for a flexitarian-friendly dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh or refrigerated, not frozen"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought, low-sodium"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "high-quality, unsalted"
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a simmer in a large pot over medium heat.",
+    "In a separate pan, melt the butter over medium heat.",
+    "Add 2 cloves of minced garlic to the butter and cook for 1 minute, until fragrant.",
+    "Add 2 cups of sliced onions to the butter and cook for 3-4 minutes, until translucent."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "buttery-vietnamese-rice-noodles-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-vietnamese-rice-noodles-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:52:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "rice noodles",
+    "descriptor": "buttery",
+    "dishForm": "pho"
+  }
+}

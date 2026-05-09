@@ -5789,6 +5789,21 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-gilligan-saudi-arabian-dish-pilaf",
+    "title": "Buttery Gilligan Saudi-arabian dish Pilaf",
+    "tags": [
+      "breakfast-option",
+      "dinner-option",
+      "high-protein",
+      "lunch-option",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Saudi",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-glassy-jelly-wholesome-puy-lentils-bowl",
     "title": "Buttery Glassy-Jelly Wholesome Puy-lentils Bowl",
     "tags": [
@@ -7167,6 +7182,19 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-vietnamese-rice-noodles-pho",
+    "title": "Buttery Vietnamese Rice Noodles Pho",
+    "tags": [
+      "comfort-food",
+      "flexitarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Gilligan Saudi-arabian dish Pilaf",
+  "description": "A buttery, pillowy, meal-prep dish from Saudi Arabia featuring sweetened condensed milk, cooked in a bain-marie. High in protein and perfect for serving in scallop shells.",
+  "cuisine": "Saudi",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sweetened condensed milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine rice, 2 cups of water, and a pinch of salt in a medium saucepan. Bring to a boil, then reduce heat to low and cover with a tight-fitting lid.",
+    "Place the saucepan in a large bain-marie and steam for 18 minutes, or until the rice is cooked and fluffy.",
+    "In a small bowl, whisk together the sweetened condensed milk, eggs, cumin, coriander, salt, and black pepper.",
+    "Stir the milk mixture into the cooked rice and mix well.",
+    "Transfer the rice mixture to a 9x13 inch baking dish and dot the top with the unsalted butter.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until the top is lightly browned and the rice is heated through.",
+    "Stir in the chopped parsley and serve hot in scallop shells.",
+    "Refrigerate or freeze for up to 3 days for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "dinner-option",
+    "high-protein",
+    "lunch-option",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "buttery-gilligan-saudi-arabian-dish-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-gilligan-saudi-arabian-dish-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:52:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "dish",
+    "descriptor": "Buttery Gilligan",
+    "dishForm": "Pilaf"
+  }
+}
