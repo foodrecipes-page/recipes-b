@@ -1,0 +1,74 @@
+{
+  "title": "Buttery Uruguayan Chickpeas Empanadas",
+  "description": "Quick-fix, high-protein dish featuring flavorful chickpeas wrapped in buttery pastry.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together flour, salt, and pepper.",
+    "Add softened butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add 1/4 cup of cold water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Meanwhile, prepare the chickpea filling by sautéing 1/2 cup of diced onion and 1 minced garlic clove in 2 tablespoons of olive oil until softened.",
+    "Add 1 can of chickpeas, drained and rinsed, to the pan and stir to combine.",
+    "Add 1 tablespoon of chopped fresh cilantro and 1 teaspoon of ground cumin to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "On a lightly floured surface, roll out the chilled dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the chickpea filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and cut a few slits in the top of each to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "high-protein",
+    "pastry",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "buttery-uruguayan-chickpeas-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-uruguayan-chickpeas-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chickpeas",
+    "descriptor": "buttery",
+    "dishForm": "empanadas"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Moroccan Amazake Couscous",
+  "description": "A comforting Moroccan dish made with crispy amazake, fluffy couscous, and a hint of butter. Perfect for a sick day or a cozy night in.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Amazake",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "40g",
+      "notes": ""
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20g",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Spices (cumin, coriander, cinnamon)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and ginger and cook until softened, about 5 minutes.",
+    "Add the amazake and cook, stirring constantly, for 2-3 minutes.",
+    "Add the spices, salt, and butter and stir until the butter has melted.",
+    "Add the couscous and stir to combine.",
+    "Transfer the mixture to a mini cocotte and serve hot.",
+    "Garnish with parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "buttery-moroccan-amazake-moroccan-amazake-couscous",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-moroccan-amazake-moroccan-amazake-couscous",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "amazake",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "amazake",
+    "descriptor": "Buttery Moroccan amazake",
+    "dishForm": "Couscous"
+  }
+}

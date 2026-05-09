@@ -6444,6 +6444,19 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-moroccan-amazake-moroccan-amazake-couscous",
+    "title": "Buttery Moroccan Amazake Couscous",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "sick-day"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-moroccan-lamb-tagine",
     "title": "Buttery Moroccan Lamb Tagine",
     "tags": [
@@ -7119,6 +7132,20 @@
     ],
     "cuisine": "South American",
     "totalTimeMin": null,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-uruguayan-chickpeas-empanadas",
+    "title": "Buttery Uruguayan Chickpeas Empanadas",
+    "tags": [
+      "empanadas",
+      "high-protein",
+      "pastry",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
     "shard": "b"
   },
   {
