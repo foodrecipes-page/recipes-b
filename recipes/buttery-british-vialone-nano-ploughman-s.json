@@ -1,0 +1,89 @@
+{
+  "title": "Buttery British Vialone-Nano Ploughman's",
+  "description": "A classic British dish featuring vialone-nano, crispy bacon, and melted butter, all wrapped up in a crispy ssam-wrap.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vialone-Nano Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ssam-Style Wrap",
+      "amount": "1",
+      "notes": "large, crispy, Korean-style"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\t0C (200\u0000\u001382F).",
+    "Line a baking sheet with parchment paper.",
+    "Cut the ssam-wrap in half lengthwise and place on the baking sheet.",
+    "Spread 2 tablespoons of melted butter on each half of the wrap.",
+    "Top each half with 1/6 of the Vialone-Nano Rice, 1/6 of the Crispy Bacon, 1/6 of the Red Onion, and 1/6 of the Fresh Chives.",
+    "Fold the ssam-wrap in half to enclose the filling and press the edges to seal.",
+    "Bake for 10-15 minutes, or until the wrap is crispy and golden brown.",
+    "Repeat with the remaining ingredients.",
+    "Serve warm, with additional butter if desired.",
+    "Garnish with chopped fresh chives, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "brunch",
+    "easy",
+    "lunch",
+    "ploughmans",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 34
+  },
+  "slug": "buttery-british-vialone-nano-ploughman-s",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-british-vialone-nano-ploughman-s",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "vialone-nano",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Vialone-Nano",
+    "descriptor": "Buttery",
+    "dishForm": "Ploughman's"
+  }
+}

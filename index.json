@@ -4230,6 +4230,22 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-british-vialone-nano-ploughman-s",
+    "title": "Buttery British Vialone-Nano Ploughman's",
+    "tags": [
+      "breakfast",
+      "british",
+      "brunch",
+      "easy",
+      "lunch",
+      "ploughmans",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-buttermoskovskiy-pilaf",
     "title": "Buttery Buttermoskovskiy Pilaf",
     "tags": [
