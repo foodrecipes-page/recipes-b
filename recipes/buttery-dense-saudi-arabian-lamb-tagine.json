@@ -1,0 +1,113 @@
+{
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A rich, buttery tagine dish from Saudi Arabia, featuring tender lamb and a spicy kick.",
+  "cuisine": "saudiarabian",
+  "diet": [
+    "lowsodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chilli Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use low-sodium salt if preferred"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground is best"
+    },
+    {
+      "name": "Dried Dates",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped is fine"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped is fine"
+    }
+  ],
+  "instructions": [
+    "Heat butter in the bottom of a traditional tagine or Dutch oven over medium heat.",
+    "Add the cumin and coriander and cook, stirring constantly, for 1 minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chilli flakes, salt, and black pepper, and stir to combine.",
+    "Add the dried dates, parsley, and cilantro, and stir to combine.",
+    "Add 1 cup of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2.5 hours, or until the lamb is tender.",
+    "Remove the tagine from the heat and let cool slightly.",
+    "Strain the cooking liquid through a fine-mesh sieve into a bowl, and discard the solids.",
+    "Return the tagine to the heat and add 2 tablespoons of butter, stirring until melted and smooth.",
+    "Serve the lamb hot, garnished with additional parsley and cilantro if desired.",
+    "Let the tagine cool to room temperature, then refrigerate or freeze for up to 3 days.",
+    "When ready to serve, remove the tagine from the refrigerator and let sit at room temperature for 30 minutes, then reheat in the oven until hot and bubbly."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 150,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-fat",
+    "low-sodium",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 50,
+    "fat": 80
+  },
+  "slug": "buttery-dense-saudi-arabian-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-saudi-arabian-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chilli flakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Buttery Dense",
+    "dishForm": "Tagine"
+  }
+}

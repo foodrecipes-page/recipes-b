@@ -3692,6 +3692,21 @@
     "shard": "b"
   },
   {
+    "slug": "briny-saudi-arabian-masarepa-fritters",
+    "title": "Briny Saudi-Arabian Masarepa Fritters",
+    "tags": [
+      "fritters",
+      "herbs",
+      "middle-eastern",
+      "onion",
+      "saudi-arabian",
+      "snack"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "briny-shattering-egyptian-ice-cream-mushimono",
     "title": "Briny Shattering Egyptian Ice Cream Mushimono",
     "tags": [
@@ -5445,6 +5460,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-dense-saudi-arabian-lamb-tagine",
+    "title": "Saudi Arabian Lamb Tagine",
+    "tags": [
+      "date-night",
+      "high-fat",
+      "low-sodium",
+      "one-pan",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "saudiarabian",
+    "totalTimeMin": 195,
     "shard": "b"
   },
   {
