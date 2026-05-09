@@ -1,0 +1,55 @@
+{
+  "title": "Buttery Pillowy Argentinian Empanadas",
+  "description": "A low-glycemic-friendly version of traditional Argentinian empanadas, featuring ssamjang and folded in a cataplana. These bite-sized treats are perfect for a festive occasion.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "divided"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine 1 cup of flour and 1 teaspoon of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "high-protein",
+    "low-glycemic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "buttery-pillowy-argentinian-dishes-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-pillowy-argentinian-dishes-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "ssamjang",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "dishes",
+    "descriptor": "Buttery Pillowy",
+    "dishForm": "Empanadas"
+  }
+}
