@@ -1,0 +1,104 @@
+{
+  "title": "Buttery Aerated Venezuelan Popcorn Pilaf",
+  "description": "A kid-friendly Venezuelan dish featuring toffee popcorn in a buttery, score-fat pilaf.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Butter-Infused Popcorn Seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Score-Fat (Palm Shortening)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Toffee Popcorn",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt-Free Seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the vegetable oil over medium heat.",
+    "Add the butter and score-fat, stirring until the fat is fully incorporated and melted.",
+    "Add the butter-infused popcorn seasoning and stir for 30 seconds.",
+    "Add the all-purpose flour and cook for 1-2 minutes, stirring constantly.",
+    "Slowly pour in the chicken broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "Stir in the salt-free seasoning and cook for an additional 1-2 minutes.",
+    "Add the toffee popcorn and stir to coat with the pilaf mixture.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the pilaf hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-sodium",
+    "one-pan",
+    "snack",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "buttery-aerated-venezuelan-popcorn-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-aerated-venezuelan-popcorn-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T01:18:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Popcorn",
+    "descriptor": "Buttery Aerated",
+    "dishForm": "Pilaf"
+  }
+}
