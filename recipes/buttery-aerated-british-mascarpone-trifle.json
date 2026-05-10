@@ -1,0 +1,113 @@
+{
+  "title": "Buttery Aerated British Mascarpone Trifle",
+  "description": "A nostalgic British dessert featuring mascarpone, miso-marinated fruits, and a buttery aerated sponge cake.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mascarpone cheese",
+      "amount": "300g"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "20g"
+    },
+    {
+      "name": "Fresh blueberries",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "150g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "120g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "10g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "300ml"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "10ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Butter a 20cm round cake pan and line the bottom with parchment paper.",
+    "In a large bowl, whisk together mascarpone cheese, caster sugar, eggs, and vanilla extract until smooth.",
+    "In a separate bowl, whisk together flour, baking powder, and granulated sugar.",
+    "Add the dry ingredients to the mascarpone mixture and whisk until combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 25 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Allow the cake to cool in the pan for 5 minutes, then transfer it to a wire rack to cool completely.",
+    "In a small bowl, whisk together miso paste and heavy cream until smooth.",
+    "Chop the fresh blueberries and strawberries and mix them with the miso cream.",
+    "Split the cooled cake into two layers and place one layer on a serving plate.",
+    "Spread the mascarpone mixture over the cake layer, followed by the miso-marinated fruits.",
+    "Top with the remaining cake layer and dust with powdered sugar.",
+    "Chill the trifle in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "british-dessert",
+    "diabetic-friendly",
+    "easy-to-make",
+    "high-protein",
+    "low-carb",
+    "masarpone-trifle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 43,
+    "fat": 34
+  },
+  "slug": "buttery-aerated-british-mascarpone-trifle",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-aerated-british-mascarpone-trifle",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T00:19:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "mascarpone",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Mascarpone",
+    "descriptor": "Buttery Aerated",
+    "dishForm": "Trifle"
+  }
+}
