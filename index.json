@@ -2719,6 +2719,20 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-uruguayan-mirin-empanada",
+    "title": "Bitter Uruguayan Mirin Empanada",
+    "tags": [
+      "dessert",
+      "empanada",
+      "hangover-cure",
+      "mirin",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-uruguayan-peanut-bake",
     "title": "Bitter Uruguayan Peanut Bake",
     "tags": [
