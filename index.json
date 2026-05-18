@@ -4798,6 +4798,22 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-crispy-greek-comte-galette",
+    "title": "Buttery Crispy Greek Comte Galette",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easter",
+      "french-inspired",
+      "greek",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crispy-italian-chicken-liver-stir-fry",
     "title": "Buttery Crispy Italian Chicken Liver Stir-fry",
     "tags": [

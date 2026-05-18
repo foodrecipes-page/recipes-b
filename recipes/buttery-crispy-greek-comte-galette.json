@@ -1,0 +1,100 @@
+{
+  "title": "Buttery Crispy Greek Comte Galette",
+  "description": "A nostalgic Greek dish featuring Comte cheese, crispy pastry, and a hint of Mediterranean flavor.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Pie crust dough",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "60g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust dough to a thickness of 1/8 inch.",
+    "Cut out a circle of dough using a plate or a cookie cutter.",
+    "Place the dough circle in a 9-inch tart pan with a removable bottom.",
+    "In a bowl, mix together Comte cheese, Feta cheese, egg, salt, and black pepper.",
+    "Add the Comte cheese mixture to the center of the dough circle.",
+    "Fold the edges of the dough over the filling, pressing gently to seal.",
+    "Dot the top of the galette with unsalted butter.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Sprinkle with parsley and dill before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easter",
+    "french-inspired",
+    "greek",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "buttery-crispy-greek-comte-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-greek-comte-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:44:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "comte",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Comte",
+    "descriptor": "Buttery, Crispy",
+    "dishForm": "Galette"
+  }
+}
