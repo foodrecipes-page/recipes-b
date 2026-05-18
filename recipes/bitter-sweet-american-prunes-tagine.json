@@ -1,0 +1,121 @@
+{
+  "title": "Bitter Sweet American Prunes Tagine",
+  "description": "A unique dish that combines the sweetness of prunes with a bitter twist, perfect for a monsoon evening in America.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "bitter"
+    },
+    {
+      "name": "unsalted almonds",
+      "amount": "1/4 cup",
+      "notes": "slivered"
+    },
+    {
+      "name": "crystallized ginger",
+      "amount": "2 tablespoons",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "raw"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "raw"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "flaky"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "In a small bowl, whisk together the flour, cinnamon, nutmeg, and salt.",
+    "In a large bowl, mix together the prunes, dark chocolate chips, unsalted almonds, crystallized ginger, honey, lemon juice, and flour mixture.",
+    "Add the ghee and cold water to the prune mixture, stirring until a dough forms.",
+    "Knead the dough for 5 minutes, until it becomes smooth and pliable.",
+    "Shape the dough into small balls, about 1 inch in diameter.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake the prunes for 15-20 minutes, until they are dark brown and fragrant.",
+    "Remove the prunes from the oven and let them cool completely.",
+    "Store the prunes in an airtight container at room temperature for up to 2 weeks.",
+    "Serve the prunes chilled, garnished with additional crystallized ginger if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crumbly",
+    "monsoon",
+    "one-pan",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "bitter-sweet-american-prunes-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-sweet-american-prunes-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:03:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "prunes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "prunes",
+    "descriptor": "bitter sweet",
+    "dishForm": "Tagine"
+  }
+}
