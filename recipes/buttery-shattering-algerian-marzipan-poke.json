@@ -1,0 +1,95 @@
+{
+  "title": "Buttery Shattering Algerian Marzipan Poke",
+  "description": "A diabetic-friendly Algerian dessert featuring marzipan, poached in a buttery almond milk sauce, served in a beautiful Talavera plate.",
+  "cuisine": "algerian",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "marzipan",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the poaching liquid to a simmer in a large saucepan over medium heat.",
+    "In a separate bowl, whisk together the almond milk, butter, ground almonds, powdered sugar, beaten egg, vanilla extract, and salt.",
+    "Add the marzipan to the bowl and mix until well combined.",
+    "Transfer the marzipan mixture to the poaching liquid and cook for about 5 minutes, or until it reaches your desired level of doneness.",
+    "Remove the Talavera plate from the oven and carefully place the marzipan poke onto the plate.",
+    "Drizzle the poaching liquid over the marzipan and serve immediately.",
+    "Garnish with additional powdered sugar, if desired.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "buttery-sauce",
+    "diabetic-friendly",
+    "easy-dessert",
+    "kid-friendly",
+    "talavera-plate",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "buttery-shattering-algerian-marzipan-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-shattering-algerian-marzipan-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:07:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "marzipan",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "marzipan",
+    "descriptor": "Buttery Shattering",
+    "dishForm": "Poke"
+  }
+}
