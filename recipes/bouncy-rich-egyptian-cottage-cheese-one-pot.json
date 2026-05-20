@@ -1,0 +1,127 @@
+{
+  "title": "Bouncy Rich Egyptian Cottage Cheese One-Pot",
+  "description": "A rich, bouncy, and creamy one-pot dish featuring cottage cheese, flavored with Egyptian spices and herbs.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion, katsuramuki-cut",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Add olive oil to a large saucepan over medium heat.",
+    "Add the katsuramuki-cut onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cook for 1 minute, until fragrant.",
+    "Add the cumin, paprika, salt, and black pepper, cook for 1 minute, stirring constantly.",
+    "Add the cottage cheese and Greek yogurt, cook, stirring constantly, until the cheese has melted and the mixture is smooth, about 5 minutes.",
+    "Reduce heat to low, add the chopped parsley and chopped cilantro, stir to combine.",
+    "Add the lemon juice and stir to combine.",
+    "Dot the top with unsalted butter and serve hot.",
+    "Serve the Bouncy Rich Egyptian Cottage Cheese One-Pot hot, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egyptian",
+    "lacto-vegetarian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "bouncy-rich-egyptian-cottage-cheese-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-rich-egyptian-cottage-cheese-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:51:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "cottage cheese",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "bouncy rich",
+    "dishForm": "one-pot"
+  }
+}
