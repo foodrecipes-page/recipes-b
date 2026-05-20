@@ -1,0 +1,106 @@
+{
+  "title": "Bouncy Algerian Beans Stew",
+  "description": "A fermented, bouncy, crowd-pleaser Algerian dish featuring baked beans that is easy to make and fits a dash-friendly, iron-teppan vessel.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baked beans",
+      "amount": "2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "red kidney beans",
+      "amount": "1 cup",
+      "notes": "dried, soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u00192"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for dehydration"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan vessel to 350\u000045.",
+    "Saut\u00192 the onion and garlic in olive oil until softened.",
+    "Add the cumin, paprika, salt, and black pepper, and stir for 1 minute.",
+    "Add the baked beans, red kidney beans, and water to the vessel, and stir to combine.",
+    "Cover the vessel with a lid, and bake for 30 minutes.",
+    "Reduce the heat to 200\u000045, and continue baking for an additional 60 minutes, or until the beans are tender and the liquid has reduced.",
+    "Let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 115,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "beans",
+    "easy",
+    "fermented",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "bouncy-algerian-beans-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-algerian-beans-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:54:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "baked beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "beans",
+    "descriptor": "bouncy",
+    "dishForm": "stew"
+  }
+}
