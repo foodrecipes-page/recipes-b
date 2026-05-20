@@ -1,0 +1,115 @@
+{
+  "title": "Bitter Dutch Peas Stamppot",
+  "description": "A traditional Dutch dish made with split peas, kale, and smoked bacon, served with a side of rye bread. This recipe is a keto-friendly twist on a classic monsoon-inspired meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "rye bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine split peas and water in a large saucepan and bring to a boil. Reduce the heat to low and simmer for 40 minutes, or until the peas are tender.",
+    "Add chopped kale and smoked bacon to the saucepan and stir to combine.",
+    "In a separate pan, melt butter over medium heat and saut\u00136 onion until softened.",
+    "Add garlic to the pan and cook for an additional 1 minute.",
+    "Stir the onion and garlic mixture into the saucepan with the peas and kale.",
+    "Season with salt, black pepper, and additional bacon if desired.",
+    "Serve the stamppot hot with a side of rye bread.",
+    "Reheat leftovers in a bain-marie or microwave-safe dish for up to 2 days.",
+    "To make a more intense flavor, add more smoked bacon or a few tablespoons of bacon fat to the saucepan during the last 10 minutes of cooking.",
+    "Adjust the seasoning as needed before serving.",
+    "Serve immediately.",
+    "Leftovers can be refrigerated for up to 3 days or frozen for up to 2 months.",
+    "Reheat in a saucepan or microwave-safe dish, adding a splash of water if needed to prevent drying out."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "monsoon-inspiration",
+    "one-pan",
+    "rye-bread",
+    "smoked-bacon",
+    "traditional-dutch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "bitter-dutch-peas-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-dutch-peas-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:26:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "split peas",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peas",
+    "descriptor": "bitter",
+    "dishForm": "Stamppot"
+  }
+}
