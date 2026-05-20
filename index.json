@@ -2175,6 +2175,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-greek-lamb-stifado",
+    "title": "Bitter Greek Lamb Stifado",
+    "tags": [
+      "gluten-free",
+      "keto",
+      "nightshade-free",
+      "one-pan"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 135,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-greek-veal-omelette",
     "title": "Bitter Greek Veal Omelette",
     "tags": [
