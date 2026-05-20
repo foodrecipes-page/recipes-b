@@ -1,0 +1,117 @@
+{
+  "title": "Buttery Smoky Polish Rye Blintz",
+  "description": "A hearty, comforting dish featuring smoky paprika, tangy pickle, and low-glycemic-friendly rye flour, perfect for a hangover cure.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dill pickle chips",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Filling (see below))",
+      "amount": "8 ounces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rye flour, warm water, and salt. Mix until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Cover the dough with plastic wrap and let rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a thin circle, about 1/8 inch thick.",
+    "Heat a large non-stick skillet over medium heat.",
+    "Add 1 tablespoon of vegetable oil and swirl to coat.",
+    "Cook the blintzes for 2 minutes on each side, until golden brown.",
+    "Repeat with the remaining dough pieces.",
+    "In a small bowl, mix together powdered sugar and chopped fresh dill.",
+    "Serve the blintzes warm with a dollop of sugar-dill mixture and a side of filling (see below)."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-carb",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "buttery-smoky-polish-rye-blintz",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-smoky-polish-rye-blintz",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:35:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "smoky paprika",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Rye",
+    "descriptor": "Buttery Smoky",
+    "dishForm": "Blintz"
+  }
+}
