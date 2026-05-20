@@ -1,0 +1,67 @@
+{
+  "title": "bitter pillowy peruvian pork chops tacos",
+  "description": "A show-off Peruvian dish featuring pork chops, coconut-cream-crack, and a hint of bitterness. A diabetic-friendly twist on traditional pork tacos.",
+  "cuisine": "peruvian",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1.5 pounds, 1-1.5 inches thick"
+    }
+  ],
+  "instructions": [
+    "Season the pork chops with salt, pepper, and a pinch of cumin. ",
+    "Heat oil in a skillet over medium-high heat. ",
+    "Sear the pork chops for 2-3 minutes per side, then set aside to rest. ",
+    "In the same skillet, add diced onions and cook until translucent. ",
+    "Add diced garlic and cook for an additional minute. ",
+    "Stir in coconut cream and bring to a simmer. ",
+    "Reduce heat to low and let the sauce thicken for 2-3 minutes. ",
+    "Warm tacos shells according to package instructions. ",
+    "Slice the rested pork chops thinly against the grain. ",
+    "Assemble the tacos by placing a few slices of pork onto each shell, then topping with the coconut cream sauce and any desired toppings. ",
+    "Garnish with chopped cilantro and a sprinkle of queso fresco if desired. ",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 35
+  },
+  "slug": "bitter-pillowy-peruvian-pork-chops-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-pillowy-peruvian-pork-chops-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:46:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "pork chops",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pork chops",
+    "descriptor": "bitter pillowy",
+    "dishForm": "Tacos"
+  }
+}
