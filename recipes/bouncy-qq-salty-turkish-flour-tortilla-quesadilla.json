@@ -1,0 +1,97 @@
+{
+  "title": "Bouncy-qq Salty Turkish Flour Tortilla Quesadilla",
+  "description": "A crowd-pleasing Turkish dish with a bouncy texture and a touch of saltiness, made with flour tortilla and served in a hot pot vessel.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour Tortilla",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Place a large flour tortilla on a flat surface and sprinkle a quarter of the mozzarella cheese in the center of the tortilla.",
+    "Add a quarter of the cottage cheese on top of the mozzarella cheese, followed by a sprinkle of salt, dill, and Turkish red pepper flakes.",
+    "Fold the tortilla in half to enclose the filling and press down gently to ensure it is evenly spread out.",
+    "Brush the tortilla with olive oil and sprinkle with garlic powder on top.",
+    "Heat a large hot pot vessel over medium heat and place the tortilla in the vessel.",
+    "Cook for 2-3 minutes on the first side or until the tortilla is lightly browned and the cheese is melted.",
+    "Flip the tortilla over and cook for another 2-3 minutes or until the other side is also lightly browned.",
+    "Repeat with the remaining ingredients to make 3 more quesadillas.",
+    "Serve the hot quesadillas in the hot pot vessel.",
+    "Let the quesadillas rest for 5 minutes before serving to allow the cheese to set and the tortilla to soften."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hot-pot",
+    "quesadilla",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 16
+  },
+  "slug": "bouncy-qq-salty-turkish-flour-tortilla-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-salty-turkish-flour-tortilla-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:10:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "flour tortilla",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "flour tortilla",
+    "descriptor": "Bouncy-qq Salty",
+    "dishForm": "Quesadilla"
+  }
+}
