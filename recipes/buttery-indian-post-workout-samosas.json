@@ -1,0 +1,107 @@
+{
+  "title": "Buttery Indian Post-workout Samosas",
+  "description": "Indian samosas filled with spiced potatoes and peas, served with a side of yogurt and chutney for a post-workout treat.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "1 stick",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kabse spice",
+      "amount": "1 teaspoon",
+      "notes": "a blend of spices including cumin, coriander, cinnamon, and cardamom."
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced."
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced."
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated."
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix the flour, salt, and kabse spice in a bowl to make the dough.",
+    "Add the ghee and mix until the dough comes together.",
+    "Knead the dough for 5 minutes.",
+    "Rest the dough for 30 minutes."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "indian",
+    "north-indian",
+    "post-workout",
+    "raw-friendly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "buttery-indian-post-workout-samosas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-indian-post-workout-samosas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:48:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "kabse spice",
+    "diet": "raw",
+    "region": "north",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "post-workout",
+    "descriptor": "Buttery",
+    "dishForm": "Samosas"
+  }
+}
