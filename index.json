@@ -3457,6 +3457,22 @@
     "shard": "b"
   },
   {
+    "slug": "bouncy-qq-croatian-elderflower-muffins",
+    "title": "bouncy-qq croatian elderflower muffins",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "croatian",
+      "elderflower",
+      "floral",
+      "muffins",
+      "plant-based"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
     "slug": "bouncy-qq-jamaican-sick-day-sour-creamed-appetizer",
     "title": "Bouncy-QQ Jamaican Sick-Day Sour-Creamed Appetizer",
     "tags": [
@@ -3498,6 +3514,21 @@
     ],
     "cuisine": "slovakian",
     "totalTimeMin": 26,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-ukrainian-beef-brunch-mood",
+    "title": "Bouncy QQ Ukrainian Beef Brunch Mood",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {

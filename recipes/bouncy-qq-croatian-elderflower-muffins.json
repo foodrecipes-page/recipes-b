@@ -1,0 +1,103 @@
+{
+  "title": "bouncy-qq croatian elderflower muffins",
+  "description": "Light and airy muffins perfect for a Croatian brunch, infused with the delicate flavor of elderflower and a hint of umami from shio-koji cure. ",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 1/2 cups",
+      "notes ": ""
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "3 tablespoons",
+      "notes ": ""
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "1 tablespoon",
+      "notes ": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes ": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 cup",
+      "notes ": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes ": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes ": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes ": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes ": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup",
+      "notes ": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the almond milk, elderflower syrup, shio-koji cure, and apple cider vinegar until well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "croatian",
+    "elderflower",
+    "floral",
+    "muffins",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "bouncy-qq-croatian-elderflower-muffins",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-croatian-elderflower-muffins",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:38:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "elderflower",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "elderflower",
+    "descriptor": "bouncy-qq",
+    "dishForm": "muffins"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Bouncy QQ Ukrainian Beef Brunch Mood",
+  "description": "A spicy Ukrainian dish featuring unsalted beef stock, perfect for a low-carb brunch. Pair with a side of steamed vegetables for a satisfying meal.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unsalted beef stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "2 tbsp",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "reserved from cooking beef"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat, add onion and garlic and cook until softened.",
+    "Add ground beef and cook until browned, breaking it up as it cooks.",
+    "Add hot sauce and stir to combine.",
+    "Stir in beef broth, dill, and black pepper.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Crack in eggs and stir to combine.",
+    "Cook until eggs are set.",
+    "Taste and adjust seasoning as needed.",
+    "If using cheese, stir it in until melted and bubbly.",
+    "Serve hot, garnished with chopped fresh dill if desired.",
+    "Garnish with chopped fresh dill, if desired.",
+    "Serve hot and enjoy!",
+    "Garnish with chopped fresh dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 15,
+    "fat": 32
+  },
+  "slug": "bouncy-qq-ukrainian-beef-brunch-mood",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-ukrainian-beef-brunch-mood",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:39:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "bouncy qq",
+    "dishForm": "brunch-mood"
+  }
+}
