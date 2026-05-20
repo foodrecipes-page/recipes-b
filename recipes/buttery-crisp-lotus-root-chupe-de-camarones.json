@@ -1,0 +1,123 @@
+{
+  "title": "Buttery Crisp Lotus-Root Chupe de Camarones",
+  "description": "A delicious Peruvian-inspired stew with the crunch of lotus root and succulent shrimp, perfect for a lazy Sunday dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Renkon (Lotus Root)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aji Amarillo Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced aji amarillo pepper and cook for 1-2 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the renkon (lotus root) and cook for an additional 2-3 minutes.",
+    "Add the white wine and cook until the liquid is almost completely reduced, about 2-3 minutes.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes.",
+    "Stir in the unsalted butter and chimichurri sauce until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "peruvian",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "buttery-crisp-lotus-root-chupe-de-camarones",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crisp-lotus-root-chupe-de-camarones",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:05:18Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Lotus-Root",
+    "descriptor": "Kissed with Butter",
+    "dishForm": null
+  }
+}
