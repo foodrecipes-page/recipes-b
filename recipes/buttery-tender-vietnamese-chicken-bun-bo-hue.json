@@ -1,0 +1,117 @@
+{
+  "title": "Buttery Tender Vietnamese Chicken Bun Bo Hue",
+  "description": "Crispy buttery chicken served in a flavorful spicy broth, served with soft bun, fresh herbs, and cucumber slices.\n\nThis is a popular Vietnamese dish from Hue, often served as a family-style meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Drumsticks",
+      "amount": "1 1/2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Yakitori Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok or skillet over medium-high heat.",
+    "Add the ginger and garlic and saut\u00020e until fragrant, about 1 minute.",
+    "Add the chicken drumsticks and cook until browned on all sides, about 5 minutes.",
+    "Add the yakitori butter and stir until melted and fragrant.",
+    "Add the fish sauce, soy sauce, brown sugar, and chili flakes, and stir to combine.",
+    "Pour in 4 cups of chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-12 minutes, or until the chicken is cooked through.",
+    "Meanwhile, grill the cucumber slices on the yakimono-grill until charred and slightly softened.",
+    "To assemble the dish, place a portion of the chicken and broth into a bowl, then top with grilled cucumber slices, chopped cilantro, and serve with soft bun on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "halal",
+    "one-pan",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "buttery-tender-vietnamese-chicken-bun-bo-hue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-tender-vietnamese-chicken-bun-bo-hue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:12:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Buttery Tender",
+    "dishForm": "Bun Bo Hue"
+  }
+}
