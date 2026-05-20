@@ -1,0 +1,94 @@
+{
+  "title": "Buttery Dense Middle Eastern Fattoush",
+  "description": "A rich and satisfying loaf of bread perfect for any occasion, featuring a beautifully browned crust and a soft, airy interior.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, sugar, and sesame seeds.",
+    "Add melted butter and mix until dough comes together.",
+    "Gradually add water and whole milk, and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper, and bake for 35 minutes.",
+    "Remove the loaf from the oven and let it cool on a wire rack for 10 minutes.",
+    "Slice the loaf in half and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "buttery",
+    "dense",
+    "easy-to-make",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "buttery-dense-middle-eastern-bread-fattoush",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-dense-middle-eastern-bread-fattoush",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:16:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "bun",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bread",
+    "descriptor": "Buttery Dense",
+    "dishForm": "Fattoush"
+  }
+}

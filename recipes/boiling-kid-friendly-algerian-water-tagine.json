@@ -1,0 +1,70 @@
+{
+  "title": "Kid-friendly Algerian Water Tagine",
+  "description": "A simple, wholesome Algerian dish that's perfect for kids, featuring a briny cheese-pull broth served with crusty bread.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "1 quart",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 quart",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "Bring the milk and water to a boil in a large saucepan on medium-high heat.",
+    "Reduce heat to medium-low and whisk constantly for 5 minutes, or until the mixture thickens slightly and forms a smooth, creamy sauce.",
+    "Remove the saucepan from the heat and stir in the flour until well combined.",
+    "Return the saucepan to low heat and whisk continuously for 2-3 minutes, or until the sauce thickens further and a light cheese pull forms.",
+    "Remove the saucepan from the heat and let cool for a minute or two before serving hot with crusty bread.",
+    "Serve the Water Tagine immediately, garnished with chopped fresh parsley or cilantro if desired.",
+    " "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "briny",
+    "cheese-pull",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "boiling-kid-friendly-algerian-water-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/boiling-kid-friendly-algerian-water-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:16:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "boiling water",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "water",
+    "descriptor": "boiling Kid-friendly",
+    "dishForm": "Tagine"
+  }
+}
