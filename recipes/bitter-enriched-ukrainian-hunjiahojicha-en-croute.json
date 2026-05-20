@@ -1,0 +1,100 @@
+{
+  "title": "Bitter Enriched Ukrainian Hunjiahojicha En-croute",
+  "description": "A late-night Ukrainian dish featuring hojicha, en-croute, and crumbly texture.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hojicha",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "unsalted pistachios",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°f (190°c).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "In a bowl, whisk together hojicha, brown sugar, eggs, ground cinnamon, and vanilla extract.",
+    "Add softened butter and confectioners' sugar to the bowl, mix until smooth.",
+    "Spread the mixture on one half of the pastry dough, leaving a 1/2 inch border.",
+    "Fold the other half of the pastry dough over the filling, press the edges to seal.",
+    "Place the en-croute on a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Sprinkle unsalted pistachios on top before serving.",
+    "Serve warm, garnished with confectioners' sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crumbly",
+    "en-croute",
+    "hojicha",
+    "late-night",
+    "pastry",
+    "snack",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 20,
+    "carbs": 150,
+    "fat": 60
+  },
+  "slug": "bitter-enriched-ukrainian-hunjiahojicha-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-enriched-ukrainian-hunjiahojicha-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:14:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "en-croute",
+    "primaryIngredient": "hojicha",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "hunjiahojicha",
+    "descriptor": "Bitter Enriched",
+    "dishForm": "En-croute"
+  }
+}
