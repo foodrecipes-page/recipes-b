@@ -1,0 +1,101 @@
+{
+  "title": "Buttery Indulgent Korean Yogurt Jeon",
+  "description": "A rich and flavorful Korean dish featuring a mixture of Greek yogurt, brine-cured pork, and scallions, wrapped in a lotus leaf. Perfect for a low-carb and satisfying meal.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "250g"
+    },
+    {
+      "name": "Cured pork (such as bulgogi)",
+      "amount": "120g"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2g"
+    },
+    {
+      "name": "Ghee",
+      "amount": "20g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "0.5g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "10g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "5g"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1g"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1g"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine Greek yogurt, cured pork, scallions, ghee, garlic, and ginger in a bowl.",
+    "Mix well until a smooth paste forms.",
+    "Season with soy sauce, Korean chili flakes, and sesame oil.",
+    "Cut lotus leaves into a square shape, slightly larger than the mixture.",
+    "Place a small amount of sesame oil on each lotus leaf.",
+    "Spoon the mixture onto the center of each leaf.",
+    "Fold the leaf over the filling to form a half-moon shape."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 28
+  },
+  "slug": "buttery-indulgent-korean-yogurt-jeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-indulgent-korean-yogurt-jeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:02:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "brine-dry",
+    "primaryIngredient": "greek yogurt",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "yogurt",
+    "descriptor": "buttery indulgent",
+    "dishForm": "Jeon"
+  }
+}

@@ -3722,6 +3722,23 @@
     "shard": "b"
   },
   {
+    "slug": "brine-dry-oven-roasted-korean-peppers-grill",
+    "title": "Brine-Dry Oven-Roasted Korean Peppers On The Raclette Grill",
+    "tags": [
+      "ayurvedic-rajasic-friendly",
+      "date-night",
+      "gluten-free",
+      "korean-cuisine",
+      "low-carb",
+      "nightshade-vegan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 37,
+    "shard": "b"
+  },
+  {
     "slug": "brine-wet-bitter-filipino-broccoli-stew",
     "title": "Brine-Wet Bitter Filipino Broccoli Stew",
     "tags": [
@@ -6262,6 +6279,19 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 10,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-indulgent-korean-yogurt-jeon",
+    "title": "Buttery Indulgent Korean Yogurt Jeon",
+    "tags": [
+      "korean",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {

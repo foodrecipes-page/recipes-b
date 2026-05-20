@@ -1,0 +1,110 @@
+{
+  "title": "Brine-Dry Oven-Roasted Korean Peppers On The Raclette Grill",
+  "description": "Sweet and tender Korean peppers brined, dried, and roasted on the raclette grill for a date-night dish. A delicious and ayurvedic-rajasic-friendly meal to impress your partner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean chili peppers (4-6)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine 1 cup of water, 2 tsp of Korean chili flakes, 1 tsp of rice vinegar, 1 tsp of sugar, and 1 inch of ginger. Whisk until the sugar dissolves.",
+    "Add 4-6 Korean chili peppers to the bowl and let them marinate for at least 2 hours or overnight.",
+    "Preheat the oven to 200°F (90°C).",
+    "Line a baking sheet with parchment paper and spread the marinated peppers on it.",
+    "Dry the peppers in the oven for 2-3 hours or until they reach a tender and slightly chewy texture.",
+    "Remove the peppers from the oven and let them cool down.",
+    "Heat 2 tbsp of coconut oil in a pan over medium heat.",
+    "Add 2 cloves of garlic and 1 tsp of black pepper to the pan and stir for 1 minute.",
+    "Add the dried peppers to the pan and stir for another minute.",
+    "Transfer the peppers to the raclette grill and roast them for 5-7 minutes or until they develop a nice char.",
+    "Serve the roasted peppers as a side dish or add them to your favorite Korean-inspired meals."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 7,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-rajasic-friendly",
+    "date-night",
+    "gluten-free",
+    "korean-cuisine",
+    "low-carb",
+    "nightshade-vegan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "brine-dry-oven-roasted-korean-peppers-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/brine-dry-oven-roasted-korean-peppers-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:01:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "brine-dry",
+    "primaryIngredient": "peppers",
+    "diet": "ayurvedic-rajasic",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "peppers",
+    "descriptor": "Brine-Dry Oven-Roasted",
+    "dishForm": "Grill"
+  }
+}
