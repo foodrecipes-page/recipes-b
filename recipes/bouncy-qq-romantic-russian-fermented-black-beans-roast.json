@@ -1,0 +1,102 @@
+{
+  "title": "bouncy-qq romantic russian fermented black beans roast",
+  "description": "a dish featuring rich herbal flavors from fermented black beans and a satisfying roast, dairy-free-friendly and served in an agave-leaf vessel",
+  "cuisine": "russian",
+  "diet": [
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "use store-bought or home-made fermented black beans"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "adds anise-like flavor and aroma"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "use fresh thyme for the best flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a neutral-tasting oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use kosher or sea salt for added flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tbsp",
+      "notes": "a natural sweetener, use sparingly"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "in a large bowl, combine the fermented black beans, caraway seeds, thyme, salt, and black pepper.",
+    "mix well to combine.",
+    "transfer the mixture to an agave-leaf vessel or a baking dish.",
+    "drizzle with olive oil and apple cider vinegar.",
+    "roast in the preheated oven for 25 minutes, or until the beans are tender and caramelized.",
+    "remove from the oven and drizzle with agave nectar.",
+    "serve immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "dairy-free-friendly",
+    "herbal",
+    "one-pan",
+    "romantic",
+    "russian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "bouncy-qq-romantic-russian-fermented-black-beans-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-romantic-russian-fermented-black-beans-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:39:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "fermented black beans",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "romantic russian",
+    "mainIngredient": "fermented black beans",
+    "descriptor": "bouncy-qq",
+    "dishForm": "roast"
+  }
+}
