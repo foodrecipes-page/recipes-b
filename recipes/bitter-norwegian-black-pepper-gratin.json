@@ -1,0 +1,105 @@
+{
+  "title": "Bitter Norwegian Black Pepper Gratin",
+  "description": "A romantic Norwegian dish featuring black pepper, perfect for a cold winter evening. The bitterness of the pepper is balanced by the creaminess of the potatoes, making it a unique and satisfying meal.",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "large potatoes",
+      "amount": "4",
+      "notes": "preferably high-starch potatoes like Russet or Idaho"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the potatoes and slice them thinly into a large bowl.",
+    "Microwave the sliced potatoes for 4 minutes to partially cook them.",
+    "In a separate pan, melt 2 tablespoons of butter over medium heat.",
+    "Add the black peppercorns to the pan and cook for 1 minute, until fragrant.",
+    "Add the flour to the pan and whisk to combine. Cook for 1 minute.",
+    "Slowly pour in the heavy cream, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until it thickens.",
+    "Stir in the Parmesan cheese, if using.",
+    "Add the cooked potatoes to the sauce and toss to combine.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Dot the top of the potatoes with the remaining 2 tablespoons of butter.",
+    "Season with salt to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, until the top is golden brown.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pepper",
+    "dinner",
+    "gratin",
+    "norwegian",
+    "romantic",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "bitter-norwegian-black-pepper-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-norwegian-black-pepper-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:04:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "black pepper",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "black pepper",
+    "descriptor": "bitter",
+    "dishForm": "Gratin"
+  }
+}
