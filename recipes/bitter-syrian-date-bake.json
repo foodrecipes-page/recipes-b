@@ -1,0 +1,118 @@
+{
+  "title": "Bitter Syrian Date Bake",
+  "description": "A rich and savory dessert inspired by Syrian traditions, featuring dates, coconut milk, and a hint of bitterness.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup pitted dates",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Agave syrup",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon grated",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom pods",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare a 9-inch round cake pan by greasing with coconut oil and lining with parchment paper.",
+    "In a large bowl, soak the pitted dates in the water for at least 30 minutes.",
+    "In a blender or food processor, combine soaked dates, coconut milk, agave syrup, lemon juice, ginger, salt, and vanilla extract. Blend until smooth.",
+    "Add the baking powder and blend for another 30 seconds.",
+    "Pour the mixture into the prepared cake pan and smooth the top.",
+    "Bake for 40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "If using cardamom pods, remove them from the oven after 20 minutes and sprinkle with a pinch of salt.",
+    "Remove the cake from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "Once cooled, cut into slices and serve.",
+    "Garnish with toasted almonds or coconut flakes, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "coconut",
+    "dates",
+    "dessert",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "bitter-syrian-date-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-syrian-date-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:35:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "coconut milk",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Date",
+    "descriptor": "Bitter",
+    "dishForm": "Bake"
+  }
+}
