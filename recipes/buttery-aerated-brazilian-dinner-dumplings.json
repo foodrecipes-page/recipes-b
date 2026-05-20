@@ -1,0 +1,105 @@
+{
+  "title": "Buttery Aerated Brazilian Dinner Dumplings",
+  "description": "A unique Brazilian dish consisting of light and airy dumplings served in a lacquerware bowl, perfect for a solo dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Strong White Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lard",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Plantain",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the strong white flour, lard, and salt.",
+    "Add the eggs, warm water, and mix until the dough comes together.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball of dough into a disk shape.",
+    "Heat 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add 2 disks of dough to the skillet and cook for 2 minutes on each side.",
+    "Add 1 sweet plantain to each cooked dumpling and cook for an additional minute.",
+    "Transfer the dumplings to a lacquerware bowl and drizzle with remaining butter.",
+    "Chop the fresh parsley and sprinkle it on top of the dumplings."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "buttery-aerated-brazilian-dinner-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-aerated-brazilian-dinner-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:40:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "strong white flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "dinner",
+    "descriptor": "Buttery aerated",
+    "dishForm": "Dumplings"
+  }
+}
