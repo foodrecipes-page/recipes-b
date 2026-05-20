@@ -1,0 +1,60 @@
+{
+  "title": "briny juicy saudi-arabian bramley apples clay-pot",
+  "description": "a flavorful and nutritious clay-pot dish from saudi-arabia featuring sweet and tangy bramley apples, perfect for a romantic dinner",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bramley apples",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "rose petals",
+      "amount": "1 cup",
+      "notes": "dried, organic, and fragrant"
+    }
+  ],
+  "instructions": [
+    "wilt the rose petals in a pan with 1 tablespoon of ghee over low heat, stirring occasionally.",
+    "remove the wilted rose petals from heat and set them aside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "date-night",
+    "romantic",
+    "tamasic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "briny-juicy-saudi-arabian-bramley-apples-clay-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-juicy-saudi-arabian-bramley-apples-clay-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:14:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bramley apples",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Bramley Apples",
+    "descriptor": "Briny Juicy",
+    "dishForm": "Clay-Pot"
+  }
+}
