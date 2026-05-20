@@ -3762,6 +3762,21 @@
     "shard": "b"
   },
   {
+    "slug": "bouncy-qq-zesty-venezuelan-pork-chops-skewers",
+    "title": "Bouncy-QQ Zesty Venezuelan Pork Chops Skewers",
+    "tags": [
+      "grilled",
+      "marinated",
+      "pork",
+      "robata",
+      "skewers",
+      "venezuelan"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 48,
+    "shard": "b"
+  },
+  {
     "slug": "bouncy-rich-egyptian-cottage-cheese-one-pot",
     "title": "Bouncy Rich Egyptian Cottage Cheese One-Pot",
     "tags": [
@@ -5856,6 +5871,22 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crunchy-saudi-arabian-kielbasa-bake",
+    "title": "Buttery Crunchy Saudi Arabian Kielbasa Bake",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "high-protein",
+      "kielbasa",
+      "one-pan",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {

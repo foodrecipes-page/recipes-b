@@ -1,0 +1,88 @@
+{
+  "title": "Bouncy-QQ Zesty Venezuelan Pork Chops Skewers",
+  "description": "A crowd-pleasing dish featuring marinated pork chops, grilled on a robata grill for a smoky flavor.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "12 oz"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Marinate the pork chops in a mixture of shio-koji cure, lime juice, garlic, and red pepper flakes for at least 2 hours.",
+    "Thread the marinated pork onto skewers, leaving a little space between each piece.",
+    "Brush the robata grill with olive oil to prevent sticking.",
+    "Grill the skewers over medium-high heat for 8-10 minutes per side, or until cooked through.",
+    "Let the skewers rest for 5 minutes before slicing and serving.",
+    "Serve with chimichurri sauce and scallions on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "marinated",
+    "pork",
+    "robata",
+    "skewers",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "bouncy-qq-zesty-venezuelan-pork-chops-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-zesty-venezuelan-pork-chops-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:57:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pork chops",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork chops",
+    "descriptor": "bouncy-qq zesty",
+    "dishForm": "Skewers"
+  }
+}
