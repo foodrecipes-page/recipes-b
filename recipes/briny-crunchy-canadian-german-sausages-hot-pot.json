@@ -1,0 +1,115 @@
+{
+  "title": "Briny Crunchy Canadian German Sausages Hot Pot",
+  "description": "A unique fusion of German sausages with the brininess of olives and the crunch of toasted bread, perfect for a Canadian winter evening. This hot pot serves as a hearty dinner for a family gathering.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian German Sausages",
+      "amount": "12",
+      "notes": "Pork and beef sausages from a local butcher or store."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For saut\u00101ing onions and garlic."
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Thinly sliced for easy cooking."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for added flavor."
+    },
+    {
+      "name": "Toasted Bread Crumbs",
+      "amount": "1 cup",
+      "notes": "For crunch and texture."
+    },
+    {
+      "name": "Olives",
+      "amount": "1 cup",
+      "notes": "Green and black olives for a briny taste."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium for a healthier option."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "For a rich and creamy sauce."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large hot pot over medium heat.",
+    "Add the sliced onions and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the Canadian German sausages and cook, breaking them apart with a spoon, until browned, about 5 minutes.",
+    "Add the toasted bread crumbs and cook, stirring constantly, for 2 minutes.",
+    "Add the green and black olives, chicken broth, heavy cream, salt, and black pepper. Bring to a simmer.",
+    "Reduce the heat to low and let cook, covered, for 10 minutes, until the sausages are cooked through and the sauce has thickened.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "german",
+    "gluten-free",
+    "hot-pot",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 62
+  },
+  "slug": "briny-crunchy-canadian-german-sausages-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-crunchy-canadian-german-sausages-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:41:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "glaze",
+    "primaryIngredient": "german sausages",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "german sausages",
+    "descriptor": "briny crunchy",
+    "dishForm": "hot pot"
+  }
+}
