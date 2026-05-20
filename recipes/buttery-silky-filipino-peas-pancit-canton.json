@@ -1,0 +1,96 @@
+{
+  "title": "Buttery Silky Filipino Peas Pancit Canton",
+  "description": "A twist on traditional pancit canton, featuring the delicate flavor of butter and peas, while maintaining a silky texture. This dish is a unique blend of Filipino and international flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancit Canton Noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine noodles, butter, and a pinch of salt in a large skillet over medium heat.",
+    "Cook, stirring frequently, until the noodles are lightly toasted and the butter has melted.",
+    "Add peas, garlic, and ginger to the skillet and cook, stirring occasionally, until the peas are tender but still crisp.",
+    "Add fish sauce and soy sauce to the skillet, stirring to combine. Season with black pepper to taste.",
+    "Cook for an additional 2 minutes to allow the flavors to meld together.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "filipino",
+    "one-pan",
+    "pancit-canton",
+    "peas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "buttery-silky-filipino-peas-pancit-canton",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-silky-filipino-peas-pancit-canton",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:45:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "peas",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "peas",
+    "descriptor": "Buttery Silky",
+    "dishForm": "Pancit Canton"
+  }
+}
