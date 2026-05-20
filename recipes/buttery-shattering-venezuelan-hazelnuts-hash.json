@@ -1,0 +1,104 @@
+{
+  "title": "Buttery Shattering Venezuelan Hazelnuts Hash",
+  "description": "A hearty, one-pot Venezuelan-inspired dish featuring shelled hazelnuts and a tangy nuka-pickle twist. Perfect for a quick and satisfying breakfast or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shelled hazelnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "small onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large cast-iron skillet, melt the butter over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the hazelnuts and cook for 2-3 minutes, stirring frequently.",
+    "Add the nuka pickles, salt, black pepper, and cayenne pepper, stirring to combine.",
+    "Continue cooking for 5-7 minutes, stirring frequently, until the mixture is dark brown and crispy.",
+    "Stir in the chopped cilantro and cook for an additional minute.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-sodium",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "buttery-shattering-venezuelan-hazelnuts-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-shattering-venezuelan-hazelnuts-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:21:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Hazelnuts",
+    "descriptor": "Buttery Shattering",
+    "dishForm": "Hash"
+  }
+}
