@@ -1,0 +1,103 @@
+{
+  "title": "Blanch Ukrainian Rice Pilaf",
+  "description": "A simple, savory Ukrainian dish made with flat rice noodles and blanched vegetables. This recipe serves one as a solo dinner, making it a great option for a quick weeknight meal or a nutritious lunch.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed vegetables (carrots, peas, corn)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon chopped fresh dill",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large saucepan.",
+    "Add the vegetable oil, salt, and black pepper to the saucepan.",
+    "Add the flat rice noodles to the saucepan and cook for 5 minutes, or until slightly softened.",
+    "Add the mixed vegetables to the saucepan and cook for an additional 2 minutes, or until tender but still crisp.",
+    "Drain the noodles and vegetables in a colander and return them to the saucepan.",
+    "Sprinkle the chopped fresh dill over the noodles and vegetables.",
+    "Serve the Blach Ukrainian Rice Pilaf hot, garnished with additional fresh dill if desired.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve immediately.",
+    "Enjoy!",
+    "Note: Traditionally, this dish is blanched, but if you prefer a softer texture, you can cook the noodles and vegetables for an additional 2-3 minutes, or until tender."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "blanch",
+    "one-pan",
+    "shojin-friendly",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "blanch-ukrainian-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/blanch-ukrainian-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:12:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "rice",
+    "descriptor": "blanch",
+    "dishForm": "Pilaf"
+  }
+}
