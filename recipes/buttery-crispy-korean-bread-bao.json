@@ -1,0 +1,126 @@
+{
+  "title": "Buttery Crispy Korean Bread Bao",
+  "description": "A delicious and crispy Korean bread bao recipe, perfect for a quick snack or meal. Features a crispy double-rise-bread exterior and a buttery, flaky interior with a hint of mustard seeds.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "Use a high-protein flour for a chewier texture"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "1 cup",
+      "notes": "Add some fiber and nutrition to your bao"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for a more nuanced flavor"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "A small amount of sugar helps balance the savory flavors"
+    },
+    {
+      "name": "Dry yeast",
+      "amount": "2 teaspoons",
+      "notes": "Active dry yeast works best for this recipe"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "Unsalted butter for the best flavor"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use warm water for a faster rise"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing the bao during baking"
+    },
+    {
+      "name": "Black mustard seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "Add some heat and flavor to your bao"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds a nice nutty flavor and crunch"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For egg wash and brushing the bao"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for added flavor and color"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": "For an optional spicy kick"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the all-purpose flour, whole wheat flour, salt, and sugar.",
+    "Add the dry yeast and mix until the yeast is fully incorporated.",
+    "Gradually add the warm water and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the disks on a baking sheet lined with parchment paper, leaving about 1 inch of space between each bao.",
+    "Brush the tops with egg wash and sprinkle with sesame seeds, if using.",
+    "Bake the bao for 15-20 minutes, or until golden brown and crispy.",
+    "While the bao is baking, melt the butter and brush it onto the bao during the last 2 minutes of baking.",
+    "Remove the bao from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "bread",
+    "korean-cuisine",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "buttery-crispy-korean-bread-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crispy-korean-bread-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:30:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "mustard seeds",
+    "diet": "ayurvedic-rajasic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bread",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Bao"
+  }
+}
