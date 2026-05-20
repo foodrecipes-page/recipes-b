@@ -1,0 +1,105 @@
+{
+  "title": "Briny Dense Egyptian Rest-Meat Tagine",
+  "description": "A flavorful and nutritious one-pot dish made with rest-meat, ikura, and aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rest-Meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Ikura",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cumin, coriander, paprika, salt, and black pepper. Cook for 1 minute, until the spices are fragrant.",
+    "Add the rest-meat and cook until browned, about 5 minutes.",
+    "Add the ikura and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "briny-dense-egyptian-rest-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-dense-egyptian-rest-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:31:16Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "ikura",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "egyptian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "briny dense",
+    "dishForm": "tagine"
+  }
+}
