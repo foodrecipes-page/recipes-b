@@ -1,0 +1,119 @@
+{
+  "title": "Bitter Aerated Ukrainian Ham Wrap",
+  "description": "A refreshing post-workout snack featuring aerated Ukrainian ham, serrano ham, and a shojin-friendly leaf wrap. This unique dish is perfect for hot summer days, ideal for athletes seeking a rejuvenating meal after a workout.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "100g",
+      "notes": "Thinly sliced, preferably from Spain."
+    },
+    {
+      "name": "Ukrainian ham",
+      "amount": "50g",
+      "notes": "Aerated, preferably homemade."
+    },
+    {
+      "name": "Leaf wrap",
+      "amount": "1 sheet",
+      "notes": "Shojin-friendly, preferably rice-based."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "10g",
+      "notes": "Fresh, for dressing."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "5g",
+      "notes": "For brushing the wrap."
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "20g",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "Avocado",
+      "amount": "50g",
+      "notes": "Diced, for added creaminess."
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Brush the leaf wrap with olive oil and cook for 1 minute on each side.",
+    "Thinly slice the serrano ham and Ukrainian ham.",
+    "In a small bowl, mix together chopped parsley, lemon juice, and a pinch of salt and pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 3,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "athletes",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "shojin-friendly",
+    "snack",
+    "summer",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "bitter-aerated-ukrainian-ham-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-aerated-ukrainian-ham-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:26:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "serrano ham",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "ham",
+    "descriptor": "bitter aerated",
+    "dishForm": "Wrap"
+  }
+}
