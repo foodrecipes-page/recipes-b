@@ -1,0 +1,108 @@
+{
+  "title": "Buttery Croatian Chive Hash",
+  "description": "A post-workout dish featuring chopped chive and a crunchy texture, pressure-cooked for a quicker meal option. This hash is a staple in Croatian cuisine and has been adapted to be friendly for a Buddhist temple setting.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chopped chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pressure-cooked potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium-high heat.",
+    "Add chopped garlic and sauté for 1 minute, until fragrant.",
+    "Add chopped chives and cook for an additional minute, until slightly softened.",
+    "Add pressure-cooked potatoes and mash with a fork until they reach the desired consistency.",
+    "Add unsalted butter and stir until melted.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the hash to a serving dish and garnish with chopped fresh parsley and a squeeze of lemon juice.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "gluten-free",
+    "high-fiber",
+    "post-workout",
+    "pressure-cooked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "buttery-croatian-chive-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-croatian-chive-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:57:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chopped chive",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "chive",
+    "descriptor": "buttery",
+    "dishForm": "Hash"
+  }
+}

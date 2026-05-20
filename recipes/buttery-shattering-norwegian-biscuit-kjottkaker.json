@@ -1,0 +1,87 @@
+{
+  "title": "Buttery Kjøttkaker with Smoked Paprika",
+  "description": "A crispy, buttery Norwegian biscuit with hot smoked paprika perfect for midnight cravings. This dish is easy to prepare and can be made in under 30 minutes.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour, sugar, smoked paprika, and salt.",
+    "Add the softened butter to the dry ingredients and mix until the mixture resembles coarse crumbs.",
+    "In a small bowl, whisk together the eggs and milk.",
+    "Add the egg mixture to the flour mixture and mix until a dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it comes together.",
+    "Roll the dough out to a thickness of about 1/4 inch (6 mm).",
+    "Cut the dough into desired shapes using a biscuit cutter or the rim of a glass.",
+    "Place the biscuits on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the biscuits are golden brown.",
+    "Remove the biscuits from the oven and let them cool on a wire rack for a few minutes before serving.",
+    "Serve the biscuits warm, perhaps with a pat of butter or a drizzle of honey."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "finger-food",
+    "norwegian",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "buttery-shattering-norwegian-biscuit-kjottkaker",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-shattering-norwegian-biscuit-kjottkaker",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:58:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "en-croute",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "biscuit",
+    "descriptor": "Buttery, Shattering",
+    "dishForm": "Kjøttkaker"
+  }
+}

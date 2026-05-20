@@ -4975,6 +4975,20 @@
     "shard": "b"
   },
   {
+    "slug": "buttery-croatian-chive-hash",
+    "title": "Buttery Croatian Chive Hash",
+    "tags": [
+      "buddhist-temple-friendly",
+      "gluten-free",
+      "high-fiber",
+      "post-workout",
+      "pressure-cooked"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
     "slug": "buttery-crumble-marshmallow",
     "title": "Buttery Crumble Marshmallow",
     "tags": [
@@ -6777,6 +6791,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-shattering-norwegian-biscuit-kjottkaker",
+    "title": "Buttery Kjøttkaker with Smoked Paprika",
+    "tags": [
+      "finger-food",
+      "norwegian",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
