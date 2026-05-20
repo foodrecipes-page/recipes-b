@@ -1,0 +1,83 @@
+{
+  "title": "Buttery Crunchy Croatian Mirin-hon Bake",
+  "description": "A weeknight Croatian dish featuring mirin-hon, brine-dry, raw-friendly ingredients, perfect for a buttery crunchy meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "raw-friendly",
+    "brine-dry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mirin-hon",
+      "amount": "250g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "120g"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C. Grease a 20cm square baking dish with butter.",
+    "Mix mirin-hon, flour, salt, and black pepper in a bowl.",
+    "Press the mixture into the prepared baking dish.",
+    "Dot the top with butter.",
+    "Sprinkle breadcrumbs over the butter.",
+    "Bake for 30 minutes.",
+    "Remove from the oven and let it cool for 5 minutes.",
+    "Serve warm.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "croatian",
+    "crunchy",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "buttery-crunchy-croatian-mirin-hon-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-crunchy-croatian-mirin-hon-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "mirin-hon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Mirin-hon",
+    "descriptor": "Buttery Crunchy",
+    "dishForm": "Bake"
+  }
+}
