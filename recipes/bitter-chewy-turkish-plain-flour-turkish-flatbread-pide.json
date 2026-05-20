@@ -1,0 +1,124 @@
+{
+  "title": "Bitter Chewy Turkish Plain Flour Turkish Flatbread Pide",
+  "description": "Turkish flatbread that is perfect for a midnight craving, with a bitter taste and chewy texture. Try it with a dollop of yogurt or a sprinkle of sumac.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "1 tsp",
+      "notes": "Blended from herbs and spices, this seasoning gives the flatbread a unique flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tsp",
+      "notes": "Balances out the bitterness of the namul-blanch-season."
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1 tsp",
+      "notes": "Helps the dough to rise."
+    },
+    {
+      "name": "Ghee or Butter",
+      "amount": "2 tbsp",
+      "notes": "Optional, but adds a rich flavor to the flatbread."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 tbsp",
+      "notes": "Optional, adds a dollop of creamy texture."
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "Optional, adds a tangy flavor."
+    },
+    {
+      "name": "Bread Stone or Baking Tray",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Wooden Spoon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Measuring Cups and Spoons",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine plain flour, baking soda, salt, sugar, and namul-blanch-season in a large mixing bowl.",
+    "Add water to the bowl and mix until the dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl and let it rise in a warm place for 1-2 hours.",
+    "Preheat the oven to 220 degree Celsius.",
+    "Divide the dough into 4-6 equal portions depending on the size of flatbread you want to make.",
+    "Shape each portion into a ball and then flatten it slightly into a disk shape.",
+    "Place the flatbreads on a preheated baking stone or baking tray, leaving space between them for even cooking.",
+    "Drizzle with ghee or butter and sprinkle with yogurt and sumac if using.",
+    "Bake the flatbreads in the preheated oven for 10-15 minutes or until they are golden brown.",
+    "Remove the flatbreads from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bitter-taste",
+    "chewy-texture",
+    "easy-to-make",
+    "flatbread",
+    "high-carb",
+    "midnight-snack",
+    "snack-size",
+    "turkish",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 5
+  },
+  "slug": "bitter-chewy-turkish-plain-flour-turkish-flatbread-pide",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-chewy-turkish-plain-flour-turkish-flatbread-pide",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:12:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "plain flour",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Plain Flour",
+    "descriptor": "Bitter Chewy",
+    "dishForm": "Turkish Flatbread Pide"
+  }
+}
