@@ -1,0 +1,109 @@
+{
+  "title": "bitter glassy-jelly german cabbage pasta",
+  "description": "a unique and complex date-night dish, featuring the bitter flavors of napa cabbage and a glassy, jelly-like pasta-water-emulsion.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head, shredded",
+      "notes": ""
+    },
+    {
+      "name": "pasta water",
+      "amount": "4 cups",
+      "notes": "cooled slightly, with 2 tbsp of butter dissolved into it"
+    },
+    {
+      "name": "chicken or vegetable stock",
+      "amount": "2 cups",
+      "notes": "low-sodium, warmed gently"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional, to balance flavors"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": "brown or white, toasted in a dry pan for 2 minutes"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "4",
+      "notes": "beaten, for egg wash",
+      "},{": ".0}{",
+      ",name": "eggs"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fleur de sel",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "softened, for egg wash"
+    }
+  ],
+  "instructions": [
+    "bring a large pot of salted water to a boil and cook the pasta until al dente, then drain and set aside.",
+    "in a blender or food processor, combine the cooled pasta water, chicken or vegetable stock, white wine vinegar, honey, mustard seeds, and coriander seeds, blending until a smooth, glassy emulsion forms.",
+    "transfer the emulsion to a saucepan and warm it gently over low heat.",
+    "in another pan, melt 2 tablespoons of butter over medium heat and add the shredded napa cabbage, cooking until tender and slightly caramelized.",
+    "remove the cabbage from the heat and season with fleur de sel to taste.",
+    "to assemble the dish, place a portion of cooked pasta on a plate, followed by a spoonful of the glassy emulsion, and top with the cooked cabbage.",
+    "if desired, brush the edges of the pasta with an egg wash made from the beaten eggs and a tablespoon of flour, then sprinkle with additional fleur de sel to taste.",
+    "serve immediately and enjoy!",
+    "(optional) for an added layer of flavor, sprinkle a pinch of toasted mustard seeds and coriander seeds on top of the dish before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "date-night",
+    "german-cuisine",
+    "glassy-jelly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "bitter-glassy-jelly-german-cabbage-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-glassy-jelly-german-cabbage-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:41:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "napa cabbage",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "bitter glassy-jelly",
+    "dishForm": "Pasta"
+  }
+}
