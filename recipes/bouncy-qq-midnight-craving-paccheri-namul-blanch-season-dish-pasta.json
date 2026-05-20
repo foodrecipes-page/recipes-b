@@ -1,0 +1,111 @@
+{
+  "title": "bouncy-qq midnight craving paccheri namul-blanch-season dish pasta",
+  "description": "a malty, bouncy-qq, midnight-craving croatian dish featuring paccheri pasta, namul-blanch-season, and ayurvedic-tamasic-friendly ingredients. great for a mid-night snack or light dinner.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the grated ginger and sauté for 1 minute, until fragrant.",
+    "add the minced garlic and sauté for another minute, until softened.",
+    "add the chopped sweet potatoes, cabbage, and carrots, and sauté for 5 minutes, until they start to tenderize.",
+    "add the namul-blanch-season, salt, and black pepper, and stir to combine.",
+    "add the cooked paccheri pasta to the skillet and toss everything together, until the pasta is well coated with the sweet potato mixture.",
+    "transfer the pasta mixture to a serving dish and top with chopped parsley.",
+    "serve warm, garnished with additional parsley if desired.",
+    "enjoy as a mid-night snack or light dinner!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-fiber",
+    "light-dinner",
+    "low-protein",
+    "mid-night-snack"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 8,
+    "carbs": 74,
+    "fat": 14
+  },
+  "slug": "bouncy-qq-midnight-craving-paccheri-namul-blanch-season-dish-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bouncy-qq-midnight-craving-paccheri-namul-blanch-season-dish-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:52:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Paccheri",
+    "descriptor": "Malty bouncy",
+    "dishForm": null
+  }
+}
