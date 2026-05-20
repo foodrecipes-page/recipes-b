@@ -1,0 +1,120 @@
+{
+  "title": "buttery veracruz shaggy mexican veracruzan corn steamed tamales",
+  "description": "a moist and flavorful mexican dish with a buttery and slightly sweet sauce, steamed in tamales and served in a korean brass bowl.",
+  "cuisine": "mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "masa harina",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "piloncillo",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "soak corn husks in water for at least 30 minutes.",
+    "mix together masa harina and baking soda in a large bowl.",
+    "add in corn kernels, onion, garlic, and chili powder; mix until just combined.",
+    "in a separate saucepan, melt butter over medium heat; add in tomato and piloncillo; cook until piloncillo dissolves.",
+    "add in chicken broth and bring to a boil; reduce heat and simmer for 5 minutes.",
+    "temper in cocoa powder; stir to combine.",
+    "spread a thin layer of masa mixture onto a corn husk; spoon a tablespoon of sauce over the mixture; sprinkle with cotija cheese and cilantro; fold husk over and secure with a strip of corn husk.",
+    "steam tamales for 45 minutes; serve in a korean brass bowl."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pescatarian",
+    "tamale"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "buttery-veracruz-shaggy-mexican-veracruzan-corn-steamed-tamales",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-veracruz-shaggy-mexican-veracruzan-corn-steamed-tamales",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:25:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "pescatarian",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Veracruzan",
+    "descriptor": "Buttery Veracruz Shaggy",
+    "dishForm": "Corn Steamed Tamales"
+  }
+}
