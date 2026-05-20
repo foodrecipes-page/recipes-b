@@ -1,0 +1,125 @@
+{
+  "title": "bay leaf infused norte\u00187o mexican tacos",
+  "description": "a delicious and aromatic mexican dish featuring bay leaves, perfect for a low-glycemic-friendly meal. served in a beautiful talavera plate.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "low-glycemic",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bay leaves",
+      "amount": "2 sprigs",
+      "notes": "fresh or dried, to taste"
+    },
+    {
+      "name": "ground beef",
+      "amount": "250g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 soft",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat a large skillet over medium-high heat.",
+    "add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "add the sliced onion and minced garlic and cook until softened.",
+    "add the cumin, coriander, chili powder, salt, and black pepper and stir to combine.",
+    "add the bay leaves and stir to combine.",
+    "reduce heat to medium-low and simmer for 10 minutes.",
+    "warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble the tacos by spooning the beef mixture onto a tortilla and topping with avocado, a squeeze of lime juice, and a spoonful of salsa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bay-leaf",
+    "low-carb",
+    "mexican",
+    "norte-o",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "bay-leaf-infused-norte-2o-mexican-dish-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bay-leaf-infused-norte-2o-mexican-dish-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:25:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "rest",
+    "primaryIngredient": "bay leaves",
+    "diet": "low-glycemic",
+    "region": "norteño",
+    "cuisineAdjective": "norte\b2o",
+    "mainIngredient": "mexican dish",
+    "descriptor": "bay leaf infused",
+    "dishForm": "Tacos"
+  }
+}

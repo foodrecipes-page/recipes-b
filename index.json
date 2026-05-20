@@ -160,6 +160,21 @@
     "shard": "b"
   },
   {
+    "slug": "bay-leaf-infused-norte-2o-mexican-dish-tacos",
+    "title": "bay leaf infused norte\u00187o mexican tacos",
+    "tags": [
+      "bay-leaf",
+      "low-carb",
+      "mexican",
+      "norte-o",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
     "slug": "bean-blossom-light-poached-sprout-salad",
     "title": "Bean Blossom Light Poached Sprout Salad",
     "tags": [
