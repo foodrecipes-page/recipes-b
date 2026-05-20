@@ -1,0 +1,120 @@
+{
+  "title": "Buttery Molten Vietnamese Knafeh Pho",
+  "description": "A twist on the classic Vietnamese Pho featuring a buttery, molten center surrounded by crispy knafeh noodles and a rich beef broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Knafeh noodles",
+      "amount": "12 oz",
+      "notes": "Found at Middle Eastern grocery stores"
+    },
+    {
+      "name": "Double-fried chicken (KFC-style)",
+      "amount": "1 lb",
+      "notes": "Breaded and fried to a crispy golden brown"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the beef broth to a boil and cook for 10 minutes.",
+    "In a small pan, melt the butter over medium heat and sauté the onion and ginger until softened.",
+    "Add the fish sauce, soy sauce, and sugar to the pan and stir to combine.",
+    "Cook for 1 minute, or until the flavors have melded together.",
+    "Add the cooked double-fried chicken to the pan and stir to combine.",
+    "Cook for 2 minutes, or until the chicken is heated through.",
+    "Meanwhile, cook the knafeh noodles according to the package instructions.",
+    "Drain the noodles and set aside.",
+    "To assemble the dish, place a portion of noodles into a bowl, then top with the chicken and broth mixture.",
+    "Serve immediately and garnish with chopped cilantro, mint, and a lime wedge."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "finger-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 46,
+    "carbs": 64,
+    "fat": 34
+  },
+  "slug": "buttery-molten-vietnamese-knafeh-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/buttery-molten-vietnamese-knafeh-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:08:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "knafeh",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "knafeh",
+    "descriptor": "Buttery Molten",
+    "dishForm": "Pho"
+  }
+}
