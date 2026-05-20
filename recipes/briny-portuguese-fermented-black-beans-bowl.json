@@ -1,0 +1,94 @@
+{
+  "title": "Briny Portuguese Fermented Black Beans Bowl",
+  "description": "A crumbly, quick-fix dish featuring fermented black beans, glaze, and a touch of brininess.",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-sodium",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned fermented black beans",
+      "amount": "1 (14.5 oz) can"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat. Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the canned fermented black beans, red wine vinegar, and honey to the skillet. Stir to combine.",
+    "Season with salt-free seasoning blend to taste.",
+    "Serve the black bean mixture over cooked quinoa and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "briny-portuguese-fermented-black-beans-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-portuguese-fermented-black-beans-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:46:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "fermented black beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "fermented black beans",
+    "descriptor": "briny",
+    "dishForm": "Bowl"
+  }
+}
