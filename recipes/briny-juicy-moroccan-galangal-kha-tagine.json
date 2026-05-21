@@ -1,0 +1,107 @@
+{
+  "title": "Briny Juicy Moroccan Galangal-Kha Tagine",
+  "description": "A hearty, crowd-pleasing Moroccan dish featuring galangal-kha and pickle, perfect for a low-carb dinner option.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Galangal-kha paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "sliced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground lamb and cook until browned, breaking it up with a spoon.",
+    "Add the galangal-kha paste and cook for 1 minute.",
+    "Add the pickle juice, chicken broth, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "low-carb",
+    "moroccan",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "briny-juicy-moroccan-galangal-kha-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/briny-juicy-moroccan-galangal-kha-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:37:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "galangal-kha",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "galangal-kha",
+    "descriptor": "Briny Juicy",
+    "dishForm": "Tagine"
+  }
+}
