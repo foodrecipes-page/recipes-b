@@ -1,0 +1,117 @@
+{
+  "title": "Bitter Mediterranean Chicken Liver Falafel",
+  "description": "A briny, chewy, festive Mediterranean dish featuring chicken liver, dashi-extract, and a mix of spices. Serve with a side of tzatziki or tahini sauce for a refreshing contrast.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken liver",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-extract",
+      "amount": "2 tablespoons",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a food processor, combine chicken liver, dashi-extract, gluten-free flour, fenugreek leaves, garlic, lemon juice, salt, black pepper, paprika, and cayenne pepper. Process until the mixture is well combined and slightly sticky.",
+    "Transfer the mixture to a bowl and stir in olive oil until the mixture forms a sticky dough.",
+    "Using your hands, shape the dough into small falafel balls, about 1 1/2 inches in diameter.",
+    "Heat about 1-2 inches of olive oil in a deep frying pan over medium-high heat until it reaches 375°F.",
+    "Fry the falafel balls in batches until they are golden brown and crispy, about 3-4 minutes per batch.",
+    "Using a slotted spoon, remove the falafel from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the falafel hot with your choice of tzatziki or tahini sauce.",
+    "Garnish with chopped fresh parsley for a pop of color and freshness.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-liver",
+    "falafel",
+    "gluten-free",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 33,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "bitter-mediterranean-chicken-liver-falafel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/bitter-mediterranean-chicken-liver-falafel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:42:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chicken liver",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken liver",
+    "descriptor": "bitter",
+    "dishForm": "Falafel"
+  }
+}

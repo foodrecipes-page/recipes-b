@@ -2539,6 +2539,19 @@
     "shard": "b"
   },
   {
+    "slug": "bitter-mediterranean-chicken-liver-falafel",
+    "title": "Bitter Mediterranean Chicken Liver Falafel",
+    "tags": [
+      "chicken-liver",
+      "falafel",
+      "gluten-free",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
     "slug": "bitter-molten-croatian-dish-wrap",
     "title": "bitter molten croatian dish wrap",
     "tags": [
