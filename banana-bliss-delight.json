@@ -1,0 +1,56 @@
+{
+  "slug": "banana-bliss-delight",
+  "title": "Banana Bliss Delight",
+  "description": "A sweet and creamy dessert made with ripe bananas, a hint of sugar, and a touch of delight",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "3",
+      "notes": "large"
+    },
+    {
+      "name": "bliss",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Peel the bananas and slice them into 1-inch pieces.",
+    "In a mixing bowl, combine the sliced bananas, bliss, and sugar. Mix well.",
+    "Transfer the mixture to a baking dish.",
+    "Bake for 15-20 minutes or until the bananas are caramelized.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "dessert",
+    "sweet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-bliss-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:51:19.165Z"
+}
