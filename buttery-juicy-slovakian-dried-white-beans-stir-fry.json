@@ -1,0 +1,74 @@
+{
+  "slug": "buttery-juicy-slovakian-dried-white-beans-stir-fry",
+  "title": "Slovakian Bean Stew",
+  "description": "A hearty, comforting stew made with Slovakian ingredients and beans.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "for browning the sausage"
+    }
+  ],
+  "instructions": [
+    "Brown the Slovakian sausage in a large pot over medium-high heat, then remove and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the soaked and drained white beans, stir-fry sauce (if using), and browned sausage back to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes, or until the beans are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "bean",
+    "stew",
+    "lunch",
+    "comforting",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-slovakian-dried-white-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:08:41.382Z"
+}
