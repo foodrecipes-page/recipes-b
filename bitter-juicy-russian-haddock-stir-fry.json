@@ -1,0 +1,70 @@
+{
+  "slug": "bitter-juicy-russian-haddock-stir-fry",
+  "title": "Pan-Seared Haddock with Russian Twist",
+  "description": "A flavorful and moist haddock dish with a hint of Russian spices. Serve with a side of bitter greens for a delicious and well-rounded meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Russian seasoning blend",
+      "amount": "2 tsp",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Juicy lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 bunch",
+      "notes": "Arugula or spinach work well"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the haddock fillets under cold water and pat dry with a paper towel.",
+    "2. Season the haddock with Russian seasoning blend, making sure to coat both sides evenly.",
+    "3. Heat olive oil in a large skillet over medium-high heat.",
+    "4. Add the haddock fillets to the skillet and sear for 3-4 minutes on each side, or until cooked through.",
+    "5. Remove the haddock from the skillet and set aside to rest.",
+    "6. Add a squeeze of lemon juice to the skillet and stir to combine.",
+    "7. Serve the haddock with a side of bitter greens and a squeeze of lemon juice.",
+    "8. Garnish with chopped fresh herbs, such as parsley or dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "russian",
+    "healthy",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-juicy-russian-haddock-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:34:52.477Z"
+}
