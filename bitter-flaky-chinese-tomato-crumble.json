@@ -1,0 +1,83 @@
+{
+  "slug": "bitter-flaky-chinese-tomato-crumble",
+  "title": "Crumble Topped Bitter Flaky Chicken",
+  "description": "A savory dish featuring bitter flaky chicken topped with a crumble mixture, perfect for a quick dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bitter flaky chicken breasts",
+      "amount": "4",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "flaky crust",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1/2 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with five-spice powder, salt, and pepper.",
+    "In a separate bowl, mix together crumble topping ingredients.",
+    "Place the chicken in a baking dish and top with tomato sauce.",
+    "Sprinkle the crumble topping over the sauce.",
+    "Dot the top with melted butter.",
+    "Bake for 25-30 minutes or until the chicken is cooked through.",
+    "Garnish with chopped green onions if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "crumble",
+    "bitter flaky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-flaky-chinese-tomato-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:29:38.049Z"
+}
