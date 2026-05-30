@@ -53,19 +53,15 @@
   },
   {
     "slug": "banana-bliss-delight",
-    "title": "Paleo Fried Ripe Bananas with Deglaze",
+    "title": "Banana Bliss Delight",
     "tags": [
-      "paleo-friendly",
-      "savory",
-      "dessert",
       "banana",
-      "italian-sicilian"
+      "dessert",
+      "sweet",
+      "vegetarian"
     ],
-    "cuisine": [
-      "Italian",
-      "Sicilian"
-    ],
-    "totalTimeMin": 65,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
