@@ -203,13 +203,17 @@
   },
   {
     "slug": "beer-guajillo-paleo",
-    "title": "BeerGuajilloPaleo",
+    "title": "Guajillo Beer Braised Short Ribs",
     "tags": [
-      "beer-guajillo",
-      "paleo-friendly"
+      "short-ribs",
+      "beer-braised",
+      "guajillo-chili",
+      "paleo",
+      "braising",
+      "slow-cooker"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 90,
+    "cuisine": null,
+    "totalTimeMin": 170,
     "shard": "b"
   },
   {
