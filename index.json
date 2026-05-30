@@ -1743,13 +1743,14 @@
   },
   {
     "slug": "bitter-flaky-chinese-tomato-crumble",
-    "title": "Bitter Flaky Chinese Tomato Crumble",
+    "title": "Crumble Topped Bitter Flaky Chicken",
     "tags": [
-      "bitter-flaky-chinese-tomato-crumble",
-      "low-sodium-friendly"
+      "chicken",
+      "crumble",
+      "bitter flaky"
     ],
-    "cuisine": "Chinese (Shandong)",
-    "totalTimeMin": 35,
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -2356,16 +2357,16 @@
   },
   {
     "slug": "bitter-juicy-russian-haddock-stir-fry",
-    "title": "Bitter Juicy Russian Haddock Stir-fry",
+    "title": "Pan-Seared Haddock with Russian Twist",
     "tags": [
-      "haddock",
-      "bitter",
-      "juicy",
-      "meal-prep",
-      "russian"
+      "fish",
+      "seafood",
+      "russian",
+      "healthy",
+      "easy-to-make"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
