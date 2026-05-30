@@ -4286,15 +4286,15 @@
   },
   {
     "slug": "broiled-broccoli-peanut-wrap",
-    "title": "Broiled Broccoli Peanut Wrap",
+    "title": "Broccoli Wrap",
     "tags": [
-      "broccoli",
-      "peanut",
-      "honey",
-      "argentinean"
+      "healthy",
+      "quick",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 9,
     "shard": "b"
   },
   {
