@@ -8138,5 +8138,18 @@
     "cuisine": "zanzibari",
     "totalTimeMin": 17,
     "shard": "b"
+  },
+  {
+    "slug": "banana-coconut-nutty-paneer-sweet-watermelon",
+    "title": "Watermelon and Paneer Salad",
+    "tags": [
+      "summer-salad",
+      "indian-cuisine",
+      "vegetarian-recipe",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
