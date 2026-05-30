@@ -1,0 +1,58 @@
+{
+  "slug": "broiled-broccoli-peanut-wrap",
+  "title": "Broccoli Wrap",
+  "description": "A simple and healthy wrap filled with steamed broccoli and crunchy peanuts. Perfect for a quick snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Add 1-2 tablespoons of water to the pan and cover with a lid.",
+    "3. Steam the broccoli for 3-4 minutes until tender but still crisp.",
+    "4. Meanwhile, toast the wrap in the pan for a few seconds until lightly browned.",
+    "5. Assemble the wrap by placing the steamed broccoli in the center.",
+    "6. Sprinkle chopped peanuts on top of the broccoli.",
+    "7. Fold the wrap in half to enclose the filling."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "quick",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/broiled-broccoli-peanut-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:23:12.955Z"
+}
