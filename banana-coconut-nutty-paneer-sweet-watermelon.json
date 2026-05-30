@@ -1,0 +1,67 @@
+{
+  "slug": "banana-coconut-nutty-paneer-sweet-watermelon",
+  "title": "Watermelon and Paneer Salad",
+  "description": "A refreshing summer salad with the sweetness of watermelon, crunch of nuts and creaminess of paneer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "watermelon",
+      "amount": "2 cups diced",
+      "notes": "seedless"
+    },
+    {
+      "name": "paneer",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "coconut",
+      "amount": "1/4 cup shredded"
+    },
+    {
+      "name": "banana",
+      "amount": "1 medium sliced"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons chopped nuts"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine diced watermelon and crumbled paneer.",
+    "In a small pan, toast the shredded coconut over low heat until lightly browned.",
+    "Add the toasted coconut, chopped nuts and sliced banana to the bowl with watermelon and paneer.",
+    "Drizzle the honey over the salad and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad chilled, garnished with additional chopped nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer-salad",
+    "indian-cuisine",
+    "vegetarian-recipe",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-coconut-nutty-paneer-sweet-watermelon",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T12:22:13.876Z"
+}
