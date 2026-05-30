@@ -1,0 +1,90 @@
+{
+  "slug": "beer-guajillo-paleo",
+  "title": "Guajillo Beer Braised Short Ribs",
+  "description": "A rich and flavorful short ribs recipe with a hint of spice and a deep, malty beer flavor. Serve with a side of rice or noodles for a hearty meal.",
+  "cuisine": null,
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short Ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Guajillo chilies",
+      "amount": "4-6 dried chilies"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the short ribs with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the ribs from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the guajillo chilies, beer, tomato paste, chicken broth, brown sugar, and oregano to the pot.",
+    "Stir to combine, scraping up any browned bits from the bottom of the pot.",
+    "Return the short ribs to the pot and bring the liquid to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the ribs for 2 1/2 to 3 hours, or until tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the short ribs with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "short-ribs",
+    "beer-braised",
+    "guajillo-chili",
+    "paleo",
+    "braising",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/beer-guajillo-paleo",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:46:49.753Z"
+}
