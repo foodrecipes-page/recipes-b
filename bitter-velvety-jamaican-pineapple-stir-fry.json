@@ -1,0 +1,68 @@
+{
+  "slug": "bitter-velvety-jamaican-pineapple-stir-fry",
+  "title": "Jamaican Pineapple Stir Fry",
+  "description": "A sweet and tangy stir fry dish featuring pineapple, jamaican spice, and a hint of bitter flavor.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bitter melon",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "velvety eggplant",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add jerk seasoning and cook for 1 minute.",
+    "Add sliced bitter melon and cook for 3-4 minutes, or until tender.",
+    "Add diced eggplant and cook for an additional 3-4 minutes.",
+    "Add diced pineapple and cook for 1-2 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "pineapple",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-velvety-jamaican-pineapple-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:28:18.096Z"
+}
