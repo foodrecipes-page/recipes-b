@@ -1,0 +1,73 @@
+{
+  "slug": "blanched-tunsian-tomato-stir-fry",
+  "title": "Tunisian Stir-Fry",
+  "description": "A flavorful and spicy stir-fry dish inspired by Tunisian cuisine, made with blanched vegetables, Tunisian tomatoes, and a hint of stir-fry seasonings.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Blanched vegetables (broccoli, carrots, bell peppers)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tunisian tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and stir-fry until softened, about 3-4 minutes.",
+    "Add the blanched vegetables and stir-fry for another 2-3 minutes.",
+    "Add the Tunisian tomato paste and stir-fry for 1 minute.",
+    "Add the tomato and stir-fry for another minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and garnish with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stir-fry",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/blanched-tunsian-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:57:57.992Z"
+}
