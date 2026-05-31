@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-aerated-british-mascarpone-trifle",
+  "title": "Traditional British Trifle",
+  "description": "A classic English dessert made with layers of sponge cake, fruit, custard, and whipped cream.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery sponge cake",
+      "amount": "1 package (8-10 slices)",
+      "notes": ""
+    },
+    {
+      "name": "Mixed berries (strawberries, blueberries, raspberries)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Heavy whipping cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Trifle",
+      "amount": "1 package (8-10 slices)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the sponge cake into 1-inch pieces.",
+    "In a large bowl, whip the heavy whipping cream until stiff peaks form.",
+    "In a separate bowl, mix the mascarpone cheese with a little sugar and vanilla extract.",
+    "In a large serving dish, create a layer of sponge cake pieces.",
+    "Top the cake with a layer of mixed berries.",
+    "Repeat the layers two more times, ending with a layer of whipped cream.",
+    "Chill the trifle in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-aerated-british-mascarpone-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:21:41.674Z"
+}
