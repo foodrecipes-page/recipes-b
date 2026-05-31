@@ -7139,20 +7139,16 @@
   },
   {
     "slug": "buttery-moroccan-lamb-tagine",
-    "title": "Buttery Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "moroccan",
       "lamb",
       "tagine",
-      "keto-friendly",
-      "buttery",
-      "plum-sauce",
-      "smoky",
-      "slow-cooked",
-      "dinner"
+      "moroccan",
+      "stew",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 195,
+    "totalTimeMin": 180,
     "shard": "b"
   },
   {
