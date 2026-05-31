@@ -5100,19 +5100,15 @@
   },
   {
     "slug": "buttery-creamy-dutch-eggs-bowl",
-    "title": "Buttery Creamy Dutch Eggs Bowl",
+    "title": "Creamy Dutch Bowl Delight",
     "tags": [
       "breakfast",
-      "egg",
-      "poached",
-      "creamy",
-      "buttery",
-      "pine-nuts",
-      "quick",
-      "dutch"
+      "dutch",
+      "eggs",
+      "creamy"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
