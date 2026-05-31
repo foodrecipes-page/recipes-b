@@ -8191,5 +8191,17 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-juicy-russian-haddock-stir-fry--german",
+    "title": "German Pan-Seared Haddock",
+    "tags": [
+      "german",
+      "haddock",
+      "pan-seared"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "b"
   }
 ]
