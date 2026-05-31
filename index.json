@@ -8176,5 +8176,20 @@
     "cuisine": "italian",
     "totalTimeMin": 180,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-slovakian-dried-white-beans-stir-fry--german",
+    "title": "Slovakian-Style Bean Stew",
+    "tags": [
+      "beans",
+      "stew",
+      "german",
+      "slovakian",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "b"
   }
 ]
