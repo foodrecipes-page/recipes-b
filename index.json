@@ -2984,15 +2984,15 @@
   },
   {
     "slug": "bitter-velvety-jamaican-pineapple-stir-fry",
-    "title": "Bitter Velvety Jamaican Pineapple Stir-fry",
+    "title": "Jamaican Pineapple Stir Fry",
     "tags": [
       "jamaican",
       "pineapple",
       "stir-fry",
-      "raw-friendly"
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 23,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -4515,18 +4515,14 @@
   },
   {
     "slug": "buttery-aerated-british-mascarpone-trifle",
-    "title": "Buttery Aerated British Mascarpone Trifle",
+    "title": "Traditional British Trifle",
     "tags": [
-      "british-dessert",
-      "diabetic-friendly",
-      "easy-to-make",
-      "high-protein",
-      "low-carb",
-      "masarpone-trifle",
-      "weeknight"
+      "british",
+      "dessert",
+      "trifle"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
