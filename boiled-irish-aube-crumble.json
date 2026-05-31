@@ -1,0 +1,67 @@
+{
+  "slug": "boiled-irish-aube-crumble",
+  "title": "Irish Apple Crumble",
+  "description": "A classic dessert featuring tender apples topped with a crunchy oat mixture. Serve warm with vanilla ice cream.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6-8 medium-sized"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cold butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Irish",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples. Place them in a 9x9-inch baking dish.",
+    "In a large bowl, combine the flour, oats, brown sugar, cold butter, Irish, and cinnamon. Mix until crumbly.",
+    "Spread the crumble mixture evenly over the apples.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the apples are tender.",
+    "Serve warm with vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "irish",
+    "apples",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiled-irish-aube-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:39.158Z"
+}
