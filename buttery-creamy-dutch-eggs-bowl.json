@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-creamy-dutch-eggs-bowl",
+  "title": "Creamy Dutch Bowl Delight",
+  "description": "A rich and creamy breakfast dish featuring eggs and a hint of Dutch flavor. Perfect for a weekend morning.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buttery spread",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "creamy cheese",
+      "amount": "4 ounces",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "dutch spice blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "bowl",
+      "amount": null,
+      "notes": "large ceramic bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In the bowl, whisk together eggs and Dutch spice blend.",
+    "Add the creamy cheese and mix until well combined.",
+    "Heat the buttery spread in a pan over medium heat.",
+    "Pour the egg mixture into the pan and cook until the edges start to set.",
+    "Transfer the pan to the oven and bake for 8-10 minutes.",
+    "Remove from oven and let cool for a minute.",
+    "Serve hot from the pan."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dutch",
+    "eggs",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 16,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-dutch-eggs-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:29:51.127Z"
+}
