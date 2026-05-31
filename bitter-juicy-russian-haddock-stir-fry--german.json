@@ -1,0 +1,64 @@
+{
+  "slug": "bitter-juicy-russian-haddock-stir-fry--german",
+  "title": "German Pan-Seared Haddock",
+  "description": "A traditional German dish featuring pan-seared haddock with a crispy exterior and a tender interior, served with a side of sautéed bitter greens. This meal is a hearty and flavorful way to enjoy the fresh taste of the sea.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock",
+      "amount": "2 fillets",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "bitter",
+      "amount": "1 bunch",
+      "notes": "Fresh and organic"
+    },
+    {
+      "name": "juicy",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon",
+      "notes": "Olive oil for cooking"
+    },
+    {
+      "name": "fry",
+      "amount": "1 teaspoon",
+      "notes": "Paprika for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Season the haddock with paprika and salt.",
+    "Add a tablespoon of olive oil to the skillet and sear the haddock for 3-4 minutes per side.",
+    "While the haddock is cooking, sauté the bitter greens in a separate skillet with a tablespoon of olive oil.",
+    "Once the haddock is cooked, remove it from the skillet and set it aside.",
+    "Add the sautéed bitter greens to the skillet with the haddock's drippings and stir to combine.",
+    "Serve the haddock with the sautéed bitter greens and a squeeze of fresh juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "haddock",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-juicy-russian-haddock-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:11:39.677Z"
+}
