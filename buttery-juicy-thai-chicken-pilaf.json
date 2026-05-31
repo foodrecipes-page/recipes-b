@@ -1,0 +1,86 @@
+{
+  "slug": "buttery-juicy-thai-chicken-pilaf",
+  "title": "Thai Chicken Pilaf",
+  "description": "A flavorful and aromatic Thai-inspired dish made with juicy chicken, aromatic pilaf, and a hint of Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "buttery chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery chicken broth in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the diced juicy tomatoes to the skillet and cook for an additional 2 minutes.",
+    "Add the cooked pilaf to the skillet and stir to combine with the tomato mixture.",
+    "Return the chicken to the skillet and stir to combine with the pilaf mixture.",
+    "Pour in the remaining 1 cup of buttery chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the dish simmer for 5-7 minutes, or until the chicken is cooked through.",
+    "Season the dish with fish sauce and brown sugar to taste.",
+    "Serve the Thai Chicken Pilaf hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "Thai",
+    "chicken",
+    "pilaf",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-thai-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:39:48.337Z"
+}
