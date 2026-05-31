@@ -1,0 +1,69 @@
+{
+  "slug": "buttery-juicy-slovakian-dried-white-beans-stir-fry--german",
+  "title": "Slovakian-Style Bean Stew",
+  "description": "A hearty German-inspired stew made with Slovakian beans and a rich, buttery broth.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "slovakian beans",
+      "amount": "1 pound",
+      "notes": "canned or dried"
+    },
+    {
+      "name": "white onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "white potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat.",
+    "Add onion and thyme; sauté until onion is softened.",
+    "Add Slovakian beans, potatoes, and enough water to cover.",
+    "Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot.",
+    "Optional: serve with a side of crusty bread or a green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "stew",
+    "german",
+    "slovakian",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-slovakian-dried-white-beans-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:03:49.544Z"
+}
