@@ -1,0 +1,77 @@
+{
+  "slug": "beer-guajillo-paleo--thai",
+  "title": "Thai Beer Braised Short Ribs in Guajillo Sauce",
+  "description": "A rich and flavorful Thai-inspired short ribs dish made with guajillo chili, beer, and a hint of paleo spices. Perfect for a special occasion or a cozy night in.",
+  "cuisine": "thai",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Guajillo chili",
+      "amount": "4-6 dried pods"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paleo curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Rinse the short ribs and pat them dry with paper towels.",
+    "In a blender or food processor, combine guajillo chilies, beer, coconut oil, paleo curry powder, fish sauce, and brown sugar. Blend until smooth.",
+    "Heat a large Dutch oven over medium-high heat. Sear the short ribs until browned on all sides, about 5 minutes. Remove the ribs from the pot and set aside.",
+    "Add the blended guajillo sauce to the pot and bring to a simmer. Scrape up any browned bits from the bottom of the pot.",
+    "Return the short ribs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise the short ribs for 2 1/2 hours, or until tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly. Serve the short ribs with the guajillo sauce spooned over the top. Garnish with fresh cilantro.",
+    "Let the dish rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "thai",
+    "beef",
+    "paleo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 52
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/beer-guajillo-paleo--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:59:11.260Z"
+}
