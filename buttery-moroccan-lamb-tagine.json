@@ -1,0 +1,87 @@
+{
+  "slug": "buttery-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan stew made with tender lamb and aromatic spices, slow-cooked in a clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Buttery olives",
+      "amount": "1/2 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece, grated",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot over medium heat.",
+    "Brown the lamb pieces in batches until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the Moroccan spice blend and cook for 1 minute.",
+    "Add the chicken broth, browned lamb, and honey to the pot.",
+    "Bring to a boil, then cover and transfer to a preheated oven at 300°F (150°C) for 2 hours.",
+    "Stir in the pitted olives and cook for an additional 10 minutes.",
+    "Serve hot over couscous or rice.",
+    "Garnish with fresh parsley and serve with warm pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:14:04.958Z"
+}
