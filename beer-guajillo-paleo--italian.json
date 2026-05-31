@@ -1,0 +1,82 @@
+{
+  "slug": "beer-guajillo-paleo--italian",
+  "title": "Guajillo Beer Braised Short Ribs",
+  "description": "A rich and flavorful Italian-inspired short ribs recipe utilizing guajillo peppers and beer. Perfect for a hearty winter dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short ribs",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Guajillo peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paleo",
+      "amount": "1 cup (as a marinade ingredient)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the short ribs with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the short ribs from the pot and set aside.",
+    "Add the guajillo peppers to the pot and cook until fragrant, about 1 minute.",
+    "Add the beer and paleo to the pot, scraping up any browned bits from the bottom.",
+    "Return the short ribs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the braising liquid through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Bring the braising liquid to a simmer over medium heat and cook until reduced by half, about 10 minutes.",
+    "Serve the short ribs with the reduced braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "short-ribs",
+    "guajillo",
+    "beer-braised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/beer-guajillo-paleo--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:59:43.859Z"
+}
