@@ -1,0 +1,60 @@
+{
+  "slug": "buttery-juicy-suet-croissant",
+  "title": "Buttery Croissant Suets",
+  "description": "A rich and flaky pastry filled with melted suet and a hint of buttery goodness.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery Croissant",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Juicy Suet",
+      "amount": "2 cups",
+      "notes": "Melted"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw the croissant dough according to package instructions.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Melt the suet in a saucepan over low heat.",
+    "Brush the melted suet over the dough, leaving a 1-inch border around the edges.",
+    "Cut the dough into desired shapes.",
+    "Place the shapes on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Remove from oven and brush with melted butter.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pastry",
+    "suet",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-suet-croissant",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:39:33.674Z"
+}
