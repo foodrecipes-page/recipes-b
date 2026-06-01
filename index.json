@@ -8193,5 +8193,17 @@
     "cuisine": "german",
     "totalTimeMin": 22,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crunchy-indian-shrimp-wrap--french",
+    "title": "French Shrimp Wrap",
+    "tags": [
+      "french-cuisine",
+      "seafood-recipes",
+      "wrap-recipes"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "b"
   }
 ]
