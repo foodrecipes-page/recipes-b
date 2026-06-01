@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-crunchy-indian-shrimp-wrap",
+  "title": "Crunchy Shrimp Wrap",
+  "description": "A delicious and easy-to-make wrap filled with crunchy shrimp, perfect for a quick snack or lunch.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "4 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add melted buttery and cook for 1 minute.",
+    "Add crunchy and cook for 2-3 minutes, until fragrant.",
+    "Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing the cooked shrimp and crunchy mixture in the center.",
+    "Fold the wrap and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "seafood",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-indian-shrimp-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:37:57.927Z"
+}
