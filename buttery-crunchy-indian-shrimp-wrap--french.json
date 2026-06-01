@@ -1,0 +1,65 @@
+{
+  "slug": "buttery-crunchy-indian-shrimp-wrap--french",
+  "title": "French Shrimp Wrap",
+  "description": "A delicious and easy-to-make French-inspired shrimp wrap recipe. The crunchy shrimp and buttery wrap come together in perfect harmony.",
+  "cuisine": "french",
+  "diet": [
+    "fish-and-seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 lb"
+    },
+    {
+      "name": "wrap (french)",
+      "amount": "4-6"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a pan over medium heat.",
+    "Add shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Season with salt and pepper to taste.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing the cooked shrimp in the center and topping with crunchy.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "seafood-recipes",
+    "wrap-recipes"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-indian-shrimp-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:50:35.085Z"
+}
