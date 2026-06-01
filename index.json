@@ -6892,15 +6892,15 @@
   },
   {
     "slug": "buttery-juicy-suet-croissant",
-    "title": "Buttery Juicy Suet Croissant",
+    "title": "Buttery Croissant Suets",
     "tags": [
+      "breakfast",
+      "pastry",
       "suet",
-      "sous-vide",
-      "croissant",
-      "keto-friendly"
+      "buttery"
     ],
-    "cuisine": "European (Croatian-Inspired)",
-    "totalTimeMin": 210,
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
