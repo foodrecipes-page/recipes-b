@@ -1,0 +1,76 @@
+{
+  "slug": "buttery-egyptian-chinese-long-beans-stir-fry",
+  "title": "Egyptian-Style Stir Fry with Beans",
+  "description": "A quick and flavorful stir fry using egyptian spices and long beans.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 teaspoon",
+      "notes": "use egyptian spice mix"
+    },
+    {
+      "name": "long beans",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tablespoons",
+      "notes": "use soy sauce"
+    },
+    {
+      "name": "beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "stir",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and stir for 1 minute.",
+    "Add the long beans and cook for 3-4 minutes, or until tender.",
+    "Add the can of beans, egyptian spice mix, and soy sauce. Stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Stir in the buttery and cook for 1 minute, or until melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-egyptian-chinese-long-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:44:48.878Z"
+}
