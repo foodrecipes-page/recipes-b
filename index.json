@@ -5802,16 +5802,15 @@
   },
   {
     "slug": "buttery-crunchy-indian-shrimp-wrap",
-    "title": "Buttery Crunchy Indian Shrimp Wrap",
+    "title": "Crunchy Shrimp Wrap",
     "tags": [
-      "buttery",
-      "crunchy",
-      "indian",
-      "shrimp",
-      "nut-free"
+      "quick",
+      "easy",
+      "seafood",
+      "indian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
