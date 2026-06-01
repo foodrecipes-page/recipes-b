@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-french-mentaiko-tartiflette",
+  "title": "Mentaiko Tartiflette",
+  "description": "A French-inspired tartiflette recipe featuring mentaiko for a unique twist.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French potatoes",
+      "amount": "1 kg",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mentaiko",
+      "amount": "120g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Bitter onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tartiflette cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large saucepan, boil the sliced potatoes in salted water until tender. Drain.",
+    "In a separate pan, caramelize the sliced onions over medium heat.",
+    "In a large oven-safe dish, combine the cooked potatoes, caramelized onions, crushed mentaiko, grated cheese, and melted butter.",
+    "Transfer the dish to the preheated oven and bake for 20-25 minutes or until the top is golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "veggie",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-french-mentaiko-tartiflette",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:52:49.494Z"
+}
