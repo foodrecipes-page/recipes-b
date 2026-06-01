@@ -2053,16 +2053,15 @@
   },
   {
     "slug": "bitter-french-mentaiko-tartiflette",
-    "title": "Bitter French Mentaiko Tartiflette",
+    "title": "Mentaiko Tartiflette",
     "tags": [
-      "french-cuisine",
-      "high-protein",
-      "one-pan",
-      "vegetarian-main-course",
-      "weeknight"
+      "breakfast",
+      "lunch",
+      "veggie",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
@@ -6220,15 +6219,14 @@
   },
   {
     "slug": "buttery-egyptian-chinese-long-beans-stir-fry",
-    "title": "Buttery Egyptian Chinese Long Beans Stir-fry",
+    "title": "Egyptian-Style Stir Fry with Beans",
     "tags": [
       "egyptian",
-      "chinese",
       "stir-fry",
-      "gluten-free"
+      "vegetarian"
     ],
-    "cuisine": "Egyptian Chinese Fusion",
-    "totalTimeMin": 30,
+    "cuisine": "egyptian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
