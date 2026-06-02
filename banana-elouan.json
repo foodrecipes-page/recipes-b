@@ -1,0 +1,50 @@
+{
+  "slug": "banana-elouan",
+  "title": "Elouan Banana Smoothie",
+  "description": "A refreshing blend of Elouan and banana, perfect for a quick breakfast or snack.",
+  "cuisine": "",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 ripe banana",
+      "amount": "",
+      "notes": "Choose a ripe banana for the best flavor"
+    },
+    {
+      "name": "1 cup Elouan",
+      "amount": "",
+      "notes": "You can adjust the amount to your taste"
+    }
+  ],
+  "instructions": [
+    "Add the banana and Elouan to a blender.",
+    "Blend the mixture on high speed until smooth.",
+    "Add ice cubes if you want a thicker consistency.",
+    "Blend again until the ice is crushed and the smoothie is the desired consistency.",
+    "Pour the smoothie into a glass and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "smoothie",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-elouan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:17:40.032Z"
+}
