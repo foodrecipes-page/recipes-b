@@ -2752,16 +2752,14 @@
   },
   {
     "slug": "bitter-spanish-chicken-stir-fry",
-    "title": "Bitter Spanish Chicken Stir-fry",
+    "title": "Spanish Stir Fry",
     "tags": [
       "spanish",
-      "bitter",
-      "stir-fry",
-      "chicken",
-      "meal-prep"
+      "stirfry",
+      "chicken"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -5177,17 +5175,14 @@
   },
   {
     "slug": "buttery-crisp-australian-buttermilk-bread",
-    "title": "Buttery Crisp Australian Buttermilk Bread",
+    "title": "Buttermilk Bread",
     "tags": [
-      "australian",
-      "breakfast",
       "bread",
-      "comfort-food",
-      "low-fat",
-      "sick-day"
+      "breakfast",
+      "homemade"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 60,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
