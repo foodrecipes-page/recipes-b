@@ -1,0 +1,75 @@
+{
+  "slug": "buttery-dense-british-peppers-casserole",
+  "title": "British Casserole",
+  "description": "A hearty, comforting casserole dish that combines the flavors of Britain with tender beef and vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (British cut)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Buttery onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Dense potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Peppers (any color)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Casserole mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Gravy mix",
+      "amount": "1 packet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Brown the beef in a large pan over medium-high heat, then set aside.",
+    "Add the buttery onions to the pan and cook until softened.",
+    "Add the dense potatoes and peppers to the pan, cooking for 5 minutes.",
+    "Add the casserole mix to the pan, stirring to combine.",
+    "Return the beef to the pan, stirring to coat with the casserole mix.",
+    "Transfer the mixture to a baking dish.",
+    "Mix the gravy mix with a little water according to the packet instructions, then pour over the top of the casserole.",
+    "Bake in the preheated oven for 30 minutes, or until the casserole is hot and the gravy is bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "beef",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-dense-british-peppers-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:04:18.886Z"
+}
