@@ -1,0 +1,66 @@
+{
+  "slug": "bouncy-qq-zesty-venezuelan-pork-chops-skewers",
+  "title": "Grilled Pork Chops",
+  "description": "A simple and flavorful grilled pork chops recipe with a hint of zesty flavor. This dish is perfect for a quick dinner or lunch.",
+  "cuisine": "latin",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1-1.5 pounds"
+    },
+    {
+      "name": "zesty",
+      "amount": "2 tablespoons",
+      "notes": "zest of 1 lime"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the pork chops with salt and pepper.",
+    "Brush the pork chops with vegetable oil.",
+    "Grill the pork chops for 5-6 minutes per side, or until they reach an internal temperature of 145°F.",
+    "Let the pork chops rest for 5 minutes before serving.",
+    "Serve the pork chops with a sprinkle of zesty lime zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "latin",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-zesty-venezuelan-pork-chops-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:14:13.338Z"
+}
