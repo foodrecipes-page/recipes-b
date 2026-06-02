@@ -1,0 +1,66 @@
+{
+  "slug": "buttery-crispy-mexican-bean-stew",
+  "title": "Crispy Bean Tacos",
+  "description": "A flavorful and crunchy taco recipe using crispy mexican ingredients and bean stew.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buttery Crispy Taco Shells",
+      "amount": "6 shells"
+    },
+    {
+      "name": "Bean Stew",
+      "amount": "1 can, drained and rinsed",
+      "notes": "15 ounce can"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a pan over medium heat, melt butter and mix with Mexican seasoning.",
+    "Add crispy onions to the pan and cook until lightly browned.",
+    "Warm the bean stew in a separate pan or in the microwave.",
+    "To assemble the tacos, place a spoonful of bean stew onto each crispy taco shell.",
+    "Top the stew with crispy onions and a sprinkle of salt and pepper.",
+    "Bake the tacos in the preheated oven for 5-7 minutes until crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "crispy",
+    "bean",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-mexican-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:43:23.363Z"
+}
