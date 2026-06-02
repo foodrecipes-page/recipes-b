@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-spanish-chicken-stir-fry",
+  "title": "Spanish Stir Fry",
+  "description": "A quick and easy Spanish-inspired stir fry made with chicken, vegetables, and spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "spanish onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the bitter melon to the skillet and cook until tender, about 3-4 minutes.",
+    "Return the chicken to the skillet and pour in the stir fry sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "stirfry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-spanish-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:46:09.170Z"
+}
