@@ -8203,5 +8203,19 @@
     "cuisine": "french",
     "totalTimeMin": 15,
     "shard": "b"
+  },
+  {
+    "slug": "broiled-broccoli-peanut-wrap--japanese",
+    "title": "Japanese Broccoli Wrap",
+    "tags": [
+      "japanese",
+      "vegan",
+      "gluten-free",
+      "lunch",
+      "wrap"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "b"
   }
 ]
