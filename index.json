@@ -8231,5 +8231,18 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-thai-chicken-pilaf--mexican",
+    "title": "Mexican Chicken Pilaf",
+    "tags": [
+      "mexican",
+      "chicken",
+      "pilaf",
+      "easy-to-make"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
