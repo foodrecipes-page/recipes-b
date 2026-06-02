@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-crisp-australian-buttermilk-bread",
+  "title": "Buttermilk Bread",
+  "description": "A simple recipe for homemade buttermilk bread with a crispy crust and a soft interior.",
+  "cuisine": "American",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crisp bread",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "australian buttermilk",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x5-inch loaf pan.",
+    "Cut the crisp bread into 1-inch cubes.",
+    "In a large bowl, whisk together the buttermilk, melted buttery, and 2 tablespoons of unsalted butter.",
+    "Add the cubed bread to the wet ingredients and stir until just combined.",
+    "Pour the mixture into the prepared loaf pan.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the interior is set.",
+    "Remove from oven and let cool on a wire rack for 10 minutes.",
+    "Transfer to a serving plate and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "breakfast",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "35g",
+    "fat": "8g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-australian-buttermilk-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:28:00.795Z"
+}
