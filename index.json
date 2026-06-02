@@ -1576,10 +1576,15 @@
   },
   {
     "slug": "bitter-dense-roasted-uruguayan-duck-stir-fry",
-    "title": "Bitter Dense Roasted Uruguayan Duck Stir-fry",
-    "tags": [],
-    "cuisine": "mediterranean",
-    "totalTimeMin": null,
+    "title": "Uruguayan Roasted Duck",
+    "tags": [
+      "uruguayan",
+      "roasted",
+      "duck",
+      "main-course"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 70,
     "shard": "b"
   },
   {
@@ -8216,6 +8221,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
+    "slug": "blanched-tunsian-tomato-stir-fry--italian",
+    "title": "Tunisian Tomato Pasta",
+    "tags": [
+      "pasta",
+      "italian-cuisine",
+      "quick-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "b"
   }
 ]
