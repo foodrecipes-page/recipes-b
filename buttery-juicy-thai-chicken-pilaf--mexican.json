@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-juicy-thai-chicken-pilaf--mexican",
+  "title": "Mexican Chicken Pilaf",
+  "description": "A flavorful and easy-to-make Mexican-inspired dish featuring chicken, pilaf, and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup uncooked white rice",
+      "notes": ""
+    },
+    {
+      "name": "thai",
+      "amount": "1 tablespoon Thai red curry paste",
+      "notes": ""
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons butter",
+      "notes": ""
+    },
+    {
+      "name": "juicy",
+      "amount": "1 cup diced tomatoes",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of butter and the Thai red curry paste.",
+    "Cook for 1 minute, until fragrant.",
+    "Add the pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "Add the diced tomatoes and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the pilaf and tomatoes.",
+    "Cook for an additional 2-3 minutes, until the pilaf is tender and the flavors have melded together.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "pilaf",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-thai-chicken-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:32:37.431Z"
+}
