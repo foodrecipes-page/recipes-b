@@ -1,0 +1,86 @@
+{
+  "slug": "bitter-dense-roasted-uruguayan-duck-stir-fry",
+  "title": "Uruguayan Roasted Duck",
+  "description": "A classic Uruguayan dish with a twist, featuring roasted duck with a crispy skin.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck, whole",
+      "amount": "1",
+      "notes": "3-4 lbs"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/2 cup",
+      "notes": "Uruguayan bitter"
+    },
+    {
+      "name": "roasted",
+      "amount": "1 cup",
+      "notes": "roasted vegetables"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the duck and pat it dry with paper towels.",
+    "Season the duck with salt, pepper, and garlic.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the duck on all sides until golden brown, about 5 minutes.",
+    "Transfer the duck to a roasting pan and roast in the preheated oven for 20 minutes.",
+    "Add the roasted vegetables and Uruguayan bitter to the roasting pan.",
+    "Continue roasting for another 20-25 minutes, or until the duck is cooked through and the skin is crispy.",
+    "Let the duck rest for 10 minutes before slicing and serving.",
+    "Garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "roasted",
+    "duck",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-roasted-uruguayan-duck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:42:52.078Z"
+}
