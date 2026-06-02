@@ -1,0 +1,60 @@
+{
+  "slug": "broiled-broccoli-peanut-wrap--japanese",
+  "title": "Japanese Broccoli Wrap",
+  "description": "A simple Japanese-inspired broccoli wrap with a sweet and savory peanut sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "peanut",
+      "amount": "1/2 cup",
+      "notes": "peanut butter"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat or brown rice wrap"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Brush the broccoli with a little oil and season with salt and pepper.",
+    "3. Grill the broccoli for 3-4 minutes per side, until tender.",
+    "4. In a small bowl, mix together the peanut butter, a squeeze of soy sauce, and a splash of rice vinegar.",
+    "5. Lay the wrap flat and spread a tablespoon of peanut sauce onto the center.",
+    "6. Arrange the grilled broccoli on top of the sauce.",
+    "7. Fold the bottom half of the wrap up over the broccoli, then fold in the sides and roll up the wrap tightly.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegan",
+    "gluten-free",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/broiled-broccoli-peanut-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:34:22.692Z"
+}
