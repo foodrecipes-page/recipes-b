@@ -3791,17 +3791,15 @@
   },
   {
     "slug": "bouncy-qq-zesty-venezuelan-pork-chops-skewers",
-    "title": "Bouncy-QQ Zesty Venezuelan Pork Chops Skewers",
+    "title": "Grilled Pork Chops",
     "tags": [
       "grilled",
-      "marinated",
       "pork",
-      "robata",
-      "skewers",
-      "venezuelan"
+      "latin",
+      "meat"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 48,
+    "cuisine": "latin",
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
@@ -5370,10 +5368,15 @@
   },
   {
     "slug": "buttery-crispy-mexican-bean-stew",
-    "title": "Buttery Crispy Mexican Bean Stew",
-    "tags": [],
+    "title": "Crispy Bean Tacos",
+    "tags": [
+      "mexican",
+      "crispy",
+      "bean",
+      "tacos"
+    ],
     "cuisine": "Mexican",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -5994,16 +5997,15 @@
   },
   {
     "slug": "buttery-dense-british-peppers-casserole",
-    "title": "Buttery Dense British Peppers Casserole",
+    "title": "British Casserole",
     "tags": [
-      "british-cuisine",
+      "british",
+      "beef",
       "casserole",
-      "comfort-food",
-      "kosher-friendly",
-      "lazy-sunday"
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
