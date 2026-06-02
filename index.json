@@ -81,14 +81,14 @@
   },
   {
     "slug": "banana-elouan",
-    "title": "Banana Elouan",
+    "title": "Elouan Banana Smoothie",
     "tags": [
-      "banana-elouan",
-      "algerian-dessert",
-      "vegan-friendly"
+      "banana",
+      "smoothie",
+      "breakfast"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 12,
+    "cuisine": "",
+    "totalTimeMin": 5,
     "shard": "b"
   },
   {
