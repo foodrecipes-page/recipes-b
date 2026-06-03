@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-crunchy-german-duck-toast",
+  "title": "Pan-Seared German Duck Breast with Toast",
+  "description": "A classic German dish featuring a pan-seared duck breast served with toasted bread and a side of bitter greens.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Crunchy bread",
+      "amount": "2 slices",
+      "notes": "Thick and crusty"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 bunch",
+      "notes": "Choose a variety like kale or arugula"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Unrefined and coarse"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality and extra-virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Season the duck breast with salt and pepper on both sides.",
+    "Add 1 tablespoon of olive oil to the preheated skillet and sear the duck breast for 3-4 minutes per side.",
+    "Remove the duck breast from the skillet and let it rest for 5 minutes.",
+    "Warm the crunchy bread in the skillet or in the oven.",
+    "Toss the bitter greens with a squeeze of lemon juice and a pinch of salt.",
+    "Serve the pan-seared duck breast with toasted bread and a side of bitter greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "pan-seared-duck",
+    "bitter-greens",
+    "crunchy-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-german-duck-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:27:58.712Z"
+}
