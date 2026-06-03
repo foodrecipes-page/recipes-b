@@ -4404,17 +4404,14 @@
   },
   {
     "slug": "brownie-buena",
-    "title": "Brownie Buena",
+    "title": "Brownie Buena Delight",
     "tags": [
+      "dessert",
       "brownie",
-      "argentinean",
-      "nutty",
-      "flaky",
-      "sick-day",
-      "high-protein-friendly"
+      "chocolate"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
