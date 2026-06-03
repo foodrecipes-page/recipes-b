@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-chewy-indulgent-yogurt-crumble",
+  "title": "Bitter Crumble",
+  "description": "A unique dessert featuring the bittersweet taste of the bitter ingredient, topped with a crunchy crumble and a tangy yogurt sauce.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bitter",
+      "amount": "150g"
+    },
+    {
+      "name": "indulgent",
+      "amount": "100g"
+    },
+    {
+      "name": "crumble",
+      "amount": "50g"
+    },
+    {
+      "name": "yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Mix the bitter, indulgent and sugar in a bowl.",
+    "Add the cinnamon and vanilla extract to the bowl and mix well.",
+    "Transfer the mixture to a baking dish and top with the crumble.",
+    "Bake for 25 minutes or until golden brown.",
+    "Meanwhile, mix the yogurt in a bowl.",
+    "Serve the crumble with the yogurt sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bitter",
+    "crumble",
+    "dessert",
+    "indulgent",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-indulgent-yogurt-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:02:25.557Z"
+}
