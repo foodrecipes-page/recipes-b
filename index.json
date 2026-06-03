@@ -524,15 +524,16 @@
   },
   {
     "slug": "bitter-chewy-indulgent-yogurt-crumble",
-    "title": "Bitter Chewy Indulgent Yogurt Crumble",
+    "title": "Bitter Crumble",
     "tags": [
-      "portuguese-dessert",
-      "greek-yogurt-crumb",
-      "indulgent-dessert",
-      "kosher-friendly"
+      "bitter",
+      "crumble",
+      "dessert",
+      "indulgent",
+      "yogurt"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "cuisine": "British",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
