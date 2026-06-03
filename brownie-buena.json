@@ -1,0 +1,85 @@
+{
+  "slug": "brownie-buena",
+  "title": "Brownie Buena Delight",
+  "description": "A rich, fudgy brownie paired with crunchy buena for a delightful dessert.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "brownie",
+      "amount": "1 package",
+      "notes": "pre-made"
+    },
+    {
+      "name": "buena",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Line an 8-inch square baking pan with parchment paper.",
+    "Melt the butter and sugar in a medium saucepan over low heat.",
+    "Bring to a simmer and cook for 5 minutes.",
+    "Remove from heat and stir in the eggs until well combined.",
+    "Add the flour and cocoa powder, stirring until just combined.",
+    "Pour the batter into the prepared baking pan.",
+    "Top with brownie and bake for 25-30 minutes or until a toothpick comes out with a few moist crumbs.",
+    "Let cool completely in the pan before cutting into squares.",
+    "Sprinkle chopped buena on top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "brownie",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brownie-buena",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:43:50.442Z"
+}
