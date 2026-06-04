@@ -474,20 +474,14 @@
   },
   {
     "slug": "bitter-chewy-egyptian-cheese-curds-bake",
-    "title": "Bitter Chewy Egyptian Cheese Curds Bake",
+    "title": "Cheesy Baked Curds",
     "tags": [
-      "bitter",
+      "egyptian",
       "cheese",
-      "chewy",
-      "curds",
-      "dash",
-      "high-protein",
-      "one-pan",
-      "sick-day",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -912,16 +906,14 @@
   },
   {
     "slug": "bitter-crisp-peruvian-pork-stir-fry",
-    "title": "Bitter Crisp Peruvian Pork Stir-fry",
+    "title": "Crispy Pork Stir Fry",
     "tags": [
       "peruvian",
-      "stir-fry",
-      "bitter",
-      "crisp",
-      "pork"
+      "pork",
+      "stir-fry"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
