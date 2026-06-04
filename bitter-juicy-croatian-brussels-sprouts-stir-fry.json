@@ -1,0 +1,70 @@
+{
+  "slug": "bitter-juicy-croatian-brussels-sprouts-stir-fry",
+  "title": "Croatian Bitter Brussels Sprouts Stir Fry",
+  "description": "A delicious and healthy stir fry made with Croatian bitter sprouts and Brussels sprouts, perfect as a side dish or main course.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian bitter sprouts",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add Croatian bitter sprouts and Brussels sprouts to the skillet.",
+    "Stir-fry for 5-7 minutes or until the sprouts are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-juicy-croatian-brussels-sprouts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:36:38.252Z"
+}
