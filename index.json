@@ -5844,17 +5844,14 @@
   },
   {
     "slug": "buttery-crunchy-mediterranean-lamb-flatbread",
-    "title": "Buttery Crunchy Mediterranean Lamb Flatbread",
+    "title": "Lamb and Mediterranean Flatbread",
     "tags": [
-      "mediterranean",
       "lamb",
-      "flatbread",
-      "paleo",
-      "gluten-free",
-      "brunch"
+      "mediterranean",
+      "flatbread"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 200,
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
