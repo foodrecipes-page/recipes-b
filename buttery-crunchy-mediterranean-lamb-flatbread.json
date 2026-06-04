@@ -1,0 +1,72 @@
+{
+  "slug": "buttery-crunchy-mediterranean-lamb-flatbread",
+  "title": "Lamb and Mediterranean Flatbread",
+  "description": "A flavorful flatbread topped with lamb and Mediterranean ingredients, perfect for a quick dinner. This recipe combines the richness of lamb with the freshness of Mediterranean herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound, thinly sliced"
+    },
+    {
+      "name": "Mediterranean flatbread",
+      "amount": "1 package, 4-6 flatbreads"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons, melted"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/4 cup, chopped fresh parsley"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb with salt, pepper, and garlic (if using).",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Add the lamb and cook until browned, about 2-3 minutes per side. Transfer the lamb to a plate and set aside.",
+    "Brush the flatbreads with the remaining 1 tablespoon of olive oil and place them on a baking sheet.",
+    "Drizzle the melted butter on top of the flatbreads.",
+    "Bake the flatbreads in the preheated oven for 5-7 minutes, or until crispy and golden brown.",
+    "Top each flatbread with a portion of the lamb, some chopped parsley, and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mediterranean",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-mediterranean-lamb-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:00:03.749Z"
+}
