@@ -1,0 +1,74 @@
+{
+  "slug": "boiled-irish-aube-crumble--vegetarian",
+  "title": "Delicious Crumble Vegetarian Pie",
+  "description": "A tasty and comforting vegetarian pie filled with a mix of sautéed aube and crumble, topped with a crunchy oat crumble.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aube",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan, sauté the aube and crumble in butter until softened.",
+    "Mix in brown sugar, salt, and water.",
+    "Transfer the mixture to a pie dish.",
+    "In a separate bowl, mix oats and milk.",
+    "Spread the oat mixture evenly over the pie filling.",
+    "Bake in the preheated oven for 25-30 minutes, until the crust is golden brown.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "pie",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiled-irish-aube-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:14:41.147Z"
+}
