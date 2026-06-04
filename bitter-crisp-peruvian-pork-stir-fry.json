@@ -1,0 +1,84 @@
+{
+  "slug": "bitter-crisp-peruvian-pork-stir-fry",
+  "title": "Crispy Pork Stir Fry",
+  "description": "A simple and flavorful Peruvian-inspired dish with crispy pork and crunchy vegetables.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bitter gourd",
+      "amount": "2",
+      "notes": "Sliced into thin rounds"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "4 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili pepper",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the sliced bitter gourd and cook until tender, about 3-4 minutes.",
+    "Add the chopped crisp lettuce and cook until wilted, about 2 minutes.",
+    "Add the minced garlic and diced chili pepper and cook for 1 minute.",
+    "Return the pork to the skillet and stir in the stir-fry sauce.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "pork",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-peruvian-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:16:54.190Z"
+}
