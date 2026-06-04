@@ -1,0 +1,65 @@
+{
+  "slug": "bitter-chewy-egyptian-cheese-curds-bake",
+  "title": "Cheesy Baked Curds",
+  "description": "A simple Egyptian-inspired dish featuring curds baked with cheese and a hint of bitterness.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "curds",
+      "amount": "250g",
+      "notes": "preferably whole-milk"
+    },
+    {
+      "name": "cheese",
+      "amount": "100g",
+      "notes": "crumbly feta or goat cheese"
+    },
+    {
+      "name": "bake",
+      "amount": "1",
+      "notes": "oven"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "bitter",
+      "amount": "1 tsp",
+      "notes": "dried parsley"
+    }
+  ],
+  "instructions": [
+    "Preheat the bake to 375°F (190°C).",
+    "Place the curds in a baking dish.",
+    "Crumble the cheese and sprinkle it over the curds.",
+    "Sprinkle the chewy and bitter over the top.",
+    "Bake for 20-25 minutes, or until golden brown and set.",
+    "Serve warm, garnished with additional chewy and bitter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-egyptian-cheese-curds-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:43:36.882Z"
+}
