@@ -2294,15 +2294,14 @@
   },
   {
     "slug": "bitter-juicy-croatian-brussels-sprouts-stir-fry",
-    "title": "Bitter Juicy Croatian Brussels Sprouts Stir-fry",
+    "title": "Croatian Bitter Brussels Sprouts Stir Fry",
     "tags": [
-      "bitter-juicy",
-      "croatian-dish",
-      "pressure-cooked",
-      "nut-free-friendly"
+      "croatian",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 17,
     "shard": "b"
   },
   {
@@ -7139,16 +7138,14 @@
   },
   {
     "slug": "buttery-oat-babadoos",
-    "title": "Buttery OatBabadoos",
+    "title": "Babadoos Crumble Bites",
     "tags": [
-      "argentine",
-      "buttery",
-      "tender",
-      "gluten-free-friendly",
-      "kid-friendly"
+      "breakfast",
+      "snack",
+      "oatmeal"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 75,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
