@@ -8232,5 +8232,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 30,
     "shard": "b"
+  },
+  {
+    "slug": "boiled-irish-aube-crumble--vegetarian",
+    "title": "Delicious Crumble Vegetarian Pie",
+    "tags": [
+      "vegetarian",
+      "pie",
+      "dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
