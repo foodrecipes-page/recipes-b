@@ -5684,10 +5684,15 @@
   },
   {
     "slug": "buttery-crumbly-vietnamese-haddock-tart",
-    "title": "Buttery Crumbly Vietnamese Haddock Tart",
-    "tags": [],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": null,
+    "title": "Vietnamese Tart with Crispy Haddock",
+    "tags": [
+      "vietnamese",
+      "seafood",
+      "fish",
+      "tart"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
@@ -6021,16 +6026,15 @@
   },
   {
     "slug": "buttery-dense-mediterranean-lamb-kebabs",
-    "title": "Buttery Dense Mediterranean Lamb Kebabs",
+    "title": "Lamb Kebabs with Mediterranean Flair",
     "tags": [
       "lamb",
-      "mediterranean",
       "kebabs",
-      "grilled",
-      "halal"
+      "mediterranean",
+      "grill"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
     "shard": "b"
   },
   {
@@ -8235,6 +8239,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crispy-mexican-bean-stew--french",
+    "title": "Crispy Mexican Bean Stew",
+    "tags": [
+      "french",
+      "vegetarian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "b"
   }
 ]
