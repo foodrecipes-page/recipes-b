@@ -1869,16 +1869,15 @@
   },
   {
     "slug": "bitter-flour-pancake-stack",
-    "title": "Bitter Flour Pancake Stack",
+    "title": "Flour Pancake Stack",
     "tags": [
-      "bitter-flour",
-      "dense",
-      "energizing",
-      "mexican",
-      "whole30-friendly"
+      "breakfast",
+      "pancakes",
+      "stack",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -5640,14 +5639,14 @@
   },
   {
     "slug": "buttery-crumbly-syrian-chickpea-flour-crumble",
-    "title": "Buttery Crumbly Syrian Chickpea Flour Crumble",
+    "title": "Syrian Chickpea Crumble",
     "tags": [
-      "crumble",
-      "chickpea-flour",
-      "orangepeel"
+      "dessert",
+      "middle-eastern",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 15,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
@@ -6451,17 +6450,14 @@
   },
   {
     "slug": "buttery-gilligan-saudi-arabian-dish-pilaf",
-    "title": "Buttery Gilligan Saudi-arabian dish Pilaf",
+    "title": "Saudi Arabian Pilaf",
     "tags": [
-      "breakfast-option",
-      "dinner-option",
-      "high-protein",
-      "lunch-option",
-      "one-pan",
-      "weeknight"
+      "pilaf",
+      "saudi-arabian",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -8260,6 +8256,19 @@
     ],
     "cuisine": "british",
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-potato-bun-roll--chinese",
+    "title": "Steamed Bao Buns with Scallion Butter",
+    "tags": [
+      "chinese",
+      "snack",
+      "vegetarian",
+      "buns"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "b"
   }
 ]
