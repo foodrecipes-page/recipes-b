@@ -1,0 +1,60 @@
+{
+  "slug": "bitter-flour-pancake-stack",
+  "title": "Flour Pancake Stack",
+  "description": "A simple stack of fluffy pancakes made with flour and a hint of bitter taste. Serve warm and enjoy!",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 teaspoon",
+      "notes": "add a hint of bitter to balance the sweetness"
+    },
+    {
+      "name": "pancake mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stack",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, pancake mix, and bitter.",
+    "Add water and mix until a smooth batter forms.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Stack the pancakes high and serve with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "stack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-flour-pancake-stack",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:45:32.431Z"
+}
