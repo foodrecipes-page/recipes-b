@@ -1,0 +1,59 @@
+{
+  "slug": "buttery-gilligan-saudi-arabian-dish-pilaf",
+  "title": "Saudi Arabian Pilaf",
+  "description": "A flavorful Saudi Arabian pilaf dish, perfect for a quick and satisfying meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gilligan",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dish",
+      "amount": "1 medium"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat buttery to medium heat in a medium saucepan.",
+    "Add gilligan and cook for 3-4 minutes or until fragrant.",
+    "Add arabian and cook for 1-2 minutes or until slightly tender.",
+    "Add dish and pilaf, stir to combine.",
+    "Bring to a boil, then reduce the heat to low and cover.",
+    "Simmer for 15-20 minutes or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork to separate the grains.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "saudi-arabian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-gilligan-saudi-arabian-dish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:19:25.467Z"
+}
