@@ -1,0 +1,79 @@
+{
+  "slug": "buttery-crumbly-vietnamese-haddock-tart",
+  "title": "Vietnamese Tart with Crispy Haddock",
+  "description": "A sweet and savory Vietnamese-inspired tart filled with crispy haddock and topped with a crumbly crust.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tart crust",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crumbly topping",
+      "amount": "1 cup",
+      "notes": "made with crushed crackers and butter"
+    },
+    {
+      "name": "vietnamese fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the tart crust and place it in a tart pan.",
+    "In a pan, heat the butter over medium heat.",
+    "Add the haddock and cook until crispy, about 3-4 minutes per side.",
+    "In a bowl, mix together the fish sauce, sugar, egg, and salt.",
+    "Arrange the cooked haddock in the tart crust.",
+    "Pour the fish sauce mixture over the haddock.",
+    "Sprinkle the crumbly topping over the filling.",
+    "Bake for 20-25 minutes, or until the crust is golden brown.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "seafood",
+    "fish",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-vietnamese-haddock-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:17:23.393Z"
+}
