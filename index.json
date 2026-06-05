@@ -4916,19 +4916,14 @@
   },
   {
     "slug": "buttery-chewy-irish-beef-stew",
-    "title": "Buttery Chewy Irish Beef Stew",
+    "title": "Irish Beef Stew",
     "tags": [
-      "irish",
       "beef",
       "stew",
-      "sous-vide",
-      "buttery",
-      "chewy",
-      "date-night",
-      "dinner"
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 160,
+    "totalTimeMin": 140,
     "shard": "b"
   },
   {
@@ -8252,6 +8247,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-dense-british-peppers-casserole--keto",
+    "title": "British Ketonian Casserole",
+    "tags": [
+      "keto",
+      "british",
+      "casserole"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "b"
   }
 ]
