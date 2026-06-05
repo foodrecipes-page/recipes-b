@@ -1,0 +1,53 @@
+{
+  "slug": "buttery-potato-bun-roll",
+  "title": "Buttery Bun Rolls",
+  "description": "Soft and fluffy bun rolls smothered in a rich buttery goodness. Perfect as a side dish or as a base for your favorite sandwich.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery Bun",
+      "amount": "1 (1/2 cup butter, softened)"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 large, peeled and diced"
+    },
+    {
+      "name": "Bun",
+      "amount": "4-6 rolls"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine softened butter, diced potato, and a pinch of salt. Mix until well combined.",
+    "Separate bun rolls into individual pieces and place on a baking sheet lined with parchment paper.",
+    "Using a spoon, spread a generous amount of the butter and potato mixture onto each bun roll.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buns",
+    "rolls",
+    "breakfast",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3.5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-potato-bun-roll",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:03:29.551Z"
+}
