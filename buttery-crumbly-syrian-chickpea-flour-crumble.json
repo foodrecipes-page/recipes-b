@@ -1,0 +1,77 @@
+{
+  "slug": "buttery-crumbly-syrian-chickpea-flour-crumble",
+  "title": "Syrian Chickpea Crumble",
+  "description": "A hearty and flavorful Syrian-inspired dessert crumble made with chickpea flour and topped with a crunchy buttery crumble. Perfect for a warm evening or special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crumbly buttery mixture",
+      "amount": "1/2 cup",
+      "notes": "a mix of crumbly and buttery ingredients"
+    },
+    {
+      "name": "syrup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "a mix of crumbly and buttery ingredients"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix chickpea flour, syrup, honey, water, lemon juice, and flour in a large bowl.",
+    "Add crumbly buttery mixture and mix until well combined.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "Mix crumble topping ingredients in a separate bowl.",
+    "Spread the crumble topping evenly over the baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "middle-eastern",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-syrian-chickpea-flour-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:58:59.646Z"
+}
