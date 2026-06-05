@@ -1,0 +1,65 @@
+{
+  "slug": "bitter-crisp-malaysian-jam-stir-fry",
+  "title": "Malaysian-Style Fried Plantains",
+  "description": "A simple and flavorful dessert made with plantains, inspired by Malaysian cuisine. The combination of sweet and crispy textures is a delight to the senses.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "2"
+    },
+    {
+      "name": "bitter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Peel the plantains and cut them into 1-inch rounds.",
+    "Heat the oil in a deep frying pan over medium heat.",
+    "Add the plantain slices and fry until golden brown.",
+    "Using a slotted spoon, remove the plantains from the oil and place them on a paper towel-lined plate.",
+    "Sprinkle the sugar over the plantains and toss to coat.",
+    "Drizzle the bitter over the plantains and toss to combine.",
+    "Garnish with crisp and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "plantains",
+    "malaysian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-malaysian-jam-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:28:04.436Z"
+}
