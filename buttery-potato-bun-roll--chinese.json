@@ -1,0 +1,57 @@
+{
+  "slug": "buttery-potato-bun-roll--chinese",
+  "title": "Steamed Bao Buns with Scallion Butter",
+  "description": "A Chinese-inspired dish featuring steamed buns filled with a rich scallion butter and served with a side of pan-fried potatoes. This recipe is perfect for a light and savory meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "bun",
+      "amount": "4",
+      "notes": "chinese steamed buns"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery in a pan over medium heat.",
+    "Add the cubed potatoes and cook until golden brown, about 10 minutes.",
+    "Meanwhile, steam the buns according to package instructions.",
+    "In a separate pan, melt the remaining buttery over low heat.",
+    "Add minced scallions to the melted butter and stir to combine.",
+    "Split the steamed buns in half and fill with the scallion butter.",
+    "Serve with the pan-fried potatoes on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "vegetarian",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-potato-bun-roll--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:26:56.889Z"
+}
