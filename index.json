@@ -7229,14 +7229,15 @@
   },
   {
     "slug": "buttery-potato-bun-roll",
-    "title": "Buttery Potato Bun Roll",
+    "title": "Buttery Bun Rolls",
     "tags": [
-      "potato-bun",
-      "tadka",
-      "jain-friendly"
+      "buns",
+      "rolls",
+      "breakfast",
+      "side dish"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
