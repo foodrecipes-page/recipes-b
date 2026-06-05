@@ -1,0 +1,77 @@
+{
+  "slug": "buttery-crispy-mexican-bean-stew--french",
+  "title": "Crispy Mexican Bean Stew",
+  "description": "A hearty French-inspired stew with crispy Mexican flavors and the comforting taste of beans. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mexican bean stew mix",
+      "amount": "1 packet",
+      "notes": "Available in most grocery stores"
+    },
+    {
+      "name": "Buttery bread",
+      "amount": "1 loaf",
+      "notes": "For serving"
+    },
+    {
+      "name": "Crispy tortilla strips",
+      "amount": "1 bag",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Available in most grocery stores"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Chop onion and sauté in butter until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add Mexican bean stew mix, tomato paste, and vegetable broth. Stir to combine.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve with buttery bread and crispy tortilla strips on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-mexican-bean-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:56:13.858Z"
+}
