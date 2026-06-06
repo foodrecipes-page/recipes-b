@@ -7482,16 +7482,16 @@
   },
   {
     "slug": "buttery-silky-lazy-sunday-mozzarella-stir-fry",
-    "title": "Buttery Silky Lazy Sunday Mozzarella Stir-fry",
+    "title": "Sunday Lazy Stir Fry",
     "tags": [
-      "lazy-sunday",
-      "norwegian",
+      "italian",
+      "breakfast",
+      "lazy",
       "stir-fry",
-      "milk-based",
-      "nut-free"
+      "brunch"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
