@@ -8270,5 +8270,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-british-pork-pie--japanese",
+    "title": "Japanese Pork Pie",
+    "tags": [
+      "japanese",
+      "pork",
+      "pie",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "b"
   }
 ]
