@@ -1,0 +1,87 @@
+{
+  "slug": "bouncy-yummy-irish-beef-bake",
+  "title": "Irish Beef Bake",
+  "description": "A hearty Irish dish featuring tender beef and a crispy, cheesy top.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Irish",
+      "amount": "2 tablespoons",
+      "notes": "Irish mustard"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "yummy",
+      "amount": "1 cup",
+      "notes": "cheddar cheese, shredded"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/4 cup",
+      "notes": "buttermilk"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season beef with salt and pepper.",
+    "In a large bowl, combine flour, Irish mustard, and a pinch of salt.",
+    "Toss beef in flour mixture to coat.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high.",
+    "Sear beef until browned on all sides, about 5 minutes.",
+    "Transfer beef to a 9x13 inch baking dish.",
+    "In a separate bowl, mix buttermilk, cheddar cheese, and a pinch of salt.",
+    "Pour buttermilk mixture over beef.",
+    "Cover dish with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 15-20 minutes, or until cheese is golden brown and bubbly.",
+    "Serve hot, garnished with chopped onion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-yummy-irish-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:06:45.939Z"
+}
