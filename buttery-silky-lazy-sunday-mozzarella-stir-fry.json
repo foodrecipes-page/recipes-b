@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-silky-lazy-sunday-mozzarella-stir-fry",
+  "title": "Sunday Lazy Stir Fry",
+  "description": "A quick and easy stir fry recipe for a relaxing Sunday morning. Perfect for a lazy brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mozzarella",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Sunday",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "Lazy",
+      "amount": "1 cup, mixed greens"
+    },
+    {
+      "name": "Stir",
+      "amount": "1 cup, cherry tomatoes"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 tablespoon, olive oil"
+    }
+  ],
+  "instructions": [
+    "1. In a small pan, heat the olive oil over medium heat.",
+    "2. Add the mixed greens and cherry tomatoes, stir-fry until the greens are wilted.",
+    "3. In a separate bowl, whisk the eggs and season with salt and pepper.",
+    "4. Add the eggs to the pan and scramble them with the vegetables.",
+    "5. Add the shredded mozzarella cheese and stir until melted.",
+    "6. Serve the stir fry hot, garnished with chopped herbs if desired.",
+    "7. In a separate pan, melt the butter over low heat.",
+    "8. Pour the melted butter over the stir fry and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "lazy",
+    "stir-fry",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-lazy-sunday-mozzarella-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:29:09.786Z"
+}
