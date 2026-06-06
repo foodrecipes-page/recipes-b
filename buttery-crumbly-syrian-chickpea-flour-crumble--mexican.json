@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-crumbly-syrian-chickpea-flour-crumble--mexican",
+  "title": "Mexican Chickpea Crumble",
+  "description": "A flavorful vegetarian dish with crispy crumble topping, inspired by Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "crumbly flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "syrian",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together chickpea, crumbly flour, and syrian.",
+    "In a separate bowl, mix together crumble and melted buttery.",
+    "Pour the chickpea mixture into a baking dish.",
+    "Top with the crumble mixture.",
+    "Bake for 25-30 minutes, or until the crumble is golden brown.",
+    "Serve warm, garnished with additional syrian if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-syrian-chickpea-flour-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:19:52.279Z"
+}
