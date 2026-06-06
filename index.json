@@ -8283,5 +8283,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-syrian-chickpea-flour-crumble--mexican",
+    "title": "Mexican Chickpea Crumble",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
