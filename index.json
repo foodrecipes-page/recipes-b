@@ -6541,15 +6541,14 @@
   },
   {
     "slug": "buttery-gooey-korean-smoked-turkey-neck-stir-fry",
-    "title": "Buttery Gooey Korean Smoked Turkey Neck Stir-fry",
+    "title": "Smoked Turkey Stir Fry",
     "tags": [
-      "korean-smoked-turkey-neck",
+      "korean",
       "stir-fry",
-      "buttery-gooey",
-      "koshre-friendly"
+      "smoked-turkey"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 75,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -7705,17 +7704,16 @@
   },
   {
     "slug": "buttery-spanish-toasted-bread",
-    "title": "Buttery Spanish Toasted Bread",
+    "title": "Toasted Bread with Buttery Crust",
     "tags": [
-      "spanish",
       "breakfast",
-      "toasted",
-      "plant-based",
-      "chewy",
-      "brunch"
+      "brunch",
+      "snack",
+      "easy",
+      "quick"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 5,
+    "cuisine": "American",
+    "totalTimeMin": 7,
     "shard": "b"
   },
   {
