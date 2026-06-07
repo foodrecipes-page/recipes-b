@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-crispy-saudi-arabian-pul-biber-flatbread",
+  "title": "Crispy Arabian Flatbread",
+  "description": "A flavorful flatbread originating from the Arabian Peninsula, crispy on the outside and soft on the inside. This recipe pairs well with a variety of dips and spreads.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "Biber",
+      "amount": "1/4 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Pul",
+      "amount": "1/4 teaspoon",
+      "notes": "ground coriander"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush the flatbread with buttery.",
+    "Sprinkle the crispy, biber, and pul on top of the flatbread.",
+    "Bake for 5-7 minutes, or until crispy.",
+    "Remove from oven and let cool for 2-3 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-saudi-arabian-pul-biber-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:40:09.518Z"
+}
