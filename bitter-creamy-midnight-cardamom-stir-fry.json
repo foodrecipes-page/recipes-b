@@ -1,0 +1,85 @@
+{
+  "slug": "bitter-creamy-midnight-cardamom-stir-fry",
+  "title": "Midnight Cardamom Bittersweet Pancakes",
+  "description": "Warm cardamom-infused pancakes with a hint of bittersweet flavor, topped with creamy goodness.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bitter chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "creamy butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "midnight blueberry syrup",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, cardamom powder, sugar, baking powder, and salt.",
+    "2. In a separate bowl, whisk together eggs, milk, and melted creamy butter.",
+    "3. Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "4. Fold in the bitter chocolate chips.",
+    "5. Heat a non-stick skillet or griddle over medium heat.",
+    "6. Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "7. Cook for 2-3 minutes, until bubbles appear on the surface.",
+    "8. Flip and cook for an additional 1-2 minutes, until golden brown.",
+    "9. Serve with midnight blueberry syrup drizzled on top.",
+    "10. Enjoy warm!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cardamom",
+    "bitter",
+    "breakfast",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-creamy-midnight-cardamom-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:47:09.798Z"
+}
