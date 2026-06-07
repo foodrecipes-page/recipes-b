@@ -1,0 +1,76 @@
+{
+  "slug": "bouncy-qq-slovakian-corn-arepa-filled-with-mozarella-cheese",
+  "title": "Slovakian Corn Fritters with Mozzarella",
+  "description": "A crispy Slovakian-inspired corn fritter filled with melted mozzarella cheese, perfect as a snack or side dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "mozarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "arepa",
+      "amount": "1",
+      "notes": "cornmeal flatbread"
+    },
+    {
+      "name": "filled",
+      "amount": "1 egg",
+      "notes": "beaten"
+    },
+    {
+      "name": "with",
+      "amount": "1/4 cup",
+      "notes": "milk"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the cornmeal, flour, and a pinch of salt.",
+    "In a separate bowl, whisk together the egg, milk, and a splash of water.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the shredded mozzarella cheese.",
+    "Using your hands, shape the dough into 4-6 patties, depending on desired size.",
+    "Heat about 1/2 inch (1 cm) of oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add 2-3 patties to the skillet and cook until golden brown, about 3-4 minutes per side.",
+    "Transfer the fritters to a baking sheet and bake for an additional 5-7 minutes, or until crispy and golden.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "corn-fritters",
+    "mozzarella",
+    "cheese",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-slovakian-corn-arepa-filled-with-mozarella-cheese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:43:40.065Z"
+}
