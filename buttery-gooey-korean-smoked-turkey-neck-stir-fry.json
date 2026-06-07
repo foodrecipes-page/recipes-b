@@ -1,0 +1,82 @@
+{
+  "slug": "buttery-gooey-korean-smoked-turkey-neck-stir-fry",
+  "title": "Smoked Turkey Stir Fry",
+  "description": "A savory and flavorful stir fry made with smoked turkey, stir-fried vegetables, and a hint of Korean spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked turkey neck",
+      "amount": "1",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "buttery stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "goey soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery stir-fry sauce in a large skillet or wok over medium-high heat.",
+    "Add the smoked turkey neck and cook until browned, about 5 minutes.",
+    "Add the sliced bell peppers and carrots and cook until tender, about 5 minutes.",
+    "Add the chopped green onions, minced garlic, and Korean chili flakes. Cook for 1 minute.",
+    "Stir in the goey soy sauce and brown sugar. Cook for an additional 2 minutes.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with additional green onions and chopped nuts, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "smoked-turkey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-gooey-korean-smoked-turkey-neck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:22:24.781Z"
+}
