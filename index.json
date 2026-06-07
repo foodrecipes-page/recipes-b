@@ -3743,17 +3743,16 @@
   },
   {
     "slug": "bouncy-qq-slovakian-corn-arepa-filled-with-mozarella-cheese",
-    "title": "bouncy-qq slovakian corn arepa filled with mozarella cheese",
+    "title": "Slovakian Corn Fritters with Mozzarella",
     "tags": [
-      "corn",
-      "high-carb",
-      "one-pan",
-      "post-workout",
       "slovakian",
-      "snack"
+      "corn-fritters",
+      "mozzarella",
+      "cheese",
+      "fritters"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 26,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -5995,13 +5994,11 @@
   },
   {
     "slug": "buttery-dense-irish-beef-stew",
-    "title": "Buttery Dense Irish Beef Stew",
+    "title": "Irish Beef Stew",
     "tags": [
-      "irish",
       "beef",
       "stew",
-      "keto",
-      "comfort-food"
+      "irish"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 170,
