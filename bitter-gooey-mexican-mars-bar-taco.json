@@ -1,0 +1,63 @@
+{
+  "slug": "bitter-gooey-mexican-mars-bar-taco",
+  "title": "Mars Bar Tacos",
+  "description": "A unique dessert taco recipe featuring Mars bars and gooey caramel sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "4"
+    },
+    {
+      "name": "Gooey caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mexican taco shells",
+      "amount": "4"
+    },
+    {
+      "name": "Bitter chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bar ice cream",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Unwrap the Mars bars and place them in the taco shells.",
+    "Spoon gooey caramel sauce over the Mars bars.",
+    "Sprinkle bitter chocolate chips on top of the caramel sauce.",
+    "Scoop bar ice cream next to the Mars bars.",
+    "Top with whipped cream and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "dessert",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-mexican-mars-bar-taco",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:28:55.893Z"
+}
