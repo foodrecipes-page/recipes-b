@@ -1,0 +1,57 @@
+{
+  "slug": "buttery-spanish-toasted-bread",
+  "title": "Toasted Bread with Buttery Crust",
+  "description": "A simple and delicious recipe for toasted bread with a crispy, buttery crust.",
+  "cuisine": "American",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "spanish bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "buttery spread",
+      "amount": "2 Tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Place the slices of bread on a baking sheet.",
+    "Spread 1 Tbsp of buttery spread on each slice of bread.",
+    "Sprinkle a pinch of salt on top of the buttery spread.",
+    "Bake in the preheated oven for 5-7 minutes, or until the bread is toasted and the buttery spread is melted.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-spanish-toasted-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:20:48.942Z"
+}
