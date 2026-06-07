@@ -2114,19 +2114,14 @@
   },
   {
     "slug": "bitter-gooey-mexican-mars-bar-taco",
-    "title": "Bitter Gooey Mexican Mars Bar Taco",
+    "title": "Mars Bar Tacos",
     "tags": [
       "mexican",
       "dessert",
-      "gluten-free",
-      "fodmap-friendly",
-      "bitter",
-      "gooey",
-      "romantic",
-      "sweet-and-savory"
+      "taco"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
