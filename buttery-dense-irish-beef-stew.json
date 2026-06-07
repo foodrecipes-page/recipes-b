@@ -1,0 +1,89 @@
+{
+  "slug": "buttery-dense-irish-beef-stew",
+  "title": "Irish Beef Stew",
+  "description": "A hearty and comforting beef stew with tender beef and vegetables in a rich broth.",
+  "cuisine": "Irish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium-high heat.",
+    "Add the beef and brown on all sides, about 5 minutes. Remove from the pot and set aside.",
+    "Add the onion and carrot to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Add the broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the beef to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 hours.",
+    "Add the potatoes to the pot and continue to simmer until they are tender, about 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-dense-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:01:15.969Z"
+}
