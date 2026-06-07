@@ -1,0 +1,83 @@
+{
+  "slug": "bitter-light-jamaican-refried-beans-stir-fry",
+  "title": "Jamaican Bean Stir Fry",
+  "description": "A flavorful and quick stir fry made with Jamaican seasonings, refried beans, and a variety of colors.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Refried beans",
+      "amount": "1 can",
+      "notes": "15 oz"
+    },
+    {
+      "name": "Jamaican stir",
+      "amount": "2 tbsp",
+      "notes": "scotch bonnet pepper sauce"
+    },
+    {
+      "name": "Light oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Bitter leaf",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add bitter leaf and cook until wilted.",
+    "Add refried beans and stir to combine.",
+    "Add Jamaican stir and cook for 1-2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "bean",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-light-jamaican-refried-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:52:52.321Z"
+}
