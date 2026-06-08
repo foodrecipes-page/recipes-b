@@ -1,0 +1,75 @@
+{
+  "slug": "buttery-dense-thai-haddock-stir-fry",
+  "title": "Thai Stir-Fry with Haddock",
+  "description": "A flavorful and easy-to-make Thai stir-fry with haddock, perfect for a quick dinner. This dish is packed with protein and can be made in under 30 minutes.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock",
+      "amount": "4 fillets",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "buttery stir sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "dence vegetables",
+      "amount": "2 cups",
+      "notes": "Mixed bell peppers, carrots, snow peas"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add haddock fillets and cook for 3-4 minutes per side, until cooked through.",
+    "Remove haddock from skillet and set aside.",
+    "Add stir sauce to skillet and bring to a simmer.",
+    "Add vegetables to skillet and cook until tender, about 3-4 minutes.",
+    "Return haddock to skillet and stir to coat with sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with Thai basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "fish",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-dense-thai-haddock-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:58:37.646Z"
+}
