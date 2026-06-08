@@ -1967,14 +1967,15 @@
   },
   {
     "slug": "bitter-fluffy-indulgent-spanish-pistachio-stir-fry",
-    "title": "Bitter Fluffy Indulgent Spanish Pistachio Stir-fry",
+    "title": "Spanish Pistachio Fritters",
     "tags": [
-      "bitter-fluffy",
-      "indulgent-spanish",
-      "halal-friendly"
+      "spanish",
+      "pistachio",
+      "fritters",
+      "vegan"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 23,
+    "cuisine": "spanish",
+    "totalTimeMin": 28,
     "shard": "b"
   },
   {
@@ -6093,15 +6094,14 @@
   },
   {
     "slug": "buttery-dense-thai-haddock-stir-fry",
-    "title": "Buttery Dense Thai Haddock Stir-fry",
+    "title": "Thai Stir-Fry with Haddock",
     "tags": [
-      "thai-dish",
-      "monsoon-recipe",
-      "haddock-stir-fry",
-      "kosher-friendly"
+      "thai",
+      "fish",
+      "quick-dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
