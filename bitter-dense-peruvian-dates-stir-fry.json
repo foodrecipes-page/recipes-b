@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-dense-peruvian-dates-stir-fry",
+  "title": "Pan-Seared Bitter Stir Fry",
+  "description": "A savory and slightly sweet stir fry made with bitter leaves, peruvian corn and dates. The dense texture of the bitter leaves pairs perfectly with the natural sweetness of the dates.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bitter leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "peruvian corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dates",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium-high heat.",
+    "Add the peruvian corn and sauté for 2-3 minutes.",
+    "Add the bitter leaves and stir fry for an additional 2-3 minutes.",
+    "Add the dates and stir fry for a final 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "stir-fry",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-peruvian-dates-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:55:59.617Z"
+}
