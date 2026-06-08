@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry",
+  "title": "Middle Eastern Stir Fry with Sun Dried Tomatoes",
+  "description": "A flavorful and spicy stir fry dish using sun dried tomatoes, served with a side of creamy sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stir fry",
+      "amount": "1 package"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a large skillet over medium-high heat.",
+    "Add stir fry and cook until tender, about 5 minutes.",
+    "Add sun dried tomatoes, eastern spices, salt, and pepper; stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Stir in creamy sauce and cook until heated through.",
+    "Serve hot, garnished with additional sun dried tomatoes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "stir fry",
+    "sun dried tomatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:14:44.485Z"
+}
