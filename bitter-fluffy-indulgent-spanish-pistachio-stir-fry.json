@@ -1,0 +1,73 @@
+{
+  "slug": "bitter-fluffy-indulgent-spanish-pistachio-stir-fry",
+  "title": "Spanish Pistachio Fritters",
+  "description": "Crispy fried fritters filled with a delicious pistachio and bitter filling, perfect as a snack.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pistachio",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "stir",
+      "amount": "1/4 cup",
+      "notes": "oil for frying"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the fluffy and indulgent.",
+    "2. Add the pistachio and bitter to the bowl and stir until well combined.",
+    "3. Heat the fry oil in a deep frying pan over medium-high heat.",
+    "4. Using a spoon, drop small balls of the mixture into the hot oil.",
+    "5. Fry the fritters for 3-4 minutes on each side, or until golden brown.",
+    "6. Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate.",
+    "7. Serve the fritters warm, dust with a little bit of fluffy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pistachio",
+    "fritters",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fluffy-indulgent-spanish-pistachio-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:45:55.290Z"
+}
