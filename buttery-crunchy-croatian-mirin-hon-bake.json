@@ -1,0 +1,73 @@
+{
+  "slug": "buttery-crunchy-croatian-mirin-hon-bake",
+  "title": "Croatian Butter Cake",
+  "description": "A traditional Croatian cake made with a buttery dough, crunchy topping and a hint of mirin.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "Croatian",
+      "amount": "1/2 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "Hon",
+      "amount": "1 large",
+      "notes": "egg, beaten"
+    },
+    {
+      "name": "Bake",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch round cake pan and set aside.",
+    "In a large mixing bowl, cream the butter until light and fluffy.",
+    "Add the beaten egg and mix until well combined.",
+    "In a separate bowl, whisk together the flour, sour cream and mirin.",
+    "Gradually add the dry ingredients to the butter mixture and mix until a dough forms.",
+    "Roll out the dough to a thickness of 1/4 inch and place in the prepared cake pan.",
+    "Top with chopped almonds and bake for 35-40 minutes, or until golden brown.",
+    "Remove from oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "buttercake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-croatian-mirin-hon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:36:26.331Z"
+}
