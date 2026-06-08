@@ -5727,16 +5727,14 @@
   },
   {
     "slug": "buttery-crunchy-croatian-mirin-hon-bake",
-    "title": "Buttery Crunchy Croatian Mirin-hon Bake",
+    "title": "Croatian Butter Cake",
     "tags": [
-      "buttery",
-      "croatian",
-      "crunchy",
-      "one-pan",
-      "weeknight"
+      "cake",
+      "dessert",
+      "buttercake"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "b"
   },
   {
@@ -6535,18 +6533,16 @@
   },
   {
     "slug": "buttery-gooey-moroccan-beans-wrap",
-    "title": "Buttery Gooey Moroccan Beans Wrap",
+    "title": "Moroccan Bean Wrap",
     "tags": [
-      "buttery",
-      "gooey",
       "moroccan",
-      "low-sodium-friendly",
-      "vegetarian",
       "wrap",
-      "lazy-sunday"
+      "beans",
+      "easy",
+      "lunch"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 8,
     "shard": "b"
   },
   {
