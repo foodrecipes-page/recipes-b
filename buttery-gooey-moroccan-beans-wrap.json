@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-gooey-moroccan-beans-wrap",
+  "title": "Moroccan Bean Wrap",
+  "description": "A simple, flavorful wrap filled with beans and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buttery Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Gooey",
+      "amount": "1/4 cup",
+      "notes": "Optional sauce or cheese"
+    },
+    {
+      "name": "Beans",
+      "amount": "1 cup",
+      "notes": "Cooked and drained"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat",
+    "2. Add 1/2 teaspoon of Moroccan Spice Blend to the pan",
+    "3. Place the wrap in the pan and cook for 1-2 minutes",
+    "4. Flip the wrap and cook for another minute",
+    "5. Add the beans to the wrap and stir to combine",
+    "6. Add 1/4 cup of gooey (if using)",
+    "7. Fold the wrap in half to enclose the filling",
+    "8. Serve immediately"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "wrap",
+    "beans",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-gooey-moroccan-beans-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:41:24.847Z"
+}
