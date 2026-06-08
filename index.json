@@ -1551,16 +1551,14 @@
   },
   {
     "slug": "bitter-dense-peruvian-dates-stir-fry",
-    "title": "Bitter Dense Peruvian Dates Stir-fry",
+    "title": "Pan-Seared Bitter Stir Fry",
     "tags": [
-      "peruvian",
-      "dates",
+      "vegetarian",
       "stir-fry",
-      "buns",
-      "plant-based"
+      "peruvian"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
@@ -4893,14 +4891,13 @@
   },
   {
     "slug": "buttery-chewy-festive-grape-nuts-crumble",
-    "title": "Buttery Chewy Festive Grape Nuts Crumble",
+    "title": "Festive Grape Crumble",
     "tags": [
-      "buttery",
-      "chewy",
-      "festive",
-      "grape_nuts_cereal"
+      "dessert",
+      "grape",
+      "crumble"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "b"
   },
@@ -5103,17 +5100,14 @@
   },
   {
     "slug": "buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry",
-    "title": "Buttery Creamy Middle Eastern Sun-Dried Tomatoes Stir-fry",
+    "title": "Middle Eastern Stir Fry with Sun Dried Tomatoes",
     "tags": [
-      "sun-dried-tomatoes",
-      "fermented-herbs",
-      "buttery",
-      "creamy",
-      "middle-eastern",
-      "vegetarian-friendly"
+      "middle eastern",
+      "stir fry",
+      "sun dried tomatoes"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
