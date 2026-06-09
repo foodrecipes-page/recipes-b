@@ -1,0 +1,73 @@
+{
+  "slug": "bitter-gooey-french-tofu-gratin",
+  "title": "Gratin-Fried Tofu",
+  "description": "A crispy and savory tofu dish inspired by the French gratin method.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm tofu, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "french",
+      "amount": "1 cup",
+      "notes": "French breadcrumbs"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/2 cup",
+      "notes": "Chopped bitter melon or 1 tablespoon bitter greens powder"
+    },
+    {
+      "name": "gooey",
+      "amount": "1/4 cup",
+      "notes": "Gooey cheese, shredded (such as mozzarella or cheddar)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a shallow dish, mix together the French breadcrumbs and bitter melon or greens powder.",
+    "3. Dip each tofu cube into the breadcrumb mixture, pressing gently to coat.",
+    "4. Place the coated tofu cubes on a baking sheet lined with parchment paper.",
+    "5. Drizzle the gooey cheese over the tofu cubes.",
+    "6. Bake for 20-25 minutes, or until the breadcrumbs are golden brown and the cheese is melted and bubbly.",
+    "7. Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "french",
+    "gratin",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-french-tofu-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:34:52.603Z"
+}
