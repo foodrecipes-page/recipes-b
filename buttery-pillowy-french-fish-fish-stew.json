@@ -1,0 +1,62 @@
+{
+  "slug": "buttery-pillowy-french-fish-fish-stew",
+  "title": "French Fish Stew",
+  "description": "A hearty and flavorful fish stew inspired by French cuisine.",
+  "cuisine": "French",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French fish",
+      "amount": "1 pound",
+      "notes": "such as cod or halibut"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "Pillowy",
+      "amount": "1 teaspoon",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Fish stew",
+      "amount": "2 cups",
+      "notes": " fish broth"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add the pillowy and cook for 1-2 minutes, stirring constantly.",
+    "Add the French fish and cook for 2-3 minutes per side.",
+    "Add the fish stew and bring to a simmer.",
+    "Reduce heat to low and cook for 5-7 minutes or until the fish is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "stew",
+    "dinner",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-pillowy-french-fish-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:42:58.631Z"
+}
