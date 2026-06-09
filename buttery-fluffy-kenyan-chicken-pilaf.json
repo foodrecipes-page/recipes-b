@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-fluffy-kenyan-chicken-pilaf",
+  "title": "Kenyan Chicken Pilaf",
+  "description": "A flavorful and aromatic Kenyan-inspired dish made with chicken, fluffy rice, and a blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 teaspoon",
+      "notes": "Kenyan spice blend (or substitute with a combination of cumin and coriander)"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and cook until browned on all sides and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add more buttery to the skillet if needed, then add the kenyan and cook for 1-2 minutes, until fragrant.",
+    "Add the pilaf to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the fluffy rice to the skillet and stir to combine with the pilaf and kenyan.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes, until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and stir in the cooked chicken.",
+    "Season with salt to taste, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "rice",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-kenyan-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:53:52.058Z"
+}
