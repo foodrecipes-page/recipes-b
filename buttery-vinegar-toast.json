@@ -1,0 +1,54 @@
+{
+  "slug": "buttery-vinegar-toast",
+  "title": "Buttery Toast",
+  "description": "A simple and delicious breakfast or snack made with toasted bread and melted butter.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    " Toast the bread until it's lightly browned.",
+    "Add 1-2 tablespoons of butter to the pan and let it melt.",
+    "Place the toasted bread in the pan and let the butter melt on top.",
+    "Sprinkle a pinch of salt and a dash of vinegar (if using) on top of the butter.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 2,
+  "totalTimeMin": 4,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-vinegar-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:47:36.582Z"
+}
