@@ -1,0 +1,54 @@
+{
+  "slug": "buttery-silk-pasta-stir-fry",
+  "title": "Stir Fry Pasta",
+  "description": "A quick and easy pasta dish made with a combination of sautéed ingredients.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "silk",
+      "amount": "1 cup",
+      "notes": "sliced mushrooms"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet or wok, heat buttery over medium-high heat.",
+    "Add silk to the skillet and cook until tender.",
+    "Add cooked pasta to the skillet and stir to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "mushrooms",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silk-pasta-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:29:39.301Z"
+}
