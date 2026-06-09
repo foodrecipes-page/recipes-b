@@ -1007,15 +1007,14 @@
   },
   {
     "slug": "bitter-crispy-irish-pistachio-grilled-dish",
-    "title": "Bitter Crispy Irish Pistachio Grilled Dish",
+    "title": "Crispy Irish Bitter Biscuits",
     "tags": [
-      "bitter",
-      "crispy",
+      "biscuit",
       "irish",
-      "pistachio"
+      "bitter"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 12,
+    "cuisine": "irish",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -2092,10 +2091,15 @@
   },
   {
     "slug": "bitter-gooey-french-tofu-gratin",
-    "title": "Bitter Gooey French Tofu Gratin",
-    "tags": [],
+    "title": "Gratin-Fried Tofu",
+    "tags": [
+      "tofu",
+      "french",
+      "gratin",
+      "bitter"
+    ],
     "cuisine": "French",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -5739,19 +5743,15 @@
   },
   {
     "slug": "buttery-crunchy-egyptian-fish-falafel",
-    "title": "Buttery Crunchy Egyptian Fish Falafel",
+    "title": "Egyptian Falafel Wrap",
     "tags": [
-      "air-fry",
-      "european",
-      "fish",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
-      "vegetarian-friendly"
+      "egyptian",
+      "falafel",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
