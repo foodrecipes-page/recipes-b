@@ -1,0 +1,68 @@
+{
+  "slug": "bitter-crispy-irish-pistachio-grilled-dish",
+  "title": "Crispy Irish Bitter Biscuits",
+  "description": "A sweet and savory biscuit recipe that combines the crunch of Irish ingredients with a hint of pistachio and a bitter twist.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bitter chocolate chips",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together the flour and pistachio meal.",
+    "Add the Irish butter and mix until a dough forms.",
+    "Fold in the bitter chocolate chips and crispy fried onions.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Roll the dough out to 1/4 inch thickness and cut into shapes.",
+    "Place the biscuits on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Remove the biscuits from the oven and let cool on a wire rack for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "biscuit",
+    "irish",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-irish-pistachio-grilled-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:30:31.588Z"
+}
