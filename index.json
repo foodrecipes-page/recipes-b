@@ -7168,18 +7168,15 @@
   },
   {
     "slug": "buttery-pillowy-french-fish-fish-stew",
-    "title": "Buttery Pillowy French Fish Stew",
+    "title": "French Fish Stew",
     "tags": [
       "fish",
-      "french",
-      "low-carb",
-      "lyon",
-      "night-time",
-      "romantic",
-      "stew"
+      "stew",
+      "dinner",
+      "french-cuisine"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
