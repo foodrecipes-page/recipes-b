@@ -1,0 +1,95 @@
+{
+  "slug": "bitter-crispy-ethiopian-chickpeas-fritters",
+  "title": "Crispy Ethiopian Chickpea Fritters",
+  "description": "A crunchy and flavorful appetizer inspired by Ethiopian cuisine, made with chickpeas, spices, and crispy batter.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for crispy coating"
+    },
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "crispy spice blend",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, mash the chickpeas using a fork or a potato masher.",
+    "Add the grated bitter gourd, chopped onion, minced garlic, ground cumin, ground coriander, and crispy spice blend (if using) to the bowl with the chickpeas. Mix well.",
+    "In a separate bowl, mix the flour and a pinch of salt. Gradually add the flour mixture to the chickpea mixture and mix until a thick batter forms.",
+    "Using a spoon, drop small balls of the batter into the hot oil, about 1/4 cup each. Fry the fritters in batches until they are golden brown and crispy, about 3-4 minutes per side.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the crispy Ethiopian chickpea fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chickpeas",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-ethiopian-chickpeas-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:33:33.900Z"
+}
