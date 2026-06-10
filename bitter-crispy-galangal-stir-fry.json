@@ -1,0 +1,77 @@
+{
+  "slug": "bitter-crispy-galangal-stir-fry",
+  "title": "Thai-Style Crispy Stir Fry",
+  "description": "A quick and easy recipe for a flavorful crispy stir fry using galangal and stir-fried ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and stir-fry until fragrant.",
+    "Add onion and bell pepper, stir-fry until they start to soften.",
+    "Add bitter melon and continue stir-frying until all vegetables are tender.",
+    "Add soy sauce and sugar, stir-fry for 1 minute.",
+    "Remove from heat and stir in galangal.",
+    "Serve hot and garnish with crispy fried shallots if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-galangal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:17:23.878Z"
+}
