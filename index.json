@@ -977,19 +977,15 @@
   },
   {
     "slug": "bitter-crispy-ethiopian-chickpeas-fritters",
-    "title": "Bitter Crispy Ethiopian Chickpeas Fritters",
+    "title": "Crispy Ethiopian Chickpea Fritters",
     "tags": [
       "ethiopian",
-      "bitter",
-      "crispy",
       "chickpeas",
       "fritters",
-      "halal",
-      "adventurous",
       "snack"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 27,
     "shard": "b"
   },
   {
@@ -7136,17 +7132,13 @@
   },
   {
     "slug": "buttery-peruvian-tofu-stir-fry",
-    "title": "Buttery Peruvian Tofu Stir‑fry",
+    "title": "Pan-Seared Peruvian Stir Fry with Tofu",
     "tags": [
       "peruvian",
-      "vegetarian",
-      "vegan",
       "stir-fry",
-      "tahini",
-      "weeknight",
-      "quick",
       "tofu",
-      "butter"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
