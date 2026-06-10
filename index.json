@@ -994,15 +994,14 @@
   },
   {
     "slug": "bitter-crispy-galangal-stir-fry",
-    "title": "Bitter Crispy Galangal Stir-fry",
+    "title": "Thai-Style Crispy Stir Fry",
     "tags": [
-      "galangal",
+      "thai",
       "stir-fry",
-      "eggs-free",
-      "bitter"
+      "vegetarian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
