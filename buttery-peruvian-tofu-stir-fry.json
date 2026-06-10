@@ -1,0 +1,77 @@
+{
+  "slug": "buttery-peruvian-tofu-stir-fry",
+  "title": "Pan-Seared Peruvian Stir Fry with Tofu",
+  "description": "A flavorful and spicy stir fry dish from Peru, made with crispy tofu and a hint of stir-fry sauce. Quick and easy to make, this dish is perfect for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "buttery stir fry sauce",
+      "amount": "2 tbsp",
+      "notes": "available in most supermarkets or online"
+    },
+    {
+      "name": "peruvian stir fry mix",
+      "amount": "1 cup",
+      "notes": "available in most supermarkets or online"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "to season"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "to season"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the peruvian stir fry mix and stir-fry sauce to the skillet, and cook for 1-2 minutes.",
+    "Stir in the green onions and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "tofu",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-peruvian-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:20:28.693Z"
+}
