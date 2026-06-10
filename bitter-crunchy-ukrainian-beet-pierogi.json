@@ -1,0 +1,73 @@
+{
+  "slug": "bitter-crunchy-ukrainian-beet-pierogi",
+  "title": "Pan-Seared Beet Pierogi with Fried Onions",
+  "description": "A traditional Ukrainian dish with a twist, featuring crispy fried onions and a sweet beet filling.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pierogi",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add sliced onions and cook until golden brown and crispy, about 5 minutes.",
+    "Add grated beets to the skillet and cook for an additional 2-3 minutes, until tender.",
+    "Bring a large pot of salted water to a boil and cook the pierogi according to the package instructions.",
+    "Drain the pierogi and add them to the skillet with the beets and onions.",
+    "Season with salt and pepper to taste.",
+    "Serve the pierogi hot, topped with additional crispy onions if desired.",
+    "Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "vegetarian",
+    "beets",
+    "pierogi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-ukrainian-beet-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:42:02.116Z"
+}
