@@ -1,0 +1,58 @@
+{
+  "slug": "buttery-crumbly-venezuelan-cheese-empanadas",
+  "title": "Cheesy Empanadas",
+  "description": "A classic Venezuelan dish filled with melted cheese and perfect for snacking. These crispy empanadas are easy to make and delicious.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery Empanada Dough",
+      "amount": "2 cups (250g)",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly Cheese",
+      "amount": "1 cup (115g)",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Empanada Filling",
+      "amount": "1 cup (115g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch (3mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of cheese in the center of each dough circle.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Brush the tops of the empanadas with a little bit of butter.",
+    "Bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "empanadas",
+    "cheese",
+    "snack",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "6g",
+    "carbs": "20g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-venezuelan-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:20:14.771Z"
+}
