@@ -1,0 +1,55 @@
+{
+  "slug": "buttery-irish-beetroot-bowl",
+  "title": "Beetroot & Butter Irish Bowl Delight",
+  "description": "A simple Irish-inspired dish that combines roasted beetroot with a crispy butter topping, served in a bowl.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "buttery",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 (for serving)"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (400°F).",
+    "Peel and chop the beetroot into cubes.",
+    "Toss the beetroot with a pinch of salt and black pepper on a baking sheet.",
+    "Roast in the oven for 25-30 minutes, or until tender.",
+    "While the beetroot is roasting, melt 2 tablespoons of buttery in a pan over low heat.",
+    "Once the beetroot is done, remove it from the oven and let it cool slightly.",
+    "Transfer the beetroot to the bowl.",
+    "Pour the melted butter over the beetroot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot",
+    "irish",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-irish-beetroot-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:30:38.884Z"
+}
