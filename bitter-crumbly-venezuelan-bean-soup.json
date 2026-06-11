@@ -1,0 +1,78 @@
+{
+  "slug": "bitter-crumbly-venezuelan-bean-soup",
+  "title": "Venezuelan Bean Soup",
+  "description": "A hearty and comforting soup originating from Venezuela, made with a variety of ingredients and spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Venezuelan bean soup mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bitter leafy greens",
+      "amount": "1 bunch",
+      "notes": "such as kale or collard greens"
+    },
+    {
+      "name": "Crumbly cheese",
+      "amount": "1/2 cup",
+      "notes": "such as queso fresco"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Venezuelan bean soup mix and cook according to package instructions.",
+    "Add the diced tomatoes, vegetable broth, and bitter leafy greens.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the crumbly cheese until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional bitter leafy greens if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soups",
+    "latin-american",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crumbly-venezuelan-bean-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:09:28.457Z"
+}
