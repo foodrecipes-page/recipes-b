@@ -1237,10 +1237,14 @@
   },
   {
     "slug": "bitter-crumbly-venezuelan-bean-soup",
-    "title": "Bitter Crumbly Venezuelan Bean Soup",
-    "tags": [],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": null,
+    "title": "Venezuelan Bean Soup",
+    "tags": [
+      "soups",
+      "latin-american",
+      "veggie-friendly"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -5644,16 +5648,15 @@
   },
   {
     "slug": "buttery-crumbly-venezuelan-cheese-empanadas",
-    "title": "Buttery Crumbly Venezuelan Cheese Empanadas",
+    "title": "Cheesy Empanadas",
     "tags": [
-      "venezuelan",
       "empanadas",
       "cheese",
-      "fodmap-friendly",
-      "vegetarian"
+      "snack",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
