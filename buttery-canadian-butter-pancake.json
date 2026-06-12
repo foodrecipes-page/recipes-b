@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-canadian-butter-pancake",
+  "title": "Buttery Canadian Pancakes",
+  "description": "A delicious breakfast recipe with a hint of Canadian flavor.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery Canadian Pancake Mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your griddle to medium heat (around 375°F).",
+    "In a large bowl, whisk together the Canadian Pancake Mix and melted butter.",
+    "Next, add in the water and egg, and mix until a smooth batter forms.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with maple syrup and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "north-american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-canadian-butter-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:33:06.657Z"
+}
