@@ -2937,14 +2937,14 @@
   },
   {
     "slug": "bitter-velvety-argentinian-tripe-stir-fry",
-    "title": "Bitter Velvety Argentinian Tripe Stir-fry",
+    "title": "Argentinian Tripe Stir Fry",
     "tags": [
-      "argentinean-recipe",
-      "bitter-tripe-stir-fry",
-      "mediterranean-flavors"
+      "argentinian",
+      "stir-fry",
+      "meat"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 80,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -5271,11 +5271,11 @@
   },
   {
     "slug": "buttery-crispy-filipino-yautia-fritters",
-    "title": "Buttery Crispy Filipino Yautia Fritters",
+    "title": "Filipino Yautia Fritters",
     "tags": [
       "filipino",
-      "vegan",
-      "crispy",
+      "yautia",
+      "fritters",
       "snack"
     ],
     "cuisine": "Filipino",
@@ -6327,10 +6327,14 @@
   },
   {
     "slug": "buttery-fluffy-japanese-rice-curry",
-    "title": "Buttery Fluffy Japanese Rice Curry",
-    "tags": [],
+    "title": "Buttery Japanese Rice Bowl",
+    "tags": [
+      "rice-bowl",
+      "japanese-cuisine",
+      "curry"
+    ],
     "cuisine": "Japanese",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
