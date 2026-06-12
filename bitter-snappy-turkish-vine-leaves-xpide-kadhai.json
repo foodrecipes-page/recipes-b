@@ -1,0 +1,66 @@
+{
+  "slug": "bitter-snappy-turkish-vine-leaves-xpide-kadhai",
+  "title": "Spicy Kadhai Stir Fry",
+  "description": "A flavorful and spicy stir fry dish originating from India, made with a variety of vegetables and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish bitter leaves",
+      "amount": "2 bunches",
+      "notes": null
+    },
+    {
+      "name": "Snappy cadai",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Kadhai spices",
+      "amount": "2 tablespoons",
+      "notes": "available at most Indian grocery stores"
+    },
+    {
+      "name": "Xpide oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vine tomatoes",
+      "amount": "2 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the xpide oil in a large kadhai or wok over medium-high heat.",
+    "Add the kadhai spices and cook for 1 minute, until fragrant.",
+    "Add the snappy cadai and cook for 2-3 minutes, until tender.",
+    "Add the bitter leaves and cook for an additional 2-3 minutes, until wilted.",
+    "Add the vine tomatoes and cook for 5-7 minutes, until they start to break down.",
+    "Season with salt to taste and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-snappy-turkish-vine-leaves-xpide-kadhai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:37:11.684Z"
+}
