@@ -1,0 +1,81 @@
+{
+  "slug": "bitter-velvety-argentinian-tripe-stir-fry",
+  "title": "Argentinian Tripe Stir Fry",
+  "description": "A flavorful and savory dish originating from Argentina, made with tender tripe, stir-fried with vegetables and spices. Serve with rice or bread for a filling meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bitter Gourd",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Argentinian Salsa Criolla",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the tripe and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the bitter gourd and cook for an additional 2 minutes.",
+    "Add the Argentinian Salsa Criolla and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot with rice or bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "stir-fry",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-velvety-argentinian-tripe-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:50:39.559Z"
+}
