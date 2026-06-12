@@ -4956,10 +4956,15 @@
   },
   {
     "slug": "buttery-chewy-norwegian-haddock-soup",
-    "title": "Buttery Chewy Norwegian Haddock Soup",
-    "tags": [],
+    "title": "Pan-Seared Norwegian Haddock",
+    "tags": [
+      "fish",
+      "seafood",
+      "norwegian",
+      "easy-to-make"
+    ],
     "cuisine": "Norwegian",
-    "totalTimeMin": null,
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
@@ -5883,15 +5888,15 @@
   },
   {
     "slug": "buttery-crunchy-vietnamese-ginger-crumble",
-    "title": "Buttery Crunchy Vietnamese Ginger Crumble",
+    "title": "Crispy Vietnamese Ginger Crumble",
     "tags": [
+      "vietnamese",
       "ginger",
       "crumble",
-      "mixed peel",
-      "ferment"
+      "sweet"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
