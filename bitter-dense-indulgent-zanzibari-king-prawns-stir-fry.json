@@ -1,0 +1,80 @@
+{
+  "slug": "bitter-dense-indulgent-zanzibari-king-prawns-stir-fry",
+  "title": "King Prawn Stir Fry with Zanzibari Twist",
+  "description": "A flavorful and spicy stir fry dish featuring king prawns and a hint of zanzibari, served with a side of bitter greens.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King Prawns",
+      "amount": "12 oz",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Indulgent Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bitter Greens (such as kale or collard greens)",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Zanzibari pepper",
+      "amount": "1-2",
+      "notes": ""
+    },
+    {
+      "name": "Dense garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the king prawns and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Remove the prawns from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the zanzibari pepper, dense garlic, and stir fry sauce. Cook for 1-2 minutes until fragrant.",
+    "Add the bitter greens to the skillet and stir to combine with the sauce.",
+    "Return the cooked prawns to the skillet and toss to combine with the greens and sauce.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "stir-fry",
+    "asian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-indulgent-zanzibari-king-prawns-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:43:18.586Z"
+}
