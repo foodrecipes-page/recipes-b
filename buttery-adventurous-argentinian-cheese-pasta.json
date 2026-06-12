@@ -1,0 +1,63 @@
+{
+  "slug": "buttery-adventurous-argentinian-cheese-pasta",
+  "title": "Cheesy Pasta Bake",
+  "description": "A simple yet satisfying pasta dish loaded with cheese and baked to perfection. This Argentine-inspired recipe is perfect for a weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "adventurous",
+      "amount": "1 teaspoon",
+      "notes": "paprika"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 pound",
+      "notes": "penne pasta"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded cheddar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add paprika and cook for 1 minute, stirring constantly.",
+    "Stir in shredded cheese until melted and smooth.",
+    "Combine cooked pasta and cheese mixture in a large bowl.",
+    "Transfer pasta to a baking dish and top with additional cheese if desired.",
+    "Bake for 15-20 minutes or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "cheese",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-adventurous-argentinian-cheese-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:35:56.514Z"
+}
