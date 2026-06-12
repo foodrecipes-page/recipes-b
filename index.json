@@ -865,16 +865,14 @@
   },
   {
     "slug": "bitter-crisp-festive-garlic-stir-fry",
-    "title": "Bitter Crisp Festive Garlic Stir-fry",
+    "title": "Festive Stir Fry",
     "tags": [
-      "bitter",
-      "crisp",
-      "festive",
-      "slovakian",
-      "whole30-friendly"
+      "stir-fry",
+      "quick-and-easy",
+      "weeknight-dinner"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
     "shard": "b"
   },
   {
