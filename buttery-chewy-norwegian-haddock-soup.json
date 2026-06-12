@@ -1,0 +1,73 @@
+{
+  "slug": "buttery-chewy-norwegian-haddock-soup",
+  "title": "Pan-Seared Norwegian Haddock",
+  "description": "A simple and flavorful dish showcasing the delicate taste of Norwegian haddock. Serve with a side of soup for a satisfying meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian haddock fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "Salted and unsalted"
+    },
+    {
+      "name": "Chewy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "Soup",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the haddock fillets and pat dry with paper towels.",
+    "Season the haddock with salt and pepper.",
+    "Heat butter in an oven-safe skillet over medium-high heat.",
+    "Add the haddock fillets and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Meanwhile, toast the breadcrumbs in a dry skillet over medium heat until lightly browned.",
+    "Serve the haddock with toasted breadcrumbs and a side of soup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "norwegian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chewy-norwegian-haddock-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:47:58.533Z"
+}
