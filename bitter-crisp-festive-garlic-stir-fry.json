@@ -1,0 +1,65 @@
+{
+  "slug": "bitter-crisp-festive-garlic-stir-fry",
+  "title": "Festive Stir Fry",
+  "description": "A quick and easy stir fry made with festive seasonings, perfect for a weeknight dinner. This dish is a great way to get in some veggies and can be customized to your taste.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Festive",
+      "amount": "2 tsp",
+      "notes": "Festive seasoning blend"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 cup",
+      "notes": "Sliced bell peppers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1 cup",
+      "notes": "Sliced kale"
+    },
+    {
+      "name": "Stir",
+      "amount": "",
+      "notes": "None needed"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced bell peppers and cook for 2-3 minutes until they start to soften.",
+    "Add the sliced kale and cook for an additional 2-3 minutes until the veggies are tender.",
+    "Stir in the festive seasoning blend and cook for 1 minute.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "quick-and-easy",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-festive-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:09:21.019Z"
+}
