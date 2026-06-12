@@ -1125,16 +1125,13 @@
   },
   {
     "slug": "bitter-crumbly-filipino-chicken-casserole",
-    "title": "Bitter Crumbly Filipino Chicken Casserole",
+    "title": "Filipino Chicken Casserole",
     "tags": [
-      "filipino",
       "chicken",
       "casserole",
-      "meal-prep",
-      "bitter",
-      "crumbly",
-      "chili-powder",
-      "mediterranean-friendly"
+      "filipino",
+      "easy",
+      "dinner"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 40,
@@ -1506,15 +1503,15 @@
   },
   {
     "slug": "bitter-dense-indulgent-zanzibari-king-prawns-stir-fry",
-    "title": "Bitter Dense Indulgent Zanzibari King Prawns Stir-fry",
+    "title": "King Prawn Stir Fry with Zanzibari Twist",
     "tags": [
-      "zanzibari",
-      "king-prawns",
+      "prawns",
       "stir-fry",
-      "bitter"
+      "asian",
+      "seafood"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "b"
   },
   {
@@ -4466,17 +4463,14 @@
   },
   {
     "slug": "buttery-adventurous-argentinian-cheese-pasta",
-    "title": "Buttery Adventurous Argentinian Cheese Pasta",
+    "title": "Cheesy Pasta Bake",
     "tags": [
-      "argentinian",
-      "cheese-pull",
-      "fodmap-friendly",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "pasta",
+      "cheese",
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -7279,15 +7273,15 @@
   },
   {
     "slug": "buttery-shattering-cranberry-terrine",
-    "title": "Buttery Shattering Cranberry Terrine",
+    "title": "Cranberry Terrine with Buttery Crust",
     "tags": [
-      "crab-apple",
-      "dessert-terrine",
-      "energizing",
-      "tamasic-friendly"
+      "cranberry",
+      "pastry",
+      "dessert",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 60,
     "shard": "b"
   },
   {
