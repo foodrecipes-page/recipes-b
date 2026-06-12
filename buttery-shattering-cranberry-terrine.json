@@ -1,0 +1,71 @@
+{
+  "slug": "buttery-shattering-cranberry-terrine",
+  "title": "Cranberry Terrine with Buttery Crust",
+  "description": "A rich and tangy dessert featuring a buttery crust topped with a sweet and tart cranberry terrine. Perfect for a special occasion or holiday gathering.",
+  "cuisine": "French",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "1 sheet (8 inches x 8 inches) frozen puff pastry, thawed",
+      "notes": "for the crust"
+    },
+    {
+      "name": "Terrine",
+      "amount": "1 cup (200g) fresh or frozen cranberries",
+      "notes": "for the filling"
+    },
+    {
+      "name": "Cranberry",
+      "amount": "1/4 cup (60g) granulated sugar",
+      "notes": "for the filling"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons unsalted butter, melted",
+      "notes": "for the crust"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1 egg, lightly beaten",
+      "notes": "for the crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9-inch (23cm) springform pan. Trim the edges and press the pastry into the corners of the pan.",
+    "In a small bowl, whisk together the granulated sugar and melted butter. Spread the sugar mixture evenly over the pastry, leaving a 1/2-inch (1cm) border around the edges.",
+    "Arrange the cranberries in a single layer over the sugar mixture.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Bake for 40-45 minutes or until the pastry is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool on a wire rack for 10 minutes.",
+    "Release the springform pan sides and transfer the terrine to a serving plate.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cranberry",
+    "pastry",
+    "dessert",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-shattering-cranberry-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:44:40.584Z"
+}
