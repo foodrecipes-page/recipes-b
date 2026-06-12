@@ -2600,10 +2600,15 @@
   },
   {
     "slug": "bitter-pickled-brazilian-cream-soup",
-    "title": "Bitter Pickled Brazilian Cream Soup",
-    "tags": [],
+    "title": "Brazilian Creamy Bitter Soup",
+    "tags": [
+      "soup",
+      "brazilian",
+      "cream",
+      "bitter"
+    ],
     "cuisine": "Brazilian",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
