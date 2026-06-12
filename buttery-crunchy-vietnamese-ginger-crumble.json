@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-crunchy-vietnamese-ginger-crumble",
+  "title": "Crispy Vietnamese Ginger Crumble",
+  "description": "A sweet and spicy dessert that combines the crunch of crumble with the warmth of ginger and the freshness of Vietnamese flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "buttery",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "crumble",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1/4 cup",
+      "notes": "grated ginger"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup",
+      "notes": "chopped peanuts"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine crumble, buttery, and crunchy. Mix until crumbly.",
+    "In a separate bowl, whisk together vietnamese and ginger.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Press the dough into a 9x9 inch baking dish.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "ginger",
+    "crumble",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-vietnamese-ginger-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:22:43.323Z"
+}
