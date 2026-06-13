@@ -2563,17 +2563,14 @@
   },
   {
     "slug": "bitter-norwegian-black-pepper-gratin",
-    "title": "Bitter Norwegian Black Pepper Gratin",
+    "title": "Black Pepper Gratin",
     "tags": [
-      "black-pepper",
-      "dinner",
-      "gratin",
-      "norwegian",
-      "romantic",
-      "winter"
+      "vegetarian",
+      "comfort-food",
+      "potatoes"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 65,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "b"
   },
   {
