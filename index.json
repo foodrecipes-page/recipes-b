@@ -4998,15 +4998,14 @@
   },
   {
     "slug": "buttery-chill",
-    "title": "Buttery Chill",
+    "title": "Chill Butter Bites",
     "tags": [
-      "butter",
-      "salt",
-      "nutty",
-      "crumbly"
+      "bites",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
@@ -5030,14 +5029,14 @@
   },
   {
     "slug": "buttery-creamy-argentinian-butter-stir-fry",
-    "title": "Buttery Creamy Argentinian Butter Stir-fry",
+    "title": "Creamy Argentinian Stir Fry",
     "tags": [
-      "argentinian-butter-stir-fry",
-      "buttermilk-sauce",
-      "kosher-friendly-dish"
+      "argentinian",
+      "easy",
+      "vegetarian"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 65,
+    "cuisine": "argentinian",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
