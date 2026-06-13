@@ -1,0 +1,70 @@
+{
+  "slug": "bitter-crunchy-british-onion-wrap",
+  "title": "Crunchy British Wrap",
+  "description": "A simple, flavorful wrap filled with crunchy and bitter ingredients, inspired by British cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "bitter greens",
+      "amount": "1/2 cup",
+      "notes": "such as kale or arugula"
+    },
+    {
+      "name": "crunchy veggies",
+      "amount": "1 cup",
+      "notes": "such as carrots or bell peppers"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Cook the sliced onion until translucent.",
+    "Add the crunchy veggies and cook until tender.",
+    "Add the bitter greens and cook until wilted.",
+    "Warm the wrap in the pan for a few seconds.",
+    "Assemble the wrap by spooning the filling onto the center of the wrap.",
+    "Drizzle with mayonnaise if desired.",
+    "Fold the bottom half of the wrap up over the filling.",
+    "Fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "lunch",
+    "wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-british-onion-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:26:42.670Z"
+}
