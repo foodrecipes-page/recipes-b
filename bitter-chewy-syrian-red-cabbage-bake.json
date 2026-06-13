@@ -1,0 +1,90 @@
+{
+  "slug": "bitter-chewy-syrian-red-cabbage-bake",
+  "title": "Braised Bitter Cabbage with Syrian Sausage",
+  "description": "A hearty and flavorful dish made with tender cabbage and spicy Syrian sausage. Perfect for a cold evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian sausage",
+      "amount": "1 pound",
+      "notes": "preferably sweet or mild"
+    },
+    {
+      "name": "Bitter cabbage",
+      "amount": "1 head",
+      "notes": "cored and chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 cup",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the sausage in batches until browned on all sides, about 5 minutes. Remove and set aside.",
+    "Add the chopped onion and red bell pepper to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped bake and cook for an additional 2 minutes.",
+    "Add the chopped cabbage and cook until it begins to soften, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Return the browned sausage to the pot and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Bring the mixture to a simmer, then cover and transfer to the oven.",
+    "Braise the cabbage for 25-30 minutes, or until it is tender and caramelized.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "syrian sausage",
+    "middle eastern",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-syrian-red-cabbage-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:24:54.901Z"
+}
