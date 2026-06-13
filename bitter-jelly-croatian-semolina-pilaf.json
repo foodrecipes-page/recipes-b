@@ -1,0 +1,70 @@
+{
+  "slug": "bitter-jelly-croatian-semolina-pilaf",
+  "title": "Croatian Semolina Pudding with Fruit",
+  "description": "A traditional Croatian dessert made with semolina, perfect for warm weather. Serve chilled with fresh fruit for a light and refreshing treat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bitter chocolate",
+      "amount": "1 ounce, grated"
+    },
+    {
+      "name": "fresh fruit",
+      "amount": "1 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the semolina, milk, sugar, and butter.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, stirring frequently.",
+    "Remove from heat and stir in the vanilla extract.",
+    "Let cool slightly, then stir in the grated chocolate.",
+    "Pour the pudding into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours, or until chilled.",
+    "Serve chilled, topped with fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pudding",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-jelly-croatian-semolina-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T05:56:21.285Z"
+}
