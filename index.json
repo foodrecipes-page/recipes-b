@@ -393,14 +393,15 @@
   },
   {
     "slug": "bitter-brazilian-tamarind-crumble",
-    "title": "Bitter Brazilian Tamarind Crumble",
+    "title": "Tamarind Crumble Bites",
     "tags": [
-      "bitter-brazilian",
-      "tamarind-dessert",
-      "dairy-free-friendly"
+      "brazilian",
+      "tamarind",
+      "crumble",
+      "dessert"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
