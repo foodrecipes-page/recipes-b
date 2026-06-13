@@ -1258,16 +1258,15 @@
   },
   {
     "slug": "bitter-crunchy-british-onion-wrap",
-    "title": "Bitter Crunchy British Onion Wrap",
+    "title": "Crunchy British Wrap",
     "tags": [
       "british",
-      "onion_wrap",
-      "sweet_paprika",
-      "whole30",
-      "quick_meal"
+      "lunch",
+      "wrap",
+      "vegetarian"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
