@@ -1,0 +1,52 @@
+{
+  "slug": "buttery-chill",
+  "title": "Chill Butter Bites",
+  "description": "A simple recipe to make delicious chill butter bites, perfect as a snack or appetizer. These bite-sized treats are easy to make and require minimal ingredients.",
+  "cuisine": "american",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Chill",
+      "amount": "1/2 cup",
+      "notes": "chilled and crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Mix the softened Butter and chilled Chill in a bowl until well combined.",
+    "Roll the mixture into small balls, about 1 inch in diameter.",
+    "Place the balls onto the prepared baking sheet, leaving about 1 inch of space between each.",
+    "Bake for 15-20 minutes or until lightly golden brown.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer the bites to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "bites",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:06:32.322Z"
+}
