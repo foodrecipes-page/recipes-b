@@ -4778,16 +4778,15 @@
   },
   {
     "slug": "buttery-buttery-croatian-mushroom-stir-fry",
-    "title": "Buttery Buttery Croatian Mushroom Stir-fry",
+    "title": "Croatian Mushroom Stir Fry",
     "tags": [
-      "croatian",
+      "sausage",
       "mushroom",
       "stir-fry",
-      "air-fried",
-      "plant-based-friendly"
+      "easy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "European",
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
@@ -7513,17 +7512,15 @@
   },
   {
     "slug": "buttery-silky-romantic-milk-pasta",
-    "title": "Buttery Silky Romantic Milk Pasta",
+    "title": "Creamy Pasta Delight",
     "tags": [
-      "buttery",
-      "silky",
-      "romantic",
-      "korean",
-      "plant-based",
-      "milk-pasta"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
