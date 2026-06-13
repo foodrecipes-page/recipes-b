@@ -2903,17 +2903,15 @@
   },
   {
     "slug": "bitter-uruguayan-peanut-bake",
-    "title": "Bitter Uruguayan Peanut Bake",
+    "title": "Uruguayan Peanut Biscuit Bake",
     "tags": [
-      "gluten-free",
-      "meal-prep",
-      "nut-free",
-      "one-pan",
       "uruguayan",
-      "vegetarian"
+      "peanut",
+      "biscuit",
+      "dessert"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
