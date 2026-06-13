@@ -1,0 +1,66 @@
+{
+  "slug": "buttery-buttery-croatian-mushroom-stir-fry",
+  "title": "Croatian Mushroom Stir Fry",
+  "description": "A simple and flavorful stir fry combining Croatian sausage with sautéed mushrooms and butter.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large skillet over medium-high heat.",
+    "Add the sliced Croatian sausage and cook until browned, about 3-4 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the remaining 2 tablespoons of butter to the skillet and stir until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "mushroom",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-buttery-croatian-mushroom-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:26:49.943Z"
+}
