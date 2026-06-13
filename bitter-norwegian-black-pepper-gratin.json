@@ -1,0 +1,67 @@
+{
+  "slug": "bitter-norwegian-black-pepper-gratin",
+  "title": "Black Pepper Gratin",
+  "description": "A simple gratin dish flavored with black pepper and topped with a crispy crust. Perfect as a side or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 tablespoons",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "Bitter cream",
+      "amount": "1/2 cup",
+      "notes": "heavy cream with a splash of milk"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1 cup",
+      "notes": "shredded cheese blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the sliced potatoes and enough cold water to cover them. Let sit for 5 minutes, then drain.",
+    "In a large saucepan, combine the potatoes, black pepper, salt, and enough cold water to cover. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 10 minutes, or until slightly tender.",
+    "In a separate saucepan, combine the bitter cream and 1 tablespoon of the black pepper. Bring to a simmer over medium heat, then reduce the heat to low and let cook for 2-3 minutes, or until slightly thickened.",
+    "In a greased 9x13-inch baking dish, create a layer of the potatoes. Top with a layer of the cream mixture, followed by a sprinkle of the gratin cheese. Repeat this process two more times, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 20 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the top is crispy and golden brown.",
+    "Remove from the oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "comfort-food",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-norwegian-black-pepper-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:29:07.991Z"
+}
