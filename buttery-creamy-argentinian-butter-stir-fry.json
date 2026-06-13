@@ -1,0 +1,66 @@
+{
+  "slug": "buttery-creamy-argentinian-butter-stir-fry",
+  "title": "Creamy Argentinian Stir Fry",
+  "description": "A flavorful and easy-to-make stir fry dish inspired by Argentine cuisine, combining creamy and savory elements.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buttery stir sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Argentinian stir-fry mix",
+      "amount": "1 bag",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a pan over medium heat.",
+    "Add Argentinian stir-fry mix and stir until it's softened, about 3 minutes.",
+    "Add creamy sauce and stir until combined.",
+    "Add buttery stir sauce and stir until heated through.",
+    "Add soy sauce if desired, and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-argentinian-butter-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:53:11.470Z"
+}
