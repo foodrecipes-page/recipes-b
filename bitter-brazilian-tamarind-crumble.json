@@ -1,0 +1,78 @@
+{
+  "slug": "bitter-brazilian-tamarind-crumble",
+  "title": "Tamarind Crumble Bites",
+  "description": "A tangy and sweet dessert made with tamarind, topped with a crunchy crumble made with crumble mix.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tamarind",
+      "amount": "1/4 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup",
+      "notes": "bought or homemade"
+    },
+    {
+      "name": "Brazilian sugar",
+      "amount": "1/2 cup",
+      "notes": "or regular sugar"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Bitter chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the tamarind, sugar, and eggs in a bowl.",
+    "Add the melted butter, vanilla extract and mix well.",
+    "Pour the mixture into a baking dish.",
+    "Mix the crumble and melted butter in another bowl.",
+    "Top the tamarind mixture with the crumble mixture.",
+    "Bake for 20-25 minutes.",
+    "Remove from oven and let cool.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Cut into bite-sized pieces and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "tamarind",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-brazilian-tamarind-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:26.571Z"
+}
