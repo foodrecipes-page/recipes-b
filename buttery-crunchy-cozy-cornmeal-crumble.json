@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-crunchy-cozy-cornmeal-crumble",
+  "title": "Crunchy Cornmeal Crumble",
+  "description": "A warm and crispy cornmeal crumble recipe perfect for a snack or side dish. Crunchy cornmeal and a hint of buttery goodness make this a delightful treat.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Cozy",
+      "amount": "1/2 cup, packed brown sugar"
+    },
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together the cornmeal, brown sugar, and crushed crunchy topping.",
+    "Add the buttery mixture to the bowl and stir until combined.",
+    "Transfer the mixture to a baking dish and top with crumble topping.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "cornmeal",
+    "crumble",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-cozy-cornmeal-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:23:02.276Z"
+}
