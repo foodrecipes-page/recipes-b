@@ -1,0 +1,78 @@
+{
+  "slug": "bitter-uruguayan-peanut-bake",
+  "title": "Uruguayan Peanut Biscuit Bake",
+  "description": "A unique dessert recipe combining Uruguayan flavors with peanut and biscuit ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "biscuits",
+      "amount": "1 cup",
+      "notes": "preferably Uruguayan in origin"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bitter chocolate",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "freshly beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large bowl, combine the biscuit pieces and melted chocolate.",
+    "Add the chopped peanuts, granulated sugar, eggs, vanilla extract, and softened butter to the bowl.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Pour the mixture into a baking dish and bake for 25-30 minutes.",
+    "Check for doneness by inserting a toothpick into the center, it should come out clean.",
+    "Remove the bake from the oven and let it cool completely before serving.",
+    "Serve warm or at room temperature, garnished with additional peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "peanut",
+    "biscuit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-peanut-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:58:18.951Z"
+}
