@@ -1,0 +1,62 @@
+{
+  "slug": "buttery-silky-romantic-milk-pasta",
+  "title": "Creamy Pasta Delight",
+  "description": "A rich and indulgent pasta dish featuring a silky sauce made from milk and butter, perfect for a cozy dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "romantic",
+      "amount": "2 cups",
+      "notes": "chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a medium saucepan, melt the butter over medium heat.",
+    "Pour in the milk and stir until the sauce thickens slightly, scraping the bottom of the pan to prevent lumps.",
+    "Remove the sauce from the heat and stir in the chopped parsley.",
+    "Drain the cooked pasta and return it to the pot.",
+    "Pour the silky sauce over the pasta and toss until well coated.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-romantic-milk-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:10:23.732Z"
+}
