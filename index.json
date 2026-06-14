@@ -7466,16 +7466,15 @@
   },
   {
     "slug": "buttery-silky-nostalgic-chicken-stir-fry",
-    "title": "Buttery Silky Nostalgic Chicken Stir-fry",
+    "title": "Classic Chicken Stir Fry",
     "tags": [
-      "buttery",
-      "silky",
-      "nostalgic",
-      "moroccan",
-      "high-protein-friendly"
+      "chicken",
+      "stir-fry",
+      "quick-dinner",
+      "easy-recipe"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
