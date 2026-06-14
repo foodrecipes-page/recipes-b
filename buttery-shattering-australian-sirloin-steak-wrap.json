@@ -1,0 +1,75 @@
+{
+  "slug": "buttery-shattering-australian-sirloin-steak-wrap",
+  "title": "Australian Sirloin Steak Wrap",
+  "description": "A delicious and easy-to-make wrap filled with grilled sirloin steak, served with a side of tangy sauce. Perfect for a quick lunch or dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian sirloin steak",
+      "amount": "1-1.5 pounds",
+      "notes": "preferably Ribeye or Striploin"
+    },
+    {
+      "name": "Buttery wrap",
+      "amount": "1-2 wraps",
+      "notes": "flour or corn tortilla"
+    },
+    {
+      "name": "Shattering lettuce",
+      "amount": "a handful",
+      "notes": "any crisp lettuce variety"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "any variety"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2-3 tablespoons",
+      "notes": "or any other sauce of choice"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (around 400°F/200°C).",
+    "2. Season the sirloin steak with salt and pepper on both sides.",
+    "3. Grill the steak for 5-7 minutes per side for medium-rare, or until it reaches your desired level of doneness.",
+    "4. Remove the steak from the grill and let it rest for a few minutes before slicing.",
+    "5. Meanwhile, toast the wrap on the grill or in a toaster.",
+    "6. Spread a layer of mayonnaise on the wrap.",
+    "7. Add sliced steak, lettuce, tomato, and red onion on top of the mayonnaise.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "grill",
+    "steak",
+    "wrap",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-shattering-australian-sirloin-steak-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:03:13.194Z"
+}
