@@ -1,0 +1,58 @@
+{
+  "slug": "bitter-aerated-ukrainian-ham-wrap",
+  "title": "Bitter Ukrainian Ham Wrap",
+  "description": "A unique fusion of Ukrainian and Western flavors, combining the bitterness of coffee with the savory taste of ham and the crunch of a wrap.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bitter Ukrainian coffee",
+      "amount": "1 cup, brewed",
+      "notes": "Strong and dark"
+    },
+    {
+      "name": "Ham",
+      "amount": "4 ounces, thinly sliced",
+      "notes": "Smoked or cured"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "1 cup",
+      "notes": "To balance the bitterness"
+    }
+  ],
+  "instructions": [
+    "1. Brew a cup of strong and dark Ukrainian coffee.",
+    "2. Slice 4 ounces of ham into thin strips.",
+    "3. Fill a large wrap with the ham, leaving room for the coffee.",
+    "4. Pour the brewed coffee over the ham, making sure to cover it evenly.",
+    "5. Top with a cup of aerated water to balance the bitterness.",
+    "6. Fold the wrap into a neat package and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "ukrainian",
+    "ham",
+    "wrap",
+    "coffee"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-aerated-ukrainian-ham-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:24:57.185Z"
+}
