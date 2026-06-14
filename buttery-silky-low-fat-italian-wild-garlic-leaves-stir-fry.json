@@ -1,0 +1,62 @@
+{
+  "slug": "buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry",
+  "title": "Pan-Seared Wild Garlic Leaves",
+  "description": "A delicious and simple recipe to showcase the flavors of wild garlic, perfect for a quick dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "low fat",
+      "amount": "1 tsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the low fat in a large skillet over medium heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the wild garlic leaves and sauté for 2-3 minutes until wilted.",
+    "Add the buttery and stir until melted and combined with the garlic leaves.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "wildgarlic",
+    "garlicleaves",
+    "quickdinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:46:01.074Z"
+}
