@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-silky-nostalgic-chicken-stir-fry",
+  "title": "Classic Chicken Stir Fry",
+  "description": "A simple and flavorful stir fry recipe with chicken as the main ingredient, ready in under 30 minutes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "buttery sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "silky soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "nostalgic rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "veggies (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": "sliced and ready to go"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery sauce in a large skillet or wok over medium-high heat.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced veggies to the skillet and cook until tender-crisp, about 3-5 minutes.",
+    "Return the chicken to the skillet and stir in the silky soy sauce.",
+    "Serve the chicken and veggies over nostalgic rice and enjoy!",
+    "Optional: Garnish with chopped green onions and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "quick-dinner",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-nostalgic-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:12:08.143Z"
+}
