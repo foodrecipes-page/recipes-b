@@ -2379,18 +2379,15 @@
   },
   {
     "slug": "bitter-juicy-uruguayan-strawberries-toast",
-    "title": "Uruguayan Strawberry Toast",
+    "title": "Strawberry Toast",
     "tags": [
       "breakfast",
-      "snack",
-      "strawberry",
-      "toasted-bread",
-      "gluten-free",
-      "fodmap-friendly",
-      "vegetarian"
+      "strawberries",
+      "toast",
+      "easy"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 12,
+    "cuisine": null,
+    "totalTimeMin": 7,
     "shard": "b"
   },
   {
@@ -7464,16 +7461,15 @@
   },
   {
     "slug": "buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry",
-    "title": "Buttery Silky Low Fat Italian Wild Garlic Leaves Stir-fry",
+    "title": "Pan-Seared Wild Garlic Leaves",
     "tags": [
       "italian",
-      "ligurian",
-      "low-fat",
-      "wild-garlic-leaves",
-      "stir-fry"
+      "wildgarlic",
+      "garlicleaves",
+      "quickdinner"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
