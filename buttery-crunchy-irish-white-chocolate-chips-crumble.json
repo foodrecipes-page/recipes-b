@@ -1,0 +1,84 @@
+{
+  "slug": "buttery-crunchy-irish-white-chocolate-chips-crumble",
+  "title": "Irish Chocolate Chip Crunchy Crumble",
+  "description": "A delicious dessert recipe combining crunchy elements, rich chocolate, and a buttery crumble topping. Perfect for satisfying sweet cravings.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "white chocolate chips",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "buttery",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "irish butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "chips",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "30g",
+      "notes": "Not listed among ingredients but required for the recipe"
+    },
+    {
+      "name": "sugar",
+      "amount": "50g",
+      "notes": "Not listed among ingredients but required for the recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large bowl, mix together the white chocolate chips, crunchy, and irish butter until well combined.",
+    "In a separate bowl, mix together the crumble and chips.",
+    "Add the buttery to the crumble mixture and mix until a crumbly texture forms.",
+    "Pour the chocolate mixture into a baking dish.",
+    "Top the chocolate mixture with the crumble mixture.",
+    "Bake for 25-30 minutes or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "dessert",
+    "chocolate",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-irish-white-chocolate-chips-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:59:41.888Z"
+}
