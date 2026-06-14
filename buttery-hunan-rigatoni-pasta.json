@@ -1,0 +1,59 @@
+{
+  "slug": "buttery-hunan-rigatoni-pasta",
+  "title": "Hunan Rigatoni Bake",
+  "description": "A spicy and comforting pasta bake with the flavors of Hunan cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Hunan sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook rigatoni according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add Hunan sauce and stir to combine.",
+    "Add cooked rigatoni to the skillet and toss to coat with sauce.",
+    "Transfer rigatoni mixture to a baking dish and top with additional butter if desired.",
+    "Bake in preheated oven for 15-20 minutes, or until top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "hunan",
+    "rigatoni",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-hunan-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:51:12.156Z"
+}
