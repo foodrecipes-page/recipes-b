@@ -1,0 +1,83 @@
+{
+  "slug": "bay-leaf-infused-norte-2o-mexican-dish-tacos",
+  "title": "Mexican Norte Tacos",
+  "description": "A flavorful Mexican dish featuring Norte-style tacos with a twist. Perfect for a quick dinner or snack.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Mexican dish spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Infused bay leaves",
+      "amount": "4",
+      "notes": "use dried bay leaves for best flavor"
+    },
+    {
+      "name": "Taco-sized corn tortillas",
+      "amount": "8-10",
+      "notes": "fresh or store-bought"
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 bunch",
+      "notes": "optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "2. Add the Mexican dish spice blend to the skillet and stir to combine.",
+    "3. Add the infused bay leaves to the skillet and cook for an additional 2 minutes.",
+    "4. Warm the taco-sized corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the tacos by spooning the beef mixture onto a tortilla and topping with shredded cheese, sliced radishes, and chopped cilantro.",
+    "6. Serve immediately with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "beef",
+    "bay-leaves",
+    "norte-style"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bay-leaf-infused-norte-2o-mexican-dish-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T15:14:21.116Z"
+}
