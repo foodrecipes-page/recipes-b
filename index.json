@@ -157,17 +157,16 @@
   },
   {
     "slug": "bay-leaf-infused-norte-2o-mexican-dish-tacos",
-    "title": "bay leaf infused norte\u00187o mexican tacos",
+    "title": "Mexican Norte Tacos",
     "tags": [
-      "bay-leaf",
-      "low-carb",
       "mexican",
-      "norte-o",
       "tacos",
-      "weeknight"
+      "beef",
+      "bay-leaves",
+      "norte-style"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 45,
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
