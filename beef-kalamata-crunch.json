@@ -1,0 +1,89 @@
+{
+  "slug": "beef-kalamata-crunch",
+  "title": "Beef and Kalamata Crunch Wrap",
+  "description": "A flavorful wrap filled with grilled beef, crunchy kalamata olives, and crunchy vegetables.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "crunchy slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tortilla wraps",
+      "amount": "4",
+      "notes": "large flour or whole wheat"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill beef strips for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "3. Meanwhile, toast tortilla wraps by wrapping them in foil and heating in the oven at 350°F for 5 minutes.",
+    "4. Assemble wraps by spreading a layer of feta cheese on each tortilla, followed by a few slices of grilled beef, some crunchy slaw, lettuce, tomatoes, and red onion.",
+    "5. Drizzle with lemon juice and olive oil, and top with kalamata olives.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "wrap",
+    "mediterranean",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/beef-kalamata-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-20T00:56:32.705Z"
+}
