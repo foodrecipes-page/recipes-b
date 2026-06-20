@@ -184,16 +184,15 @@
   },
   {
     "slug": "beef-kalamata-crunch",
-    "title": "Beef Kalamata Crunch",
+    "title": "Beef and Kalamata Crunch Wrap",
     "tags": [
       "beef",
-      "kalamata olives",
-      "umami",
-      "crunchy",
-      "thai"
+      "wrap",
+      "mediterranean",
+      "grilled"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 55,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
