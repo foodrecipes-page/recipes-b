@@ -1,0 +1,88 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--french",
+  "title": "Bitter Empanada au Gratin",
+  "description": "A French twist on traditional Uruguayan empanadas, filled with a bitter chocolate and mirin reduction.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bitter Chocolate",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan Empanada Pastry",
+      "amount": "4-6",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mirin",
+      "amount": "60ml",
+      "notes": "Sweet Japanese cooking wine"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada pastry to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "In a small saucepan, combine mirin and granulated sugar. Bring to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Add bitter chocolate to the saucepan and stir until melted and smooth.",
+    "Brush the edges of the pastry circles with egg and place a tablespoon of the chocolate mixture in the center of each circle.",
+    "Fold the pastry in half and press the edges together to seal.",
+    "Brush the tops of the empanadas with egg and sprinkle with confectioners' sugar.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Dust with confectioners' sugar and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chocolate",
+    "empanada",
+    "french",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:34:05.050Z"
+}
