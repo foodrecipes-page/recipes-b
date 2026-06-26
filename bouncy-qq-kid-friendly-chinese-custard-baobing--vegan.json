@@ -1,0 +1,78 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--vegan",
+  "title": "Baobing Bouncy Custard Dessert",
+  "description": "A vegan dessert inspired by traditional Chinese baobing, featuring a bouncy custard topping.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "friendly rice milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chinese agar agar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "custard",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "qq sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "baobing powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kid cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bouncy seaweed",
+      "amount": "2 tablespoons",
+      "notes": "rehydrated and chopped"
+    }
+  ],
+  "instructions": [
+    "Combine friendly rice milk and chinese agar agar in a saucepan and heat until agar agar dissolves.",
+    "In a separate bowl, mix together custard, qq sugar, baobing powder, and kid cornstarch.",
+    "Add the custard mixture to the saucepan with the agar agar mixture and stir until combined.",
+    "Bring the mixture to a boil and cook for 2 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Pour the mixture into individual serving cups.",
+    "Refrigerate until set, at least 2 hours.",
+    "Top with rehydrated and chopped bouncy seaweed.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T10:06:20.744Z"
+}
