@@ -8291,5 +8291,136 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--mexican",
+    "title": "Baobing Mexican Dessert",
+    "tags": [
+      "mexican",
+      "baobing",
+      "custard",
+      "dessert"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 120,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--chinese",
+    "title": "Baobing Custard Creams",
+    "tags": [
+      "chinese",
+      "dessert",
+      "baobing",
+      "custard",
+      "kid-friendly"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--indian",
+    "title": "Baobing Custard",
+    "tags": [
+      "indian",
+      "dessert",
+      "custard",
+      "baobing"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--italian",
+    "title": "Italian Custard Dessert",
+    "tags": [
+      "italian",
+      "dessert",
+      "custard",
+      "creamy"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--german",
+    "title": "Baobing Dessert with Chinese Custard",
+    "tags": [
+      "german-desserts",
+      "chinese-influence",
+      "sweet-tooth"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--gluten-free",
+    "title": "Gluten-Free Chinese-Style Baobing",
+    "tags": [
+      "chinese",
+      "dessert",
+      "gluten-free",
+      "custard"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--french",
+    "title": "Friendly French Custard Cream Puffs",
+    "tags": [
+      "french",
+      "dessert",
+      "cream-puffs",
+      "custard"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--vegetarian",
+    "title": "Vegetarian Baobing Custard",
+    "tags": [
+      "baobing",
+      "custard",
+      "chinese",
+      "dessert",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--thai",
+    "title": "Thai Baobing Custard",
+    "tags": [
+      "thai",
+      "dessert",
+      "custard",
+      "baobing"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--japanese",
+    "title": "Japanese Custard Baobing",
+    "tags": [
+      "japanese",
+      "dessert",
+      "baobing",
+      "custard"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "b"
   }
 ]
