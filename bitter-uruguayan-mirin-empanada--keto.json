@@ -1,0 +1,88 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--keto",
+  "title": "Uruguayan Beef Empanadas (Keto)",
+  "description": "A twist on traditional empanadas, these Uruguayan beef empanadas are low-carb and perfect for a keto diet.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough (keto version)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Bitter Chocolate Chips",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Uruguayan Cheese (or similar)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough and cut into circles.",
+    "Place a tablespoon of ground beef mixture in the center of each circle.",
+    "Fold the dough in half and press edges to seal.",
+    "Brush tops with mirin.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Garnish with bitter chocolate chips and serve with sour cream.",
+    "Optional: Add Uruguayan cheese on top of the empanadas."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "beef",
+    "empanadas",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:34:00.526Z"
+}
