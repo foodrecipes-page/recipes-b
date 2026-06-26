@@ -1,0 +1,72 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing",
+  "title": "Baobing Custard Dessert",
+  "description": "A creamy dessert inspired by traditional baobing flavors, made with a simple custard base.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "friendly chinese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "baobing",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "custard",
+      "amount": "1 1/2 cups",
+      "notes": "make sure to use a vegan custard base"
+    },
+    {
+      "name": "kid",
+      "amount": "1 tsp",
+      "notes": "optional, for added sweetness"
+    },
+    {
+      "name": "qq",
+      "amount": "1 tsp",
+      "notes": "optional, for added texture"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1 tsp",
+      "notes": "optional, for extra fun"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine friendly chinese and baobing in a bowl.",
+    "Mix in custard until well combined.",
+    "Add kid and qq if using. Mix well.",
+    "Pour mixture into a baking dish.",
+    "Bake for 25-30 minutes or until set.",
+    "Let cool before serving.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-desserts",
+    "vegan-desserts",
+    "baobing-custard"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T06:05:25.654Z"
+}
