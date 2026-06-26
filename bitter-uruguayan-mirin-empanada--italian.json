@@ -1,0 +1,84 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--italian",
+  "title": "Uruguayan Bitter Empanada with Italian Twist",
+  "description": "A fusion of Italian and Uruguayan flavors in this savory empanada filled with bitter, mirin-glazed onions and ground beef.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bitter",
+      "amount": "2 tablespoons",
+      "notes": "Uruguayan bitter leaves, chopped"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing empanada crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to 1/4 inch thickness.",
+    "In a pan, heat olive oil over medium heat. Add sliced onions and cook until caramelized.",
+    "Add ground beef to the pan, breaking it up with a spoon as it cooks.",
+    "Add chopped bitter leaves and mirin glaze to the pan, stirring to combine.",
+    "Season with salt and black pepper to taste.",
+    "Place a spoonful of the beef and onion mixture onto one half of the empanada dough.",
+    "Brush the edges of the dough with water and fold the other half over the filling.",
+    "Crimp the edges to seal the empanada and brush with olive oil.",
+    "Bake empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "uruguayan",
+    "empanada",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:36:13.981Z"
+}
