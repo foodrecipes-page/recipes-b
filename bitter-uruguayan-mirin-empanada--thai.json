@@ -1,0 +1,85 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--thai",
+  "title": "Thai Empanada Spring Rolls",
+  "description": "A fusion twist on traditional Thai spring rolls, using Uruguayan empanada dough and adding a sweet and sour mirin glaze.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Spring Onion",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Bitter Melon",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "Roll out the empanada dough thinly and cut into desired shapes.",
+    "Heat a tablespoon of oil in a pan over medium heat. Add spring onion and bitter melon; cook until softened.",
+    "Add cilantro, soy sauce, and sugar to the pan; stir-fry for 1 minute.",
+    "Brush the empanada shapes with water and place on a plate.",
+    "Place a tablespoon of the spring onion mixture onto the center of each empanada.",
+    "Fold the empanada in half to enclose the filling and press the edges together to seal.",
+    "Fry the empanada in hot oil until golden brown, about 2-3 minutes per side.",
+    "Drain excess oil on paper towels.",
+    "Drizzle with mirin glaze and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-fusion",
+    "spring-rolls",
+    "empanada-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T08:50:56.449Z"
+}
