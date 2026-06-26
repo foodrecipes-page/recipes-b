@@ -1,0 +1,84 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--gluten-free",
+  "title": "Uruguayan Empanada Filling",
+  "description": "A gluten-free empanada filling inspired by Uruguayan cuisine, using tender beef and a hint of bitter from the empanada shell.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan empanada shell",
+      "amount": "4-6 shells",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "250g",
+      "notes": "80/20 ratio for best flavor"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp",
+      "notes": "For added sweetness"
+    },
+    {
+      "name": "Bitter (dried parsley)",
+      "amount": "1 tsp",
+      "notes": "Optional, for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the empanada shells in half and set aside.",
+    "In a pan over medium heat, cook the ground beef until browned, breaking it up into small pieces.",
+    "Add the diced onion and minced garlic to the pan and cook until softened.",
+    "Add the mirin, salt, and black pepper to the pan and stir to combine.",
+    "Add the bitter (dried parsley) to the pan and stir to combine.",
+    "Stuff each empanada shell with the beef mixture and place on a baking sheet.",
+    "Bake for 15-20 minutes, or until the empanada shells are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanada",
+    "beef",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:31:41.964Z"
+}
