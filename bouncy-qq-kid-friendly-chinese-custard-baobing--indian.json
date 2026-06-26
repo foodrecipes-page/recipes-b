@@ -1,0 +1,74 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--indian",
+  "title": "Baobing Custard",
+  "description": "A traditional Indian-style custard dessert inspired by the flavors and ingredients of Baobing. This dessert is a creative twist on the classic.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "1 liter"
+    },
+    {
+      "name": "custard",
+      "amount": "250g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chinese rice flour",
+      "amount": "50g"
+    },
+    {
+      "name": "sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "friendly cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kid cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "bouncy water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a medium saucepan, combine milk, custard, sugar, cinnamon, and cardamom. Heat over medium heat, stirring occasionally.",
+    "Bring mixture to a simmer, then reduce heat to low and cook for 5 minutes.",
+    "In a separate bowl, whisk together rice flour and a splash of water to make a slurry.",
+    "Temper the slurry by slowly pouring it into the saucepan with the milk mixture, whisking constantly.",
+    "Remove from heat and stir in the bouncy water.",
+    "Pour mixture into individual serving cups or ramekins.",
+    "Bake for 20-25 minutes or until set.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Garnish with a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "custard",
+    "baobing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:37:13.147Z"
+}
