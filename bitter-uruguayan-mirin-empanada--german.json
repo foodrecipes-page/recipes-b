@@ -1,0 +1,90 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--german",
+  "title": "Uruguayan Empanada Filling with German Twist",
+  "description": "A fusion of traditional Uruguayan empanada filling with a German twist, using bitter beer to add depth of flavor.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bitter beer",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan sausage",
+      "amount": "1/2 lb",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan over medium heat, cook the ground beef until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, garlic, and Uruguayan sausage to the pan and cook until the onion is translucent.",
+    "Add the bitter beer, mirin, flour, salt, and black pepper to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Let the filling cool to room temperature.",
+    "To assemble the empanadas, place a spoonful of the filling onto one half of an empanada dough circle, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough circle over the filling and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges of the empanada and cut a few slits in the top to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little water.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve the empanadas warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "german",
+    "uruguayan",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:29:19.704Z"
+}
