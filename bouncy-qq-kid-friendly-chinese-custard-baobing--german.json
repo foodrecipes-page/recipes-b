@@ -1,0 +1,70 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--german",
+  "title": "Baobing Dessert with Chinese Custard",
+  "description": "A unique German-inspired dessert with Chinese flavors, featuring baobing and a rich custard.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "caramelized sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baobing",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chinese custard",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "friendship tea",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bouncy rice",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Caramelize the sugar in a saucepan over medium heat.",
+    "Combine baobing, tea, and bouncy rice in a large bowl.",
+    "Pour the caramelized sugar over the baobing mixture.",
+    "In a separate bowl, whisk together custard, heavy cream, and vanilla extract.",
+    "Pour the custard mixture over the baobing mixture.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-desserts",
+    "chinese-influence",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:37:38.389Z"
+}
