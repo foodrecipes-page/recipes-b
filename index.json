@@ -2876,16 +2876,15 @@
   },
   {
     "slug": "bitter-uruguayan-mirin-empanada",
-    "title": "Bitter Uruguayan Mirin Empanada",
+    "title": "Uruguayan Empanada Filling with Bitter Mirin Glaze",
     "tags": [
-      "dessert",
+      "uruguayan",
       "empanada",
-      "hangover-cure",
-      "mirin",
-      "uruguayan"
+      "bitter",
+      "mirin"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -3672,16 +3671,14 @@
   },
   {
     "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing",
-    "title": "Bouncy-QQ Custard Baobing",
+    "title": "Baobing Custard Dessert",
     "tags": [
-      "bouncy-qq",
-      "chinese",
-      "dessert",
-      "kid-friendly",
-      "namul-blanch-season"
+      "chinese-desserts",
+      "vegan-desserts",
+      "baobing-custard"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -8227,6 +8224,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--keto",
+    "title": "Custard Keto Bouncy Delight",
+    "tags": [
+      "keto",
+      "dessert",
+      "chinese",
+      "custard",
+      "baobing"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
     "shard": "b"
   }
 ]
