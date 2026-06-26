@@ -1,0 +1,79 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--mexican",
+  "title": "Bitter Uruguayan Beef Empanadas",
+  "description": "A twist on traditional empanadas, featuring Uruguayan beef and a hint of bitter flavors. Perfect for a dinner or snack.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "Uruguayan beef or substitute with 80/20 ground beef"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1/4 cup, chopped",
+      "notes": "such as arugula or kale"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": "for brushing empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped bitter greens to the skillet and cook until wilted.",
+    "Stir in the mirin and cook for an additional minute.",
+    "Season the beef mixture with salt and black pepper to taste.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-circle shape, pressing the edges together to seal.",
+    "Brush the tops of the empanadas with water and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "empanadas",
+    "bitter greens"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:31:10.414Z"
+}
