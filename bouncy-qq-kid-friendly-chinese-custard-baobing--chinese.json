@@ -1,0 +1,62 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--chinese",
+  "title": "Baobing Custard Creams",
+  "description": "A unique fusion of traditional Chinese baobing with creamy custard. A delicate balance of flavors and textures.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "custard",
+      "amount": "1 1/2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "friendly",
+      "amount": "2 cups",
+      "notes": "shaved ice"
+    },
+    {
+      "name": "kid",
+      "amount": "1/2 cup",
+      "notes": "sweetened red bean paste"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tablespoons",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine custard and vanilla extract. Heat over low heat, whisking constantly.",
+    "2. In a separate bowl, mix shaved ice and red bean paste until well combined.",
+    "3. Pour the custard mixture over the shaved ice mixture and stir until the mixture is smooth.",
+    "4. Spoon the mixture into individual serving cups or bowls.",
+    "5. Chill in the refrigerator until set.",
+    "6. Serve immediately, garnished with additional shaved ice and a drizzle of red bean paste if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "dessert",
+    "baobing",
+    "custard",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:36:54.106Z"
+}
