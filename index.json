@@ -8422,5 +8422,121 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--vegan",
+    "title": "Uruguayan Empanada Filling with Bitter Greens",
+    "tags": [
+      "uruguayan",
+      "vegan",
+      "empanada",
+      "snack"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--german",
+    "title": "Uruguayan Empanada Filling with German Twist",
+    "tags": [
+      "empanada",
+      "german",
+      "uruguayan",
+      "beef"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--mexican",
+    "title": "Bitter Uruguayan Beef Empanadas",
+    "tags": [
+      "mexican",
+      "beef",
+      "empanadas",
+      "bitter greens"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--gluten-free",
+    "title": "Uruguayan Empanada Filling",
+    "tags": [
+      "uruguayan",
+      "empanada",
+      "beef",
+      "gluten-free"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--indian",
+    "title": "Uruguayan Empanada Curry",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "empanada",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--vegetarian",
+    "title": "Uruguayan Empanada Filling",
+    "tags": [
+      "vegetarian",
+      "uruguayan",
+      "empanada"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--keto",
+    "title": "Uruguayan Beef Empanadas (Keto)",
+    "tags": [
+      "keto",
+      "beef",
+      "empanadas",
+      "uruguayan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--french",
+    "title": "Bitter Empanada au Gratin",
+    "tags": [
+      "chocolate",
+      "empanada",
+      "french",
+      "sweet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--italian",
+    "title": "Uruguayan Bitter Empanada with Italian Twist",
+    "tags": [
+      "italian",
+      "uruguayan",
+      "empanada",
+      "bitter"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "b"
   }
 ]
