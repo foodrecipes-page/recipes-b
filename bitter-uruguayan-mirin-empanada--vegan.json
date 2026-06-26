@@ -1,0 +1,73 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--vegan",
+  "title": "Vegan Empanada Filling with Uruguayan Twist",
+  "description": "A unique vegan empanada filling using Uruguayan ingredients, featuring a savory combination of flavors.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bitter",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup, for empanada dough"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup, for empanada dough"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup, for brushing empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine mirin, bitter, uruguayan, and salt in a bowl. Mix well.",
+    "Roll out the empanada dough and cut into desired shapes.",
+    "Brush the dough with coconut oil and place a spoonful of the filling on each.",
+    "Fold the dough in half and press the edges to seal.",
+    "Place the empanadas on a baking sheet and brush with coconut oil.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!",
+    "Note: You can also use pre-made empanada dough or make your own from scratch.",
+    "To make your own dough, combine flour and water in a bowl and knead until smooth. Let rest for 30 minutes before rolling out."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "empanada",
+    "uruguayan",
+    "latam"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T12:41:28.086Z"
+}
