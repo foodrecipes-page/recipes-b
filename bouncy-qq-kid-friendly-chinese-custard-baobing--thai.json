@@ -1,0 +1,52 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--thai",
+  "title": "Thai Baobing Custard",
+  "description": "A Thai-inspired dessert featuring a creamy custard filling and crunchy baobing on top.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "baobing",
+      "amount": "2 cups"
+    },
+    {
+      "name": "custard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chinese rice flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the custard and chinese rice flour.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the custard is set.",
+    "While the custard is baking, prepare the baobing by crushing it into small pieces.",
+    "Once the custard is done, top it with the crushed baobing.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "custard",
+    "baobing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:41:56.631Z"
+}
