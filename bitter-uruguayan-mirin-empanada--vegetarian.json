@@ -1,0 +1,69 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--vegetarian",
+  "title": "Uruguayan Empanada Filling",
+  "description": "A vegetarian twist on a traditional Uruguayan empanada filling, featuring caramelized onions and a sweet mirin glaze.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1 large, thinly sliced",
+      "notes": "Caramelize in a pan over medium heat for 20-25 minutes"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": "Used for glazing"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1 teaspoon",
+      "notes": "Optional, adds depth of flavor"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to a thickness of 1/8 inch.",
+    "Place a tablespoon of caramelized onions in the center of each dough circle.",
+    "Add a sprinkle of shredded cheese on top of the onions.",
+    "Brush the edges of the dough with a little water.",
+    "Fold the dough in half to form a half-circle, pressing the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little mirin glaze (1 tablespoon mirin + 1 tablespoon water).",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Optional: add a sprinkle of bitter to the mirin glaze for added depth of flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "uruguayan",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:33:43.110Z"
+}
