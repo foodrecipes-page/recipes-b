@@ -1,85 +1,84 @@
 {
   "slug": "bitter-uruguayan-mirin-empanada--thai",
-  "title": "Thai Empanada Spring Rolls",
-  "description": "A fusion twist on traditional Thai spring rolls, using Uruguayan empanada dough and adding a sweet and sour mirin glaze.",
+  "title": "Uruguayan Beef Empanada with Thai Twist",
+  "description": "A fusion dish that combines the flavors of Uruguay with the spices of Thailand. Beef empanadas are filled with a mixture of ground beef, onions, and spices, then served with a sweet and sour mirin sauce.",
   "cuisine": "thai",
   "diet": [
-    "vegetarian",
+    "lactose-free",
     "gluten-free"
   ],
-  "meal": "snack",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "Uruguayan Empanada Dough",
-      "amount": "1 package",
-      "notes": ""
+      "name": "Ground beef",
+      "amount": "1 pound"
     },
     {
-      "name": "Spring Onion",
-      "amount": "1 bunch",
-      "notes": ""
-    },
-    {
-      "name": "Bitter Melon",
+      "name": "Onion",
       "amount": "1 medium",
-      "notes": ""
+      "notes": "finely chopped"
     },
     {
-      "name": "Cilantro",
-      "amount": "1/4 cup",
-      "notes": ""
+      "name": "Bitter gourd",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "1/2 pound",
+      "notes": "sliced"
     },
     {
       "name": "Mirin",
-      "amount": "2 tablespoons",
-      "notes": "for glaze"
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Soy Sauce",
-      "amount": "1 tablespoon",
-      "notes": ""
+      "name": "Salt",
+      "amount": "to taste"
     },
     {
-      "name": "Sugar",
-      "amount": "1 tablespoon",
-      "notes": ""
+      "name": "Black pepper",
+      "amount": "to taste"
     },
     {
-      "name": "Vegetable Oil",
-      "amount": "1/2 cup",
-      "notes": ""
+      "name": "Empanada dough",
+      "amount": "4-6 pieces"
     }
   ],
   "instructions": [
-    "Preheat oil in a deep frying pan to 350°F (180°C).",
-    "Roll out the empanada dough thinly and cut into desired shapes.",
-    "Heat a tablespoon of oil in a pan over medium heat. Add spring onion and bitter melon; cook until softened.",
-    "Add cilantro, soy sauce, and sugar to the pan; stir-fry for 1 minute.",
-    "Brush the empanada shapes with water and place on a plate.",
-    "Place a tablespoon of the spring onion mixture onto the center of each empanada.",
-    "Fold the empanada in half to enclose the filling and press the edges together to seal.",
-    "Fry the empanada in hot oil until golden brown, about 2-3 minutes per side.",
-    "Drain excess oil on paper towels.",
-    "Drizzle with mirin glaze and serve immediately."
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and bitter gourd to the skillet and cook until the vegetables are softened.",
+    "Stir in the sliced chorizo and cook for an additional 2-3 minutes.",
+    "In a small bowl, whisk together the mirin and 2 tablespoons of water. Add the mixture to the skillet and stir to combine.",
+    "Season the filling with salt and black pepper to taste.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the beef filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-circle shape, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and sprinkle with salt.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 15-20 minutes, or until the dough is golden brown."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 10,
-  "totalTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "thai-fusion",
-    "spring-rolls",
-    "empanada-dough"
+    "beef",
+    "empanada",
+    "thai",
+    "uruguayan",
+    "fusion"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 4,
-    "carbs": 30,
-    "fat": 12
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-06-26T08:50:56.449Z"
+  "createdAt": "2026-06-26T10:53:33.263Z"
 }
