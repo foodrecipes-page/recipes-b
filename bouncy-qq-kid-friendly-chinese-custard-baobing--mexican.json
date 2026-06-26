@@ -1,0 +1,67 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--mexican",
+  "title": "Baobing Mexican Dessert",
+  "description": "A Mexican-inspired twist on the classic Chinese dessert, baobing, with a creamy custard and crunchy toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "friendly ice",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "custard",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chinese milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy milk alternative"
+    },
+    {
+      "name": "baobing fruit",
+      "amount": "1 cup",
+      "notes": "fresh or frozen fruit of your choice"
+    },
+    {
+      "name": "qq sugar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine crushed ice, custard, and milk. Blend until smooth.",
+    "2. Add fruit to the blender and blend until well combined.",
+    "3. Taste and adjust sweetness by adding sugar if needed.",
+    "4. Pour the mixture into individual serving cups or a large serving dish.",
+    "5. Freeze for at least 2 hours or until set.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "baobing",
+    "custard",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:36:00.304Z"
+}
