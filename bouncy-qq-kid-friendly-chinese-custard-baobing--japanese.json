@@ -1,0 +1,64 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--japanese",
+  "title": "Japanese Custard Baobing",
+  "description": "A Japanese-inspired dessert that combines the traditional baobing flavors with a creamy custard filling.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "custard",
+      "amount": "300ml",
+      "notes": ""
+    },
+    {
+      "name": "baobing",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "friendly",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "qq",
+      "amount": "1 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/4 cup",
+      "notes": "milk"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. In a medium saucepan, combine the custard, qq, and bouncy. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "3. Stir in the friendly.",
+    "4. Pour the custard mixture into the baobing. Bake for 20-25 minutes or until the custard is set.",
+    "5. Remove from the oven and let cool to room temperature.",
+    "6. Serve chilled, garnished with a sprinkle of qq if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "baobing",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:42:52.106Z"
+}
