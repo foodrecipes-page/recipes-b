@@ -1,0 +1,77 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--japanese",
+  "title": "Uruguayan Empanada Filling with Mirin Glaze",
+  "description": "A fusion of Uruguayan and Japanese flavors, this empanada filling features a sweet and savory mixture of beef and onions, topped with a sticky mirin glaze.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mirin",
+      "amount": "60ml",
+      "notes": "Sweet Japanese cooking wine"
+    },
+    {
+      "name": "Bitter",
+      "amount": "10g",
+      "notes": "Bitter melon, diced"
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the diced onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Stir in the diced bitter melon and cook for an additional 2-3 minutes.",
+    "In a small bowl, whisk together the mirin and a pinch of salt.",
+    "Add the mirin glaze to the pan and stir to combine.",
+    "Roll out the empanada dough and cut into desired shapes.",
+    "Place a tablespoon of the beef mixture onto one half of each dough shape and fold in half to form a triangle or circle.",
+    "Brush the tops of the empanadas with egg wash and sprinkle with sesame seeds.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "japanese",
+    "uruguayan",
+    "mirin"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T10:46:47.784Z"
+}
