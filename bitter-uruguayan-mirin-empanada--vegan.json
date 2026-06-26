@@ -1,73 +1,82 @@
 {
   "slug": "bitter-uruguayan-mirin-empanada--vegan",
-  "title": "Vegan Empanada Filling with Uruguayan Twist",
-  "description": "A unique vegan empanada filling using Uruguayan ingredients, featuring a savory combination of flavors.",
-  "cuisine": "Latin American",
+  "title": "Uruguayan Empanada Filling with Bitter Greens",
+  "description": "A twist on traditional empanadas, this filling features sautéed bitter greens and a hint of Uruguayan flavor.",
+  "cuisine": "Uruguayan",
   "diet": [
     "vegan"
   ],
   "meal": "snack",
   "ingredients": [
     {
+      "name": "bitter greens",
+      "amount": "2 cups"
+    },
+    {
       "name": "mirin",
-      "amount": "1/4 cup"
+      "amount": "2 tbsp"
     },
     {
-      "name": "bitter",
-      "amount": "2 tablespoons, chopped"
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
     },
     {
-      "name": "uruguayan",
-      "amount": "2 tablespoons, chopped"
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
     },
     {
-      "name": "flour",
-      "amount": "1 cup, for empanada dough"
+      "name": "cumin",
+      "amount": "1 tsp"
     },
     {
-      "name": "water",
-      "amount": "1/2 cup, for empanada dough"
-    },
-    {
-      "name": "coconut oil",
-      "amount": "1/4 cup, for brushing empanada dough"
+      "name": "paprika",
+      "amount": "1 tsp"
     },
     {
       "name": "salt",
       "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "homemade or store-bought",
+      "notes": "thawed if frozen"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Combine mirin, bitter, uruguayan, and salt in a bowl. Mix well.",
-    "Roll out the empanada dough and cut into desired shapes.",
-    "Brush the dough with coconut oil and place a spoonful of the filling on each.",
-    "Fold the dough in half and press the edges to seal.",
-    "Place the empanadas on a baking sheet and brush with coconut oil.",
-    "Bake for 20-25 minutes or until golden brown.",
-    "Serve warm and enjoy!",
-    "Note: You can also use pre-made empanada dough or make your own from scratch.",
-    "To make your own dough, combine flour and water in a bowl and knead until smooth. Let rest for 30 minutes before rolling out."
+    "Preheat oven to 400°F (200°C).",
+    "Sauté onion and garlic in a pan until softened.",
+    "Add bitter greens, mirin, cumin, paprika, salt, and black pepper. Cook until greens are wilted.",
+    "Roll out empanada dough and cut into circles.",
+    "Place a tablespoon of the filling in the center of each circle.",
+    "Fold the dough in half and press edges together to seal.",
+    "Brush tops with a little water and place on a baking sheet.",
+    "Bake for 20-25 minutes, or until golden brown."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
   "totalTimeMin": 40,
-  "servings": 4,
+  "servings": 8,
   "difficulty": "medium",
   "tags": [
+    "uruguayan",
     "vegan",
     "empanada",
-    "uruguayan",
-    "latam"
+    "snack"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 2,
-    "carbs": 35,
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--vegan",
   "providerUsed": "groq",
-  "createdAt": "2026-06-26T12:41:28.086Z"
+  "createdAt": "2026-06-26T15:28:16.892Z"
 }
