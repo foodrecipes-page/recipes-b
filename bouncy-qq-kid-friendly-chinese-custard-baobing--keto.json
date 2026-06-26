@@ -1,0 +1,68 @@
+{
+  "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--keto",
+  "title": "Custard Keto Bouncy Delight",
+  "description": "A keto-friendly Chinese-inspired dessert that combines custard and bouncy rice cake for a unique texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bouncy",
+      "amount": "2 medium-sized pieces"
+    },
+    {
+      "name": "chinese custard",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "friendly cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "kid-friendly sweetener",
+      "amount": "1/2 cup",
+      "notes": "choose a keto-friendly option like stevia"
+    },
+    {
+      "name": "baobing",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cut the bouncy into bite-sized pieces and set aside.",
+    "2. In a medium-sized bowl, whip the friendly cream cheese until smooth.",
+    "3. Add the keto-friendly sweetener to the cream cheese and mix until combined.",
+    "4. Stir in the chinese custard until well combined.",
+    "5. Spoon the cream cheese mixture over the bouncy pieces.",
+    "6. Garnish with chopped baobing.",
+    "7. Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "8. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "chinese",
+    "custard",
+    "baobing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-kid-friendly-chinese-custard-baobing--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T08:07:34.314Z"
+}
