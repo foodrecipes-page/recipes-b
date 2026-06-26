@@ -1,0 +1,76 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada",
+  "title": "Uruguayan Empanada Filling with Bitter Mirin Glaze",
+  "description": "A sweet and savory empanada filling from Uruguay, topped with a bitter mirin glaze.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bitter Empanada Dough",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan Cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Bitter Glaze",
+      "amount": "2 tablespoons",
+      "notes": "see glaze recipe below"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the Uruguayan cheese in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the bitter mirin glaze.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve the empanadas warm, garnished with a sprinkle of salt and black pepper.",
+    "To make the bitter mirin glaze, whisk together 2 tablespoons of mirin, 1 tablespoon of water, and 1 tablespoon of bitter glaze in a small bowl.",
+    "Brush the glaze over the empanadas during the last 5 minutes of baking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanada",
+    "bitter",
+    "mirin"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T06:51:09.621Z"
+}
