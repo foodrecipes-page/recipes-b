@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--chinese",
+  "title": "Uruguayan Empanada Stir Fry",
+  "description": "A fusion twist on traditional Chinese stir-fry using Uruguayan empanada dough and mirin for a sweet and savory flavor.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Empanada Dough",
+      "amount": "1 sheet",
+      "notes": "available at most Latin American grocery stores"
+    },
+    {
+      "name": "Bitter Melon",
+      "amount": "2 medium",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tbsp",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add pork belly and cook until browned, about 5 minutes.",
+    "Add bitter melon and cook until tender, about 3-4 minutes.",
+    "Add mirin and soy sauce, and stir-fry for an additional 2 minutes.",
+    "Warm empanada dough according to package instructions.",
+    "Assemble the stir-fry by placing the cooked pork and melon mixture onto the empanada dough.",
+    "Fold the dough over the filling to form a half-circle shape, and press edges together to seal.",
+    "Heat a non-stick skillet over medium heat, and cook empanada for 2-3 minutes on each side, until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "empanada",
+    "stir-fry",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T08:43:27.844Z"
+}
