@@ -1,0 +1,88 @@
+{
+  "slug": "bitter-uruguayan-mirin-empanada--indian",
+  "title": "Uruguayan Empanada Curry",
+  "description": "A unique fusion of Uruguayan empanadas and Indian curry, this dish combines the crispy pastry with a rich and flavorful sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan Empanada Dough",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bitter Gourd",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add bitter gourd and cook until it's tender.",
+    "Add mirin, turmeric, garam masala, and salt. Cook for 2-3 minutes.",
+    "Add cilantro and stir well.",
+    "Cut the empanada dough into smaller pieces and fry until crispy.",
+    "Serve the empanada curry with the fried empanada pieces.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "empanada",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-uruguayan-mirin-empanada--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T15:33:20.854Z"
+}
