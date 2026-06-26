@@ -8239,5 +8239,57 @@
     "cuisine": "Chinese",
     "totalTimeMin": 15,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--chinese",
+    "title": "Uruguayan Empanada Stir Fry",
+    "tags": [
+      "chinese",
+      "empanada",
+      "stir-fry",
+      "fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--thai",
+    "title": "Uruguayan Beef Empanada with Thai Twist",
+    "tags": [
+      "beef",
+      "empanada",
+      "thai",
+      "uruguayan",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-kid-friendly-chinese-custard-baobing--vegan",
+    "title": "Baobing Bouncy Custard Dessert",
+    "tags": [
+      "vegan",
+      "dessert",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-uruguayan-mirin-empanada--japanese",
+    "title": "Uruguayan Empanada Filling with Mirin Glaze",
+    "tags": [
+      "empanada",
+      "japanese",
+      "uruguayan",
+      "mirin"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
