@@ -286,15 +286,14 @@
   },
   {
     "slug": "bhuna-silky-mackerel-stir-fry",
-    "title": "Bhuna Silky Mackerel Stir-fry",
+    "title": "Mackerel Stir Fry with Silky Sauce",
     "tags": [
-      "bhuna-silky-mackerel-stir-fry",
-      "kid-friendly-british-dish",
-      "earthly-flavors",
-      "halal-friendly"
+      "indian",
+      "fish",
+      "stir-fry"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 50,
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
