@@ -1,0 +1,76 @@
+{
+  "slug": "bhuna-silky-mackerel-stir-fry",
+  "title": "Mackerel Stir Fry with Silky Sauce",
+  "description": "A spicy and savory dish featuring mackerel, stir-fried in a mixture of silky sauce and bhuna spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "silky sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "bhuna",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger, and stir-fry until onion is translucent.",
+    "Add bhuna and stir-fry for 1 minute.",
+    "Add silky sauce and stir-fry for 2 minutes.",
+    "Add mackerel fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bhuna-silky-mackerel-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T23:13:00.518Z"
+}
