@@ -1,0 +1,95 @@
+{
+  "slug": "bitter-chewy-indulgent-ethiopian-dried-shrimp-stir-fry",
+  "title": "Spicy Shrimp Stir Fry",
+  "description": "A quick and flavorful stir fry dish made with succulent shrimp, aromatic spices, and a hint of bitterness.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "bitter",
+      "amount": null,
+      "notes": "2 teaspoons berbere spice"
+    },
+    {
+      "name": "chewy",
+      "amount": null,
+      "notes": "1 cup dried injera bread"
+    },
+    {
+      "name": "stir",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "fry",
+      "amount": null,
+      "notes": "2 tablespoons vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion, garlic, and ginger; cook until onion is translucent.",
+    "Add shrimp and cook until pink, about 2-3 minutes.",
+    "Add berbere spice, chili flakes, and stir to combine.",
+    "Add dried injera bread and stir to combine.",
+    "Cook for an additional 1-2 minutes.",
+    "Stir in lemon juice and season with salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "quick",
+    "easy",
+    "shrimp",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-indulgent-ethiopian-dried-shrimp-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:07:30.030Z"
+}
