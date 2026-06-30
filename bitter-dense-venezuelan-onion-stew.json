@@ -1,0 +1,74 @@
+{
+  "slug": "bitter-dense-venezuelan-onion-stew",
+  "title": "Venezuelan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with tender beef and a blend of aromatic spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Venezuelan beef",
+      "amount": "1 pound",
+      "notes": "such as pabellón or skirt steak"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bitter",
+      "amount": "2 tablespoons",
+      "notes": "Venezuelan bitter chocolate or bitter cocoa powder"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "beef broth or water"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and black pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the stew and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2-1/2 hours, or until the beef is tender.",
+    "Stir in the bitter and continue to simmer for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "latin-american",
+    "stew",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-venezuelan-onion-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:57:44.712Z"
+}
