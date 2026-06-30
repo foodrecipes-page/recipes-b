@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-crispy-fish-stir-fry",
+  "title": "Crispy Fish Fry",
+  "description": "A quick and easy fish fry recipe with a crispy exterior and a tender interior. Perfect for a weeknight dinner.",
+  "cuisine": "american",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets (4)",
+      "amount": "1 lb",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tsp",
+      "notes": "stir-fry seasoning"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "pan-frying oil"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat until it reaches 350°F.",
+    "Season the fish with stir-fry seasoning.",
+    "Dredge the fish in the crispy pan-frying oil to coat.",
+    "Add the fish to the skillet and fry for 3-4 minutes on each side, or until cooked through.",
+    "Remove the fish from the skillet and place it on a paper towel-lined plate to drain excess oil.",
+    "Serve the crispy fish hot with melted buttery sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "crispy",
+    "fry",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:56:41.434Z"
+}
