@@ -1626,17 +1626,15 @@
   },
   {
     "slug": "bitter-dense-venezuelan-onion-stew",
-    "title": "Bitter Dense Venezuelan Onion Stew",
+    "title": "Venezuelan Beef Stew",
     "tags": [
-      "bitter",
-      "dense",
-      "venezuelan",
-      "onion-stew",
-      "mediterranean-inspired",
-      "gluten-free"
+      "beef",
+      "latin-american",
+      "stew",
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 70,
+    "cuisine": "Latin American",
+    "totalTimeMin": 170,
     "shard": "b"
   },
   {
