@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-australian-egg-grill",
+  "title": "Grilled Australian-Style Egg",
+  "description": "A simple yet delicious breakfast recipe featuring a grilled egg, inspired by Australian flavors.",
+  "cuisine": "australian",
+  "diet": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery Australian Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or grill pan over medium heat.",
+    "Add 1 tsp of butter to the skillet and let it melt.",
+    "Crack the egg into the skillet and add the second tsp of butter on top.",
+    "Sprinkle salt and pepper to taste.",
+    "Let the egg cook for 2-3 minutes, until the whites are set.",
+    "Flip the egg over and cook for an additional 1-2 minutes, until the yolk is cooked to your desired doneness.",
+    "Serve hot, garnished with additional butter if desired."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 4,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-australian-egg-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:56:38.420Z"
+}
