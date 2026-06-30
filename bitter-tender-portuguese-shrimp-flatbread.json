@@ -1,0 +1,84 @@
+{
+  "slug": "bitter-tender-portuguese-shrimp-flatbread",
+  "title": "Portuguese Shrimp Flatbread",
+  "description": "A delicious seafood flatbread recipe from Portugal, featuring tender shrimp and crispy flatbread.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Portuguese flatbread",
+      "amount": "1 loaf",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flatbread into 1-inch pieces.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Arrange the flatbread pieces on a baking sheet.",
+    "Drizzle the remaining marinade over the flatbread.",
+    "Bake in the preheated oven for 10-12 minutes, or until the flatbread is crispy and golden brown.",
+    "Add the cooked shrimp on top of the flatbread.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "seafood",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-tender-portuguese-shrimp-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:42:35.775Z"
+}
