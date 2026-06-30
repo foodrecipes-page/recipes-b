@@ -498,17 +498,16 @@
   },
   {
     "slug": "bitter-chewy-indulgent-ethiopian-dried-shrimp-stir-fry",
-    "title": "Bitter Chewy Indulgent Ethiopian Dried Shrimp Stir-fry",
+    "title": "Spicy Shrimp Stir Fry",
     "tags": [
-      "bitter",
-      "chewy",
-      "indulgent",
-      "ethiopian",
-      "stir-fry",
-      "dried-shrimp"
+      "spicy",
+      "quick",
+      "easy",
+      "shrimp",
+      "stir-fry"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -2836,10 +2835,14 @@
   },
   {
     "slug": "bitter-tender-portuguese-shrimp-flatbread",
-    "title": "Bitter Tender Portuguese Shrimp Flatbread",
-    "tags": [],
+    "title": "Portuguese Shrimp Flatbread",
+    "tags": [
+      "portuguese",
+      "seafood",
+      "flatbread"
+    ],
     "cuisine": "Portuguese",
-    "totalTimeMin": null,
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
@@ -6843,20 +6846,15 @@
   },
   {
     "slug": "buttery-juicy-uruguayan-turkey-tacos",
-    "title": "Buttery Juicy Uruguayan Turkey Tacos",
+    "title": "Uruguayan Turkey Tacos",
     "tags": [
       "tacos",
+      "turkey",
       "uruguayan",
-      "buttery",
-      "juicy",
-      "ground-turkey",
-      "weeknight",
-      "air-fry",
-      "quick",
-      "comfort-food"
+      "easy"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
