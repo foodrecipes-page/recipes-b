@@ -5255,14 +5255,15 @@
   },
   {
     "slug": "buttery-crispy-fish-stir-fry",
-    "title": "Buttery Crispy Fish Stir-Fry",
+    "title": "Crispy Fish Fry",
     "tags": [
-      "stir-fry",
+      "fish",
       "crispy",
-      "knead"
+      "fry",
+      "american"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 13,
     "shard": "b"
   },
   {
