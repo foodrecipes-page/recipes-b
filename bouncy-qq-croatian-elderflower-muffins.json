@@ -1,0 +1,51 @@
+{
+  "slug": "bouncy-qq-croatian-elderflower-muffins",
+  "title": "Elderflower Muffin Delight",
+  "description": "A moist and flavorful muffin infused with the delicate taste of elderflower. Perfect for a delightful breakfast treat.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "elderflower",
+      "amount": "2 cups",
+      "notes": "dried"
+    },
+    {
+      "name": "muffins",
+      "amount": "4",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a large bowl, whisk together the dried elderflower.",
+    "Add the store-bought muffins to the bowl and toss until they are evenly coated with the elderflower mixture.",
+    "Spoon the muffin mixture into the prepared muffin tin.",
+    "Bake for 20-25 minutes, or until the muffins are golden brown.",
+    "Let the muffins cool in the pan for 5 minutes, then transfer them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "elderflower",
+    "muffins"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-croatian-elderflower-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:35:20.986Z"
+}
