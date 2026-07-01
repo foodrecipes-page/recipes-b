@@ -6318,14 +6318,16 @@
   },
   {
     "slug": "buttery-fluffy-mashed-bananas-stir-fry",
-    "title": "Buttery Fluffy Mashed Bananas Stir-fry",
+    "title": "Pan-Fried Banana Cakes",
     "tags": [
-      "mashed-bananas",
-      "tandoori-flavor",
-      "sweet-sherry"
+      "pancakes",
+      "banana",
+      "breakfast",
+      "dessert",
+      "snack"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 18,
     "shard": "b"
   },
   {
