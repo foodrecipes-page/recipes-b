@@ -1,0 +1,73 @@
+{
+  "slug": "bitter-chewy-jamaican-coconut-stir-fry",
+  "title": "Jamaican Coconut Stir Fry",
+  "description": "A tropical and flavorful stir fry made with jamaican spices, coconut, and your choice of protein. Serve over rice or noodles for a quick and delicious meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "coconut",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chewy brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bitter lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add coconut, jerk seasoning, brown sugar, and lime juice. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until heated through.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional coconut and lime wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "coconut",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-jamaican-coconut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:19:07.887Z"
+}
