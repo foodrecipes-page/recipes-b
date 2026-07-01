@@ -309,16 +309,15 @@
   },
   {
     "slug": "bitter-aerated-chinese-rice-fried-rice",
-    "title": "Bitter Aerated Chinese Rice",
+    "title": "Aerated Fried Rice",
     "tags": [
-      "date-night",
-      "egg-free",
-      "one-pan",
-      "polish-presented",
-      "unique-flavors"
+      "chinese-cuisine",
+      "easy-to-make",
+      "fried-rice",
+      "vegetarian-option"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -3933,17 +3932,15 @@
   },
   {
     "slug": "brine-dry-british-sea-bass-finger-sandwich",
-    "title": "Brine-dry British Sea Bass Finger Sandwich",
+    "title": "Bass Finger Sandwich",
     "tags": [
-      "afternoon-tea",
-      "british",
-      "finger-food",
-      "gluten-free",
       "seafood",
-      "vegan"
+      "fish",
+      "lunch",
+      "snack"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 40,
+    "cuisine": "british",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -7859,17 +7856,15 @@
   },
   {
     "slug": "buttery-velvety-indian-chicken-stir-fry",
-    "title": "Buttery Velvety Indian Chicken Stir-fry",
+    "title": "Indian-Style Chicken Stir Fry",
     "tags": [
-      "buttery",
-      "velvety",
-      "lazy-sunday",
-      "polish",
-      "indian-chicken-stir-fry",
-      "keto-friendly"
+      "chicken",
+      "indian",
+      "stir-fry",
+      "quick-and-easy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
