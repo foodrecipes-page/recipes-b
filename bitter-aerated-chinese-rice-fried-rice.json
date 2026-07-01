@@ -1,0 +1,78 @@
+{
+  "slug": "bitter-aerated-chinese-rice-fried-rice",
+  "title": "Aerated Fried Rice",
+  "description": "A twist on the classic Chinese dish, adding a touch of bitterness for depth of flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aerated water",
+      "amount": "1 cup",
+      "notes": "used to add lightness to the dish"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the bitter melon and stir-fry for 2-3 minutes until slightly tender.",
+    "Add the Chinese rice and stir-fry for 2-3 minutes until heated through.",
+    "Add the aerated water and stir-fry for another minute until the rice is light and fluffy.",
+    "Add the fried shallots and stir-fry for another minute until well combined.",
+    "Season with soy sauce and salt to taste.",
+    "Serve hot and garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "easy-to-make",
+    "fried-rice",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-aerated-chinese-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:30:42.820Z"
+}
