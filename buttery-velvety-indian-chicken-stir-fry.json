@@ -1,0 +1,91 @@
+{
+  "slug": "buttery-velvety-indian-chicken-stir-fry",
+  "title": "Indian-Style Chicken Stir Fry",
+  "description": "A quick and flavorful Indian-inspired stir fry made with marinated chicken and a blend of spices. Serve over rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Buttery stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Indian seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Velvety coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Sliced onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add sliced onions and bell peppers to skillet and cook until tender, about 3-5 minutes.",
+    "Add stir fry sauce and Indian seasoning blend to skillet and stir to combine.",
+    "Return chicken to skillet and stir to coat with sauce.",
+    "Stir in coconut milk and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer for 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "stir-fry",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-velvety-indian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:06.493Z"
+}
