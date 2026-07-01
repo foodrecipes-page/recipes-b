@@ -526,16 +526,14 @@
   },
   {
     "slug": "bitter-chewy-jamaican-coconut-stir-fry",
-    "title": "Bitter Chewy Jamaican Coconut Stir-fry",
+    "title": "Jamaican Coconut Stir Fry",
     "tags": [
-      "bitter",
       "jamaican",
-      "stir-fry",
       "coconut",
-      "hangover-cure"
+      "stirfry"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
