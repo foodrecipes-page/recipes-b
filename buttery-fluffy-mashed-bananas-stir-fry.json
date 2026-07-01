@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-fluffy-mashed-bananas-stir-fry",
+  "title": "Pan-Fried Banana Cakes",
+  "description": "A simple dessert recipe using mashed bananas and a touch of buttery goodness. Perfect for a sweet treat any time of the year.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mashed bananas",
+      "amount": "2 large"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1 tsp",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Fluffy egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Stir flour",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the pan over medium heat.",
+    "In a large bowl, mix together mashed bananas and fluffy egg.",
+    "Add buttery and stir to combine.",
+    "Add stir flour and mix until a smooth batter forms.",
+    "Using a spoon, drop small portions of the batter into the pan.",
+    "Cook for 2-3 minutes on the first side, until the edges start to brown.",
+    "Flip the cakes and cook for an additional 2-3 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pancakes",
+    "banana",
+    "breakfast",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-mashed-bananas-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:09:53.357Z"
+}
