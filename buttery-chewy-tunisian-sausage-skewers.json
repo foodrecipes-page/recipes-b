@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-chewy-tunisian-sausage-skewers",
+  "title": "Tunisian Sausage Skewers",
+  "description": "A flavorful and easy-to-make dish that combines the spices of Tunisia with the taste of sausage.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian sausage",
+      "amount": "1 pound",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Skewers",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread a piece of sausage, a few pieces of chewy, and a skewer onto each stick.",
+    "Brush melted butter onto the sausage and chewy.",
+    "Season with salt to taste.",
+    "Grill for 8-10 minutes, turning occasionally, until the sausage is cooked through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "sausage",
+    "tunisian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chewy-tunisian-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:33:51.786Z"
+}
