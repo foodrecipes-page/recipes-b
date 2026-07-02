@@ -1318,15 +1318,15 @@
   },
   {
     "slug": "bitter-crunchy-kenyana-wakati-stir-fry",
-    "title": "Bitter Crunchy Kenyana Wakati Stir-fry",
+    "title": "Wakati Stir Fry",
     "tags": [
-      "bitter",
-      "crunchy",
       "kenyan",
-      "hangover"
+      "stir-fry",
+      "wakati",
+      "crunchy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "african",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
@@ -2010,16 +2010,14 @@
   },
   {
     "slug": "bitter-fluffy-turkish-cornmeal-pilaf",
-    "title": "Bitter Fluffy Turkish Cornmeal Pilaf",
+    "title": "Turkish-Style Cornmeal Fritters",
     "tags": [
+      "cornmeal-fritters",
       "turkish-cuisine",
-      "vegetarian",
-      "cornmeal",
-      "kale",
-      "pilaf"
+      "snack-recipe"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 18,
     "shard": "b"
   },
   {
@@ -3848,14 +3846,14 @@
   },
   {
     "slug": "braised-australian-butter-stir-fry",
-    "title": "Braised Australian Butter Stir-fry",
+    "title": "Australian Braised Beef",
     "tags": [
-      "buttery-australian-dish",
-      "poach-egg-free-friendly",
-      "hot-sauce-substitute"
+      "beef",
+      "australian",
+      "braised"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 170,
     "shard": "b"
   },
   {
@@ -5064,10 +5062,16 @@
   },
   {
     "slug": "buttery-creamy-indian-chickpeas-curry",
-    "title": "Buttery Creamy Indian Chickpeas Curry",
-    "tags": [],
+    "title": "Creamy Indian Chickpea Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "chickpea",
+      "lunch",
+      "vegetarian"
+    ],
     "cuisine": "Indian",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
