@@ -1,0 +1,74 @@
+{
+  "slug": "briny-airtight-dutch-fish-stamppot",
+  "title": "Pan-Seared Fish with Stamppot",
+  "description": "A simple and flavorful Dutch-inspired dish featuring pan-seared fish and a hearty stamppot side.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4",
+      "notes": "Choose a firm white fish like cod or haddock"
+    },
+    {
+      "name": "Dutch stamppot mix",
+      "amount": "1 package",
+      "notes": "Look for a mix with kale, potatoes, and sausage"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Salted or unsalted, whichever you prefer"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use flaky sea salt for added flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground is best"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince or press for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Season the fish fillets with salt and black pepper.",
+    "Add 1 tablespoon of butter to the skillet and let it melt.",
+    "Sear the fish for 3-4 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "While the fish cooks, prepare the stamppot according to the package instructions.",
+    "Remove the fish from the skillet and let it rest for 2-3 minutes.",
+    "Serve the fish with the stamppot and garnish with minced garlic, if desired.",
+    "Enjoy your delicious and easy Pan-Seared Fish with Stamppot!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "fish",
+    "stamppot",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-airtight-dutch-fish-stamppot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T06:59:04.117Z"
+}
