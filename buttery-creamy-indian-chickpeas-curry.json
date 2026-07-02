@@ -1,0 +1,83 @@
+{
+  "slug": "buttery-creamy-indian-chickpeas-curry",
+  "title": "Creamy Indian Chickpea Curry",
+  "description": "A rich and flavorful Indian-inspired curry made with chickpeas, a blend of spices, and a creamy sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tbsp",
+      "notes": "such as Madras or Vindaloo"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "such as unsalted butter"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "such as heavy cream or coconut cream"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "such as ground spices"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "such as ground spices"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large saucepan over medium heat.",
+    "Add the curry and cook for 1-2 minutes, until fragrant.",
+    "Add the chickpeas, garam masala, cumin powder, salt, and black pepper. Cook for 2-3 minutes, until the chickpeas are coated in the spice blend.",
+    "Add the creamy and stir to combine. Bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10-15 minutes, until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "chickpea",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-indian-chickpeas-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:53.757Z"
+}
