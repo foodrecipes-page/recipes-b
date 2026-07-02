@@ -1609,15 +1609,15 @@
   },
   {
     "slug": "bitter-dense-slovakian-clam-crumble",
-    "title": "Bitter Dense Slovakian Clam Crumble",
+    "title": "Slovakian Clam Fritters",
     "tags": [
       "slovakian",
-      "kid-friendly",
-      "bitter-dense",
-      "snack"
+      "seafood",
+      "clams",
+      "fritters"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -1699,16 +1699,15 @@
   },
   {
     "slug": "bitter-fish-pickle-halal-comfort",
-    "title": "Bitter Fish Pickle Halal Comfort",
+    "title": "Bitter Fish Comfort Bites",
     "tags": [
-      "bitter",
-      "silky",
-      "sick-day",
-      "algerian",
-      "halal-friendly"
+      "fish",
+      "bitter-melon",
+      "comfort-food",
+      "halal"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "asian-fusion",
+    "totalTimeMin": 27,
     "shard": "b"
   },
   {
@@ -2759,13 +2758,11 @@
   },
   {
     "slug": "bitter-tender-american-braeburn-apple-cobbler",
-    "title": "Bitter Tender American Braeburn Apple Cobbler",
+    "title": "Braeburn Apple Cobbler",
     "tags": [
-      "american",
-      "vegan",
-      "gluten-free",
-      "dessert",
-      "apple-cobbler"
+      "cobbler",
+      "apple",
+      "dessert"
     ],
     "cuisine": "American",
     "totalTimeMin": 60,
@@ -7983,18 +7980,15 @@
   },
   {
     "slug": "buttery-wholesome-spanish-mascarpone-tarta-santiago",
-    "title": "Buttery Wholesome Spanish Tarta Santiago",
+    "title": "Santiago Tarta",
     "tags": [
-      "dessert",
-      "european",
-      "kid-friendly",
-      "party-food",
       "spanish",
-      "sweet-treats",
-      "weekend"
+      "dessert",
+      "almond",
+      "mascarpone"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "b"
   },
   {
