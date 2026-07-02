@@ -1,0 +1,65 @@
+{
+  "slug": "bitter-chewy-midnight-oat-crumble",
+  "title": "Midnight Crumble Bites",
+  "description": "A sweet and crunchy bite-sized dessert perfect for snacking. The midnight oats add a mysterious depth to the crumble.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oat",
+      "amount": "1 cup",
+      "notes": "midnight oats"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "bitter chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "chewy dates",
+      "amount": "4",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, combine oat and crumble.",
+    "Add chocolate chips and mix until well combined.",
+    "Cut dates in half and add to the bowl, mixing gently.",
+    "Spoon the mixture onto a baking sheet lined with parchment paper.",
+    "Form into small balls and bake for 12-15 minutes.",
+    "Let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve warm or at room temperature.",
+    "Store in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-oats",
+    "crumble-bites",
+    "vegan-desserts",
+    "gluten-free-desserts"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-midnight-oat-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:35:32.340Z"
+}
