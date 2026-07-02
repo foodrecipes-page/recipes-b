@@ -1,0 +1,60 @@
+{
+  "slug": "bitter-crunchy-kenyana-wakati-stir-fry",
+  "title": "Wakati Stir Fry",
+  "description": "A quick and easy stir fry made with crunchy kenyana and wakati, served with a side of bitter notes.",
+  "cuisine": "african",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Wakati",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium-high heat.",
+    "Add the chopped Kenyan and Wakati, and stir fry for 3-4 minutes.",
+    "Add the chopped Crunchy and stir fry for another 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "stir-fry",
+    "wakati",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-kenyana-wakati-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:53:21.604Z"
+}
