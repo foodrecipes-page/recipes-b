@@ -1,0 +1,91 @@
+{
+  "slug": "braised-mexican-goat-meat-tacos",
+  "title": "Braised Goat Tacos",
+  "description": "A twist on traditional tacos, featuring tender goat meat in a rich and flavorful braise, served in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the goat meat in batches, then set aside.",
+    "Add onion and garlic to the pot and cook until softened.",
+    "Add chili powder and cumin, cook for 1 minute.",
+    "Add beer and tomato paste, scraping up any browned bits.",
+    "Return goat meat to the pot and bring to a boil.",
+    "Cover and transfer to the oven, braising for 2 hours.",
+    "Shred the goat meat with two forks and season with salt and pepper.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos with the braised goat meat, any desired toppings, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "mexican",
+    "goat",
+    "meat",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/braised-mexican-goat-meat-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:39:46.565Z"
+}
