@@ -1,0 +1,82 @@
+{
+  "slug": "bouncy-light-british-northern-irish-peppery-dish-tart",
+  "title": "Northern Irish Tart",
+  "description": "A hearty, savory tart filled with the flavors of Northern Ireland, featuring a flaky crust and a rich, peppery filling. Perfect for a cold winter evening.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup",
+      "notes": "Slow-cooked in a bit of oil until dark and sweet"
+    },
+    {
+      "name": "Peppery sausage",
+      "amount": "1 pound",
+      "notes": "Use a Northern Irish-style sausage or substitute with a similar spicy sausage"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch. Transfer to a 9-inch tart pan with a removable bottom.",
+    "In a large skillet, cook the sausage over medium-high heat, breaking it up with a spoon, until browned and cooked through.",
+    "Add the caramelized onions and cook for an additional 2-3 minutes. Season with salt and pepper to taste.",
+    "In a separate bowl, whisk together the eggs and heavy cream.",
+    "Sprinkle the grated cheddar cheese over the bottom of the tart crust.",
+    "Add the cooked sausage and onion mixture on top of the cheese.",
+    "Pour the egg mixture over the filling.",
+    "Bake the tart for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "northern-irish",
+    "tart",
+    "sausage",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-light-british-northern-irish-peppery-dish-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:41:52.610Z"
+}
