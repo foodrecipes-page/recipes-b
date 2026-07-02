@@ -1,0 +1,79 @@
+{
+  "slug": "buttery-wholesome-spanish-mascarpone-tarta-santiago",
+  "title": "Santiago Tarta",
+  "description": "A classic Spanish dessert made with a buttery crust, a rich mascarpone filling, and a touch of wholesome Santiago ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "buttery pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "wholesome Santiago almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure"
+    },
+    {
+      "name": "tarta cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the buttery pastry dough and place it in a 9-inch tart pan.",
+    "In a large bowl, whisk together the mascarpone cheese, sugar, eggs, vanilla extract, and tarta cinnamon.",
+    "Pour the mascarpone mixture into the pastry-lined tart pan.",
+    "Sprinkle the wholesome Santiago almonds over the top of the mascarpone mixture.",
+    "Bake for 40-45 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool completely on a wire rack.",
+    "Serve chilled, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "dessert",
+    "almond",
+    "mascarpone"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-wholesome-spanish-mascarpone-tarta-santiago",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:06:12.736Z"
+}
