@@ -1,0 +1,66 @@
+{
+  "slug": "briny-shattering-egyptian-ice-cream-mushimono",
+  "title": "Egyptian Cream Popsicle",
+  "description": "A refreshing dessert combining Egyptian ice cream with a crunchy briny topping.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Egyptian ice cream",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Mushimono (Japanese mochi)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Briny ice (ice cubes)",
+      "amount": "4-6 cubes"
+    },
+    {
+      "name": "Shattering sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Cut the mushimono into small pieces.",
+    "2. Place the Egyptian ice cream in a bowl and let it soften for 5 minutes.",
+    "3. Add the softened ice cream to a popsicle mold.",
+    "4. Add a few pieces of mushimono on top of the ice cream.",
+    "5. Place a briny ice cube on top of the mushimono.",
+    "6. Sprinkle shattering sesame seeds over the ice cube.",
+    "7. Pour a small amount of water over the sesame seeds to create a crunchy topping.",
+    "8. Place the popsicle stick into the mold and freeze for at least 4 hours.",
+    "9. Once frozen, remove the popsicles from the mold and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 410,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "dessert",
+    "popsicles",
+    "cream",
+    "ice-cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-shattering-egyptian-ice-cream-mushimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:54:08.721Z"
+}
