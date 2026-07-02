@@ -579,16 +579,15 @@
   },
   {
     "slug": "bitter-chewy-midnight-oat-crumble",
-    "title": "Bitter Chewy Midnight Oat Crumble",
+    "title": "Midnight Crumble Bites",
     "tags": [
-      "bitter",
-      "chewy",
-      "midnight",
-      "crumble",
-      "gluten-free"
+      "midnight-oats",
+      "crumble-bites",
+      "vegan-desserts",
+      "gluten-free-desserts"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -2726,17 +2725,20 @@
   },
   {
     "slug": "bitter-sweet-american-prunes-tagine",
-    "title": "Bitter Sweet American Prunes Tagine",
+    "title": "Tagine Chicken with Sweet and Prune Chutney",
     "tags": [
-      "bitter",
-      "crumbly",
-      "monsoon",
-      "one-pan",
-      "raw-friendly",
-      "weeknight"
+      "north-african",
+      "chicken",
+      "prunes",
+      "sweet-onions",
+      "ginger",
+      "cumin",
+      "coriander",
+      "cinnamon",
+      "clay-pot"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 70,
     "shard": "b"
   },
   {
@@ -4015,18 +4017,15 @@
   },
   {
     "slug": "briny-airtight-dutch-fish-stamppot",
-    "title": "Briny Airtight Dutch Fish Stamppot",
+    "title": "Pan-Seared Fish with Stamppot",
     "tags": [
-      "comfort-food",
       "dutch",
       "fish",
-      "high-protein",
-      "keto",
-      "one-pan",
-      "smoked-herring"
+      "stamppot",
+      "easy"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
