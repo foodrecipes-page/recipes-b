@@ -1,0 +1,63 @@
+{
+  "slug": "bitter-dense-slovakian-clam-crumble",
+  "title": "Slovakian Clam Fritters",
+  "description": "A crispy Slovakian-inspired fritter dish filled with tender clams and spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Clams",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1/2 teaspoon",
+      "notes": "ground bitter melon"
+    },
+    {
+      "name": "Dense",
+      "amount": "1/4 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Slovakian Crumble",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the clams and drain well.",
+    "2. In a bowl, mix together clams, bitter, and dense.",
+    "3. Gradually add the crumble and mix until a thick batter forms.",
+    "4. Heat a non-stick pan with 2-3 inches of oil over medium heat.",
+    "5. Using a spoon, drop the clam mixture into the hot oil.",
+    "6. Fry the fritters until golden brown and crispy, about 4-5 minutes.",
+    "7. Remove the fritters from the oil and place on a paper towel-lined plate.",
+    "8. Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "seafood",
+    "clams",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-slovakian-clam-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:35:31.715Z"
+}
