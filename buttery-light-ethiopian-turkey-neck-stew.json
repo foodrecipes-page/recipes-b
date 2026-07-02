@@ -1,0 +1,78 @@
+{
+  "slug": "buttery-light-ethiopian-turkey-neck-stew",
+  "title": "Ethiopian-Style Turkey Stew",
+  "description": "A flavorful and comforting stew made with tender turkey and spices from Ethiopia. This dish is perfect for a cold winter evening.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "light stew",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a large Dutch oven over medium-high heat.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add turkey neck and cook until browned on all sides, about 5 minutes.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until turkey is tender, about 1 1/2 hours.",
+    "Season with Ethiopian spices and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "turkey",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-light-ethiopian-turkey-neck-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:19:33.942Z"
+}
