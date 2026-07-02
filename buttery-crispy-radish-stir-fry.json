@@ -1,0 +1,71 @@
+{
+  "slug": "buttery-crispy-radish-stir-fry",
+  "title": "Stir-Fry Crunch",
+  "description": "A tasty and crunchy stir-fry dish made with crispy vegetables and served with a side of stir-fry sauce. This recipe is quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1 cup",
+      "notes": "radish slices"
+    },
+    {
+      "name": "Radish",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tablespoons",
+      "notes": "stir-fry sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the buttery in a large skillet or wok over medium-high heat.",
+    "2. Add the crispy radish slices and cook until they start to soften.",
+    "3. Add the sliced radish and stir-fry for 2-3 minutes.",
+    "4. Pour in the fry sauce and stir-fry for another minute.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-radish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:48:31.057Z"
+}
