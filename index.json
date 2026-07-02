@@ -3854,24 +3854,16 @@
   },
   {
     "slug": "braised-mexican-goat-meat-tacos",
-    "title": "Braised Mexican Goat Meat Tacos",
+    "title": "Braised Goat Tacos",
     "tags": [
-      "browned",
-      "chili-spiced",
-      "gluten-free",
-      "goat-meat",
-      "jalisco-style",
+      "braised",
       "mexican",
-      "one-pan",
-      "romantic",
-      "slow-cooker",
-      "spicy",
-      "tacos",
-      "vegan",
-      "weeknight"
+      "goat",
+      "meat",
+      "tacos"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 270,
+    "totalTimeMin": 140,
     "shard": "b"
   },
   {
@@ -4157,15 +4149,16 @@
   },
   {
     "slug": "briny-shattering-egyptian-ice-cream-mushimono",
-    "title": "Briny Shattering Egyptian Ice Cream Mushimono",
+    "title": "Egyptian Cream Popsicle",
     "tags": [
+      "easy",
       "dessert",
-      "low-fat",
-      "soothing",
-      "vegan"
+      "popsicles",
+      "cream",
+      "ice-cream"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 410,
     "shard": "b"
   },
   {
