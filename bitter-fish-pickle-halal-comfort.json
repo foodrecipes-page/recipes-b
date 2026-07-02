@@ -1,0 +1,63 @@
+{
+  "slug": "bitter-fish-pickle-halal-comfort",
+  "title": "Bitter Fish Comfort Bites",
+  "description": "A unique fusion of bitter and comfort flavors, these bite-sized fish treats will surprise your taste buds.",
+  "cuisine": "asian-fusion",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "1 pound",
+      "notes": "Any firm white fish works well"
+    },
+    {
+      "name": "Bitter Melon",
+      "amount": "1 medium",
+      "notes": "Sliced into thin rounds"
+    },
+    {
+      "name": "Comfort Pickle Slices",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced dill pickle"
+    },
+    {
+      "name": "Halal Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Preheat your oil to 350°F (175°C) for frying.",
+    "Season fish fillets with salt and pepper.",
+    "Dredge fish in flour, shaking off excess.",
+    "Dip floured fish in beaten eggs, then coat in crispy breadcrumbs.",
+    "Fry fish in hot oil until golden brown and cooked through.",
+    "Meanwhile, pan-fry sliced bitter melon until softened.",
+    "Assemble comfort bites by placing fried fish on a bed of bitter melon, topping with pickle slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "bitter-melon",
+    "comfort-food",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fish-pickle-halal-comfort",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:07:45.170Z"
+}
