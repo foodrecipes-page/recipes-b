@@ -3604,19 +3604,16 @@
   },
   {
     "slug": "bouncy-light-british-northern-irish-peppery-dish-tart",
-    "title": "Bouncy Light British Northern Irish Peppery Dish Tart",
+    "title": "Northern Irish Tart",
     "tags": [
-      "breakfast",
       "british",
-      "light",
-      "low-sodium",
       "northern-irish",
-      "peppery",
       "tart",
-      "weeknight"
+      "sausage",
+      "cheese"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 88,
+    "cuisine": "British",
+    "totalTimeMin": 55,
     "shard": "b"
   },
   {
