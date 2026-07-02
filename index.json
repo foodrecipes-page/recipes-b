@@ -6876,18 +6876,14 @@
   },
   {
     "slug": "buttery-light-ethiopian-turkey-neck-stew",
-    "title": "Buttery Light Ethiopian Turkey Neck Stew",
+    "title": "Ethiopian-Style Turkey Stew",
     "tags": [
-      "buttery",
-      "light",
-      "one-pot",
-      "turkey",
-      "gluten-free",
       "stew",
+      "turkey",
       "ethiopian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 100,
     "shard": "b"
   },
   {
