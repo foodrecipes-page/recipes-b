@@ -1,0 +1,80 @@
+{
+  "slug": "bitter-tender-american-braeburn-apple-cobbler",
+  "title": "Braeburn Apple Cobbler",
+  "description": "A delicious dessert featuring tender apples and a crunchy topping.",
+  "cuisine": "American",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "6-8"
+    },
+    {
+      "name": "Bitter American whiskey (optional)",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Peel, core, and slice the Braeburn apples.",
+    "3. In a large bowl, combine the sliced apples, granulated sugar, cinnamon, baking powder, and salt. Mix until the apples are evenly coated.",
+    "4. In a separate bowl, whisk together the flour and cold unsalted butter until the mixture resembles coarse crumbs.",
+    "5. Add the egg to the flour mixture and stir until a dough forms.",
+    "6. Pour the apple mixture into a 9x9 inch baking dish. Top with the dough, spreading it evenly to cover the apples.",
+    "7. Bake the cobbler for 40-45 minutes, or until the crust is golden brown and the apples are tender.",
+    "8. Remove the cobbler from the oven and let it cool for 10-15 minutes before serving. If desired, drizzle with a small amount of Bitter American whiskey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cobbler",
+    "apple",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-tender-american-braeburn-apple-cobbler",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:06:25.181Z"
+}
