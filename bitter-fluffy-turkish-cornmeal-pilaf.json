@@ -1,0 +1,67 @@
+{
+  "slug": "bitter-fluffy-turkish-cornmeal-pilaf",
+  "title": "Turkish-Style Cornmeal Fritters",
+  "description": "A crispy and savory fritter made with cornmeal and spices, inspired by traditional Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Turkish pilaf",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fluffy bitter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the cornmeal, pilaf, and salt.",
+    "2. In a separate bowl, whisk together the egg and bitter.",
+    "3. Add the wet ingredients to the dry ingredients and stir until a thick batter forms.",
+    "4. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "5. Using a spoon, drop the batter into the oil and flatten slightly.",
+    "6. Cook for 2-3 minutes on each side, or until golden brown and crispy.",
+    "7. Remove the fritters from the oil and drain on paper towels.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal-fritters",
+    "turkish-cuisine",
+    "snack-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fluffy-turkish-cornmeal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:55:34.083Z"
+}
