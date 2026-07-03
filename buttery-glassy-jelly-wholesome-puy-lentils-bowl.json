@@ -1,0 +1,72 @@
+{
+  "slug": "buttery-glassy-jelly-wholesome-puy-lentils-bowl",
+  "title": "Puy Lentil Stew",
+  "description": "A simple and comforting stew made with puy lentils, wholesome vegetables, and a touch of buttery goodness.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wholesome",
+      "amount": "4 cups, vegetable broth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large bowl over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the puy lentils, wholesome broth, salt, and black pepper to the bowl.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, until the lentils are tender, about 30 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-stew",
+    "veganizable",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-glassy-jelly-wholesome-puy-lentils-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:15:32.531Z"
+}
