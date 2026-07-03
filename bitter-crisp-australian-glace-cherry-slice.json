@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-crisp-australian-glace-cherry-slice",
+  "title": "Australian Cherry Tart",
+  "description": "A sweet and tangy dessert featuring Australian cherries in a buttery pastry crust.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian cherries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Bitter chocolate (glace) shavings",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine flour and sugar. Add cold butter and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together the egg and a tablespoon of cold water. Add the egg mixture to the dry ingredients and mix until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Roll the dough out into a circle about 1/8-inch thick. Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges of the dough and press it into the corners of the pan.",
+    "In a separate bowl, mix together the Australian cherries and granulated sugar.",
+    "Arrange the cherry mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Roll out the remaining dough to a thickness of about 1/8 inch. Use a pastry cutter or a knife to cut the dough into strips for a lattice-top crust.",
+    "Place the lattice strips on top of the cherry filling, weaving them into a lattice pattern. Trim the edges of the strips and press them to seal.",
+    "Bake the tart for 40-45 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Allow the tart to cool on a wire rack for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "dessert",
+    "australian",
+    "cherries"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-australian-glace-cherry-slice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:17:28.470Z"
+}
