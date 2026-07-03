@@ -1,0 +1,74 @@
+{
+  "slug": "breadflap-halal",
+  "title": "Halal Breadflap Wrap",
+  "description": "A simple wrap made with breadflap and halal meat. Great for a quick meal on the go.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "breadflap",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "halal chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Slice the grilled chicken into thin strips.",
+    "Lay a sheet of breadflap flat on a work surface.",
+    "Spread a quarter of the tzatziki sauce on the center of the breadflap.",
+    "Arrange a quarter of the sliced cucumber, tomato, and lettuce on top of the sauce.",
+    "Place a few slices of the grilled chicken on top of the vegetables.",
+    "Fold the bottom half of the breadflap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients to make 3 more wraps.",
+    "Cut the wraps in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "quick-meal",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/breadflap-halal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:56:50.715Z"
+}
