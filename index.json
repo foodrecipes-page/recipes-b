@@ -606,18 +606,15 @@
   },
   {
     "slug": "bitter-chewy-russian-veal-dumplings",
-    "title": "Bitter Chewy Russian Veal Dumplings",
+    "title": "Veal and Russian Dumplings with Bitter Greens",
     "tags": [
-      "child-friendly",
-      "chewy",
-      "bitter",
-      "veal",
-      "dumpling",
       "dinner",
+      "lunch",
+      "eastern-european",
       "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -3892,14 +3889,14 @@
   },
   {
     "slug": "breadflap-halal",
-    "title": "BreadFlap Halal",
+    "title": "Halal Breadflap Wrap",
     "tags": [
-      "bread",
-      "dumplings",
-      "halal-friendly"
+      "halal",
+      "quick-meal",
+      "middle-eastern"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -6559,14 +6556,16 @@
   },
   {
     "slug": "buttery-indian-dates-stir-fry",
-    "title": "Buttery Indian Dates Stir-fry",
+    "title": "Date Stir Fry",
     "tags": [
-      "dates",
-      "buttery",
-      "sauteed"
+      "indian",
+      "snack",
+      "vegetarian",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 10,
+    "cuisine": "indian",
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
