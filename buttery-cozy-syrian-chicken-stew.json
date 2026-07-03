@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-cozy-syrian-chicken-stew",
+  "title": "Syrian Chicken Stew",
+  "description": "A hearty and flavorful stew made with chicken, vegetables, and a blend of Syrian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "cozy stew",
+      "amount": "1 can"
+    },
+    {
+      "name": "syrian spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the cozy stew, syrian spices, and chicken broth.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Check the chicken for doneness and adjust the cooking time as needed.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Optional: serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "chicken",
+    "stew",
+    "middle eastern",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-cozy-syrian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:50:48.676Z"
+}
