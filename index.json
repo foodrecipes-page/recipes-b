@@ -827,14 +827,15 @@
   },
   {
     "slug": "bitter-crisp-australian-glace-cherry-slice",
-    "title": "Bitter Crisp Australian Glace Cherry Slice",
+    "title": "Australian Cherry Tart",
     "tags": [
-      "bitter",
-      "crisp",
-      "australian-glaze-cherry-slice"
+      "tart",
+      "dessert",
+      "australian",
+      "cherries"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 65,
     "shard": "b"
   },
   {
@@ -6402,14 +6403,14 @@
   },
   {
     "slug": "buttery-glassy-jelly-wholesome-puy-lentils-bowl",
-    "title": "Buttery Glassy-Jelly Wholesome Puy-lentils Bowl",
+    "title": "Puy Lentil Stew",
     "tags": [
-      "flexitarian-friendly",
-      "gluten-free",
-      "vegan-option"
+      "lentil-stew",
+      "veganizable",
+      "comfort-food"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 75,
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
