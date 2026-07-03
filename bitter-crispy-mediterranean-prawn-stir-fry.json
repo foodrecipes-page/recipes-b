@@ -1,0 +1,77 @@
+{
+  "slug": "bitter-crispy-mediterranean-prawn-stir-fry",
+  "title": "Prawn Stir-Fry with Mediterranean Flair",
+  "description": "Quick and easy, this stir-fry combines succulent prawns with the bold flavors of the Mediterranean. A perfect dish for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawn",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup, chopped",
+      "notes": "such as bitter gourd or endive"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup, chopped",
+      "notes": "certain types of lettuce or fried shallots"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the prawns and cook until pink and just cooked through, about 2-3 minutes.",
+    "Remove the prawns from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chopped bitter and crispy to the skillet and cook for 2 minutes, until slightly softened.",
+    "Return the prawns to the skillet and stir in the lemon juice.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "seafood",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-mediterranean-prawn-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:39:15.977Z"
+}
