@@ -4972,10 +4972,16 @@
   },
   {
     "slug": "buttery-cozy-syrian-chicken-stew",
-    "title": "Buttery Cozy Syrian Chicken Stew",
-    "tags": [],
-    "cuisine": "Syrian",
-    "totalTimeMin": null,
+    "title": "Syrian Chicken Stew",
+    "tags": [
+      "syrian",
+      "chicken",
+      "stew",
+      "middle eastern",
+      "hearty"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
