@@ -1,0 +1,69 @@
+{
+  "slug": "brussels-bites-paleo",
+  "title": "Roasted Brussels Sprouts with Paleo Bites",
+  "description": "A delicious and healthy side dish featuring roasted Brussels sprouts and crispy paleo bites.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Paleo bites",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the Brussels sprouts in half and place them in a bowl.",
+    "3. Drizzle the olive oil over the Brussels sprouts and sprinkle with salt, pepper, and garlic powder.",
+    "4. Toss the Brussels sprouts to coat them evenly.",
+    "5. Spread the Brussels sprouts out in a single layer on a baking sheet.",
+    "6. Roast the Brussels sprouts in the preheated oven for 20-25 minutes, or until tender and caramelized.",
+    "7. Meanwhile, cook the paleo bites according to the package instructions.",
+    "8. Once the Brussels sprouts are done, remove them from the oven and sprinkle with paleo bites.",
+    "9. Serve hot and enjoy!",
+    "10. Garnish with additional paleo bites if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sides",
+    "veggies",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brussels-bites-paleo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:43:54.854Z"
+}
