@@ -4593,14 +4593,15 @@
   },
   {
     "slug": "buttery-asian-sugar-crust",
-    "title": "Buttery Asian Sugar Crust",
+    "title": "Crust Butter Cookies",
     "tags": [
-      "sugar_crust",
-      "buttery_sauce",
-      "whole30"
+      "cookies",
+      "butter",
+      "crust",
+      "dessert"
     ],
-    "cuisine": "Asian",
-    "totalTimeMin": 20,
+    "cuisine": "American",
+    "totalTimeMin": 33,
     "shard": "b"
   },
   {
