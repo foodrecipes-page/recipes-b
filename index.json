@@ -999,16 +999,14 @@
   },
   {
     "slug": "bitter-crispy-mediterranean-prawn-stir-fry",
-    "title": "Bitter Crispy Mediterranean Prawn Stir-fry",
+    "title": "Prawn Stir-Fry with Mediterranean Flair",
     "tags": [
       "mediterranean",
-      "bittercrispy",
-      "plantbased",
-      "snack",
-      "postworkout"
+      "seafood",
+      "quick-and-easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
@@ -2812,16 +2810,16 @@
   },
   {
     "slug": "bitter-tender-mexican-oxtail-stir-fry",
-    "title": "Bitter Tender Mexican Oxtail Stir-fry",
+    "title": "Braised Oxtail with a Mexican Twist",
     "tags": [
-      "bitter",
-      "tender",
       "mexican",
-      "oaxacan",
-      "oxtail"
+      "braised",
+      "oxtail",
+      "hearty",
+      "comforting"
     ],
-    "cuisine": "Mexican (Oaxacan)",
-    "totalTimeMin": 50,
+    "cuisine": "Mexican",
+    "totalTimeMin": 180,
     "shard": "b"
   },
   {
