@@ -1,0 +1,88 @@
+{
+  "slug": "bitter-tender-mexican-oxtail-stir-fry",
+  "title": "Braised Oxtail with a Mexican Twist",
+  "description": "A rich and flavorful dish with tender oxtail, a hint of spice, and a deep, velvety sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup",
+      "notes": "chopped onion"
+    },
+    {
+      "name": "mexican",
+      "amount": "2 dried ancho chilies",
+      "notes": "soaked and chopped"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "fry",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown oxtail pieces in batches, about 5 minutes per side. Transfer to a plate.",
+    "Add onion to the pot and cook until browned, about 5 minutes.",
+    "Add chilies, cumin, salt, and pepper. Cook for 1 minute.",
+    "Add broth and wine to the pot, scraping up browned bits.",
+    "Return oxtail to the pot, cover, and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until meat is tender.",
+    "Skim excess fat from the surface.",
+    "Serve oxtail with sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "mexican",
+    "braised",
+    "oxtail",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-tender-mexican-oxtail-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:40:12.376Z"
+}
