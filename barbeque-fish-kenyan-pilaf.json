@@ -1,0 +1,99 @@
+{
+  "slug": "barbeque-fish-kenyan-pilaf",
+  "title": "Kenyan Fish Barbeque",
+  "description": "A flavorful and spicy dish inspired by Kenyan cuisine, featuring barbeque-glazed fish served with a side of pilaf.",
+  "cuisine": "kenyan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Any mild fish (e.g. tilapia)"
+    },
+    {
+      "name": "Barbeque Sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pilaf Rice",
+      "amount": "2 cups",
+      "notes": "Uncooked white or brown rice"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the fish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillets with salt, black pepper, cumin, and paprika.",
+    "Heat 1 tablespoon of vegetable oil in an oven-safe skillet over medium-high heat.",
+    "Sear the fish for 2-3 minutes on each side, then transfer to the oven.",
+    "Bake the fish for 8-10 minutes, or until cooked through.",
+    "While the fish is cooking, heat the remaining 1 tablespoon of vegetable oil in a saucepan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the pilaf rice and cook for 2-3 minutes, or until lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is tender.",
+    "While the rice is cooking, prepare the barbeque sauce. In a small bowl, whisk together the barbeque sauce and 1 tablespoon of water.",
+    "Brush the barbeque sauce over the fish during the last 2-3 minutes of cooking.",
+    "Serve the barbeque-glazed fish with a side of pilaf rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fish",
+    "barbeque",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/barbeque-fish-kenyan-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:21:18.049Z"
+}
