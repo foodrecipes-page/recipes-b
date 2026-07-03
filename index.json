@@ -105,14 +105,15 @@
   },
   {
     "slug": "barbeque-fish-kenyan-pilaf",
-    "title": "Barbeque Fish Kenyan Pilaf",
+    "title": "Kenyan Fish Barbeque",
     "tags": [
-      "barbeque-fish-kenyan-pilaf",
-      "buttery-crisp-midnight-craving-kenyan-dish",
-      "pescatarian-friendly"
+      "kenyan",
+      "fish",
+      "barbeque",
+      "pilaf"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 75,
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
