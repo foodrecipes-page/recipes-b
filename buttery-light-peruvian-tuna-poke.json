@@ -1,0 +1,77 @@
+{
+  "slug": "buttery-light-peruvian-tuna-poke",
+  "title": "Peruvian Tuna Poke Bowl",
+  "description": "A refreshing and flavorful dish inspired by Peruvian cuisine, featuring seared tuna on a bed of mixed greens with a zesty sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna steak",
+      "amount": "4 (6 oz each)",
+      "notes": "Sushi-grade tuna"
+    },
+    {
+      "name": "Buttery light soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1 (chopped)",
+      "notes": "For marinade and sauce"
+    },
+    {
+      "name": "Poke sauce",
+      "amount": "1/4 cup",
+      "notes": "Sambal oelek and lime juice"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking tuna"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together soy sauce, aji amarillo pepper, and poke sauce.",
+    "2. Add the tuna steaks to the marinade and refrigerate for at least 30 minutes.",
+    "3. Preheat a skillet over medium-high heat.",
+    "4. Remove the tuna from the marinade, letting any excess liquid drip off.",
+    "5. Add the light olive oil to the skillet and sear the tuna for 2-3 minutes per side, until cooked to your liking.",
+    "6. Transfer the tuna to a plate and let it rest for a few minutes.",
+    "7. In a separate pan, heat the poke sauce over low heat.",
+    "8. To assemble the poke bowls, place a bed of mixed greens on a plate or bowl.",
+    "9. Slice the seared tuna into thick pieces and place on top of the greens.",
+    "10. Drizzle the warm poke sauce over the tuna and garnish with chopped aji amarillo pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "tuna",
+    "poke",
+    "sushi",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-light-peruvian-tuna-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:15:54.529Z"
+}
