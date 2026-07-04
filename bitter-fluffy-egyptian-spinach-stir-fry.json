@@ -1,0 +1,76 @@
+{
+  "slug": "bitter-fluffy-egyptian-spinach-stir-fry",
+  "title": "Egyptian Stir-Fry",
+  "description": "A flavorful and healthy Egyptian-inspired stir-fry dish made with spinach and a hint of bitter taste.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "Fresh spinach leaves"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground coriander"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "Cooked fluffy rice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the cumin and coriander; cook for 1 minute, stirring constantly.",
+    "Add the spinach; cook until wilted, about 3-4 minutes.",
+    "Add the cooked rice; stir-fry for 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fluffy-egyptian-spinach-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:19:12.594Z"
+}
