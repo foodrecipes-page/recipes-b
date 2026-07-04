@@ -1514,16 +1514,14 @@
   },
   {
     "slug": "bitter-dense-moroccan-whole-wheat-stir-fry",
-    "title": "Bitter Dense Moroccan Whole Wheat Stir-fry",
+    "title": "Moroccan Stir Fry",
     "tags": [
       "moroccan",
-      "whole-wheat",
-      "stir-fry",
-      "keto-friendly",
-      "gluten-free"
+      "vegetarian",
+      "stir-fry"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
