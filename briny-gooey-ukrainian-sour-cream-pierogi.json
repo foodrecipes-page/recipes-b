@@ -1,0 +1,68 @@
+{
+  "slug": "briny-gooey-ukrainian-sour-cream-pierogi",
+  "title": "Pan-Fried Pierogi with Sour Cream Sauce",
+  "description": "A classic Ukrainian dish featuring pan-fried pierogi served with a tangy sour cream sauce. This recipe is perfect for a cozy dinner or a weekend brunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pierogi",
+      "amount": "1 package (12-15 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Briny feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1/2 pound, sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced Ukrainian sausage and cook until browned, about 3-4 minutes.",
+    "Add the pierogi to the skillet and cook for 2-3 minutes on each side, or until golden brown.",
+    "In a small bowl, mix together the sour cream, crumbled feta cheese, and honey.",
+    "Serve the pierogi with the sour cream sauce spooned over the top.",
+    "Garnish with chopped fresh dill or chives, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pierogi",
+    "sour cream",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-gooey-ukrainian-sour-cream-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:42:25.095Z"
+}
