@@ -1,0 +1,82 @@
+{
+  "slug": "bitter-dense-moroccan-whole-wheat-stir-fry",
+  "title": "Moroccan Stir Fry",
+  "description": "A flavorful and nutritious stir fry dish with a blend of spicy Moroccan spices, served with a side of whole wheat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat",
+      "amount": "4 cups",
+      "notes": "for serving"
+    },
+    {
+      "name": "",
+      "amount": "1 cup",
+      "notes": "any mix of your choice including bitter leaves"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "1/4 cup",
+      "notes": "Moroccan stir fry spices"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves",
+      "amount": "2",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "1 teaspoon",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the spices and stir well.",
+    "Add the bitter leaves and stir well.",
+    "Cook for 5-7 minutes or until the leaves are wilted.",
+    "Serve hot with a side of whole wheat.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-moroccan-whole-wheat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:10:33.293Z"
+}
