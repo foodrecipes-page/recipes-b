@@ -6902,20 +6902,16 @@
   },
   {
     "slug": "buttery-light-peruvian-tuna-poke",
-    "title": "Buttery Light Peruvian Tuna Poke",
+    "title": "Peruvian Tuna Poke Bowl",
     "tags": [
       "peruvian",
       "tuna",
       "poke",
-      "buttery",
-      "light",
-      "seafood",
-      "quick",
-      "raw-friendly",
-      "sushi-rice"
+      "sushi",
+      "fish"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
