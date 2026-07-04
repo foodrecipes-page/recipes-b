@@ -5389,16 +5389,14 @@
   },
   {
     "slug": "buttery-crumble-marshmallow",
-    "title": "Buttery Crumble Marshmallow",
+    "title": "Buttery Crumble Marshmallow Treats",
     "tags": [
-      "buttery",
-      "crisp",
-      "quick-fix",
-      "jamaican",
-      "mini-marshmallow"
+      "sweet",
+      "goey",
+      "easy-to-make"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
