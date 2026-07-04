@@ -1,0 +1,80 @@
+{
+  "slug": "bitter-dense-mediterranean-lamb-casserole",
+  "title": "Mediterranean Lamb Casserole",
+  "description": "A hearty and flavorful casserole perfect for a weeknight dinner. The combination of lamb and Mediterranean spices creates a rich and satisfying dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "1 can (28 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "Mediterranean spices",
+      "amount": "1 teaspoon",
+      "notes": "a blend of oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the crushed tomatoes, Mediterranean spices, salt, and pepper. Bring the mixture to a simmer.",
+    "Transfer the lamb and sauce to a 9x13-inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the lamb is tender and the sauce is bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "casserole",
+    "mediterranean",
+    "hearty",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-mediterranean-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:45:43.271Z"
+}
