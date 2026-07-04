@@ -1,0 +1,77 @@
+{
+  "slug": "buttery-argentinian-rice-stir-fry",
+  "title": "Argentinian Stir Fried Rice",
+  "description": "Quick and flavorful stir-fried rice dish inspired by the flavors of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buttery Argentinian Rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "argentinian spices",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stir-fry vegetables (e.g., bell peppers, carrots)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fry oil",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of buttery in a large skillet or wok over medium-high heat.",
+    "Add chopped onion and minced garlic. Stir-fry until the onion is translucent.",
+    "Add sliced stir-fry vegetables and cook until they start to soften.",
+    "Add cooked Argentinian rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for 2-3 minutes, until the rice is heated through and starting to brown.",
+    "Season with argentinian spices to taste.",
+    "Transfer the stir-fry to a serving platter and garnish with chopped fresh herbs, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "rice",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-argentinian-rice-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:58:20.010Z"
+}
