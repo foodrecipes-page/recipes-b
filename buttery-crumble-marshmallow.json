@@ -1,0 +1,55 @@
+{
+  "slug": "buttery-crumble-marshmallow",
+  "title": "Buttery Crumble Marshmallow Treats",
+  "description": "A sweet and gooey dessert made with buttery crumble and marshmallow treats. Perfect for a quick snack or dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery Crumble",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. In a medium bowl, mix together the melted butter and buttery crumble.",
+    "3. Press the mixture into the bottom of a 9x9 inch baking dish.",
+    "4. Melt the marshmallows in a saucepan over low heat, stirring constantly.",
+    "5. Pour the melted marshmallows over the buttery crumble mixture.",
+    "6. Bake for 10-12 minutes or until golden brown.",
+    "7. Let cool for 5 minutes before slicing into bars."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "goey",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumble-marshmallow",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:14:52.654Z"
+}
