@@ -1991,13 +1991,15 @@
   },
   {
     "slug": "bitter-fluffy-saudia-fish-stir-fry",
-    "title": "Bitter Fluffy Saudia Fish Stir-fry",
+    "title": "Saudi Fish Fry",
     "tags": [
-      "bitter-fluffy-saudia-fish-stir-fry",
-      "raw-friendly"
+      "saudi",
+      "fish",
+      "bitter-leaves",
+      "seafood"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Saudi",
+    "totalTimeMin": 18,
     "shard": "b"
   },
   {
