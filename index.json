@@ -7634,15 +7634,13 @@
   },
   {
     "slug": "buttery-starch-feast",
-    "title": "Buttery Starch Feast",
+    "title": "Starchy Feast",
     "tags": [
-      "greek",
-      "high-protein-friendly",
-      "buttery",
-      "silky"
+      "comfort-food",
+      "homemade"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
