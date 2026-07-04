@@ -1,0 +1,78 @@
+{
+  "slug": "briny-velvety-turkish-creme-patissiere-tart",
+  "title": "Turkish Cream Tart",
+  "description": "A rich and creamy Turkish-inspired tart with a velvety creme patissiere filling and a crunchy briny topping.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Velvety creme patissiere",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Briny topping (pickled red onion and capers)",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Turkish pastry dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "Prick the bottom of the dough with a fork to prevent it from bubbling up during baking.",
+    "Line the dough with parchment paper and fill with pie weights or dried beans.",
+    "Bake for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "Return the tart to the oven and bake for an additional 10-12 minutes, or until golden brown.",
+    "Allow the tart to cool completely on a wire rack.",
+    "To make the creme patissiere, combine the creme, sugar, and vanilla in a medium saucepan.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the mixture has thickened.",
+    "Strain the creme patissiere into a bowl and let cool to room temperature.",
+    "To make the briny topping, combine the pickled red onion and capers in a small bowl.",
+    "Stir in the chopped fresh parsley and season with salt and pepper to taste.",
+    "Spread the cooled creme patissiere over the bottom of the tart shell.",
+    "Top with the briny topping and dust with confectioners' sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "creme",
+    "patissiere",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-velvety-turkish-creme-patissiere-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:44:18.815Z"
+}
