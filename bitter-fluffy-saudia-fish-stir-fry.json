@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-fluffy-saudia-fish-stir-fry",
+  "title": "Saudi Fish Fry",
+  "description": "A flavorful and easy-to-make fish dish from Saudi Arabia. Bitter leaves add a tangy twist.",
+  "cuisine": "Saudi",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4)",
+      "amount": "",
+      "notes": "Any white fish is suitable"
+    },
+    {
+      "name": "Bitter leaves (2 cups)",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fluffy saudia flour (1 cup)",
+      "amount": "",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Vegetable oil (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan and add the fish fillets.",
+    "2. Cook for 3-4 minutes on each side, until the fish is golden brown and cooked through.",
+    "3. Meanwhile, mix the bitter leaves with a pinch of salt and pepper.",
+    "4. Dust the cooked fish with fluffy saudia flour.",
+    "5. Serve the fish with the bitter leaf mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "fish",
+    "bitter-leaves",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fluffy-saudia-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:51:49.548Z"
+}
