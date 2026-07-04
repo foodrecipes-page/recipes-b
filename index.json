@@ -1500,16 +1500,16 @@
   },
   {
     "slug": "bitter-dense-mediterranean-lamb-casserole",
-    "title": "Bitter Dense Mediterranean Lamb Casserole",
+    "title": "Mediterranean Lamb Casserole",
     "tags": [
       "lamb",
-      "mediterranean",
       "casserole",
-      "fodmap-friendly",
-      "gluten-free"
+      "mediterranean",
+      "hearty",
+      "weeknight-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 180,
+    "totalTimeMin": 65,
     "shard": "b"
   },
   {
