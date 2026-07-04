@@ -4192,17 +4192,15 @@
   },
   {
     "slug": "briny-velvety-turkish-creme-patissiere-tart",
-    "title": "Briny Velvety Turkish Crème Patisserie Tart",
+    "title": "Turkish Cream Tart",
     "tags": [
-      "comfort-food",
-      "dessert",
-      "easy-assembly",
-      "gluten-free-options",
-      "high-calorie",
-      "weeknight"
+      "tart",
+      "creme",
+      "patissiere",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "b"
   },
   {
@@ -6108,14 +6106,12 @@
     "slug": "buttery-dutch-onion-bake",
     "title": "Buttery Dutch Onion Bake",
     "tags": [
-      "cheesy",
       "comfort-food",
-      "easy-side-dish",
-      "high-carb",
-      "weeknight"
+      "casseroles",
+      "easy-dinner"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
