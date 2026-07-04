@@ -1898,17 +1898,14 @@
   },
   {
     "slug": "bitter-fluffy-egyptian-spinach-stir-fry",
-    "title": "Bitter Fluffy Egyptian Spinach Stir-fry",
+    "title": "Egyptian Stir-Fry",
     "tags": [
-      "egyptian",
-      "spinach",
       "stir-fry",
-      "bitter",
-      "fluffy",
-      "low-carb"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
@@ -4575,13 +4572,14 @@
   },
   {
     "slug": "buttery-argentinian-rice-stir-fry",
-    "title": "Buttery Argentinian Rice Stir-Fry",
+    "title": "Argentinian Stir Fried Rice",
     "tags": [
-      "argentinian-rice-stir-fry",
-      "low-calorie-friendly-dish",
-      "crispy-argentine"
+      "argentinian",
+      "rice",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Argentine",
+    "cuisine": "argentinian",
     "totalTimeMin": 25,
     "shard": "b"
   },
