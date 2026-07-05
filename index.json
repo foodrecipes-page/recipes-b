@@ -403,14 +403,15 @@
   },
   {
     "slug": "bitter-broccoli-bowl",
-    "title": "Bitter Broccoli Bowl",
+    "title": "Bitter Baked Broccoli Bowl",
     "tags": [
-      "bitter",
-      "british",
-      "meal-prep"
+      "vegetarian",
+      "gluten-free",
+      "side-dish",
+      "healthy"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 70,
+    "cuisine": "Asian",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
