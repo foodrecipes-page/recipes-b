@@ -1,0 +1,56 @@
+{
+  "slug": "bitter-kenyan-cacao-brew",
+  "title": "Kenyan Bitter Brew Coffee",
+  "description": "A traditional Kenyan coffee recipe with a bitter taste.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kenyan Brew Coffee",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use filtered water for best taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Grind 1 cup of Kenyan Brew Coffee beans.",
+    "Heat 1 cup of water in a kettle to 200°F (93°C).",
+    "Pour the heated water over the ground coffee in a filter.",
+    "Wait for 4 minutes to allow the coffee to brew.",
+    "Remove the filter and discard the grounds.",
+    "Add 1 teaspoon of sugar if desired."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 0,
+  "totalTimeMin": 4,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "coffee",
+    "breakfast",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-kenyan-cacao-brew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T02:14:24.359Z"
+}
