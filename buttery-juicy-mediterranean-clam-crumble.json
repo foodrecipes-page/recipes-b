@@ -1,0 +1,66 @@
+{
+  "slug": "buttery-juicy-mediterranean-clam-crumble",
+  "title": "Buttery Clam Pasta",
+  "description": "A rich and savory pasta dish featuring succulent clams in a garlicky butter sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy clams",
+      "amount": "12 oz",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "buttery pasta",
+      "amount": "1 lb",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "mediterranean olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "crumble breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the buttery pasta according to package instructions.",
+    "In a large skillet, heat the mediterranean olive oil over medium heat. Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the juicy clams to the skillet and sauté for 2-3 minutes until they start to open.",
+    "Add the cooked pasta to the skillet, tossing to combine with the clam and garlic mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve the pasta hot, topped with crumble breadcrumbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "seafood",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-mediterranean-clam-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:39:07.494Z"
+}
