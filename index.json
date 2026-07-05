@@ -3296,15 +3296,15 @@
   },
   {
     "slug": "boiled-argentinian-butter-stir-fry",
-    "title": "Boiled Argentinian Butter Stir-fry",
+    "title": "Argentinian Stir Fry",
     "tags": [
-      "argentine",
-      "buttery",
-      "light",
-      "basil"
+      "argentinian",
+      "stir-fry",
+      "dinner",
+      "quick"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
