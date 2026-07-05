@@ -455,16 +455,16 @@
   },
   {
     "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry",
-    "title": "Bitter Chewy Comforting Middle Eastern Toor Dal Stir-fry",
+    "title": "Toor Dal Fry",
     "tags": [
-      "toor-dal",
-      "bitter",
-      "comforting",
-      "middle-eastern",
-      "stir-fry"
+      "indian",
+      "dal",
+      "south-indian",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "South Indian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -6204,17 +6204,15 @@
   },
   {
     "slug": "buttery-flaky-rye-stir-fry",
-    "title": "Buttery Flaky Rye Stir-fry",
+    "title": "Buttery Rye Toast",
     "tags": [
-      "buttery",
-      "flaky",
-      "post-workout",
-      "roman",
-      "stir-fry",
-      "rye"
+      "breakfast",
+      "brunch",
+      "snack",
+      "toasty"
     ],
-    "cuisine": "Italian (Roman)",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
