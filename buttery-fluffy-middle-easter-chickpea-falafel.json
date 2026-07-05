@@ -1,0 +1,69 @@
+{
+  "slug": "buttery-fluffy-middle-easter-chickpea-falafel",
+  "title": "Fluffy Chickpea Falafel Sandwich",
+  "description": "A delicious sandwich made with crispy falafel, fluffy interior, and served on a toasted bun.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "4",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fluffy bun",
+      "amount": "2",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Buttery spread",
+      "amount": "2 tbsp",
+      "notes": "Melted butter"
+    },
+    {
+      "name": "Middle Eastern salad",
+      "amount": "1 cup",
+      "notes": "Chopped cucumber, tomato, and parsley"
+    },
+    {
+      "name": "Chickpea hummus",
+      "amount": "1/2 cup",
+      "notes": "Served on the side"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan or griddle to medium-high heat.",
+    "2. Cook the falafel according to package instructions or until crispy.",
+    "3. Toast the fluffy bun on the pan or griddle.",
+    "4. Spread melted butter on the toasted bun.",
+    "5. Add a layer of Middle Eastern salad on top of the bun.",
+    "6. Place a cooked falafel on top of the salad.",
+    "7. Serve the falafel sandwich with chickpea hummus on the side.",
+    "8. Enjoy your delicious Fluffy Chickpea Falafel Sandwich!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "middle-eastern",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-middle-easter-chickpea-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:19:45.320Z"
+}
