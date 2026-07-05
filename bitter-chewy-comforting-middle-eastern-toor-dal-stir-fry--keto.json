@@ -1,0 +1,82 @@
+{
+  "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--keto",
+  "title": "Keto Eastern Toor Dal Stir Fry",
+  "description": "A keto-friendly twist on the traditional Eastern Toor Dal dish, made with a flavorful stir fry",
+  "cuisine": "Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Middle Eastern spices",
+      "amount": "1 teaspoon",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Bitter gourd",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "Chewy garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Comforting ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "keto-friendly salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped bitter gourd and cook until tender, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the Toor Dal, Middle Eastern spices, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the flavors have melded together.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Note: Traditionally, Toor Dal is cooked with a significant amount of oil and ghee, but we've adapted this recipe to be keto-friendly by reducing the amount of oil and omitting the ghee."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "stir-fry",
+    "eastern",
+    "toor-dal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:43:14.514Z"
+}
