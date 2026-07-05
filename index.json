@@ -7974,16 +7974,14 @@
   },
   {
     "slug": "buttery-zanzibari-red-snapper-bowl",
-    "title": "Buttery Zanzibari Red Snapper Bowl",
+    "title": "Zanzibari Red Snapper Bowl",
     "tags": [
-      "zanzibari",
-      "redsnapper",
-      "buttery",
-      "lowfat",
-      "dinner"
+      "red-snapper",
+      "zanzibari-spice",
+      "seafood-bowl"
     ],
-    "cuisine": "zanzibari",
-    "totalTimeMin": 17,
+    "cuisine": "Seafood",
+    "totalTimeMin": 27,
     "shard": "b"
   },
   {
