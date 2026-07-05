@@ -1,0 +1,65 @@
+{
+  "slug": "buttery-crunchy-bhuna-potato-stir-fry",
+  "title": "Bhuna Potato Stir Fry",
+  "description": "A simple and flavorful stir fry made with potatoes, bhuna spice, and stir-fry ingredients.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "bhuna",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "any crunchy vegetable or bean"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "butter or oil"
+    },
+    {
+      "name": "stir",
+      "amount": "",
+      "notes": "optional, for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a pan over medium heat.",
+    "Add crunchy and cook until slightly browned.",
+    "Add bhuna and stir-fry for 1 minute.",
+    "Add potato and stir-fry for 5 minutes, until slightly tender.",
+    "Add stir if using, and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "potato",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-bhuna-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:04:27.117Z"
+}
