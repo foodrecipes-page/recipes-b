@@ -5655,14 +5655,14 @@
   },
   {
     "slug": "buttery-crunchy-bhuna-potato-stir-fry",
-    "title": "Buttery Crunchy Bhuna Potato Stir-fry",
+    "title": "Bhuna Potato Stir Fry",
     "tags": [
+      "indian",
+      "stir-fry",
       "potato",
-      "bhuna masala",
-      "german",
-      "stir-fry"
+      "bhuna"
     ],
-    "cuisine": "German",
+    "cuisine": "Indian",
     "totalTimeMin": 25,
     "shard": "b"
   },
@@ -8499,6 +8499,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--indian",
+    "title": "Eastern Toor Dal",
+    "tags": [
+      "indian",
+      "dal",
+      "toor-dal",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--keto",
+    "title": "Keto Eastern Toor Dal Stir Fry",
+    "tags": [
+      "keto",
+      "stir-fry",
+      "eastern",
+      "toor-dal"
+    ],
+    "cuisine": "Eastern",
+    "totalTimeMin": 25,
     "shard": "b"
   }
 ]
