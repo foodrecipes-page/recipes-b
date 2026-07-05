@@ -93,14 +93,16 @@
   },
   {
     "slug": "banana-pickle-bliss",
-    "title": "Banana Pickle Bliss",
+    "title": "Pickle-Banana Bliss Bites",
     "tags": [
       "banana",
       "pickle",
-      "low-calorie"
+      "bliss-bites",
+      "snack",
+      "sweet-savory"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
