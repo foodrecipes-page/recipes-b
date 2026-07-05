@@ -2389,18 +2389,14 @@
   },
   {
     "slug": "bitter-kenyan-cacao-brew",
-    "title": "Bitter Kenyan Cacao Brew",
+    "title": "Kenyan Bitter Brew Coffee",
     "tags": [
-      "ayurvedic",
-      "bitter",
-      "cacao",
-      "high-fat",
-      "kenyan",
-      "midnight",
-      "sattvic"
+      "coffee",
+      "breakfast",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 15,
+    "cuisine": "kenyan",
+    "totalTimeMin": 4,
     "shard": "b"
   },
   {
@@ -3797,15 +3793,14 @@
   },
   {
     "slug": "bouncy-uruguayan-tomatoes-hash",
-    "title": "Uruguayan Hash and Tomato Delight",
+    "title": "Hash Browned Tomatoes",
     "tags": [
-      "uruguayan",
-      "vegetarian",
-      "hash-browns",
-      "tomatoes"
+      "hash",
+      "tomatoes",
+      "side dish"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 25,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
