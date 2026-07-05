@@ -8488,5 +8488,16 @@
     "cuisine": "italian",
     "totalTimeMin": 55,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--japanese",
+    "title": "Japanese Dal Stir Fry",
+    "tags": [
+      "vegetarian",
+      "easy-japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
