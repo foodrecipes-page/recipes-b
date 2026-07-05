@@ -6308,17 +6308,15 @@
   },
   {
     "slug": "buttery-fluffy-middle-easter-chickpea-falafel",
-    "title": "Buttery Fluffy Middle-Eastern Chickpea Falafel",
+    "title": "Fluffy Chickpea Falafel Sandwich",
     "tags": [
-      "buttermilk",
-      "chickpea",
-      "falafel",
-      "garlic",
+      "vegan",
       "middle-eastern",
-      "snack"
+      "sandwich",
+      "lunch"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
@@ -6923,17 +6921,15 @@
   },
   {
     "slug": "buttery-malaysian-buttery-duck-roast",
-    "title": "Buttery Malaysian Duck Legs Roast",
+    "title": "Malaysian Roast Duck",
     "tags": [
-      "malaysian",
       "duck",
+      "malaysian",
       "roast",
-      "buttery",
-      "low-sodium",
-      "air-fry"
+      "main-course"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
