@@ -1,0 +1,81 @@
+{
+  "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--indian",
+  "title": "Bitter Toor Dal Fry",
+  "description": "A comforting Indian-inspired dish that combines bitter toor dal with a flavorful stir-fry.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and sauté the chopped onion and grated ginger.",
+    "Add the minced garlic and sauté for a minute.",
+    "Add the chopped bitter gourd and sauté for 2-3 minutes.",
+    "Add the toor dal, turmeric powder, red chili powder, and garam masala powder. Mix well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat and simmer for 15-20 minutes or until the dal is cooked.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro (if desired).",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "dal",
+    "stir-fry",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:51:23.650Z"
+}
