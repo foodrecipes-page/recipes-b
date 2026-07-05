@@ -1,0 +1,61 @@
+{
+  "slug": "banana-pickle-bliss",
+  "title": "Pickle-Banana Bliss Bites",
+  "description": "A sweet and savory snack made with mashed banana, pickle juice, and bliss. Perfect for a quick bite.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "2",
+      "notes": "Mashed"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "bliss",
+      "amount": "1/2 cup",
+      "notes": "Crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mash the banana with a fork until smooth.",
+    "Add the chilled pickle juice to the bowl and mix until well combined.",
+    "Stir in the crushed bliss until a dough forms.",
+    "Scoop the dough into small balls, about 1-inch in diameter.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer the bites to a wire rack to cool completely.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "pickle",
+    "bliss-bites",
+    "snack",
+    "sweet-savory"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-pickle-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T10:12:40.122Z"
+}
