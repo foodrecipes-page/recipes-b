@@ -1,0 +1,78 @@
+{
+  "slug": "buttery-zanzibari-red-snapper-bowl",
+  "title": "Zanzibari Red Snapper Bowl",
+  "description": "A flavorful and healthy bowl filled with pan-seared red snapper, Zanzibari spice, and steamed vegetables.",
+  "cuisine": "Seafood",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red snapper fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Zanzibari spice",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "large, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the red snapper fillets with salt, pepper, and Zanzibari spice.",
+    "Heat the melted butter in an oven-safe skillet over medium-high heat.",
+    "Sear the red snapper fillets for 2-3 minutes on each side, then transfer to the oven.",
+    "Bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, steam the sliced red bell pepper, carrots, and snow peas until tender.",
+    "To assemble the bowl, place a cooked red snapper fillet on the bottom, followed by a portion of the steamed vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "red-snapper",
+    "zanzibari-spice",
+    "seafood-bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-zanzibari-red-snapper-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:03:18.492Z"
+}
