@@ -1,0 +1,68 @@
+{
+  "slug": "boiled-argentinian-butter-stir-fry",
+  "title": "Argentinian Stir Fry",
+  "description": "A simple and flavorful stir fry recipe from Argentina. This dish is quick to make and packed with protein and vegetables.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boiled egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian sausage",
+      "amount": "1",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Stir-fry vegetables (bell peppers, carrots, onions)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add the Argentinian sausage and cook until browned, about 3-4 minutes.",
+    "Add the stir-fry vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Push the vegetables to one side of the skillet.",
+    "Crack the boiled egg into the other side of the skillet and scramble it.",
+    "Mix the egg with the vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "stir-fry",
+    "dinner",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiled-argentinian-butter-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:10:04.137Z"
+}
