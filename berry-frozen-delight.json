@@ -1,0 +1,67 @@
+{
+  "slug": "berry-frozen-delight",
+  "title": "Berry Delight Parfait",
+  "description": "A simple layered dessert made with berries, frozen yogurt, and granola. Perfect for a quick dessert or snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "frozen yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berry",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granola",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Layer 1/2 cup frozen yogurt into a glass or parfait dish.",
+    "Add 1/2 cup mixed berries on top of the yogurt.",
+    "Sprinkle 1/4 cup granola over the berries.",
+    "Drizzle 1 tbsp honey over the granola.",
+    "Repeat the layers one more time.",
+    "Drizzle 2 tbsp almond milk over the top layer.",
+    "Add a sprinkle of vanilla extract on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "berry",
+    "parfait",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/berry-frozen-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:56:36.890Z"
+}
