@@ -251,14 +251,15 @@
   },
   {
     "slug": "berry-frozen-delight",
-    "title": "Berry Frozen Delight",
+    "title": "Berry Delight Parfait",
     "tags": [
-      "slovakian-dessert",
-      "keto-friendly",
-      "light-sweet"
+      "berry",
+      "parfait",
+      "dessert",
+      "easy"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "cuisine": "American",
+    "totalTimeMin": 5,
     "shard": "b"
   },
   {
@@ -3305,14 +3306,14 @@
   },
   {
     "slug": "boiled-buttery-crusty-bread-crumbl",
-    "title": "Boiled Buttery Crusty Bread Crumbl",
+    "title": "Crumbl Crusted Crusty Bread",
     "tags": [
-      "boiled-bread",
-      "crusty-dish",
-      "tunisian-food"
+      "bread",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
