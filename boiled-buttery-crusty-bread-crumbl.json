@@ -1,0 +1,55 @@
+{
+  "slug": "boiled-buttery-crusty-bread-crumbl",
+  "title": "Crumbl Crusted Crusty Bread",
+  "description": "A simple yet delicious way to elevate your crusty bread game. This crumbl crusted bread is perfect as a side dish or snack.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Crumbl",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the crusty bread into 1-inch cubes.",
+    "In a bowl, mix together the crumbl and melted butter until well combined.",
+    "Add the cubed bread to the bowl and toss until the bread is evenly coated with the crumbl mixture.",
+    "Spread the bread mixture onto a baking sheet.",
+    "Season with salt to taste.",
+    "Bake for 10-12 minutes or until golden brown.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "snack",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiled-buttery-crusty-bread-crumbl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:34:33.267Z"
+}
