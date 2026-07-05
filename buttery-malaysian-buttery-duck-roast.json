@@ -1,0 +1,63 @@
+{
+  "slug": "buttery-malaysian-buttery-duck-roast",
+  "title": "Malaysian Roast Duck",
+  "description": "A classic Southeast Asian dish featuring a crispy-skinned roast duck served with a side of savory Malaysian flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast duck",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Malaysian",
+      "amount": "2 tablespoons",
+      "notes": "spice blend (e.g. 2 tsp soy sauce, 1 tsp brown sugar, 1 tsp five-spice powder)"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the duck and pat dry with paper towels.",
+    "Season the duck with salt and pepper.",
+    "Heat the melted butter in a large skillet over medium-high heat.",
+    "Sear the duck until browned on both sides, about 5 minutes per side.",
+    "Transfer the duck to a baking sheet and roast in the preheated oven for 20-25 minutes, or until the skin is crispy and the internal temperature reaches 165°F (74°C).",
+    "While the duck is roasting, mix the Malaysian spice blend ingredients together in a small bowl.",
+    "Brush the spice blend onto the duck during the last 10 minutes of roasting.",
+    "Remove the duck from the oven and let rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "malaysian",
+    "roast",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-malaysian-buttery-duck-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:07:27.437Z"
+}
