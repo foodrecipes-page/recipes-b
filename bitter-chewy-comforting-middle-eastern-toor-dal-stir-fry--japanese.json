@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--japanese",
+  "title": "Japanese Dal Stir Fry",
+  "description": "A comforting Japanese-inspired dish made with toor dal and a variety of spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add ginger and sauté for 1 minute.",
+    "Add dal and stir well.",
+    "Add garam masala, soy sauce, sugar and salt. Stir well.",
+    "Reduce heat to low and simmer for 15-20 minutes or until dal is cooked.",
+    "Stir in chopped green onions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy-japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:51:46.219Z"
+}
