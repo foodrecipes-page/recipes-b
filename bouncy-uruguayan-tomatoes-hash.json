@@ -1,73 +1,58 @@
 {
   "slug": "bouncy-uruguayan-tomatoes-hash",
-  "title": "Uruguayan Hash and Tomato Delight",
-  "description": "A hearty dish combining the flavors of Uruguay with the simplicity of hash browns and fresh tomatoes. Perfect for a cozy dinner.",
-  "cuisine": "uruguayan",
+  "title": "Hash Browned Tomatoes",
+  "description": "A simple and flavorful side dish that combines the sweetness of tomatoes with the crunch of hash browns.",
+  "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "side",
   "ingredients": [
     {
-      "name": "hash browns",
-      "amount": "2 cups",
-      "notes": "preferably from uruguayan recipe"
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": ""
     },
     {
-      "name": "fresh tomatoes",
-      "amount": "3 large",
-      "notes": "any variety, sliced"
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "chopped"
     },
     {
-      "name": "uruguayan seasoning",
-      "amount": "1 tsp",
-      "notes": "available at specialty stores"
-    },
-    {
-      "name": "olive oil",
-      "amount": "1 tbsp",
-      "notes": "for cooking"
-    },
-    {
-      "name": "salt and pepper",
-      "amount": "",
-      "notes": "to taste"
-    },
-    {
-      "name": "fresh parsley",
-      "amount": "1/4 cup",
-      "notes": "chopped, for garnish"
+      "name": "uruguayan",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added flavor"
     }
   ],
   "instructions": [
-    "Heat olive oil in a large skillet over medium heat.",
-    "Add sliced tomatoes and cook for 3-4 minutes, or until they start to soften.",
-    "Add hash browns to the skillet and stir to combine with tomatoes.",
-    "Sprinkle uruguayan seasoning over the top and stir to combine.",
-    "Season with salt and pepper to taste.",
-    "Transfer the mixture to a serving dish and garnish with chopped parsley.",
+    "Preheat oven to 375°F (190°C).",
+    "Grate the hash and set aside.",
+    "Chop the tomatoes and set aside.",
+    "In a large bowl, combine the grated hash, chopped tomatoes, and Uruguayan (if using).",
+    "Mix well until all ingredients are fully incorporated.",
+    "Transfer the mixture to a baking dish and shape into a flat layer.",
+    "Bake for 20-25 minutes, or until the hash browns are golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
     "Serve hot and enjoy!"
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 10,
-  "totalTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "uruguayan",
-    "vegetarian",
-    "hash-browns",
-    "tomatoes"
+    "hash",
+    "tomatoes",
+    "side dish"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 3,
-    "carbs": 30,
-    "fat": 10
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-uruguayan-tomatoes-hash",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T12:36:49.427Z"
+  "createdAt": "2026-07-04T04:13:42.076Z"
 }
