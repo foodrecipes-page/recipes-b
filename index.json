@@ -6324,15 +6324,14 @@
   },
   {
     "slug": "buttery-fluffy-yogurt-soup",
-    "title": "Buttery Fluffy Yogurt Soup with Black Cardamom",
+    "title": "Buttery Fluffy Pancakes",
     "tags": [
-      "yogurt",
-      "black-cardamom",
-      "post-workout",
-      "spanish"
+      "breakfast",
+      "pancakes",
+      "fluffy"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
