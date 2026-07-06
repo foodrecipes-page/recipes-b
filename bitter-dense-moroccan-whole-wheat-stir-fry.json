@@ -1,82 +1,70 @@
 {
   "slug": "bitter-dense-moroccan-whole-wheat-stir-fry",
   "title": "Moroccan Stir Fry",
-  "description": "A flavorful and nutritious stir fry dish with a blend of spicy Moroccan spices, served with a side of whole wheat.",
+  "description": "A flavorful and nutritious stir fry made with whole wheat and a blend of spices.",
   "cuisine": "Moroccan",
   "diet": [
     "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Whole wheat",
-      "amount": "4 cups",
-      "notes": "for serving"
+      "amount": "1 cup"
     },
     {
-      "name": "",
-      "amount": "1 cup",
-      "notes": "any mix of your choice including bitter leaves"
-    },
-    {
-      "name": "1/4 cup",
-      "amount": "1/4 cup",
-      "notes": "Moroccan stir fry spices"
-    },
-    {
-      "name": "2 tablespoons",
-      "amount": "2 tablespoons",
-      "notes": "olive oil"
-    },
-    {
-      "name": "1 onion",
-      "amount": "1",
+      "name": "Dense vegetables (such as carrots, potatoes, and sweet potatoes)",
+      "amount": "2 cups",
       "notes": "chopped"
     },
     {
-      "name": "2 cloves",
-      "amount": "2",
-      "notes": "garlic, minced"
+      "name": "Bitter gourd",
+      "amount": "1",
+      "notes": "sliced"
     },
     {
-      "name": "1 teaspoon",
-      "amount": "1 teaspoon",
-      "notes": "ground cumin"
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "1 teaspoon",
-      "amount": "1 teaspoon",
-      "notes": "ground coriander"
+      "name": "Spices (cumin, coriander, and turmeric)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Heat the oil in a large skillet over medium-high heat.",
-    "Add the onion and garlic and cook until the onion is translucent.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped vegetables and cook until tender.",
+    "Add the sliced bitter gourd and cook for an additional 2-3 minutes.",
     "Add the spices and stir well.",
-    "Add the bitter leaves and stir well.",
-    "Cook for 5-7 minutes or until the leaves are wilted.",
-    "Serve hot with a side of whole wheat.",
-    "Garnish with chopped fresh herbs, if desired.",
-    "Adjust seasoning as needed."
+    "Add the whole wheat and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: add other spices or herbs to taste.",
+    "Note: adjust cooking time based on desired level of doneness."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "moroccan",
+    "stir-fry",
     "vegetarian",
-    "stir-fry"
+    "breakfast"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 10,
+    "calories": 250,
+    "protein": 5,
     "carbs": 40,
-    "fat": 15
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-moroccan-whole-wheat-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T20:10:33.293Z"
+  "createdAt": "2026-07-04T12:38:39.162Z"
 }
