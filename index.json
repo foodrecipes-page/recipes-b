@@ -1925,15 +1925,14 @@
   },
   {
     "slug": "bitter-fluffy-ginger-soup",
-    "title": "Bitter Fluffy Ginger Soup",
+    "title": "Ginger Soup",
     "tags": [
-      "lazy-sunday",
-      "bitter-fluffy-ginger-soup",
-      "low-carb-friendly",
-      "vietnamese-dish"
+      "comfort-food",
+      "soup",
+      "ginger"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "cuisine": "asian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -6108,17 +6107,14 @@
   },
   {
     "slug": "buttery-earthy-beans",
-    "title": "Buttery Earthy Beans",
+    "title": "Creamy Bean Stew",
     "tags": [
-      "butter-beans",
-      "juicy",
-      "earthly",
-      "post-workout",
-      "fodmap-friendly",
-      "france-dish"
+      "comfort-food",
+      "stew",
+      "beans"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 20,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
