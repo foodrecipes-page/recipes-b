@@ -1,0 +1,50 @@
+{
+  "slug": "buttery-earthy-beans",
+  "title": "Creamy Bean Stew",
+  "description": "A hearty, comforting stew made with earthy beans and a rich, creamy sauce.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large pot over medium heat.",
+    "Add the beans and cook until they're tender, about 10 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Use an immersion blender to puree the stew until smooth.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "stew",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-earthy-beans",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:35:48.824Z"
+}
