@@ -2496,15 +2496,16 @@
   },
   {
     "slug": "bitter-mediterranean-chicken-liver-falafel",
-    "title": "Bitter Mediterranean Chicken Liver Falafel",
+    "title": "Mediterranean Chicken Falafel Wrap",
     "tags": [
-      "chicken-liver",
+      "mediterranean",
+      "chicken",
       "falafel",
-      "gluten-free",
-      "mediterranean"
+      "wrap",
+      "pita"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -7765,15 +7766,17 @@
   },
   {
     "slug": "buttery-velvety-avocado-mousse",
-    "title": "Buttery Velvety Avocado Mousse",
+    "title": "Avocado Mousse",
     "tags": [
-      "velvety-avocado-mousse",
-      "buttery",
-      "indulgent",
-      "italian-dessert"
+      "avocado",
+      "chocolate",
+      "mousse",
+      "vegan",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
@@ -7897,17 +7900,15 @@
   },
   {
     "slug": "buttery-vietnamese-sirloin-steak-stir-fry",
-    "title": "Buttery Vietnamese Sirloin Steak Stir-fry",
+    "title": "Vietnamese Sirloin Stir Fry",
     "tags": [
-      "buttery",
-      "dense",
-      "sick-day",
-      "vietnamese",
-      "stir-fry",
-      "halal-friendly"
+      "beef",
+      "asian",
+      "quick",
+      "easy"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
