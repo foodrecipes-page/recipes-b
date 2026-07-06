@@ -1,0 +1,94 @@
+{
+  "slug": "buttery-vietnamese-sirloin-steak-stir-fry",
+  "title": "Vietnamese Sirloin Stir Fry",
+  "description": "A quick and flavorful stir fry dish made with sirloin, vegetables, and a hint of Vietnamese spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin",
+      "amount": "1.5 lbs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 tsp",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "steak seasoning",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery in a large skillet or wok over medium-high heat.",
+    "Add the sirloin and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Remove the sirloin from the skillet and set aside to rest.",
+    "In the same skillet, add the remaining 1 tablespoon of buttery, stir, and vietnamese.",
+    "Add the bell peppers, onions, and garlic to the skillet and cook until the vegetables are tender-crisp.",
+    "Return the sirloin to the skillet and stir in the steak seasoning.",
+    "Serve the sirloin over cooked rice and garnish with chopped green onions.",
+    "Optional: serve with additional stir-fry sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "asian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-vietnamese-sirloin-steak-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:41:52.046Z"
+}
