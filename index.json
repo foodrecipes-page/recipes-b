@@ -1015,14 +1015,15 @@
   },
   {
     "slug": "bitter-crispy-middle-eastern-onion-stir-fry",
-    "title": "Bitter Crispy Middle Eastern Onion Stir-fry",
+    "title": "Eastern Stir Fry",
     "tags": [
-      "bitter-onion",
-      "crispy-stir-fry",
-      "middle-eastern"
+      "eastern",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "cuisine": "Eastern",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
