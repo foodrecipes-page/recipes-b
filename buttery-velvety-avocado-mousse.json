@@ -1,0 +1,59 @@
+{
+  "slug": "buttery-velvety-avocado-mousse",
+  "title": "Avocado Mousse",
+  "description": "A rich and creamy mousse made with ripe avocado, perfect as a dessert or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery Avocados",
+      "amount": "3",
+      "notes": "Ripe and creamy"
+    },
+    {
+      "name": "Velvety Chocolate",
+      "amount": "1/2 cup",
+      "notes": "Dark chocolate mousse"
+    },
+    {
+      "name": "Avocado Mousse Base",
+      "amount": "1 cup",
+      "notes": "Avocado puree"
+    }
+  ],
+  "instructions": [
+    "1. Peel and pit the avocados and puree them in a blender until smooth.",
+    "2. In a separate bowl, melt the chocolate in the microwave in 10-second increments, stirring between each interval.",
+    "3. Once the chocolate is melted, let it cool slightly before folding it into the avocado puree.",
+    "4. Add the avo-mousse base to the melted chocolate and fold until well combined.",
+    "5. Spoon the mousse into individual serving cups or ramekins.",
+    "6. Chill the mousse in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avocado",
+    "chocolate",
+    "mousse",
+    "vegan",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-velvety-avocado-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:28:19.228Z"
+}
