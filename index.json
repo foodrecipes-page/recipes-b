@@ -1521,8 +1521,9 @@
     "title": "Moroccan Stir Fry",
     "tags": [
       "moroccan",
+      "stir-fry",
       "vegetarian",
-      "stir-fry"
+      "breakfast"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 25,
@@ -5368,16 +5369,15 @@
   },
   {
     "slug": "buttery-croatian-chive-hash",
-    "title": "Buttery Croatian Chive Hash",
+    "title": "Hash Brown Gratin",
     "tags": [
-      "buddhist-temple-friendly",
-      "gluten-free",
-      "high-fiber",
-      "post-workout",
-      "pressure-cooked"
+      "hash",
+      "gratin",
+      "breakfast",
+      "side dish"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 25,
+    "cuisine": "European",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
