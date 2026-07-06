@@ -1,0 +1,67 @@
+{
+  "slug": "bitter-crispy-middle-eastern-onion-stir-fry",
+  "title": "Eastern Stir Fry",
+  "description": "Quick and easy stir fry dish with a blend of Eastern flavors. Serve with rice or noodles for a complete meal.",
+  "cuisine": "Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bitter Melon",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Crispy Fried Onion",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Middle Eastern Spice Mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Eastern Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced bitter melon and cook until it starts to soften, about 3-4 minutes.",
+    "Add the chopped crispy fried onion and cook for another 2 minutes.",
+    "Add the Middle Eastern spice mix and cook for 1 minute, stirring constantly.",
+    "Add the Eastern soy sauce and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eastern",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-middle-eastern-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:46:57.350Z"
+}
