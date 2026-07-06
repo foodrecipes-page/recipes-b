@@ -1,0 +1,85 @@
+{
+  "slug": "bitter-mediterranean-chicken-liver-falafel",
+  "title": "Mediterranean Chicken Falafel Wrap",
+  "description": "A flavorful wrap filled with crispy falafel, juicy chicken, and crunchy vegetables, all wrapped in a warm pita.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Mediterranean pita bread",
+      "amount": "1"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together lemon juice, olive oil, salt, black pepper, and crushed red pepper flakes. Add the chicken and marinate for at least 30 minutes.",
+    "Remove chicken from marinade and bake for 20-25 minutes, or until cooked through.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add the falafel and cook until crispy, about 3-4 minutes per side.",
+    "Warm the pita bread in the oven for 5 minutes.",
+    "Assemble the wrap by spreading a layer of feta cheese on the pita, followed by a layer of bitter greens, a few pieces of falafel, and a few slices of cooked chicken.",
+    "Drizzle with additional lemon juice and olive oil, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "chicken",
+    "falafel",
+    "wrap",
+    "pita"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-mediterranean-chicken-liver-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:40:09.458Z"
+}
