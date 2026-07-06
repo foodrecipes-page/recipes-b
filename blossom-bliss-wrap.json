@@ -1,0 +1,77 @@
+{
+  "slug": "blossom-bliss-wrap",
+  "title": "Spring Blossom Wrap",
+  "description": "A refreshing springtime wrap filled with fresh blossom petals, creamy bliss and crunchy wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Blossom Petals",
+      "amount": "1 cup, fresh",
+      "notes": ""
+    },
+    {
+      "name": "Bliss",
+      "amount": "2 tbsp, vegan cream cheese",
+      "notes": ""
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mint Leaves",
+      "amount": "1/4 cup, fresh",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together blossom petals, bliss, hummus, mint leaves, lemon juice and salt.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Lay a large wrap flat on a clean surface.",
+    "Spoon the blossom mixture down the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "vegan",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/blossom-bliss-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T14:38:35.575Z"
+}
