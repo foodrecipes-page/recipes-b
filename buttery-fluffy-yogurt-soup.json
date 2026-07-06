@@ -1,0 +1,83 @@
+{
+  "slug": "buttery-fluffy-yogurt-soup",
+  "title": "Buttery Fluffy Pancakes",
+  "description": "Delicious and fluffy pancakes made with buttery goodness. Serve warm with a side of yogurt for a sweet breakfast treat.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fluffy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soup",
+      "amount": "not needed"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the fluffy, eggs, sugar, baking powder, and salt.",
+    "In a separate bowl, melt the buttery and mix with the milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve warm with a side of yogurt and buttery syrup, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-yogurt-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:02:14.643Z"
+}
