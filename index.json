@@ -8508,5 +8508,17 @@
     "cuisine": "Eastern",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--thai",
+    "title": "Thai Toor Dal",
+    "tags": [
+      "thai-dal",
+      "comfort-food",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
