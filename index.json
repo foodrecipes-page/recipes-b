@@ -3134,15 +3134,15 @@
   },
   {
     "slug": "blackberry-tangy-treat",
-    "title": "Blackberry Tangy Treat",
+    "title": "Blackberry Treat",
     "tags": [
-      "blackcurrant",
-      "tangy",
-      "snack",
-      "thai"
+      "blackberry",
+      "dessert",
+      "treat",
+      "sweet"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
