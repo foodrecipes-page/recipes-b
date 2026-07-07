@@ -1,0 +1,71 @@
+{
+  "slug": "blackberry-tangy-treat",
+  "title": "Blackberry Treat",
+  "description": "A sweet and tangy dessert to satisfy your cravings. Made with fresh blackberries and a hint of tanginess.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh Blackberries",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender or food processor, puree the blackberries until smooth.",
+    "In a medium bowl, whisk together the sugar, flour, and lemon juice.",
+    "Add the egg and melted butter to the sugar mixture. Mix until well combined.",
+    "Pour the blackberry puree into the sugar mixture and mix until smooth.",
+    "Pour the mixture into a baking dish and bake for 25-30 minutes, or until the edges are set.",
+    "Allow the treat to cool completely before serving.",
+    "Serve warm or chilled, garnished with additional blackberries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blackberry",
+    "dessert",
+    "treat",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/blackberry-tangy-treat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:37:54.550Z"
+}
