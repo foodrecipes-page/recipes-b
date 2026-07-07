@@ -1,0 +1,82 @@
+{
+  "slug": "bitter-tender-thai-crab-stir-fry",
+  "title": "Thai Crab Stir Fry",
+  "description": "A quick and flavorful Thai-inspired dish featuring crab, vegetables, and a blend of spices. Serve with steamed rice for a satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crab meat",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the bitter melon and cook for 2-3 minutes, until tender.",
+    "Add the crab meat and cook for 2-3 minutes, until heated through.",
+    "Add the Thai red curry paste, fish sauce, sugar, and chili flakes. Cook for 1 minute, until the sauce is fragrant.",
+    "Stir in the cilantro and serve immediately.",
+    "Serve with steamed rice and garnish with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crab",
+    "thai",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-tender-thai-crab-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:07:03.348Z"
+}
