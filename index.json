@@ -7505,13 +7505,11 @@
   },
   {
     "slug": "buttery-smoked-american-chicken-casserole",
-    "title": "Buttery Smoked American Chicken Casserole",
+    "title": "Smoked Chicken Casserole",
     "tags": [
-      "whole30",
-      "gluten-free",
-      "dairy-free",
-      "pressure-cooker",
-      "chicken-casserole"
+      "casserole",
+      "smoked-chicken",
+      "american-cuisine"
     ],
     "cuisine": "American",
     "totalTimeMin": 40,
@@ -8518,6 +8516,20 @@
       "vegetarian"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--vegetarian",
+    "title": "Eastern Toor Dal",
+    "tags": [
+      "comforting",
+      "vegetarian",
+      "indian",
+      "lunch",
+      "dal"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "b"
   }
