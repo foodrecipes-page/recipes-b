@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-flaky-korean-crumble",
+  "title": "Korean Crumble Bitter Flaky Pastries",
+  "description": "A sweet and flaky pastry filled with a tangy Korean-inspired filling. The addition of crumble topping adds a delightful crunch. Perfect for a snack or dessert.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "bitter melon",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together the chopped bitter melon, Korean chili flakes, and brown sugar.",
+    "Place a spoonful of the bitter melon mixture onto one half of each dough circle.",
+    "Fold the other half of the dough circle over the filling to form a half-moon shape.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Place the pastries on a baking sheet lined with parchment paper.",
+    "Sprinkle the crumble topping over the pastries.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pastries",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-flaky-korean-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:00:09.914Z"
+}
