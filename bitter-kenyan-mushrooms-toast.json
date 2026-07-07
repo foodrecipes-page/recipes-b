@@ -1,0 +1,68 @@
+{
+  "slug": "bitter-kenyan-mushrooms-toast",
+  "title": "Kenyan Mushroom Toast",
+  "description": "A flavorful and savory dish combining the rich flavors of Kenya with the earthiness of mushrooms. This toast is perfect as a snack or light meal.",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "any variety"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "salted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Slice the bread into 1-inch thick slices and toast until lightly browned.",
+    "In a pan, melt 1 tablespoon of butter over medium heat.",
+    "Add the sliced mushrooms and cook until they release their moisture and start browning.",
+    "Season with salt and black pepper to taste.",
+    "To assemble the toast, spread a layer of butter on each slice, followed by a spoonful of the mushroom mixture.",
+    "Place the toast under the broiler for 1-2 minutes to melt the butter and warm the bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "kenyan",
+    "mushrooms",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-kenyan-mushrooms-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:30:27.969Z"
+}
