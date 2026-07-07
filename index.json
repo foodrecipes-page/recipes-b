@@ -2835,17 +2835,14 @@
   },
   {
     "slug": "bitter-tender-thai-crab-stir-fry",
-    "title": "Bitter Tender Thai Crab Stir-fry",
+    "title": "Thai Crab Stir Fry",
     "tags": [
       "crab",
-      "stir-fry",
       "thai",
-      "bitter",
-      "tender",
-      "cranberry"
+      "stir-fry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
@@ -4870,16 +4867,15 @@
   },
   {
     "slug": "buttery-chewy-japanese-haricot-bean-ramen",
-    "title": "Buttery Chewy Japanese Haricot Bean Ramen",
+    "title": "Delicious Bean Ramen",
     "tags": [
-      "japanese-cuisine",
-      "high-protein",
+      "ramen",
+      "japanesecuisine",
       "vegetarian",
-      "comfort-food",
-      "ramen"
+      "glutenfree"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
