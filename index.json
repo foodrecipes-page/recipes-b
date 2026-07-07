@@ -2131,14 +2131,14 @@
   },
   {
     "slug": "bitter-gooey-pork-stir-fry",
-    "title": "Bitter Gooey Pork Stir-fry",
+    "title": "Pork Stir Fry",
     "tags": [
-      "bitter-gooey",
-      "brazilian-dish",
-      "keto-friendly"
+      "pork",
+      "stir-fry",
+      "chinese-cuisine"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
