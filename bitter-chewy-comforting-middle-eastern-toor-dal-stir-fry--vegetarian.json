@@ -1,0 +1,84 @@
+{
+  "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--vegetarian",
+  "title": "Eastern Toor Dal",
+  "description": "A comforting and flavorful Indian-inspired toor dal dish. This vegetarian recipe is perfect for a cozy evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the chopped onion and sauté until it's translucent.",
+    "Add the grated ginger and minced garlic and sauté for another minute.",
+    "Add the coriander powder, turmeric powder, and red chili powder. Mix well.",
+    "Add the toor dal and mix well.",
+    "Add 4 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 20-25 minutes or until the dal is cooked.",
+    "Season with salt to taste.",
+    "Serve hot garnished with chopped coriander leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "vegetarian",
+    "indian",
+    "lunch",
+    "dal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:07:16.621Z"
+}
