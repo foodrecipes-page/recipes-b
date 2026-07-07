@@ -1,0 +1,66 @@
+{
+  "slug": "bitter-gooey-pork-stir-fry",
+  "title": "Pork Stir Fry",
+  "description": "A simple and delicious stir fry recipe made with pork and a selection of vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bitter",
+      "amount": "2 cups",
+      "notes": "bitter melon, sliced"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the wok or a large skillet over medium-high heat.",
+    "Add the vegetable oil and swirl to coat the pan.",
+    "Add the pork and cook until browned, about 3-4 minutes.",
+    "Add the sliced ginger and minced garlic and cook for another minute.",
+    "Add the sliced bitter melon and cook until it starts to soften, about 3-4 minutes.",
+    "Stir in the soy sauce and cook for another minute.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pork",
+    "stir-fry",
+    "chinese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:11:11.512Z"
+}
