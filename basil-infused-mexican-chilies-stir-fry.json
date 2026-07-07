@@ -1,0 +1,75 @@
+{
+  "slug": "basil-infused-mexican-chilies-stir-fry",
+  "title": "Spicy Basil Stir Fry",
+  "description": "A quick and flavorful stir fry made with fresh basil and spicy mexican chilies. Serve as a side dish or add to your favorite noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Basil",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Mexican Chilies",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Stir Fry Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large skillet over medium-high heat.",
+    "Add the sliced chilies and cook for 2-3 minutes until fragrant.",
+    "Add the diced onion and cook for 3-4 minutes until softened.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped basil and stir-fry for 2-3 minutes until wilted.",
+    "Add the stir fry sauce and cook for 1 minute until combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basil",
+    "stir-fry",
+    "mexican-chili"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/basil-infused-mexican-chilies-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:32:21.405Z"
+}
