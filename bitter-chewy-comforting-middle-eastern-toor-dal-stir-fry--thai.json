@@ -1,0 +1,76 @@
+{
+  "slug": "bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--thai",
+  "title": "Thai Toor Dal",
+  "description": "A comforting Thai-inspired toor dal dish made with flavorful spices and herbs.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "middle eastern toor",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bitter toor",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chewy toor",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "comforting toor",
+      "amount": "2 cups"
+    },
+    {
+      "name": "stir fry oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fry salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "comforting spices",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a pan over medium-high heat.",
+    "Add the fry salt and sauté for 1 minute.",
+    "Add the toor dal and sauté for 2 minutes.",
+    "Add the middle eastern toor, bitter toor, and chewy toor, and sauté for 3 minutes.",
+    "Add the comforting toor and sauté for 5 minutes.",
+    "Add the comforting spices and stir well.",
+    "Simmer the dal for 20 minutes or until it thickens.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-dal",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-comforting-middle-eastern-toor-dal-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:11:36.909Z"
+}
