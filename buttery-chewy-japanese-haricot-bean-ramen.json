@@ -1,0 +1,78 @@
+{
+  "slug": "buttery-chewy-japanese-haricot-bean-ramen",
+  "title": "Delicious Bean Ramen",
+  "description": "A hearty and comforting Japanese-inspired ramen dish with a twist of French flair.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese ramen noodles",
+      "amount": "200g",
+      "notes": "preferably fresh or frozen"
+    },
+    {
+      "name": "Haricot bean",
+      "amount": "1 can (150g)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Chewy",
+      "amount": "100g",
+      "notes": "optional, for added texture"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a simmer in a large pot.",
+    "Add the Japanese ramen noodles and cook according to package instructions.",
+    "In a separate pan, melt the buttery over medium heat.",
+    "Add the haricot bean and cook until heated through.",
+    "Add the chewy (if using) and cook for an additional 2-3 minutes.",
+    "Season the bean mixture with soy sauce (if using).",
+    "To assemble the ramen, place the cooked noodles in a bowl, top with the bean mixture, and garnish with green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "japanesecuisine",
+    "vegetarian",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chewy-japanese-haricot-bean-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:30:10.591Z"
+}
