@@ -1,0 +1,74 @@
+{
+  "slug": "bittersweet-french-beetroot-stir-fry",
+  "title": "Beetroot and Bittersweet French Fries",
+  "description": "Crispy French fries with a twist of bittersweet and earthy beetroot flavor. Perfect as a side dish or snack.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "French Fries",
+      "amount": "1 bag (2 pounds)",
+      "notes": ""
+    },
+    {
+      "name": "Bittersweet Chocolate Chips",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the beetroot into small cubes and set aside.",
+    "Cut the French fries into desired shape and size.",
+    "In a bowl, mix together beetroot cubes and French fries.",
+    "Drizzle olive oil over the mixture and toss to combine.",
+    "Sprinkle salt and black pepper to taste.",
+    "Spread the mixture on a baking sheet and roast for 20-25 minutes, or until crispy.",
+    "Melt bittersweet chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Once the French fries are crispy, remove from the oven and drizzle with melted chocolate.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-fries",
+    "beetroot",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bittersweet-french-beetroot-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:56:08.708Z"
+}
