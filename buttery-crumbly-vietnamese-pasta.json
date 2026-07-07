@@ -1,0 +1,71 @@
+{
+  "slug": "buttery-crumbly-vietnamese-pasta",
+  "title": "Vietnamese Pasta Salad",
+  "description": "A refreshing and flavorful pasta salad with a tangy dressing, perfect for a light lunch or dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese rice noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "buttery balsamic vinaigrette",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the Vietnamese rice noodles according to package instructions.",
+    "In a large bowl, combine the cooked noodles, crumbly feta cheese, chopped cilantro, chopped scallions, and toasted peanuts.",
+    "In a small bowl, whisk together the buttery balsamic vinaigrette and a pinch of salt.",
+    "Pour the dressing over the noodle mixture and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "salad",
+    "vietnamese",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-vietnamese-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:58:57.195Z"
+}
