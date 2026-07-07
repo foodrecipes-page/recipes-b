@@ -1,0 +1,82 @@
+{
+  "slug": "bhuna-poblano-salsa",
+  "title": "Spicy Poblano Bhuna Stir Fry",
+  "description": "A flavorful and spicy stir fry made with poblano peppers, bhuna sauce, and salsa, perfect for a quick evening meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Bhuna sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": "mild or spicy to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger; sauté for 1 minute until fragrant.",
+    "Add poblano peppers; cook for 3-4 minutes until tender.",
+    "Add bhuna sauce; stir to coat the peppers.",
+    "Add salsa; stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot garnished with chopped cilantro.",
+    "Serve with steamed rice or naan bread for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "indian-cuisine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bhuna-poblano-salsa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:33:59.849Z"
+}
