@@ -1740,13 +1740,12 @@
   },
   {
     "slug": "bitter-flaky-korean-crumble",
-    "title": "Bitter Flaky Korean Crumble",
+    "title": "Korean Crumble Bitter Flaky Pastries",
     "tags": [
-      "bitter",
-      "flaky",
       "korean",
-      "festive",
-      "low-calorie-friendly"
+      "pastries",
+      "dessert",
+      "sweet"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 40,
@@ -5621,15 +5620,16 @@
   },
   {
     "slug": "buttery-crumbly-vietnamese-pasta",
-    "title": "Buttery Crumbly Vietnamese Pasta",
+    "title": "Vietnamese Pasta Salad",
     "tags": [
-      "buttery",
-      "crumbly",
-      "tadka",
-      "vietnamese"
+      "pasta",
+      "salad",
+      "vietnamese",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
