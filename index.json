@@ -655,12 +655,12 @@
   },
   {
     "slug": "bitter-chocolate-argentinian-crumble",
-    "title": "Bitter Chocolate Argentinian Crumble",
+    "title": "Argentinian Chocolate Crumble",
     "tags": [
-      "bitter-chocolate",
-      "argentinian-crumb",
-      "hangover-cure",
-      "high-protein-friendly"
+      "argentinian",
+      "chocolate",
+      "crumble",
+      "dessert"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
@@ -1143,16 +1143,16 @@
   },
   {
     "slug": "bitter-crumbly-kenyan-dates-crumble",
-    "title": "Bitter Crumbly Kenyan Dates Crumble",
+    "title": "Kenyan Bitter Date Crumble",
     "tags": [
-      "bitter",
-      "crumbly",
-      "date-night",
       "kenyan",
-      "kosher-friendly"
+      "bitter",
+      "crumble",
+      "dates",
+      "dessert"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
