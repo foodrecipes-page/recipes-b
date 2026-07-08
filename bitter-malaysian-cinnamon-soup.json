@@ -1,0 +1,88 @@
+{
+  "slug": "bitter-malaysian-cinnamon-soup",
+  "title": "Malaysian Bitter Cinnamon Soup",
+  "description": "A unique blend of bitter and sweet flavors, inspired by Malaysian cuisine. This comforting soup is perfect for a chilly day.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bitter melon",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "2",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": " bruised"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion, garlic, and ginger until fragrant.",
+    "Add the lemongrass, cinnamon sticks, and bitter melon. Cook for 2 minutes.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce the heat and simmer for 10 minutes.",
+    "Stir in the coconut milk and season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Optional: Serve with steamed rice or noodles for added texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "vegan",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-malaysian-cinnamon-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:28:12.317Z"
+}
