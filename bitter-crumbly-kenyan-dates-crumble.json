@@ -1,0 +1,69 @@
+{
+  "slug": "bitter-crumbly-kenyan-dates-crumble",
+  "title": "Kenyan Bitter Date Crumble",
+  "description": "A traditional Kenyan dessert featuring bitter dates and a crumbly topping.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bitter Dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan Crumble",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel the bitter dates and cut them into halves.",
+    "In a bowl, combine the flour, sugar, and cold butter. Use a pastry blender or your fingertips to work the butter into the flour mixture until it resembles coarse crumbs.",
+    "Add the Kenyan crumble to the flour mixture and stir until well combined.",
+    "Transfer the mixture to a baking dish and top with the bitter dates.",
+    "Bake for 20-25 minutes or until the topping is golden brown and the dates are tender.",
+    "Serve warm or at room temperature.",
+    "Optional: Serve with a scoop of vanilla ice cream or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "bitter",
+    "crumble",
+    "dates",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crumbly-kenyan-dates-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:49:35.497Z"
+}
