@@ -2510,15 +2510,14 @@
   },
   {
     "slug": "bitter-molten-croatian-dish-wrap",
-    "title": "bitter molten croatian dish wrap",
+    "title": "Croatian Wrap",
     "tags": [
-      "date-night",
-      "high-calorie",
-      "keto-friendly",
-      "spicy"
+      "croatian",
+      "vegetarian",
+      "snack"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Croatian",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
