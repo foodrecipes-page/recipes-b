@@ -5850,15 +5850,14 @@
   },
   {
     "slug": "buttery-date-night-canadian-roast-roast",
-    "title": "Buttery Date-Night Canadian Roast",
+    "title": "Roast Beef with Date Glaze",
     "tags": [
-      "date-night",
-      "high-fat",
-      "low-glycemic",
-      "romantic"
+      "roast-beef",
+      "date-glaze",
+      "special-occasion"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 225,
+    "cuisine": "American",
+    "totalTimeMin": 140,
     "shard": "b"
   },
   {
