@@ -1157,14 +1157,14 @@
   },
   {
     "slug": "bitter-crumbly-light-chinese-duck-leg-crumble",
-    "title": "Bitter Crumbly Light Chinese Duck Leg Crame",
+    "title": "Crispy Crumbly Duck Leg",
     "tags": [
-      "crumble",
-      "duck_legs",
-      "light_chinese_dish"
+      "chinese",
+      "meat",
+      "lunch"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -2476,19 +2476,15 @@
   },
   {
     "slug": "bitter-malaysian-cinnamon-soup",
-    "title": "Bitter Malaysian Cinnamon Soup",
+    "title": "Malaysian Bitter Cinnamon Soup",
     "tags": [
-      "malaysian",
-      "bitter",
-      "cinnamon",
-      "vegetarian",
       "soup",
-      "fermented",
-      "nighttime",
-      "jaggery"
+      "vegetarian",
+      "vegan",
+      "malaysian"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 15,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
