@@ -1,0 +1,86 @@
+{
+  "slug": "bouquet-thai-crunch",
+  "title": "Thai Crunch Salad",
+  "description": "A refreshing salad with a sweet and spicy twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crunchy rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bouquet garnet radishes",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crunchy fried shallots",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rice noodles, basil leaves, carrots, cucumber, and radishes.",
+    "In a small bowl, whisk together lime juice, honey, and fish sauce.",
+    "Pour the dressing over the salad and toss to coat.",
+    "Sprinkle the fried shallots over the top of the salad.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salad",
+    "thai",
+    "crunch"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouquet-thai-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:42:09.827Z"
+}
