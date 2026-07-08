@@ -1,0 +1,74 @@
+{
+  "slug": "bitter-chocolate-argentinian-crumble",
+  "title": "Argentinian Chocolate Crumble",
+  "description": "A rich and decadent dessert featuring Argentinian chocolate and a crunchy crumble topping",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Argentinian dark chocolate",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "150g",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "50g",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 small",
+      "notes": "optional, for a sweet and tangy twist"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Melt the chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "In a separate bowl, combine the flour, sugar, and ground almonds for the crumble topping.",
+    "Add the unsalted butter to the dry ingredients and rub until the mixture resembles coarse breadcrumbs.",
+    "Press half of the crumble mixture into the bottom of a 20cm square baking dish.",
+    "Pour the melted chocolate over the crumble base.",
+    "Top with the remaining crumble mixture.",
+    "Bake for 25-30 minutes, or until the crumble is golden brown and the chocolate is set.",
+    "Allow the dessert to cool completely in the pan before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chocolate",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chocolate-argentinian-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:42:07.207Z"
+}
