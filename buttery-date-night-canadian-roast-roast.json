@@ -1,0 +1,62 @@
+{
+  "slug": "buttery-date-night-canadian-roast-roast",
+  "title": "Roast Beef with Date Glaze",
+  "description": "A sweet and savory roast beef dish featuring a date glaze. Perfect for a special occasion dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast beef",
+      "amount": "1 (3-4 pound) roast",
+      "notes": ""
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup pitted and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Canadian roast",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons unsalted butter",
+      "notes": ""
+    },
+    {
+      "name": "Night",
+      "amount": "1/4 cup red wine (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the roast beef with salt and pepper.",
+    "In a small saucepan, combine chopped dates, Canadian roast, and red wine (if using).",
+    "Bring the mixture to a boil, then reduce heat and simmer for 5 minutes.",
+    "Rub the roast beef with the date glaze, making sure to coat all surfaces.",
+    "Place the roast beef in a roasting pan and dot the top with unsalted butter.",
+    "Roast the beef in the preheated oven for 20 minutes per pound, or until it reaches your desired level of doneness.",
+    "Let the beef rest for 10-15 minutes before slicing and serving.",
+    "Serve with additional date glaze, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "roast-beef",
+    "date-glaze",
+    "special-occasion"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-date-night-canadian-roast-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:27:47.401Z"
+}
