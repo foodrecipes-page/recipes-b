@@ -3812,16 +3812,14 @@
   },
   {
     "slug": "bouquet-thai-crunch",
-    "title": "Bouquet Thai Crunch",
+    "title": "Thai Crunch Salad",
     "tags": [
-      "bouquet-thai-crunch",
-      "thai-dish",
-      "snack",
-      "dessert",
-      "low-fodmap"
+      "salad",
+      "thai",
+      "crunch"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
