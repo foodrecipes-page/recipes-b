@@ -706,16 +706,14 @@
   },
   {
     "slug": "bitter-creamy-german-cucumber-en-croute",
-    "title": "Bitter Creamy German Cucumber En-Croûte",
+    "title": "German Cucumber Salad",
     "tags": [
-      "dinner",
-      "festive",
-      "german",
-      "holiday",
-      "vegetarian"
+      "salad",
+      "side-dish",
+      "german-cuisine"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 65,
+    "cuisine": "German",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
@@ -3879,16 +3877,14 @@
   },
   {
     "slug": "brine-dry-british-sardines-pudding",
-    "title": "Brine-Dry British Sardines Pudding",
+    "title": "British Sardine Pudding",
     "tags": [
       "british",
-      "dessert",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "fish",
+      "pudding"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 40,
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
