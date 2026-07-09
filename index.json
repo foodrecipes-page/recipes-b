@@ -241,13 +241,14 @@
   },
   {
     "slug": "berry-bliss",
-    "title": "Berry Bliss",
+    "title": "Berry Bliss Muffins",
     "tags": [
-      "sugar-free",
-      "peruvian",
-      "berry-bliss"
+      "breakfast",
+      "dessert",
+      "muffin",
+      "fruit"
     ],
-    "cuisine": "Peruvian",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "b"
   },
@@ -3495,16 +3496,15 @@
   },
   {
     "slug": "bouncy-earthy-potatoes-stone-bowl-dolsot",
-    "title": "Bouncy Earthy Potatoes Stone-Bowl-Dolsot",
+    "title": "Korean-Style Dolsot Bibimbap",
     "tags": [
-      "kid-friendly",
-      "one-pan",
-      "polish",
-      "sugar-free",
-      "weeknight"
+      "korean",
+      "bibimbap",
+      "rice bowl",
+      "stone bowl"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -4675,18 +4675,18 @@
   },
   {
     "slug": "buttery-british-vialone-nano-ploughman-s",
-    "title": "Buttery British Vialone-Nano Ploughman's",
+    "title": "Creamy Vialone Risotto",
     "tags": [
-      "breakfast",
-      "british",
-      "brunch",
-      "easy",
+      "italian",
+      "risotto",
+      "cheese",
+      "wine",
       "lunch",
-      "ploughmans",
-      "weeknight"
+      "dinner",
+      "cream"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 25,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
