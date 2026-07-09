@@ -761,14 +761,15 @@
   },
   {
     "slug": "bitter-creamy-light-middle-eastern-rest-meat-tagine",
-    "title": "Bitter Creamy Light Middle-Eastern Rest-Meat Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "moroccan",
+      "tagine",
+      "chicken",
+      "stew"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 60,
     "shard": "b"
   },
   {
@@ -5126,16 +5127,15 @@
   },
   {
     "slug": "buttery-crisp-middle-eastern-flatbread-grill",
-    "title": "Buttery Crisp Middle Eastern Flatbread",
+    "title": "Eastern Flatbread Grilled Delight",
     "tags": [
-      "middle-eastern",
+      "grilled",
       "flatbread",
-      "vegan",
-      "gluten-free",
-      "romantic"
+      "middle-eastern",
+      "snack"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "totalTimeMin": 9,
     "shard": "b"
   },
   {
