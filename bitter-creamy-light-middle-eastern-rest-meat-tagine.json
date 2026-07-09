@@ -1,0 +1,105 @@
+{
+  "slug": "bitter-creamy-light-middle-eastern-rest-meat-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A traditional Moroccan stew made with chicken, spices, and dried fruits. This dish is perfect for a cold winter night, with its rich and flavorful sauce.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "non-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add cumin, coriander, cinnamon, salt, and pepper. Cook for 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add prunes and chicken broth. Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 30-40 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tagine",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-creamy-light-middle-eastern-rest-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:19:54.279Z"
+}
