@@ -1,0 +1,73 @@
+{
+  "slug": "brine-dry-british-sardines-pudding",
+  "title": "British Sardine Pudding",
+  "description": "A traditional British dish made with sardines in a creamy pudding. This recipe combines the delicate flavor of sardines with the comfort of a warm pudding.",
+  "cuisine": "British",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sardines in water",
+      "amount": "1 can (drained and flaked)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, melted butter, milk, eggs, and a pinch of salt and pepper. Mix well to combine.",
+    "Add the flaked sardines and grated cheese to the bowl and mix until fully incorporated.",
+    "Pour the mixture into a 9x5-inch loaf pan.",
+    "Bake for 35-40 minutes, or until the pudding is set and golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brine-dry-british-sardines-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:53:04.167Z"
+}
