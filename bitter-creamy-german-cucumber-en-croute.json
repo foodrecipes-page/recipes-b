@@ -1,0 +1,60 @@
+{
+  "slug": "bitter-creamy-german-cucumber-en-croute",
+  "title": "German Cucumber Salad",
+  "description": "A refreshing salad made with thinly sliced cucumbers, creamy dressing, and a hint of German flair.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/2 cup",
+      "notes": "plain Greek yogurt"
+    },
+    {
+      "name": "german",
+      "amount": "1 tablespoon",
+      "notes": "Dijon mustard"
+    },
+    {
+      "name": "croute",
+      "amount": "4 slices",
+      "notes": "crusty German bread, toasted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced cucumbers and toasted bread.",
+    "In a small bowl, whisk together the yogurt, Dijon mustard, and a pinch of salt.",
+    "Pour the dressing over the cucumber mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and garnish with additional sliced cucumbers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "side-dish",
+    "german-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-creamy-german-cucumber-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:24:48.720Z"
+}
