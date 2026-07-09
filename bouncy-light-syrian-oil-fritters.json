@@ -1,0 +1,61 @@
+{
+  "slug": "bouncy-light-syrian-oil-fritters",
+  "title": "Syrian Fritters with Bouncy Twist",
+  "description": "A delicious twist on traditional Syrian fritters, featuring a bouncy and light ingredient for a unique taste experience.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Light cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Bouncy ingredient",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Oil",
+      "amount": "1/4 cup, for frying"
+    },
+    {
+      "name": "Fritters mix",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Syrian flour, Light cheese, and Bouncy ingredient.",
+    "Mix well until all ingredients are combined.",
+    "Add Fritters mix and mix until a dough forms.",
+    "Heat oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small amounts of dough into the oil.",
+    "Fry until golden brown, about 2-3 minutes per side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian-fritters",
+    "bouncy-twist",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-light-syrian-oil-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:17:21.500Z"
+}
