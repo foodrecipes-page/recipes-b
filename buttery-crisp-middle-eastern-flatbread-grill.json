@@ -1,0 +1,57 @@
+{
+  "slug": "buttery-crisp-middle-eastern-flatbread-grill",
+  "title": "Eastern Flatbread Grilled Delight",
+  "description": "A simple yet flavorful dish that brings the taste of the East to your plate. This recipe combines the crunch of crispy flatbread with the richness of grilled buttery goodness.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Middle Eastern Flatbread",
+      "amount": "1 package",
+      "notes": "crunchy flatbread"
+    },
+    {
+      "name": "Buttery Spread",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Crisp Vegetables",
+      "amount": "1 cup",
+      "notes": "your choice of crunchy vegetables"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium heat.",
+    "2. Cut the flatbread into desired shapes or keep as is.",
+    "3. Brush both sides of the flatbread with buttery spread.",
+    "4. Grill the flatbread for 2-3 minutes on each side, until crispy and golden brown.",
+    "5. Meanwhile, prepare your choice of crisp vegetables.",
+    "6. Assemble the grilled flatbread with crispy vegetables and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "flatbread",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-middle-eastern-flatbread-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:20:30.146Z"
+}
