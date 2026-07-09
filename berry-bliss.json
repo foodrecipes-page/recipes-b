@@ -1,0 +1,81 @@
+{
+  "slug": "berry-bliss",
+  "title": "Berry Bliss Muffins",
+  "description": "Moist and flavorful muffins made with a mix of berries and topped with a crunchy blissful streusel topping.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "mixed berries (blueberries, raspberries, blackberries)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bliss (sugar and cinnamon mixture)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together melted butter, eggs, milk, and mixed berries.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined. Do not overmix.",
+    "Divide the batter evenly among the muffin cups.",
+    "To make the bliss topping, mix together sugar and cinnamon in a small bowl.",
+    "Sprinkle the bliss topping evenly over the muffin batter.",
+    "Bake for 20-25 minutes, or until the muffins are golden brown and a toothpick inserted into the center of a muffin comes out clean.",
+    "Allow the muffins to cool in the tin for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "muffin",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/berry-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:06:00.740Z"
+}
