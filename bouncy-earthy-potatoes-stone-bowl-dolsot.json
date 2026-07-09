@@ -1,0 +1,84 @@
+{
+  "slug": "bouncy-earthy-potatoes-stone-bowl-dolsot",
+  "title": "Korean-Style Dolsot Bibimbap",
+  "description": "A traditional Korean rice bowl dish topped with an assortment of vegetables and a fried egg, served in a hot stone bowl.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "earthy",
+      "amount": "1 cup mixed mushrooms",
+      "notes": ""
+    },
+    {
+      "name": "stone",
+      "amount": "1 dolsot",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "dolsot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the rice according to the package instructions.",
+    "2. Cut the potatoes into small pieces and boil in water until tender.",
+    "3. In a pan, heat the vegetable oil over medium heat.",
+    "4. Add the mixed mushrooms and cook until they start to soften.",
+    "5. Push the mushrooms to one side of the pan.",
+    "6. Crack an egg into the other side of the pan and scramble it.",
+    "7. Mix the egg with the mushrooms.",
+    "8. To assemble the dish, place a scoop of rice in the dolsot.",
+    "9. Add the egg and mushroom mixture on top of the rice.",
+    "10. Add the diced potatoes on top.",
+    "11. Serve the dish immediately, with the hot stone bowl still sizzling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bibimbap",
+    "rice bowl",
+    "stone bowl"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-earthy-potatoes-stone-bowl-dolsot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:09:53.370Z"
+}
