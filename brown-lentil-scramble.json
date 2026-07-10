@@ -1,0 +1,81 @@
+{
+  "slug": "brown-lentil-scramble",
+  "title": "Indian-Style Lentil Scramble",
+  "description": "A vegetarian twist on traditional scrambled eggs, made with red lentils and Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Scramble Eggs (or egg substitute)",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes. Drain and set aside.",
+    "Heat oil in a pan over medium heat. Add the chopped onion and cook until softened.",
+    "Add the garam masala, turmeric, and salt. Cook for 1 minute.",
+    "Add the soaked lentils and 2 cups of water to the pan. Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "In a separate pan, scramble the eggs (or egg substitute).",
+    "Once the lentils are cooked, mash them with a fork to create a scrambled egg-like texture.",
+    "Combine the cooked lentils and scrambled eggs in the pan. Stir well.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "breakfast",
+    "lentils",
+    "scramble"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brown-lentil-scramble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:32:33.962Z"
+}
