@@ -1,0 +1,60 @@
+{
+  "slug": "buttery-ukrainian-broccoli-stir-fry",
+  "title": "Quick Broccoli Stir Fry",
+  "description": "A simple and flavorful stir fry made with broccoli, featuring a savory sauce. Can be served as a side dish or as part of a larger meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 teaspoon",
+      "notes": "dried dill weed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a large skillet over medium-high heat.",
+    "Add broccoli to the skillet and cook for 3-4 minutes, or until tender.",
+    "In a small bowl, whisk together ukrainian and soy sauce.",
+    "Pour the sauce over the broccoli and stir to coat.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-ukrainian-broccoli-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:01:49.048Z"
+}
