@@ -1,0 +1,56 @@
+{
+  "slug": "buttery-juicy-avocado-salad",
+  "title": "Avocado Salad Recipe",
+  "description": "A simple and healthy salad recipe that combines the creaminess of avocado with the crunch of salad.",
+  "cuisine": "American",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buttery Lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the lettuce and spin dry.",
+    "Cut the tomatoes into bite-sized pieces.",
+    "Cut the avocado into small chunks.",
+    "In a large bowl, combine the lettuce, tomatoes, and avocado.",
+    "Toss gently to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "avocado",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-avocado-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:44:43.964Z"
+}
