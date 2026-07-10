@@ -7686,16 +7686,14 @@
   },
   {
     "slug": "buttery-ukrainian-broccoli-stir-fry",
-    "title": "Buttery Ukrainian Broccoli Stir-fry",
+    "title": "Quick Broccoli Stir Fry",
     "tags": [
-      "ukrainian",
       "stir-fry",
-      "broccoli",
-      "quickmeal",
-      "low-sodium"
+      "vegetarian",
+      "quick-meal"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
