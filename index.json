@@ -4291,15 +4291,16 @@
   },
   {
     "slug": "brown-lentil-scramble",
-    "title": "Brown Lentil Scramble",
+    "title": "Indian-Style Lentil Scramble",
     "tags": [
-      "brown-lentil-scramble",
-      "british-dish",
-      "vegan-friendly",
-      "egg-free"
+      "indian",
+      "vegetarian",
+      "breakfast",
+      "lentils",
+      "scramble"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 55,
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
