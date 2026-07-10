@@ -5136,17 +5136,14 @@
   },
   {
     "slug": "buttery-crispy-australian-monkfish-toast",
-    "title": "Buttery Crispy Australian Monkfish Toast",
+    "title": "Monkfish with Crispy Australian Toast",
     "tags": [
+      "fish",
       "australian",
-      "monkfish",
-      "toast",
-      "buttery",
-      "crispy",
-      "jain-friendly"
+      "quick"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 47,
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
@@ -6207,16 +6204,14 @@
   },
   {
     "slug": "buttery-fluffy-canadian-chicken-pilaf",
-    "title": "Buttery Fluffy Canadian Chicken Pilaf",
+    "title": "Fluffy Chicken Pilaf",
     "tags": [
-      "canadian",
       "chicken",
       "pilaf",
-      "low-sodium",
-      "kid-friendly"
+      "comfort-food"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": "North American",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
