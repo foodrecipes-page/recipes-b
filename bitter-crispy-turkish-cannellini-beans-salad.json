@@ -1,0 +1,65 @@
+{
+  "slug": "bitter-crispy-turkish-cannellini-beans-salad",
+  "title": "Turkish Salad with Cannellini Beans",
+  "description": "A hearty and refreshing salad inspired by Turkish cuisine, featuring cannellini beans, crunchy salad, and a hint of bitter flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup cooked",
+      "notes": null
+    },
+    {
+      "name": "crunchy salad",
+      "amount": "2 cups mixed greens",
+      "notes": null
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup chopped escarole",
+      "notes": "or substitute with endive"
+    },
+    {
+      "name": "turkish",
+      "amount": "1/4 cup crumbled feta cheese",
+      "notes": "optional, for non-vegan version"
+    },
+    {
+      "name": "beans",
+      "amount": "1/4 cup cooked chickpeas",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cooked cannellini beans, mixed greens, chopped escarole, and crumbled feta cheese (if using).",
+    "In a small bowl, whisk together the vinaigrette ingredients (olive oil, lemon juice, and salt).",
+    "Drizzle the vinaigrette over the salad and toss to combine.",
+    "Top with cooked chickpeas and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "turkish",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-turkish-cannellini-beans-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:46:44.046Z"
+}
