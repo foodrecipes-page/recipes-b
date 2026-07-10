@@ -1,0 +1,66 @@
+{
+  "slug": "buttery-crispy-australian-monkfish-toast",
+  "title": "Monkfish with Crispy Australian Toast",
+  "description": "A simple yet flavorful dish featuring monkfish paired with crispy toast.",
+  "cuisine": "Australian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "Salted"
+    },
+    {
+      "name": "Australian bread (white or whole wheat)",
+      "amount": "4 slices",
+      "notes": "Day-old"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 400°F (200°C).",
+    "2. Season the monkfish fillets with salt and black pepper.",
+    "3. In a pan over medium-high heat, melt 1 tbsp of buttery. Add the monkfish fillets and sear for 2-3 minutes on each side.",
+    "4. Transfer the pan to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "5. Meanwhile, slice the Australian bread into 1-inch thick slices and toast until crispy.",
+    "6. In a small pan over low heat, melt the remaining 1 tbsp of buttery.",
+    "7. Serve the monkfish on top of the crispy toast, spooning the melted butter over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "australian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-australian-monkfish-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:56:03.219Z"
+}
