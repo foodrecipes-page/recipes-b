@@ -2435,18 +2435,14 @@
   },
   {
     "slug": "bitter-light-egyptian-beans-stew",
-    "title": "Bitter Light Egyptian Beans Stew",
+    "title": "Egyptian Bean Stew",
     "tags": [
-      "bitter",
-      "light",
-      "egyptian",
+      "stew",
       "beans",
-      "sous-vide",
-      "fodmap-friendly",
-      "vegetarian"
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 140,
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
