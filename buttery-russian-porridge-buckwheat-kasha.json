@@ -1,0 +1,63 @@
+{
+  "slug": "buttery-russian-porridge-buckwheat-kasha",
+  "title": "Buckwheat Kasha with Butter",
+  "description": "A traditional Russian side dish made with buckwheat groats and topped with butter.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "porridge",
+      "amount": "2 cups",
+      "notes": "boiled water"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the buckwheat groats in a fine mesh strainer.",
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the buckwheat groats and porridge to the boiling water.",
+    "Reduce heat to low and simmer for 15-20 minutes.",
+    "Stir in the buttery.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat",
+    "kasha",
+    "russian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-russian-porridge-buckwheat-kasha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:26:19.903Z"
+}
