@@ -1341,14 +1341,15 @@
   },
   {
     "slug": "bitter-crunchy-lazy-sunday-millet-stir-fry",
-    "title": "Bitter Crunchy Lazy-Sunday Millet Stir-fry",
+    "title": "Sunday Millet Stir Fry",
     "tags": [
-      "lazy-sunday-dish",
-      "bitter-chunky-millet-stir-fry",
-      "vegan-style"
+      "millet",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Mexican (Norteño)",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
