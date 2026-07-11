@@ -1,0 +1,75 @@
+{
+  "slug": "bouncy-jamaican-dish-stew",
+  "title": "Jamaican Stewed Bouncy Delight",
+  "description": "A hearty and flavorful stew made with tender bouncy, inspired by the rich flavors of Jamaica.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bouncy",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "jamaican dish spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1, diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add sliced bouncy, cook until browned.",
+    "Add stew, mix well.",
+    "Add Jamaican dish spice mix, thyme, and coconut milk.",
+    "Bring to a boil, then reduce heat and simmer.",
+    "Add diced tomato, continue to simmer.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-jamaican-dish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:57:10.546Z"
+}
