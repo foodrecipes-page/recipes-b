@@ -1,0 +1,63 @@
+{
+  "slug": "bitter-velvety-british-chicken-stew",
+  "title": "British Chicken Stew",
+  "description": "A hearty and comforting British-inspired stew made with tender chicken and a rich broth. Perfect for a cold winter's day.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "british stew",
+      "amount": "1 packet",
+      "notes": "follow package instructions for seasoning"
+    },
+    {
+      "name": "bitter",
+      "amount": "2 medium",
+      "notes": "scrubbed and chopped"
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the stew seasoning packet and stir to combine.",
+    "Add the chopped bitter and stir to combine.",
+    "Pour in enough water to cover the chicken and bitter, about 2 cups.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Check the chicken for doneness. If not done, cover and simmer for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-velvety-british-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T10:38:03.438Z"
+}
