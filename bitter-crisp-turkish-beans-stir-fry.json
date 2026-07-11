@@ -1,0 +1,68 @@
+{
+  "slug": "bitter-crisp-turkish-beans-stir-fry",
+  "title": "Crispy Turkish Fry Beans",
+  "description": "A flavorful and crunchy dish featuring stir-fried beans in a crispy Turkish seasoning blend.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beans",
+      "amount": "1 1/2 cups",
+      "notes": "any type of bean, drained and rinsed"
+    },
+    {
+      "name": "bitter",
+      "amount": "2 tablespoons",
+      "notes": "turkish bitter pepper, crushed"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/4 cup",
+      "notes": "turkish crisp bread, crushed"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon",
+      "notes": "stir-fry sauce (or make own with soy sauce and garlic)"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "veg oil for frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add the crushed bitter pepper and cook for 1 minute.",
+    "Add the beans and stir-fry sauce, and cook for 3-4 minutes.",
+    "Add the crushed crispy bread and stir to combine.",
+    "Cook for an additional 2 minutes, until crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "turkish",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-turkish-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:10:34.505Z"
+}
