@@ -1,0 +1,78 @@
+{
+  "slug": "bitter-joy-moroccan-reviver",
+  "title": "Reviver Bitter Moroccan Delight",
+  "description": "A refreshing twist on traditional Moroccan flavors, featuring reviver's invigorating essence and the bitter notes of dark chocolate.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Moroccan tea",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dark chocolate (70% cocoa)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Reviver",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bitter orange marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine tea, chocolate, and reviver in a saucepan and heat over low heat.",
+    "Bring mixture to a simmer and whisk until chocolate is melted.",
+    "Stir in orange marmalade, mint, honey, lemon juice, cinnamon, and ginger.",
+    "Remove from heat and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chocolate",
+    "tea",
+    "reviver",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-joy-moroccan-reviver",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:55:36.767Z"
+}
