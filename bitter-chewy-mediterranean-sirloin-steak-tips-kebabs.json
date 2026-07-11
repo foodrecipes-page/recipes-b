@@ -1,0 +1,78 @@
+{
+  "slug": "bitter-chewy-mediterranean-sirloin-steak-tips-kebabs",
+  "title": "Grilled Steak Kebabs",
+  "description": "A flavorful and easy-to-make dish featuring marinated steak and vegetables, perfect for a quick dinner or outdoor gathering.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, and a pinch of salt and pepper.",
+    "Add the sirloin cubes, mushrooms, bell peppers, and onion to the bowl. Toss to coat with the marinade.",
+    "Thread the marinated vegetables and meat onto skewers, leaving a little space between each piece.",
+    "Brush the grill grates with oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until the steak reaches your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "steak",
+    "kebabs",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-mediterranean-sirloin-steak-tips-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:41:26.186Z"
+}
