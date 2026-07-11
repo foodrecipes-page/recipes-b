@@ -1,0 +1,46 @@
+{
+  "slug": "buttery-middle-eastern-flatbread-flatbread",
+  "title": "Eastern Flatbread",
+  "description": "A simple flatbread recipe inspired by the flavors of the Middle East. Perfect for snacking or as a side.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Buttery Flatbread (Middle Eastern)",
+      "amount": "2",
+      "notes": "available"
+    },
+    {
+      "name": "Eastern Flatbread (Middle Eastern)",
+      "amount": "2",
+      "notes": "available"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Brush the flatbreads with a little butter on each side.",
+    "Place the flatbreads in the skillet and cook for 1-2 minutes on each side, until crispy and golden.",
+    "Serve warm, either on their own or topped with your favorite ingredients such as hummus, tabbouleh, or feta cheese."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "simple",
+    "easy",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-middle-eastern-flatbread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:26:26.107Z"
+}
