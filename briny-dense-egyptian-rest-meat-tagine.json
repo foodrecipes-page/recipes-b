@@ -1,0 +1,84 @@
+{
+  "slug": "briny-dense-egyptian-rest-meat-tagine",
+  "title": "Beef Tagine with Egyptian Spices",
+  "description": "A rich and aromatic stew originating from North Africa, made with tender beef and exotic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (chuck or brisket), cut into 2-inch pieces",
+      "amount": "1.5 pounds",
+      "notes": "You can also use beef short ribs or lamb if preferred"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dense Egyptian spices blend (such as berbere or ras el hanout)",
+      "amount": "2 teaspoons",
+      "notes": "You can also use a mix of ground cumin, coriander, cinnamon, and cayenne pepper"
+    },
+    {
+      "name": "Briny preserved lemon, chopped (optional)",
+      "amount": "2 tablespoons",
+      "notes": "You can omit this if you don't have preserved lemon or prefer not to use it"
+    },
+    {
+      "name": "Rest (chopped fresh parsley or cilantro)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches, about 5 minutes per batch, then set aside.",
+    "Add more oil if necessary and sauté the onion and garlic until softened.",
+    "Add the spices and cook for 1 minute, until fragrant.",
+    "Add the browned beef back into the pot, along with enough water to cover.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Stir in the preserved lemon (if using) and adjust the seasoning.",
+    "Serve hot, garnished with parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "north-african",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-dense-egyptian-rest-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:28:30.539Z"
+}
