@@ -4004,16 +4004,15 @@
   },
   {
     "slug": "briny-dense-egyptian-rest-meat-tagine",
-    "title": "Briny Dense Egyptian Rest-Meat Tagine",
+    "title": "Beef Tagine with Egyptian Spices",
     "tags": [
-      "egyptian",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "north-african",
+      "spicy"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "b"
   },
   {
@@ -7834,12 +7833,12 @@
   },
   {
     "slug": "buttery-vietnamese-rice-noodles-pho",
-    "title": "Buttery Vietnamese Rice Noodles Pho",
+    "title": "Vietnamese Pho",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "one-pan",
-      "weeknight"
+      "soup",
+      "noodle-soup",
+      "vietnamese-cuisine",
+      "beef"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
