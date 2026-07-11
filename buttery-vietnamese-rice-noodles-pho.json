@@ -1,0 +1,74 @@
+{
+  "slug": "buttery-vietnamese-rice-noodles-pho",
+  "title": "Vietnamese Pho",
+  "description": "A classic Vietnamese noodle soup made with beef broth, beef slices, and rice noodles. This recipe is a simplified version of the traditional dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese rice noodles",
+      "amount": "1 package (200g)"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beef slices (rare steak)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "pho spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "toasted onions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine beef broth, pho spices, and fish sauce. Bring to a boil.",
+    "2. Reduce heat to low and simmer for 10 minutes.",
+    "3. Cook rice noodles according to package instructions. Drain and set aside.",
+    "4. Slice rare steak into thin strips.",
+    "5. Add beef slices to the pot and cook for 1-2 minutes, or until cooked to desired doneness.",
+    "6. Add cooked noodles to the pot and stir to combine.",
+    "7. Taste and adjust seasoning as needed.",
+    "8. Serve hot, garnished with toasted onions and lime wedges.",
+    "9. Allow each guest to assemble their own bowl with noodles, beef, and desired toppings.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "noodle-soup",
+    "vietnamese-cuisine",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-vietnamese-rice-noodles-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:14:34.497Z"
+}
