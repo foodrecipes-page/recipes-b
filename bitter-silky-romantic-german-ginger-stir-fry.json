@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-silky-romantic-german-ginger-stir-fry",
+  "title": "Silky Stir Fry with Bitter Ginger",
+  "description": "A quick and easy stir fry made with silky and bitter notes, perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "romantic (bell) peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "bitter (bok choy)",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "german (potatoes)",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "stir (soy sauce)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fry (vegetable oil)",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the sliced ginger and cook for another minute.",
+    "Add the bell peppers and bok choy, and cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "In a small bowl, whisk together the soy sauce and a pinch of salt. Pour the sauce over the vegetables and stir to combine.",
+    "Serve the stir fry hot, garnished with sliced green onions if desired.",
+    "Cook time may vary depending on the heat and thickness of the vegetables.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-silky-romantic-german-ginger-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:32:47.209Z"
+}
