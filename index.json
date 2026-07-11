@@ -7102,17 +7102,15 @@
   },
   {
     "slug": "buttery-russian-porridge-buckwheat-kasha",
-    "title": "Buttery Russian Porridge Buckwheat Kasha",
+    "title": "Buckwheat Kasha with Butter",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "halal",
-      "lunch",
+      "buckwheat",
+      "kasha",
       "russian",
-      "traditional"
+      "breakfast"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
