@@ -906,16 +906,15 @@
   },
   {
     "slug": "bitter-crisp-turkish-beans-stir-fry",
-    "title": "Bitter Crisp Turkish Beans Stir-fry",
+    "title": "Crispy Turkish Fry Beans",
     "tags": [
+      "crispy",
       "turkish",
-      "bitter",
-      "crisp",
-      "refried beans",
-      "stir-fry"
+      "stir-fry",
+      "vegan"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
@@ -2506,18 +2505,14 @@
   },
   {
     "slug": "bitter-moroccan-semolina-mechoui",
-    "title": "bitter moroccan semolina mechoui",
+    "title": "Moroccan Mechoui Tagine",
     "tags": [
-      "easy-to-make",
+      "lamb",
       "moroccan",
-      "nimono-simmer",
-      "quick-meal",
-      "semolina",
-      "sugar-free",
-      "weeknight"
+      "slow-cooked"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "b"
   },
   {
