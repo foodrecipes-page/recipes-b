@@ -1068,17 +1068,15 @@
   },
   {
     "slug": "bitter-crispy-spanish-olive-tacos",
-    "title": "Bitter Crispy Spanish Olive Tacos",
+    "title": "Spanish Tacos",
     "tags": [
       "spanish",
-      "vegan",
+      "vegetarian",
       "tacos",
-      "olives",
-      "crispy",
-      "bitter"
+      "snack"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "cuisine": "spanish",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
