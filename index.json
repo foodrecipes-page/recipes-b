@@ -4341,14 +4341,15 @@
   },
   {
     "slug": "buckwheat-bowties",
-    "title": "Buckwheat Bowties",
+    "title": "Buckwheat Bowtie Pasta",
     "tags": [
-      "buckwheat-pasta",
-      "poached-bowties",
-      "kid-friendly-italian-dish"
+      "pasta",
+      "gluten-free",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
