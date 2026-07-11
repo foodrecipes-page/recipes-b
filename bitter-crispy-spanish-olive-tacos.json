@@ -1,0 +1,66 @@
+{
+  "slug": "bitter-crispy-spanish-olive-tacos",
+  "title": "Spanish Tacos",
+  "description": "A flavorful and crispy taco recipe inspired by Spanish cuisine.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bitter olives",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "crispy tortillas",
+      "amount": "4-6 tortillas"
+    },
+    {
+      "name": "tacos seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4-6 wedges"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced olives and cook until crispy, about 3-4 minutes.",
+    "Add the tacos seasoning and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the olive mixture onto a warmed tortilla.",
+    "Top with chopped cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "tacos",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-spanish-olive-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:25:15.531Z"
+}
