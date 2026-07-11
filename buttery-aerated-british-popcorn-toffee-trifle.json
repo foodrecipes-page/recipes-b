@@ -1,0 +1,72 @@
+{
+  "slug": "buttery-aerated-british-popcorn-toffee-trifle",
+  "title": "Classic British Trifle",
+  "description": "A traditional English dessert made with layers of sponge cake, fruit, custard, and toffee. Each bite is a delightful combination of textures and flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery Sponge Cake",
+      "amount": "1 1/2 cups",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Mixed Berries (Strawberries, Raspberries, Blueberries)",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Toffee Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "2 cups",
+      "notes": "Heavy whipping cream"
+    },
+    {
+      "name": "Popcorn",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Aerated Custard",
+      "amount": "3 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Cut the sponge cake into 1-inch cubes.",
+    "In a large serving dish, create a layer of sponge cake cubes.",
+    "Top the cake layer with a layer of mixed berries.",
+    "Drizzle the toffee sauce over the berries.",
+    "Repeat the layers two more times, ending with a layer of sponge cake on top.",
+    "Pour the aerated custard over the top layer of cake.",
+    "Chill the trifle in the refrigerator for at least 30 minutes.",
+    "Just before serving, top the trifle with whipped cream and garnish with popcorn."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "desert",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-aerated-british-popcorn-toffee-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:36:16.746Z"
+}
