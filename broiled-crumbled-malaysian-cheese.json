@@ -1,0 +1,57 @@
+{
+  "slug": "broiled-crumbled-malaysian-cheese",
+  "title": "Malaysian Broiled Cheese",
+  "description": "A fusion of Malaysian flavors with the comfort of broiled cheese, perfect for a snack or light meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broiled Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian Sambal Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your broiler.",
+    "2. Place the broiled cheese on a baking sheet.",
+    "3. Spoon the Malaysian Sambal Sauce over the cheese.",
+    "4. Sprinkle chopped cilantro over the top.",
+    "5. Place the baking sheet under the broiler for 2-3 minutes, or until the cheese is melted and bubbly.",
+    "6. Remove from the oven and let cool for a minute.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "cheese",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/broiled-crumbled-malaysian-cheese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:33:40.199Z"
+}
