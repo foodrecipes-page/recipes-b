@@ -2665,12 +2665,13 @@
   },
   {
     "slug": "bitter-silky-romantic-german-ginger-stir-fry",
-    "title": "Bitter Silky Romantic German Ginger Stir-fry",
+    "title": "Silky Stir Fry with Bitter Ginger",
     "tags": [
-      "bitter-silky-romantic",
-      "german-ginger-stir-fry"
+      "stir-fry",
+      "vegetarian",
+      "easy-dinner"
     ],
-    "cuisine": "German",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "b"
   },
@@ -2895,13 +2896,11 @@
   },
   {
     "slug": "bitter-velvety-british-chicken-stew",
-    "title": "Bitter Velvety British Chicken Stew",
+    "title": "British Chicken Stew",
     "tags": [
-      "british-cuisine",
-      "low-calorie",
-      "chicken-stew",
-      "cranberry-sauce",
-      "bitter-ale"
+      "chicken",
+      "stew",
+      "british"
     ],
     "cuisine": "British",
     "totalTimeMin": 45,
@@ -4202,15 +4201,15 @@
   },
   {
     "slug": "broiled-crumbled-malaysian-cheese",
-    "title": "Broiled Crumbled Malaysian Cheese",
+    "title": "Malaysian Broiled Cheese",
     "tags": [
-      "broiled",
+      "malaysian",
       "cheese",
-      "crumbled",
-      "mexican"
+      "snack",
+      "easy"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 13,
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
@@ -7661,15 +7660,15 @@
   },
   {
     "slug": "buttery-turkish-butter-beans-stir-fry",
-    "title": "Buttery Turkish Butter Beans Stir-fry",
+    "title": "Buttery Turkish Beans",
     "tags": [
-      "buttery",
+      "beans",
       "turkish",
-      "chewy",
-      "festival"
+      "vegetarian",
+      "dinner"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "cuisine": "turkish",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
