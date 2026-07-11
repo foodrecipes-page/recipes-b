@@ -1,0 +1,82 @@
+{
+  "slug": "buttery-chinese-tortilla-wrap",
+  "title": "Buttery Tortilla Wraps",
+  "description": "A simple and delicious recipe for a weeknight dinner or snack. Just butter, tortillas, and a few ingredients to make a flavorful wrap.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "tortilla",
+      "amount": "4-6 tortillas"
+    },
+    {
+      "name": "chinese wrap",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "1. In a pan or griddle, melt 2 tablespoons of butter over medium heat.",
+    "2. Place a tortilla in the pan and sprinkle shredded cheese on half of it.",
+    "3. Add sliced chicken breast on top of the cheese, followed by cucumber, tomato, and lettuce.",
+    "4. Fold the tortilla in half to enclose the filling.",
+    "5. Repeat with the remaining tortillas and filling ingredients.",
+    "6. In a separate pan or griddle, melt the remaining 2 tablespoons of butter over medium heat.",
+    "7. Place the wrapped tortillas in the pan and cook for 2-3 minutes on each side, or until the tortillas are crispy and the filling is heated through.",
+    "8. Cut the wraps in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "lunch",
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chinese-tortilla-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:48:03.304Z"
+}
