@@ -1,0 +1,95 @@
+{
+  "slug": "buttery-peruvian-jjante",
+  "title": "Peruvian Chicken Stir Fry",
+  "description": "A flavorful and spicy Peruvian-inspired stir fry dish made with tender chicken, crunchy vegetables, and savory Peruvian spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "buttery potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "jjante",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "peruvian pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the potatoes and cook until they start to soften.",
+    "Add the jjante and cook until the potatoes are tender.",
+    "Add the soy sauce, peruvian pepper, salt, and black pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Serve the chicken and vegetable mixture hot, garnished with chopped fresh cilantro if desired.",
+    "Cook the chicken to an internal temperature of at least 165°F (74°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-peruvian-jjante",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:45:51.348Z"
+}
