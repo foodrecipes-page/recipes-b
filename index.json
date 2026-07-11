@@ -557,16 +557,16 @@
   },
   {
     "slug": "bitter-chewy-mediterranean-sirloin-steak-tips-kebabs",
-    "title": "Bitter Chewy Mediterranean Sirloin Steak Tips Kebabs",
+    "title": "Grilled Steak Kebabs",
     "tags": [
-      "mediterranean",
+      "grilled",
+      "steak",
       "kebabs",
-      "sirloin-steak",
-      "vegetarian-friendly",
-      "lazy-sunday"
+      "mediterranean",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 33,
     "shard": "b"
   },
   {
@@ -6928,14 +6928,14 @@
   },
   {
     "slug": "buttery-middle-eastern-flatbread-flatbread",
-    "title": "Buttery Middle-easter Flatbread Flatbread",
+    "title": "Eastern Flatbread",
     "tags": [
-      "macrobiotic-friendly",
-      "pressure-cooker",
-      "weeknight"
+      "simple",
+      "easy",
+      "flatbread"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "totalTimeMin": 9,
     "shard": "b"
   },
   {
