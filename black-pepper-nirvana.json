@@ -1,0 +1,56 @@
+{
+  "slug": "black-pepper-nirvana",
+  "title": "Pan-Seared Nirvana Chicken",
+  "description": "A simple yet flavorful dish featuring pan-seared chicken breast with a hint of nirvana. Serve with your favorite sides.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Nirvana chicken breast",
+      "amount": "4 oz",
+      "notes": "fresh from the market"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with black pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "Transfer the skillet to the preheated oven and bake for an additional 5-7 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/black-pepper-nirvana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:45:57.210Z"
+}
