@@ -4479,14 +4479,13 @@
   },
   {
     "slug": "buttery-argentinian-banana-smoothie",
-    "title": "Buttery Argentinian Banana Smoothie",
+    "title": "Argentinian Banana Smoothie",
     "tags": [
-      "argentinian",
-      "banana",
       "smoothie",
-      "buttery"
+      "argentinian",
+      "banana"
     ],
-    "cuisine": "Argentinian",
+    "cuisine": "South American",
     "totalTimeMin": 5,
     "shard": "b"
   },
