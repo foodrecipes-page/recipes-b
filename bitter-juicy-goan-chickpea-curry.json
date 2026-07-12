@@ -1,0 +1,92 @@
+{
+  "slug": "bitter-juicy-goan-chickpea-curry",
+  "title": "Goan Chickpea Curry",
+  "description": "A flavorful and aromatic curry made with chickpeas, goan spices, and a hint of bitterness from the curry.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Goan curry powder",
+      "amount": "2 tablespoons",
+      "notes": "You can adjust the amount to your taste"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Jaggery",
+      "amount": "1 tablespoon",
+      "notes": "Dissolved in 2 tablespoons water"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add bitter melon and cook for 2 minutes.",
+    "Add chickpeas, curry powder, jaggery, and salt. Mix well.",
+    "Add tomato and cook for 5 minutes.",
+    "Simmer for 10 minutes.",
+    "Garnish with cilantro.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goan",
+    "curry",
+    "chickpea",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-juicy-goan-chickpea-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:49:48.016Z"
+}
