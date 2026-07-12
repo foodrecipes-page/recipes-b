@@ -1,0 +1,82 @@
+{
+  "slug": "buttery-french-butter-flan",
+  "title": "French Flan with Caramel Sauce",
+  "description": "A rich and creamy French dessert with a velvety caramel sauce. This classic recipe is sure to impress any dinner party.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery French pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Roll out the buttery French pastry dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch round cake pan and trim the edges to fit.",
+    "Prick the bottom of the dough with a fork to prevent it from bubbling up during baking.",
+    "Line the dough with parchment paper and fill with pie weights or dried beans.",
+    "Bake for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "Return the crust to the oven and bake for an additional 5-7 minutes, or until lightly golden.",
+    "In a medium saucepan, combine the granulated sugar and 1/2 cup of water.",
+    "Place the saucepan over medium heat and cook, stirring occasionally, until the sugar has dissolved.",
+    "Increase the heat to medium-high and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer for 5-7 minutes, or until the caramel sauce has thickened slightly.",
+    "Remove the saucepan from the heat and stir in the heavy cream.",
+    "Return the saucepan to the stovetop over low heat and cook, stirring constantly, until the caramel sauce has thickened to your liking.",
+    "Pour the caramel sauce over the baked pastry crust.",
+    "In a medium bowl, whisk together the eggs and granulated sugar until well combined.",
+    "Strain the egg mixture into a clean bowl to remove any air bubbles.",
+    "Pour the egg mixture into the baked pastry crust and smooth the top with a spatula.",
+    "Bake for 25-30 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove the flan from the oven and let it cool to room temperature.",
+    "Cover the flan with plastic wrap and refrigerate for at least 2 hours, or overnight.",
+    "To serve, run a knife around the edges of the flan to release it from the pan.",
+    "Place a serving plate over the pan and invert the flan onto the plate."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "flan",
+    "caramel-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-french-butter-flan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:35:18.743Z"
+}
