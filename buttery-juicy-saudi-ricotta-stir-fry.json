@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-juicy-saudi-ricotta-stir-fry",
+  "title": "Saudi Ricotta Fritters",
+  "description": "A twist on traditional fritters, this recipe combines creamy ricotta cheese with a hint of Saudi spices, perfect for a sweet treat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ricotta",
+      "amount": "1 cup",
+      "notes": "whole-milk ricotta cheese"
+    },
+    {
+      "name": "juicy",
+      "amount": "1/2 cup",
+      "notes": "diced fresh pineapple"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tsp",
+      "notes": "ground cinnamon and cardamom"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "melted unsalted butter"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together ricotta cheese, diced pineapple, ground cinnamon, and ground cardamom.",
+    "Heat the melted butter in a small saucepan over medium heat.",
+    "Using a spoon, drop small balls of the ricotta mixture into the melted butter.",
+    "Fry the ricotta balls until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove the fritters from the butter and place them on a paper towel-lined plate.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "fried",
+    "desert",
+    "ricotta"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-saudi-ricotta-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:46:01.055Z"
+}
