@@ -746,17 +746,14 @@
   },
   {
     "slug": "bitter-creamy-japanese-quinoa-stir-fry",
-    "title": "Bitter Creamy Japanese Quinoa Stir-fry",
+    "title": "Stir-Fried Quinoa Bowl with Japanese Twist",
     "tags": [
-      "bitter",
-      "creamy",
-      "japanese",
-      "meal-prep",
       "quinoa",
-      "nut-free"
+      "stir-fry",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -7626,15 +7623,15 @@
   },
   {
     "slug": "buttery-tender-vietnamese-chicken-bun-bo-hue",
-    "title": "Buttery Tender Vietnamese Chicken Bun Bo Hue",
+    "title": "Hue-Style Chicken Bun",
     "tags": [
+      "vietnamese",
       "chicken",
-      "halal",
-      "one-pan",
-      "vietnamese"
+      "bun",
+      "lunch"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
