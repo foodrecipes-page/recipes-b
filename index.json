@@ -3055,14 +3055,14 @@
   },
   {
     "slug": "black-pepper-nirvana",
-    "title": "Black Pepper Nirvana",
+    "title": "Pan-Seared Nirvana Chicken",
     "tags": [
-      "black-pepper-nirvana",
-      "jain-friendly",
-      "earthy-tender"
+      "chicken",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 80,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -3362,18 +3362,16 @@
   },
   {
     "slug": "boiling-german-water-broth",
-    "title": "Boiling German Water Broth",
+    "title": "Traditional German Bauernfrühstück",
     "tags": [
-      "easy",
+      "breakfast",
       "german",
-      "light",
-      "macrobiotic",
-      "monsoon",
-      "peppery",
-      "water-based"
+      "peasant",
+      "eggs",
+      "potatoes"
     ],
     "cuisine": "German",
-    "totalTimeMin": 12,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -3545,15 +3543,14 @@
   },
   {
     "slug": "bouncy-jamaican-starch-pilaf",
-    "title": "Bouncy Jamaican Starch Pilaf",
+    "title": "Jamaican Starch Bowl",
     "tags": [
-      "easy",
       "jamaican",
-      "lunch",
-      "sunday",
-      "weeknight"
+      "caribbean",
+      "starch",
+      "pilaf"
     ],
-    "cuisine": "jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 35,
     "shard": "b"
   },
@@ -4351,14 +4348,16 @@
   },
   {
     "slug": "buttersweet-sous-vide",
-    "title": "ButterSweet Sous-Vide",
+    "title": "Pan-Seared Sous Vide Steak with Butter Sweet Reduction",
     "tags": [
-      "butter",
-      "sugar-free",
-      "spicy"
+      "steak",
+      "sous-vide",
+      "butter-sweet",
+      "red-wine",
+      "special-occasion"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -6295,18 +6294,15 @@
   },
   {
     "slug": "buttery-french-butter-flan",
-    "title": "Buttery French Butter Flan",
+    "title": "French Flan with Caramel Sauce",
     "tags": [
-      "buttery",
-      "fluffy",
-      "indulgent",
       "french",
-      "tomato-sauce",
-      "air-fried",
-      "paleo-friendly"
+      "dessert",
+      "flan",
+      "caramel-sauce"
     ],
     "cuisine": "French",
-    "totalTimeMin": 60,
+    "totalTimeMin": 65,
     "shard": "b"
   },
   {
