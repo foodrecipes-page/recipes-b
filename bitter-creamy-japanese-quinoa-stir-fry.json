@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-creamy-japanese-quinoa-stir-fry",
+  "title": "Stir-Fried Quinoa Bowl with Japanese Twist",
+  "description": "A quick and flavorful quinoa bowl with a Japanese twist, featuring stir-fried vegetables and a creamy sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "creamy soy sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the sliced bitter gourd and carrot and stir-fry for 5 minutes.",
+    "3. Add the cooked quinoa to the skillet and stir to combine.",
+    "4. In a small bowl, whisk together the creamy soy sauce and 1 tablespoon of water.",
+    "5. Pour the soy sauce mixture over the quinoa mixture and stir to combine.",
+    "6. Sprinkle the sesame seeds over the top, if using.",
+    "7. Cook for an additional 2 minutes, until the quinoa is heated through.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "stir-fry",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-creamy-japanese-quinoa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:52:14.248Z"
+}
