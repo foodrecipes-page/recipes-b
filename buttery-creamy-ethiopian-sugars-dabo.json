@@ -1,0 +1,59 @@
+{
+  "slug": "buttery-creamy-ethiopian-sugars-dabo",
+  "title": "Ethiopian Crepes with Sugar Syrup",
+  "description": "A sweet and delicate crepe recipe inspired by Ethiopian cuisine, topped with a simple sugar syrup.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dabo (Ethiopian flatbread)",
+      "amount": "2 cups, torn into small pieces"
+    },
+    {
+      "name": "sugars",
+      "amount": "1 1/2 cups, granulated"
+    },
+    {
+      "name": "buttery",
+      "amount": "4 tablespoons, melted"
+    },
+    {
+      "name": "creamy",
+      "amount": "2 cups, heavy cream"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sugars and 1 cup of water over medium heat.",
+    "Bring to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "In a separate bowl, whisk together the heavy cream and melted butter.",
+    "Add the torn dabo to the cream mixture and stir to combine.",
+    "Heat a non-stick pan over medium heat and ladle in the dabo mixture.",
+    "Cook for 1-2 minutes, until the bottom is golden brown.",
+    "Flip the crepe and cook for an additional 1-2 minutes.",
+    "Serve with the warm sugar syrup drizzled on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "breakfast",
+    "crepes",
+    "sugar-syrup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-ethiopian-sugars-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:20:59.919Z"
+}
