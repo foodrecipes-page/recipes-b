@@ -1,0 +1,62 @@
+{
+  "slug": "bouncy-briny-broccoli-porridge-bowl",
+  "title": "Bouncy Briny Broccoli Porridge",
+  "description": "A hearty and satisfying porridge dish combining the earthy flavors of broccoli and briny ingredients.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "porridge",
+      "amount": "1 cup"
+    },
+    {
+      "name": "briny",
+      "amount": "1/4 cup",
+      "notes": "brine from a jar of pickled vegetables"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of water to a boil.",
+    "Add 2 cups of broccoli florets and cook until tender.",
+    "In a separate pot, bring 2 cups of water to a boil.",
+    "Gradually mix in 1 cup of porridge.",
+    "Reduce heat to low and cook, stirring occasionally, for 10 minutes.",
+    "Stir in the brine from a jar of pickled vegetables.",
+    "Combine cooked broccoli and porridge mixture in a bowl.",
+    "Serve warm, garnished with additional broccoli if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-briny-broccoli-porridge-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:59:13.481Z"
+}
