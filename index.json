@@ -3438,17 +3438,14 @@
   },
   {
     "slug": "bouncy-briny-broccoli-porridge-bowl",
-    "title": "Bouncy Briny Broccoli Porridge Bowl",
+    "title": "Bouncy Briny Broccoli Porridge",
     "tags": [
-      "british-cuisine",
-      "gluten-free",
-      "healthy-breakfast",
-      "high-fiber",
-      "one-pan",
+      "breakfast",
+      "porridge",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "British",
+    "cuisine": "vegetarian",
     "totalTimeMin": 30,
     "shard": "b"
   },
