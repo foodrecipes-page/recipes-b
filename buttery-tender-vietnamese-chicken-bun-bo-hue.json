@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-tender-vietnamese-chicken-bun-bo-hue",
+  "title": "Hue-Style Chicken Bun",
+  "description": "A traditional Vietnamese dish featuring tender chicken and soft bun, inspired by the flavors of Hue. This recipe is a delicious and satisfying meal option.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "500g",
+      "notes": "Boneless and skinless breast or thigh meat"
+    },
+    {
+      "name": "bun",
+      "amount": "4",
+      "notes": "Soft, white bun rolls"
+    },
+    {
+      "name": "bo",
+      "amount": "2",
+      "notes": "Pork or chicken stock"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "Softened for braising"
+    },
+    {
+      "name": "tender",
+      "amount": "2 tbsp",
+      "notes": "Soy sauce for marinating"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together tender, bo, and a pinch of salt. Add the chicken and mix to coat.",
+    "2. Heat 1 tbsp of buttery in a large pan over medium heat. Add the chicken and cook until browned, about 5 minutes.",
+    "3. Remove the chicken from the pan and set aside.",
+    "4. Add the remaining 1 tbsp of buttery to the pan and stir in 2 cups of water.",
+    "5. Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "6. Add the bun to the pan and cook for 2-3 minutes, or until softened.",
+    "7. Slice the bun in half and top with the cooked chicken.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "bun",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-tender-vietnamese-chicken-bun-bo-hue",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:46:19.042Z"
+}
