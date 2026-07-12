@@ -1,0 +1,60 @@
+{
+  "slug": "buttery-gooey-australian-chicken-liver-stir-fry",
+  "title": "Australian Chicken Liver Stir Fry",
+  "description": "A simple and flavorful stir fry dish using chicken liver and australian ingredients.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "poultry",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "australian",
+      "amount": "1 teaspoon",
+      "notes": "australian herbs"
+    },
+    {
+      "name": "stir",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery in a large skillet over medium-high heat.",
+    "Add the chicken liver and cook until browned, about 3-4 minutes.",
+    "Add the australian herbs and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional stir if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "chicken-liver",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-gooey-australian-chicken-liver-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:24:00.479Z"
+}
