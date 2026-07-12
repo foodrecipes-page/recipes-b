@@ -1,0 +1,55 @@
+{
+  "slug": "buttery-argentinian-banana-smoothie",
+  "title": "Argentinian Banana Smoothie",
+  "description": "A delicious and refreshing smoothie inspired by Argentinian flavors, made with ripe bananas and a hint of creamy buttery goodness.",
+  "cuisine": "South American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "buttery",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a blender.",
+    "Blend until smooth.",
+    "Taste and adjust sweetness or flavor as needed.",
+    "Pour into a glass and serve immediately.",
+    "Garnish with a sprinkle of cinnamon or a sliced banana, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoothie",
+    "argentinian",
+    "banana"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-argentinian-banana-smoothie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:57:19.331Z"
+}
