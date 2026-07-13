@@ -1024,15 +1024,15 @@
   },
   {
     "slug": "bitter-crispy-norwegian-beef-stir-fry",
-    "title": "Bitter Crispy Norwegian Beef Stir-fry",
+    "title": "Beef Stir Fry",
     "tags": [
       "beef",
-      "norway",
-      "stir-fry",
-      "bitter"
+      "stirfry",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
@@ -2173,18 +2173,14 @@
   },
   {
     "slug": "bitter-irish-aubergine-bake",
-    "title": "Bitter Irish Aubergine Bake",
+    "title": "Baked Aubergine with Irish Sausage",
     "tags": [
-      "aubergine-based",
-      "easy-to-make",
-      "irish-cuisine",
-      "kid-friendly",
-      "one-pan",
-      "weeknight-dinner",
-      "whole30-friendly"
+      "irish-sausage",
+      "aubergine",
+      "bitter"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -6594,16 +6590,15 @@
   },
   {
     "slug": "buttery-juicy-hazelnut-pancake",
-    "title": "Buttery Juicy Hazelnut Pancake",
+    "title": "Hazelnut Pancake Delight",
     "tags": [
-      "buttery",
-      "juicy",
-      "hazelnut",
-      "pancake",
-      "vegetarian-friendly"
+      "breakfast",
+      "brunch",
+      "pancakes",
+      "hazelnuts"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 18,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
