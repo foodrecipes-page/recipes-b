@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-crispy-norwegian-beef-stir-fry",
+  "title": "Beef Stir Fry",
+  "description": "A quick and easy beef stir fry with a crunchy texture. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bitter gourd",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy stir-fry mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Add bitter gourd and cook until tender, about 3-4 minutes.",
+    "Add stir-fry mix and cook until combined, about 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stirfry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-norwegian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:41:41.396Z"
+}
