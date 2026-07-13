@@ -1,0 +1,80 @@
+{
+  "slug": "bitter-fluffy-festive-irish-vanilla-bean-pilaf",
+  "title": "Irish Bean Pilaf",
+  "description": "A hearty and comforting pilaf dish infused with the flavors of Ireland, featuring tender beans and a hint of festive spices.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bean",
+      "amount": "1 cup dried navy beans",
+      "notes": null
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup cooked pilaf",
+      "notes": null
+    },
+    {
+      "name": "irish",
+      "amount": "2 tablespoons Irish butter",
+      "notes": null
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups water",
+      "notes": null
+    },
+    {
+      "name": "festival",
+      "amount": "1 teaspoon dried thyme",
+      "notes": null
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 teaspoon salt",
+      "notes": null
+    },
+    {
+      "name": "bitter",
+      "amount": "1 tablespoon chopped fresh parsley",
+      "notes": null
+    },
+    {
+      "name": "flavor enhancer",
+      "amount": "1 tablespoon vegetable oil",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium-high heat.",
+    "Add the Irish butter and cook until melted.",
+    "Add the dried navy beans, pilaf, thyme, and salt. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until the beans are tender.",
+    "Stir in the chopped parsley and cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "bean-pilaf",
+    "comfort-food",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fluffy-festive-irish-vanilla-bean-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:46:18.971Z"
+}
