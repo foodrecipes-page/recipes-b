@@ -1,0 +1,83 @@
+{
+  "slug": "bitter-irish-aubergine-bake",
+  "title": "Baked Aubergine with Irish Sausage",
+  "description": "A hearty and flavorful dish combining the sweetness of aubergine with the savory taste of Irish sausage.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Sausage",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Aubergine",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "bitter",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the aubergine into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with garlic powder.",
+    "Season with salt and pepper to taste.",
+    "Bake for 20-25 minutes or until tender.",
+    "Meanwhile, cook the Irish sausage in a pan over medium-high heat until browned.",
+    "Add the bitter to the pan and stir to combine.",
+    "Serve the sausage and bitter mixture over the roasted aubergine.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-sausage",
+    "aubergine",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-irish-aubergine-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:50:51.408Z"
+}
