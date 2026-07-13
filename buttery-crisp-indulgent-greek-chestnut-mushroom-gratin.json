@@ -1,0 +1,69 @@
+{
+  "slug": "buttery-crisp-indulgent-greek-chestnut-mushroom-gratin",
+  "title": "Crisp Greek Gratin",
+  "description": "A rich and creamy Greek gratin with a satisfying crunch. Perfect for a comforting meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gratin",
+      "amount": "250g",
+      "notes": "grated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/2 cup",
+      "notes": "crushed crackers"
+    },
+    {
+      "name": "indulgent",
+      "amount": "1 cup",
+      "notes": "shredded cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a baking dish, combine the grated gratin and sliced mushroom.",
+    "In a separate bowl, mix the melted buttery and crushed crisp.",
+    "Pour the mixture over the gratin and mushroom mixture.",
+    "Top with shredded cheese and bake for 25-30 minutes.",
+    "Broil for an additional 2-3 minutes to crisp the top.",
+    "Serve hot and enjoy!",
+    "Let the gratin rest for 5-10 minutes before serving.",
+    "Slice and serve hot.",
+    "Garnish with additional grated gratin and mushroom if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort food",
+    "greek",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-indulgent-greek-chestnut-mushroom-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:05:07.964Z"
+}
