@@ -1901,15 +1901,15 @@
   },
   {
     "slug": "bitter-fluffy-festive-irish-vanilla-bean-pilaf",
-    "title": "Bitter Fluffy Festive Irish Vanilla Bean Pilaf",
+    "title": "Irish Bean Pilaf",
     "tags": [
       "irish",
-      "bitter",
-      "fluffy",
-      "festive"
+      "bean-pilaf",
+      "comfort-food",
+      "hearty"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
