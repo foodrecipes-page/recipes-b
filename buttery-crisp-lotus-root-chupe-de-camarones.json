@@ -1,0 +1,72 @@
+{
+  "slug": "buttery-crisp-lotus-root-chupe-de-camarones",
+  "title": "Camarones al Ajillo",
+  "description": "A simple garlic shrimp recipe with a crispy and buttery finish. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Camarones (shrimp)",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "Lotus root",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Chupe de camarones",
+      "amount": "2 cups",
+      "notes": "shrimp broth"
+    },
+    {
+      "name": "De",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large skillet over medium-high heat.",
+    "Add the de and cook for 1 minute until fragrant.",
+    "Add the camarones and cook for 2-3 minutes until pink and cooked through.",
+    "Add the chupe de camarones, crisp, and lotus root to the skillet. Cook for an additional 1-2 minutes until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "shrimp",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-lotus-root-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:31:26.457Z"
+}
