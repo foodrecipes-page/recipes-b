@@ -1,0 +1,75 @@
+{
+  "slug": "buttery-indian-post-workout-samosas",
+  "title": "Indian Post-Workout Samosas",
+  "description": "A delicious Indian-inspired snack to refuel after a workout. Crispy samosas filled with spiced potatoes and peas.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "post-workout"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "samosas",
+      "amount": "12-15 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/2 cup",
+      "notes": "melted for frying"
+    },
+    {
+      "name": "post-workout",
+      "amount": "1 scoop",
+      "notes": "whey protein powder"
+    },
+    {
+      "name": "indian",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "post",
+      "amount": "2 medium",
+      "notes": "potatoes, peeled and diced"
+    },
+    {
+      "name": "workout",
+      "amount": "1 cup",
+      "notes": "frozen peas"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan to 350°F (180°C).",
+    "Fry the samosas until golden brown, about 3-4 minutes per side.",
+    "In a separate pan, heat the melted buttery over medium heat.",
+    "Add the ground indian spices and cook for 1 minute, stirring constantly.",
+    "Add the diced post potatoes and cook for 5 minutes, stirring occasionally.",
+    "Stir in the frozen workout peas and cook for an additional 2 minutes.",
+    "Sift the post-workout scoop of whey protein powder over the potato mixture and stir to combine.",
+    "Serve the potato mixture in the fried samosas and enjoy!",
+    "Optional: garnish with chopped cilantro or a dollop of yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-indian-post-workout-samosas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:35:04.418Z"
+}
