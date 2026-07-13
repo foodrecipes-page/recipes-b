@@ -6114,14 +6114,14 @@
   },
   {
     "slug": "buttery-flaky-ethiopian-squid-crumble",
-    "title": "Buttery Flaky Ethiopian Squid Crumble",
+    "title": "Ethiopian Squid Crumble",
     "tags": [
-      "buttery-flaky-ethiopian-squid-crumble",
-      "romantic-dinner-recipe",
-      "vegetarian-friendly"
+      "seafood",
+      "ethiopian",
+      "crumble"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -6490,17 +6490,15 @@
   },
   {
     "slug": "buttery-indian-post-workout-samosas",
-    "title": "Buttery Indian Post-workout Samosas",
+    "title": "Indian Post-Workout Samosas",
     "tags": [
-      "easy-to-make",
       "indian",
-      "north-indian",
+      "snack",
       "post-workout",
-      "raw-friendly",
-      "snack"
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -6674,15 +6672,14 @@
   },
   {
     "slug": "buttery-juicy-romantic-fold-german-sausages",
-    "title": "Buttery Juicy Romantic Fold German Sausages",
+    "title": "Romantic German Sausage Dinner",
     "tags": [
-      "romantic",
-      "folded",
-      "german-sausages",
-      "diabetic-friendly"
+      "german-dinner",
+      "romantic-dinner",
+      "sausage-dinner"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "German",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -7199,16 +7196,15 @@
   },
   {
     "slug": "buttery-silky-american-chicken-bisque",
-    "title": "Buttery Silky American Chicken Bisque",
+    "title": "Creamy Chicken Bisque",
     "tags": [
-      "american",
+      "comfort-food",
       "chicken",
-      "bisque",
-      "diabetic-friendly",
-      "comfort-food"
+      "soup",
+      "bisque"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
