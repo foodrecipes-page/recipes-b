@@ -1,0 +1,65 @@
+{
+  "slug": "buttery-silky-american-chicken-bisque",
+  "title": "Creamy Chicken Bisque",
+  "description": "Rich and comforting chicken bisque made with silky smooth texture and american flavor.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb boneless, skinless chicken breast"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp unsalted butter"
+    },
+    {
+      "name": "american",
+      "amount": "2 cups chicken broth"
+    },
+    {
+      "name": "silky",
+      "amount": "1 cup heavy cream"
+    },
+    {
+      "name": "bisque",
+      "amount": "1 can (14 oz) diced tomatoes"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tbsp of butter in a large saucepan over medium heat.",
+    "Add chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove chicken from saucepan and set aside.",
+    "Melt remaining 2 tbsp of butter, then add diced tomatoes and cook for 1-2 minutes.",
+    "Pour in chicken broth and bring mixture to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Add heavy cream and stir until combined.",
+    "Return chicken to saucepan and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "chicken",
+    "soup",
+    "bisque"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-american-chicken-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:01:48.601Z"
+}
