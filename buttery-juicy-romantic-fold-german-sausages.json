@@ -1,0 +1,74 @@
+{
+  "slug": "buttery-juicy-romantic-fold-german-sausages",
+  "title": "Romantic German Sausage Dinner",
+  "description": "A hearty German-inspired sausage dinner to impress your loved one. Serve with a side of sauerkraut or braised red cabbage.",
+  "cuisine": "German",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "german",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "juicy",
+      "amount": "1 onion, sliced",
+      "notes": ""
+    },
+    {
+      "name": "romantic",
+      "amount": "1 red bell pepper, sliced",
+      "notes": ""
+    },
+    {
+      "name": "fold",
+      "amount": "1 cup of braising liquid (beer or beef broth)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it's translucent and starting to caramelize.",
+    "Add the sliced red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the German sausages and cook until browned on all sides.",
+    "Add the braising liquid and bring the mixture to a simmer.",
+    "Transfer the skillet to the oven and braise the sausages at 300°F for 20-25 minutes.",
+    "Serve the sausages hot with the braised vegetables and a side of sauerkraut or braised red cabbage.",
+    "Garnish with fresh parsley or thyme if desired.",
+    "Enjoy your romantic dinner!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-dinner",
+    "romantic-dinner",
+    "sausage-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-romantic-fold-german-sausages",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:29:04.380Z"
+}
