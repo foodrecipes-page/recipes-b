@@ -1,0 +1,66 @@
+{
+  "slug": "buttery-flaky-ethiopian-squid-crumble",
+  "title": "Ethiopian Squid Crumble",
+  "description": "A flavorful and crunchy crumble topping, mixed with squid and spices, served with a side of flaky pastry.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "250g"
+    },
+    {
+      "name": "Buttery Flaky Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Crumble Mix",
+      "amount": "125g"
+    },
+    {
+      "name": "Ethiopian Spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cut the squid into small pieces and season with salt, black pepper, and Ethiopian spices.",
+    "Roll out the flaky pastry and cut into small squares.",
+    "Place a piece of squid on each square and top with a spoonful of crumble mix.",
+    "Fold the pastry squares to form triangles and press the edges to seal.",
+    "Brush the tops with butter and bake for 15-20 minutes, or until golden brown.",
+    "Serve hot with additional crumble mix on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "ethiopian",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-flaky-ethiopian-squid-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:47:59.088Z"
+}
