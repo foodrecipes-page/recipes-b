@@ -3218,15 +3218,16 @@
   },
   {
     "slug": "boil-glow-rice-roll",
-    "title": "Boil-Glow Rice Roll",
+    "title": "Glowing Boil Rice Bowl",
     "tags": [
-      "boil-glow",
-      "rice-rolls",
-      "kid-friendly",
+      "glow",
+      "boil",
+      "rice",
+      "vegan",
       "gluten-free"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 32,
+    "cuisine": "asian",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
