@@ -1,0 +1,70 @@
+{
+  "slug": "bitter-crunchy-mediterranean-ferment-stir-fry",
+  "title": "Crunchy Mediterranean Stir Fry",
+  "description": "Quick and easy stir fry with crunchy elements and Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "crunchy carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fry garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of stir-fry oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and fry until fragrant (1 minute).",
+    "Add the bitter gourd and crunchy carrots and stir-fry for 3 minutes.",
+    "Add the mediterranean olives and fermented soy sauce. Stir-fry for another 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "mediterranean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-mediterranean-ferment-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:59:29.264Z"
+}
