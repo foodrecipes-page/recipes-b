@@ -1,0 +1,57 @@
+{
+  "slug": "boil-glow-rice-roll",
+  "title": "Glowing Boil Rice Bowl",
+  "description": "A simple and comforting bowl of glowing boil served with fluffy rice.",
+  "cuisine": "asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "glow",
+      "amount": "1 cup",
+      "notes": "available at any mystical market"
+    },
+    {
+      "name": "boil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "preferably jasmine"
+    }
+  ],
+  "instructions": [
+    "1. Boil the boil in a large pot.",
+    "2. Add the glow to the boiling boil.",
+    "3. Reduce heat to low and let simmer for 10 minutes.",
+    "4. Prepare the rice according to package instructions.",
+    "5. Serve the glowing boil over the fluffy rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "glow",
+    "boil",
+    "rice",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boil-glow-rice-roll",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:42:10.027Z"
+}
