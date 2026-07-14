@@ -1,0 +1,58 @@
+{
+  "slug": "buttery-silky-canadian-challots-poutine",
+  "title": "Classic Canadian Poutine",
+  "description": "A classic Canadian dish consisting of French fries topped with cheese curds and gravy. This recipe is a simplified version of the original.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian French Fries",
+      "amount": "2 pounds",
+      "notes": "Cut into 1/2 inch thick sticks"
+    },
+    {
+      "name": "Buttery Gravy",
+      "amount": "1 cup",
+      "notes": "See instructions for ingredients"
+    },
+    {
+      "name": "Cheese Curds",
+      "amount": "1 cup",
+      "notes": "Fresh is best"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a saucepan over medium heat.",
+    "Add 1 cup of all-purpose flour and whisk together to make a roux, cooking for 1 minute.",
+    "Slowly add 1 cup of milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened, stirring occasionally.",
+    "Add 1 cup of grated cheddar cheese and stir until melted.",
+    "Cook French fries according to package instructions.",
+    "In a large serving dish, place a portion of French fries.",
+    "Top with cheese curds and spoon the buttery gravy over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "poutine",
+    "french-fries"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-canadian-challots-poutine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:46:39.307Z"
+}
