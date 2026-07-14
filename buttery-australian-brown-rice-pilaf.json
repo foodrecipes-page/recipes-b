@@ -1,0 +1,75 @@
+{
+  "slug": "buttery-australian-brown-rice-pilaf",
+  "title": "Australian Brown Rice Pilaf",
+  "description": "A simple and flavorful brown rice pilaf, inspired by Australian cuisine. This dish is perfect for a weeknight dinner.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buttery rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "australian brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 tsp",
+      "notes": "dried spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the brown rice and pilaf spice blend. Cook for 1-2 minutes, stirring constantly.",
+    "Add the water and salt. Bring to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes, or until the liquid has been absorbed.",
+    "Fluff the cooked rice with a fork and season with pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "rice",
+    "pilaf",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-australian-brown-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:55:50.541Z"
+}
