@@ -1,0 +1,65 @@
+{
+  "slug": "bitter-light-mexican-paneer-stew",
+  "title": "Spicy Paneer Stew",
+  "description": "A flavorful and spicy stew made with paneer, perfect for a chilly evening.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "mexican chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add bitter gourd and cook until tender.",
+    "Add chili powder and cook for 1 minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add paneer and cook until heated through.",
+    "Add stew and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paneer",
+    "spicy",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-light-mexican-paneer-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:28:27.353Z"
+}
