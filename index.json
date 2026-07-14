@@ -2131,16 +2131,16 @@
   },
   {
     "slug": "bitter-gooey-venezuelan-peanut-casserole",
-    "title": "Bitter Gooey Venezuelan Peanut Casserole",
+    "title": "Venezuelan Peanut Casserole",
     "tags": [
-      "vegan",
+      "peanut",
+      "chocolate",
       "venezuelan",
-      "peanut-brittle",
       "casserole",
-      "weeknight-dinner"
+      "dessert"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -4543,15 +4543,16 @@
   },
   {
     "slug": "buttery-australian-brown-rice-pilaf",
-    "title": "Buttery Australian Brown Rice Pilaf",
+    "title": "Australian Brown Rice Pilaf",
     "tags": [
-      "buttery-australian",
-      "brown-rice-pilaf",
-      "adventurous-cooking",
-      "raw-friendly"
+      "australian",
+      "rice",
+      "pilaf",
+      "gluten-free",
+      "easy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
