@@ -7248,15 +7248,14 @@
   },
   {
     "slug": "buttery-silky-canadian-challots-poutine",
-    "title": "Buttery Silky Canadian Challots Poutine",
+    "title": "Classic Canadian Poutine",
     "tags": [
       "canadian",
-      "comfort-food",
-      "easy-side-dish",
-      "weeknight"
+      "poutine",
+      "french-fries"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
