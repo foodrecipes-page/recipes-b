@@ -2156,17 +2156,16 @@
   },
   {
     "slug": "bitter-greek-veal-omelette",
-    "title": "Bitter Greek Veal Omelette",
+    "title": "Veal Omelette",
     "tags": [
-      "greek",
-      "brunch",
-      "vegan? no",
-      "high-protein",
-      "crisp",
-      "bitter"
+      "italian",
+      "breakfast",
+      "omelette",
+      "veal",
+      "cheese"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 13,
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
     "shard": "b"
   },
   {
@@ -2450,10 +2449,15 @@
   },
   {
     "slug": "bitter-light-mexican-paneer-stew",
-    "title": "Bitter Light Mexican Paneer Stew",
-    "tags": [],
-    "cuisine": "Mexican",
-    "totalTimeMin": null,
+    "title": "Spicy Paneer Stew",
+    "tags": [
+      "paneer",
+      "spicy",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -6377,17 +6381,14 @@
   },
   {
     "slug": "buttery-gooey-indian-muffins-biryani",
-    "title": "Buttery Gooey Indian Muffins Biryani",
+    "title": "Gooey Biryani Muffins",
     "tags": [
       "breakfast",
-      "brunch",
-      "dairy-free",
-      "easy",
-      "indian",
-      "weeknight"
+      "muffins",
+      "indian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 38,
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -6958,15 +6959,15 @@
   },
   {
     "slug": "buttery-paleo-couscous",
-    "title": "Buttery Paleo Couscous",
+    "title": "Paleo Couscous Bowl",
     "tags": [
-      "buttery",
-      "creamy",
-      "paleo-friendly",
-      "russian-style"
+      "paleo",
+      "healthy",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
