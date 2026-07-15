@@ -1,0 +1,64 @@
+{
+  "slug": "bitter-argentinian-corn-crumble--keto",
+  "title": "Argentinian Crumble Bitter Corn Casserole",
+  "description": "A keto version of a classic Argentinean dessert, with a crunchy crumble topping and a sweet corn and bitter filling.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Argentinian bitter chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh corn kernels",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sweetener (e.g. Swerve or Erythritol)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the corn kernels and granulated sweetener.",
+    "Melt the butter and stir into the corn mixture.",
+    "Cut the Argentinian bitter chocolate into small pieces and add to the bowl.",
+    "Stir until the chocolate is well combined with the corn mixture.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "In a separate bowl, mix together the crumble topping ingredients.",
+    "Spread the crumble topping evenly over the corn mixture.",
+    "Bake for 25-30 minutes, or until the topping is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-argentinian-corn-crumble--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:30:49.142Z"
+}
