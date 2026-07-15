@@ -1,0 +1,87 @@
+{
+  "slug": "bitter-tender-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A flavorful and aromatic North African dish made with lamb, tunisian spices, and tender vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "Tunisian spices",
+      "amount": "2 teaspoons",
+      "notes": "a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Bitter oranges",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Tender carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onions, ginger, and garlic and cook until the onions are softened, about 5 minutes.",
+    "Add the carrots, Tunisian spices, and bitter orange juice. Stir to combine.",
+    "Cover the pot and transfer it to the oven. Braise the lamb and vegetables for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-tender-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:53:18.105Z"
+}
