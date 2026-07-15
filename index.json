@@ -14,14 +14,14 @@
   },
   {
     "slug": "baked-greek-butter-cheese-pie",
-    "title": "Baked Greek Butter Cheese Pie",
+    "title": "Cheesy Greek Pie",
     "tags": [
-      "greek-dish",
-      "butter-cheese-pie",
-      "cozy-recipe"
+      "greek",
+      "cheese",
+      "pie"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
