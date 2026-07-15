@@ -1,0 +1,80 @@
+{
+  "slug": "buttery-crusty-semolina-crumble",
+  "title": "Crumble Semolina Pudding",
+  "description": "A rich and comforting dessert made with semolina, perfect for a chilly evening. This crumble semolina pudding is a twist on the classic Italian dessert.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "medium grind"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1/2 teaspoon",
+      "notes": "extract"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, bring the milk to a simmer over medium heat.",
+    "In a separate bowl, whisk together the semolina, sugar, and eggs.",
+    "Gradually pour the semolina mixture into the milk, whisking constantly.",
+    "Return the saucepan to medium heat and cook, stirring constantly, until the mixture thickens, about 5-7 minutes.",
+    "Remove the saucepan from the heat and stir in the melted buttery and vanilla extract.",
+    "Pour the pudding mixture into small ramekins or individual serving cups.",
+    "Top each ramekin with crumble mixture.",
+    "Bake for 15-20 minutes, or until the topping is golden brown and the pudding is set.",
+    "Serve warm, topped with additional crumble if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pudding",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crusty-semolina-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:14:02.382Z"
+}
