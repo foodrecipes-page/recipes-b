@@ -4619,14 +4619,15 @@
   },
   {
     "slug": "buttery-british-garlic-crumble",
-    "title": "Buttery British Garlic Crumble",
+    "title": "Crumble Topped British Scones",
     "tags": [
-      "british-garlic-crumble",
-      "halal-friendly-dessert",
-      "caramelized-garlic"
+      "british",
+      "breakfast",
+      "scones",
+      "crumble"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
