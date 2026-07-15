@@ -8455,5 +8455,17 @@
     "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-argentinian-corn-crumble--keto",
+    "title": "Argentinian Crumble Bitter Corn Casserole",
+    "tags": [
+      "keto",
+      "dessert",
+      "argentinian"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
