@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-crispy-croatian-pastry-pierogi",
+  "title": "Croatian Pierogi with Pastry Crust",
+  "description": "A classic Eastern European dish featuring homemade pierogi filled with a traditional Croatian mixture, topped with a crispy pastry crust.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pirogi dough",
+      "amount": "2 cups",
+      "notes": "available at most Eastern European markets"
+    },
+    {
+      "name": "buttery pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "croatian filling",
+      "amount": "2 cups",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "croissant crumbs",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "On a lightly floured surface, roll out the pastry to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a biscuit cutter or the rim of a glass.",
+    "Place a tablespoon of the Croatian filling in the center of each pastry circle.",
+    "Fold the pastry in half over the filling, pressing the edges to seal.",
+    "Place the pierogi on a baking sheet lined with parchment paper.",
+    "Brush the tops of the pierogi with the beaten egg and sprinkle with croissant crumbs.",
+    "Bake the pierogi for 20-25 minutes, or until golden brown.",
+    "While the pierogi are baking, mix the sugar and buttery pastry in a small bowl until well combined.",
+    "Remove the pierogi from the oven and top each one with a spoonful of the sugar and pastry mixture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "eastern-european",
+    "pierogi",
+    "pastry",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-croatian-pastry-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:53:51.958Z"
+}
