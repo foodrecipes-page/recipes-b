@@ -2819,18 +2819,14 @@
   },
   {
     "slug": "bitter-tender-tunisian-lamb-tagine",
-    "title": "Bitter Tender Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "tunisian",
+      "north african",
       "lamb",
-      "tagine",
-      "pressure-cooker",
-      "mediterranean",
-      "bitter",
-      "tender"
+      "tagine"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "b"
   },
   {
