@@ -1,0 +1,66 @@
+{
+  "slug": "buttery-british-garlic-crumble",
+  "title": "Crumble Topped British Scones",
+  "description": "A classic British scone recipe topped with a crumble mixture, perfect for a warm breakfast or snack.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery British Scone Mix",
+      "amount": "250g"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "200g"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (400°F).",
+    "2. In a large mixing bowl, combine the scone mix, sugar, and cold butter. Use your fingers or a pastry blender to work the butter into the dry ingredients until the mixture resembles coarse breadcrumbs.",
+    "3. Turn the mixture out onto a lightly floured surface and gently knead a few times until it comes together in a cohesive dough.",
+    "4. Pat the dough into a circle that is about 2.5cm (1 inch) thick.",
+    "5. Use a biscuit cutter or the rim of a glass to cut out scones. Gather the scraps, re-form the dough, and cut out additional scones.",
+    "6. Place the scones on a baking sheet lined with parchment paper.",
+    "7. In a small bowl, mix together the crumble topping ingredients.",
+    "8. Sprinkle the crumble topping evenly over the scones.",
+    "9. Brush the tops of the scones with the heavy cream.",
+    "10. Bake for 18-20 minutes, or until the scones are golden brown.",
+    "11. Remove from the oven and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "breakfast",
+    "scones",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-british-garlic-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:29:07.018Z"
+}
