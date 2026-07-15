@@ -1,0 +1,65 @@
+{
+  "slug": "buttery-saudi-arabian-lamb-skillet",
+  "title": "Saudi Arabian Lamb Skillet",
+  "description": "A flavorful and aromatic dish from Saudi Arabia, made with lamb and cooked in a skillet. This recipe is perfect for a special occasion or a casual dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arabian lamb",
+      "amount": "500g",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Buttery oil",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the buttery oil in the skillet over medium-high heat.",
+    "Add the lamb cubes to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Add salt and black pepper to taste.",
+    "Reduce heat to medium-low and cook for an additional 10 minutes, or until the lamb is cooked through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skillet",
+    "saudi-arabian-cuisine",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-saudi-arabian-lamb-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:04:44.874Z"
+}
