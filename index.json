@@ -7081,16 +7081,15 @@
   },
   {
     "slug": "buttery-saudi-arabian-lamb-skillet",
-    "title": "Buttery Saudi Arabian Lamb Skillet",
+    "title": "Saudi Arabian Lamb Skillet",
     "tags": [
-      "saudi-arabian",
       "lamb",
-      "buttery",
-      "weeknight-dinner",
-      "sake-infused"
+      "skillet",
+      "saudi-arabian-cuisine",
+      "meat"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
