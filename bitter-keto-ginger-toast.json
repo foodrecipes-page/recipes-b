@@ -1,0 +1,77 @@
+{
+  "slug": "bitter-keto-ginger-toast",
+  "title": "Keto Ginger Bitter Toast",
+  "description": "A keto twist on traditional toast with the added flavors of ginger and bitter",
+  "cuisine": "keto",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Toast the almond flour in a small pan over medium heat for 2 minutes.",
+    "In a separate pan, melt the ghee over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the diced bitter melon and cook until tender.",
+    "In a bowl, beat the egg and season with salt and black pepper.",
+    "Add the cooked bitter melon mixture to the bowl and stir to combine.",
+    "Pour the egg mixture over the toasted almond flour and mix well.",
+    "Transfer the mixture to a greased loaf pan and bake for 20-25 minutes.",
+    "Slice the toast into thick slices and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "breakfast",
+    "tofu-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-keto-ginger-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T05:55:17.609Z"
+}
