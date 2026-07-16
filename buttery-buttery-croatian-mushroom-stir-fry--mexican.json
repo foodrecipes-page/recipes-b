@@ -1,0 +1,63 @@
+{
+  "slug": "buttery-buttery-croatian-mushroom-stir-fry--mexican",
+  "title": "Mexican Mushroom Stir-Fry",
+  "description": "A quick and flavorful Mexican-inspired stir-fry featuring sautéed mushrooms and a hint of buttery goodness.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 pound"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "croation",
+      "amount": "optional, diced"
+    },
+    {
+      "name": "stir",
+      "amount": "no specific amount, stir-fry style"
+    },
+    {
+      "name": "fry",
+      "amount": "no specific amount, stir-fry style"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the diced Croatian (if using) and stir to combine.",
+    "Add a pinch of salt and pepper to taste.",
+    "Stir in the remaining 1 tablespoon of buttery until melted and well combined.",
+    "Serve hot, garnished with fresh cilantro or scallions (optional).",
+    "Serve with your favorite Mexican-inspired sides, such as rice, beans, or tortillas."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "easy",
+    "quick",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-buttery-croatian-mushroom-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:59:49.334Z"
+}
