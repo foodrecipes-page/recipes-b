@@ -1,0 +1,81 @@
+{
+  "slug": "bitter-crumbly-norwegian-lamb-pilaf",
+  "title": "Norwegian Lamb Pilaf",
+  "description": "A hearty and flavorful dish made with lamb, pilaf, and a hint of Norwegian flair.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bitter chocolate (optional)",
+      "amount": "1 ounce",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides, about 5 minutes. Transfer to a plate and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "Add the browned lamb back into the skillet, along with the salt and pepper.",
+    "Stir in the chopped norwegian bitter, if using.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lamb is cooked through and the pilaf is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lamb",
+    "pilaf",
+    "scandinavian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "34g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crumbly-norwegian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:14:42.899Z"
+}
