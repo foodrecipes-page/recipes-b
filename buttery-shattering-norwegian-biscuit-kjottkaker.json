@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-shattering-norwegian-biscuit-kjottkaker",
+  "title": "Norwegian Kjottkaker with Butter Biscuits",
+  "description": "Traditional Norwegian meatballs served with butter biscuits, a hearty breakfast or brunch option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kjottkaker (Norwegian meatballs)",
+      "amount": "12 pieces",
+      "notes": "Available pre-made or homemade, using ground meat and breadcrumbs"
+    },
+    {
+      "name": "buttery biscuits",
+      "amount": "6 pieces",
+      "notes": "Freshly baked or store-bought"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake butter biscuits for 12-15 minutes, or until golden brown.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the kjottkaker and cook until browned on all sides, about 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the kjottkaker with warm butter biscuits."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "norwegian",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-shattering-norwegian-biscuit-kjottkaker",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:30:03.152Z"
+}
