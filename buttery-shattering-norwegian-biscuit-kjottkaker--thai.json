@@ -1,0 +1,97 @@
+{
+  "slug": "buttery-shattering-norwegian-biscuit-kjottkaker--thai",
+  "title": "Norwegian Kjottkaker with Thai Twist",
+  "description": "A twist on traditional Norwegian meatballs, this dish combines the flavors of Thailand with the heartiness of Norwegian kjottkaker.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kjottkaker",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "norwegian biscuit",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "shattering",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine kjottkaker, buttery, norwegian biscuit, shattering, fish sauce, brown sugar, grated ginger, garlic powder, salt, and pepper. Mix well.",
+    "Using your hands, shape the mixture into small meatballs.",
+    "Place the meatballs on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until cooked through.",
+    "While the meatballs are baking, prepare the Thai sauce by mixing together 2 tablespoons of fish sauce, 1 tablespoon of brown sugar, and 1 tablespoon of grated ginger.",
+    "Remove the meatballs from the oven and brush with the Thai sauce.",
+    "Serve hot with additional Thai sauce for dipping, if desired.",
+    "Garnish with chopped shattering and a sprinkle of norwegian biscuit crumbs, if desired.",
+    "Enjoy your delicious Norwegian Kjottkaker with Thai twist!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kjottkaker",
+    "norwegian",
+    "thai",
+    "meatballs",
+    "fish sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-shattering-norwegian-biscuit-kjottkaker--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:19:36.051Z"
+}
