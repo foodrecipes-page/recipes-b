@@ -1,0 +1,88 @@
+{
+  "slug": "bitter-chewy-filipino-tempeh-stir-fry",
+  "title": "Filipino-Style Stir-Fried Tempeh",
+  "description": "A quick and easy stir-fry dish from the Philippines, featuring crispy tempeh, crunchy vegetables, and a savory sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "such as vegetable or peanut oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add tempeh and cook until crispy, about 3-4 minutes.",
+    "Remove tempeh from the wok and set aside.",
+    "Add onion, garlic, and bell pepper to the wok and cook until the vegetables are tender-crisp.",
+    "Add bitter melon and cook for an additional 2 minutes.",
+    "Return tempeh to the wok and stir in soy sauce, oyster sauce (if using), and black pepper.",
+    "Serve immediately over steamed rice or noodles.",
+    "Garnish with chopped green onions and a sprinkle of black pepper, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "philippines"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-filipino-tempeh-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:40:49.779Z"
+}
