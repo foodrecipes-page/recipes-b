@@ -1,0 +1,65 @@
+{
+  "slug": "buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry--german",
+  "title": "German Wild Garlic Stir Fry",
+  "description": "A hearty German-inspired dish using wild garlic and other fresh ingredients. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "2 cups"
+    },
+    {
+      "name": "italian",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low fat",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "stir fry",
+      "amount": "1 teaspoon",
+      "notes": "ginger powder"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped Italian and cook until tender, about 3-4 minutes.",
+    "Add the wild garlic leaves and cook until wilted, about 2-3 minutes.",
+    "Add the unsalted butter and stir until melted.",
+    "Sprinkle the ginger powder and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "wildgarlic",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:50:23.249Z"
+}
