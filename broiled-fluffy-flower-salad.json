@@ -1,0 +1,58 @@
+{
+  "slug": "broiled-fluffy-flower-salad",
+  "title": "Fluffy Flower Salad",
+  "description": "A light and refreshing salad made with fluffy flowers and mixed greens, perfect for a quick snack.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fluffy flowers",
+      "amount": "1 cup, fresh"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups, fresh"
+    },
+    {
+      "name": "broiled greens",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "flower petals",
+      "amount": "1/4 cup, dried"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the fluffy flowers and mixed greens in cold water.",
+    "2. Pat dry the flowers and greens with a paper towel.",
+    "3. In a large bowl, combine the fluffy flowers, mixed greens, and broiled greens.",
+    "4. Sprinkle the dried flower petals on top.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "snack",
+    "fluffy",
+    "flower"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/broiled-fluffy-flower-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:44:53.402Z"
+}
