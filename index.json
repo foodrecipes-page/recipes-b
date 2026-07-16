@@ -8518,5 +8518,19 @@
     "cuisine": "german",
     "totalTimeMin": 8,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-algerian-milk-dumplings--gluten-free",
+    "title": "Traditional Algerian Bitter Dumplings",
+    "tags": [
+      "algerian",
+      "bitter",
+      "dessert",
+      "dumplings",
+      "gluten-free"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
