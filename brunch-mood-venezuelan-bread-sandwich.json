@@ -1,0 +1,66 @@
+{
+  "slug": "brunch-mood-venezuelan-bread-sandwich",
+  "title": "Venezuelan Breakfast Sandwich",
+  "description": "A delicious Venezuelan-inspired breakfast sandwich filled with crispy bread and savory ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Arepa",
+      "amount": "2",
+      "notes": "Pre-cooked arepas can be used for this recipe"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Venezuelan cheese, such as Queso Blanco or Queso Fresco, works well"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe avocado, sliced",
+      "notes": "Mash or slice the avocado for added creaminess"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium tomato, sliced",
+      "notes": "Fresh and ripe tomatoes are best"
+    },
+    {
+      "name": "Ham",
+      "amount": "2 slices",
+      "notes": "Diced ham or chorizo can be used for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium heat.",
+    "2. Split the arepa in half horizontally to create a sandwich bun.",
+    "3. Top the bottom half of the arepa with cheese, sliced avocado, tomato, and ham.",
+    "4. Place the top half of the arepa on the sandwich.",
+    "5. Cook the sandwich in the skillet for 2-3 minutes, until the cheese is melted and the bread is crispy.",
+    "6. Flip the sandwich over and cook for an additional 2-3 minutes, until the other side is crispy.",
+    "7. Serve the sandwich hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sandwich",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brunch-mood-venezuelan-bread-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:37:13.806Z"
+}
