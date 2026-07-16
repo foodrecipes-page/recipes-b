@@ -1,0 +1,54 @@
+{
+  "slug": "buttery-ukrainian-broccoli-stir-fry--german",
+  "title": "German Fried Broccoli",
+  "description": "A simple and delicious German-inspired side dish featuring stir-fried broccoli.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Ukrainian",
+      "amount": "1 tsp",
+      "notes": "dried dill weed"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a pan over medium-high heat.",
+    "Add the chopped broccoli and Ukrainian dill weed.",
+    "Stir-fry the broccoli until tender, about 3-4 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-ukrainian-broccoli-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:00:11.091Z"
+}
