@@ -1174,19 +1174,15 @@
   },
   {
     "slug": "bitter-crumbly-norwegian-lamb-pilaf",
-    "title": "Bitter Crumbly Norwegian Lamb Pilaf",
+    "title": "Norwegian Lamb Pilaf",
     "tags": [
       "norwegian",
       "lamb",
       "pilaf",
-      "braised",
-      "pastry",
-      "strong-white-flour",
-      "bitter",
-      "crumbly"
+      "scandinavian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 195,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
@@ -5358,15 +5354,14 @@
   },
   {
     "slug": "buttery-crumbly-egyptian-butter-beans-crumble",
-    "title": "Buttery Crumbly Egyptian Butter Beans Crumble",
+    "title": "Crumble Topped Bean Casserole",
     "tags": [
-      "egyptian",
-      "crumbly",
-      "buttery",
-      "madras-paste"
+      "comfort-food",
+      "casserole",
+      "vegetarian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": "British",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -8492,6 +8487,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-buttery-croatian-mushroom-stir-fry--mexican",
+    "title": "Mexican Mushroom Stir-Fry",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "easy",
+      "quick",
+      "stir-fry"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "b"
   }
 ]
