@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-chewy-malaysian-potato-starch-pancake",
+  "title": "Malaysian-Style Pancake Bites",
+  "description": "A delicious and easy-to-make bite-sized snack featuring a crispy pancake exterior and a fluffy potato interior.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Grated"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Pancake",
+      "amount": "2",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Starch",
+      "amount": "1 tablespoon",
+      "notes": "Cornstarch"
+    },
+    {
+      "name": "Chewy",
+      "amount": "optional",
+      "notes": "For sweet treats"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 180°C.",
+    "2. In a bowl, mix grated potato, crushed pancake, melted buttery, and cornstarch.",
+    "3. Using a spoon, drop small portions of the potato mixture into the hot oil.",
+    "4. Fry the potato bites for 3-4 minutes or until golden brown.",
+    "5. Remove the bites from the oil and place them on a paper towel-lined plate.",
+    "6. If desired, sprinkle with a pinch of chewy for an extra sweet treat.",
+    "7. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "malaysian",
+    "easy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chewy-malaysian-potato-starch-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:46:28.424Z"
+}
