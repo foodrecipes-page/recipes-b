@@ -1,0 +1,66 @@
+{
+  "slug": "black-treacle-steam-veggie-delight",
+  "title": "Black Treacle Delight",
+  "description": "A sweet and rich dessert made with black treacle and topped with a crispy delight crust.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Black Treacle",
+      "amount": "250g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "200g",
+      "notes": "for the delight crust"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g",
+      "notes": "for the delight crust"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. In a medium saucepan, combine the black treacle, granulated sugar, and vegetable oil. Place over low heat and stir until the sugar dissolves.",
+    "3. Bring the mixture to the boil, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "4. Remove the saucepan from the heat and let it cool slightly.",
+    "5. In a separate bowl, whisk together the flour and butter until crumbly.",
+    "6. Press the flour mixture into the bottom of a greased 20cm (8 inch) square baking dish.",
+    "7. Pour the black treacle mixture over the flour mixture.",
+    "8. Bake for 25-30 minutes, or until the delight crust is golden brown.",
+    "9. Remove the dessert from the oven and let it cool completely in the pan.",
+    "10. Once cooled, cut into squares and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "british",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/black-treacle-steam-veggie-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:45:12.163Z"
+}
