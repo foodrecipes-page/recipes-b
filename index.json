@@ -4028,16 +4028,16 @@
   },
   {
     "slug": "briny-juicy-moroccan-galangal-kha-tagine",
-    "title": "Briny Juicy Moroccan Galangal-Kha Tagine",
+    "title": "Galangal and Kha Moroccan Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "low-carb",
       "moroccan",
-      "one-pan"
+      "chicken",
+      "tagine",
+      "galangal",
+      "kha"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
