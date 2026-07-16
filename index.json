@@ -7132,16 +7132,15 @@
   },
   {
     "slug": "buttery-shattering-norwegian-biscuit-kjottkaker",
-    "title": "Buttery Kjøttkaker with Smoked Paprika",
+    "title": "Norwegian Kjottkaker with Butter Biscuits",
     "tags": [
-      "finger-food",
+      "breakfast",
+      "brunch",
       "norwegian",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "meatballs"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 27,
     "shard": "b"
   },
   {
@@ -8467,6 +8466,18 @@
     ],
     "cuisine": "Argentinean",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-buttery-croatian-mushroom-stir-fry--french",
+    "title": "Pan-Seared Croation Mushrooms with French Butter",
+    "tags": [
+      "french",
+      "mushrooms",
+      "dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
     "shard": "b"
   }
 ]
