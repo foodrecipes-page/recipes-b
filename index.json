@@ -2034,10 +2034,14 @@
   },
   {
     "slug": "bitter-gooey-algerian-milk-dumplings",
-    "title": "Bitter Gooey Algerian Milk Dumplings",
-    "tags": [],
-    "cuisine": "algerian",
-    "totalTimeMin": null,
+    "title": "Algerian Bitter Dumpling Dessert",
+    "tags": [
+      "algerian",
+      "dessert",
+      "dumplings"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
