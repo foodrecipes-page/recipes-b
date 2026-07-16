@@ -1,0 +1,56 @@
+{
+  "slug": "bitter-gooey-algerian-milk-dumplings--italian",
+  "title": "Italian Dumpling Pudding",
+  "description": "A creamy, sweet, and comforting dessert inspired by Italian cuisine. This pudding features gooey dumplings in a rich milk-based sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "algerian",
+      "amount": "1/4 cup",
+      "notes": "Ground almonds for crunch"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "Italian-style dumplings"
+    },
+    {
+      "name": "bitter",
+      "amount": "1 tsp",
+      "notes": "Dissolved in a little milk"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a saucepan, combine milk, almonds, and bitter.",
+    "Bring mixture to a boil, then reduce heat to a simmer.",
+    "Cook for 10 minutes or until slightly thickened.",
+    "Add the dumplings to the saucepan and cook for another 5 minutes.",
+    "Transfer the mixture to individual serving cups or a large baking dish.",
+    "Bake for 15-20 minutes or until the top is golden brown.",
+    "Serve warm, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "pudding",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-algerian-milk-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:10:26.674Z"
+}
