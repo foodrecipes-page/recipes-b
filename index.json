@@ -3067,15 +3067,14 @@
   },
   {
     "slug": "black-treacle-steam-veggie-delight",
-    "title": "Black Treacle Steam Veggie Delight",
+    "title": "Black Treacle Delight",
     "tags": [
-      "black-treacle",
-      "steam",
-      "veggie-delight",
-      "plant-based"
+      "dessert",
+      "british",
+      "sweet"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "cuisine": "british",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
@@ -4817,15 +4816,15 @@
   },
   {
     "slug": "buttery-chewy-malaysian-potato-starch-pancake",
-    "title": "Buttery Chewy Malaysian Potato Starch Pancake",
+    "title": "Malaysian-Style Pancake Bites",
     "tags": [
-      "mexican",
+      "snack",
       "malaysian",
-      "gluten-free",
-      "brunch"
+      "easy",
+      "vegan-friendly"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 20,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -8530,6 +8529,32 @@
       "gluten-free"
     ],
     "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crunchy-cozy-cornmeal-crumble--indian",
+    "title": "Crispy Cornmeal Crumble",
+    "tags": [
+      "indian",
+      "dessert",
+      "crunchy",
+      "crumble"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-algerian-milk-dumplings--italian",
+    "title": "Italian Dumpling Pudding",
+    "tags": [
+      "italian",
+      "dessert",
+      "pudding",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "b"
   }
