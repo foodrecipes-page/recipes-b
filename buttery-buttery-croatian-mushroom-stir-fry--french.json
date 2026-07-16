@@ -1,0 +1,50 @@
+{
+  "slug": "buttery-buttery-croatian-mushroom-stir-fry--french",
+  "title": "Pan-Seared Croation Mushrooms with French Butter",
+  "description": "A simple, flavorful dish showcasing the rich taste of Croatian mushrooms. This recipe is a French-inspired take on a classic",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian mushrooms",
+      "amount": "1 pound"
+    },
+    {
+      "name": "French butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the French butter in a large skillet over medium heat.",
+    "Add the Croatian mushrooms and stir occasionally until they release their liquid and start to brown.",
+    "Stir in the buttery and continue cooking for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the pan-seared mushrooms hot, garnished with additional French butter if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "mushrooms",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-buttery-croatian-mushroom-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:07:14.007Z"
+}
