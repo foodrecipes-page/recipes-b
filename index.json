@@ -486,16 +486,11 @@
   },
   {
     "slug": "bitter-chewy-filipino-tempeh-stir-fry",
-    "title": "Bitter Chewy Filipino Tempeh Stir-fry",
+    "title": "Filipino-Style Stir-Fried Tempeh",
     "tags": [
-      "plant-based",
-      "vegan",
       "stir-fry",
-      "bitter",
-      "chewy",
-      "energetic",
-      "orange-zest",
-      "deglaze"
+      "vegetarian",
+      "philippines"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
@@ -4282,18 +4277,14 @@
   },
   {
     "slug": "brunch-mood-venezuelan-bread-sandwich",
-    "title": "brunch-mood venezuelan bread sandwich",
+    "title": "Venezuelan Breakfast Sandwich",
     "tags": [
       "breakfast",
-      "brunch",
-      "easy-meal",
       "sandwich",
-      "vegetarian-option",
-      "venezuelan",
-      "weekend"
+      "venezuelan"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 20,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
@@ -8513,6 +8504,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 20,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-ukrainian-broccoli-stir-fry--german",
+    "title": "German Fried Broccoli",
+    "tags": [
+      "german",
+      "side-dish",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 8,
     "shard": "b"
   }
 ]
