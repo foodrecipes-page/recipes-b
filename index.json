@@ -8479,5 +8479,19 @@
     "cuisine": "french",
     "totalTimeMin": 15,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-shattering-norwegian-biscuit-kjottkaker--thai",
+    "title": "Norwegian Kjottkaker with Thai Twist",
+    "tags": [
+      "kjottkaker",
+      "norwegian",
+      "thai",
+      "meatballs",
+      "fish sauce"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
