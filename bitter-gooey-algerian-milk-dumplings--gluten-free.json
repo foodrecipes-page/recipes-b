@@ -1,0 +1,67 @@
+{
+  "slug": "bitter-gooey-algerian-milk-dumplings--gluten-free",
+  "title": "Traditional Algerian Bitter Dumplings",
+  "description": "A unique, gluten-free dessert featuring bitter dumplings in a sweet gooey sauce, topped with a creamy milk glaze.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Algerian bitter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "12",
+      "notes": "homemade or store-bought, gluten-free"
+    },
+    {
+      "name": "Gooey sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for sauce ingredients"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "optional, for extra sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare gooey sauce by melting 2 tbsp of sugar, 1/4 cup of milk, and 2 tbsp of Algerian bitter in a saucepan over low heat.",
+    "Dip each dumpling into the gooey sauce, coating evenly.",
+    "Place coated dumplings on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes or until dumplings are lightly toasted.",
+    "While the dumplings bake, prepare the milk glaze by whisking together 1 cup of milk and 2 tbsp of sugar in a small bowl.",
+    "Remove dumplings from the oven and brush with milk glaze.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "bitter",
+    "dessert",
+    "dumplings",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-algerian-milk-dumplings--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:27:06.559Z"
+}
