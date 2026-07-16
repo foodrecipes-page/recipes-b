@@ -1,0 +1,60 @@
+{
+  "slug": "bitter-gooey-algerian-milk-dumplings",
+  "title": "Algerian Bitter Dumpling Dessert",
+  "description": "A unique dessert combining the flavors of Algeria and the comforting warmth of dumplings. This recipe is perfect for those looking to try something new and exciting.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "algerian",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bitter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dumplings",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy alternative"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the algerian and bitter ingredients.",
+    "Add the milk to the bowl and mix until well combined.",
+    "Wrap each dumpling in the algerian-bitter mixture, making sure to seal them tightly.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the dumplings are golden brown.",
+    "Serve warm and enjoy!",
+    "Note: If using store-bought dumplings, follow the package instructions for cooking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "dessert",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-algerian-milk-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:30:28.273Z"
+}
