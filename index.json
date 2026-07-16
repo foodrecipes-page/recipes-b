@@ -8502,5 +8502,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-silky-low-fat-italian-wild-garlic-leaves-stir-fry--german",
+    "title": "German Wild Garlic Stir Fry",
+    "tags": [
+      "german",
+      "wildgarlic",
+      "stirfry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "b"
   }
 ]
