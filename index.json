@@ -4212,15 +4212,15 @@
   },
   {
     "slug": "broiled-fluffy-flower-salad",
-    "title": "Broiled Fluffy Flower Salad",
+    "title": "Fluffy Flower Salad",
     "tags": [
-      "floral",
+      "salad",
+      "snack",
       "fluffy",
-      "american dish",
-      "gluten-free-friendly"
+      "flower"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 15,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
