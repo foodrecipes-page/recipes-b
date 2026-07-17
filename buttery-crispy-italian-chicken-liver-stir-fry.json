@@ -1,0 +1,72 @@
+{
+  "slug": "buttery-crispy-italian-chicken-liver-stir-fry",
+  "title": "Crispy Chicken Stir Fry",
+  "description": "A quick and easy chicken stir fry recipe with crispy chicken, perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Buttery stir fry mix",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the chicken into bite-sized pieces and season with salt and pepper.",
+    "2. Heat the oil in a large skillet or wok over medium-high heat.",
+    "3. Add the chicken to the skillet and cook until browned and crispy, about 5-7 minutes.",
+    "4. Remove the chicken from the skillet and set aside.",
+    "5. Add the stir fry mix to the skillet and cook according to the package instructions.",
+    "6. Return the chicken to the skillet and stir to combine with the stir fry mix.",
+    "7. Season with Italian seasoning and serve hot.",
+    "8. Enjoy your crispy chicken stir fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-chicken",
+    "stir-fry",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-italian-chicken-liver-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:53:16.261Z"
+}
