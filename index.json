@@ -8634,5 +8634,18 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crusty-semolina-crumble--german",
+    "title": "German Semolina Crumble",
+    "tags": [
+      "german",
+      "dessert",
+      "crumble",
+      "semolina"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "b"
   }
 ]
