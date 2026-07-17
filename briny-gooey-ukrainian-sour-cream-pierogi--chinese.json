@@ -1,0 +1,64 @@
+{
+  "slug": "briny-gooey-ukrainian-sour-cream-pierogi--chinese",
+  "title": "Sour Cream Pierogi with Gooey Sauce",
+  "description": "A Chinese twist on the classic Ukrainian dish, featuring a creamy sour cream sauce and gooey filling.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pierogi",
+      "amount": "1 package (12-15 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "briny",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "goey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 teaspoon",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of water to a boil.",
+    "2. Cook the pierogi according to package instructions.",
+    "3. In a small saucepan, heat the sour cream over medium heat.",
+    "4. Add the briny and gooey to the sour cream and stir until combined.",
+    "5. Serve the cooked pierogi with the sour cream sauce and enjoy!",
+    "6. If using Ukrainian seasoning, sprinkle on top of the pierogi for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "pierogi",
+    "sour-cream",
+    "goey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-gooey-ukrainian-sour-cream-pierogi--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:32:07.281Z"
+}
