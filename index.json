@@ -8597,5 +8597,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-venezuelan-cheese-empanadas--thai",
+    "title": "Thai Cheese Empanada Bites",
+    "tags": [
+      "empanadas",
+      "thai-cheese",
+      "veggie-snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "b"
   }
 ]
