@@ -5182,15 +5182,14 @@
   },
   {
     "slug": "buttery-crispy-italian-chicken-liver-stir-fry",
-    "title": "Buttery Crispy Italian Chicken Liver Stir-fry",
+    "title": "Crispy Chicken Stir Fry",
     "tags": [
-      "italian",
-      "crispy",
-      "indulgent",
-      "nut-free"
+      "crispy-chicken",
+      "stir-fry",
+      "italian"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
