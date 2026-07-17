@@ -1,0 +1,69 @@
+{
+  "slug": "bitter-gooey-venezuelan-peanut-casserole--italian",
+  "title": "Traditional Italian Casserole",
+  "description": "A classic Italian dish made with a crunchy peanut topping and gooey center, perfect for a satisfying dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Venezuelan peanut oil",
+      "amount": "1/4 cup",
+      "notes": "For greasing the baking dish"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": "Pre-cooked casseroled mixture"
+    },
+    {
+      "name": "Gooey cheese blend",
+      "amount": "1 cup",
+      "notes": "Mozzarella and cheddar mixed"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with Venezuelan peanut oil.",
+    "Transfer the casserole mixture to the prepared baking dish.",
+    "Top the casserole with the gooey cheese blend.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Garnish with chopped bitter greens.",
+    "Sprinkle chopped peanuts on top for added crunch.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "casserole",
+    "peanuts",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-venezuelan-peanut-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:29:07.534Z"
+}
