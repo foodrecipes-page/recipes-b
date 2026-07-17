@@ -8573,5 +8573,29 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-gooey-australian-chicken-liver-stir-fry--vegetarian",
+    "title": "Vegetarian Stir Fry",
+    "tags": [
+      "vegetarian",
+      "stir-fry",
+      "australian"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
+    "slug": "boiled-crumbled-algerian-tomato--mexican",
+    "title": "Mexican Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
