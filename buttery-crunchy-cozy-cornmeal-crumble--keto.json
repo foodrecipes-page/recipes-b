@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-crunchy-cozy-cornmeal-crumble--keto",
+  "title": "Keto Crumble Cornmeal Bites",
+  "description": "A crunchy and cozy keto snack made with cornmeal, perfect for a quick bite. These bite-sized treats are easy to prepare and delicious to eat.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "1/2 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "crushed cornflakes or keto granola"
+    },
+    {
+      "name": "Cozy",
+      "amount": "1/4 cup",
+      "notes": "cocoa nibs or chopped dark chocolate"
+    },
+    {
+      "name": "Cornmeal",
+      "amount": "1 1/2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. In a medium bowl, mix together cornmeal, crunchy, cozy, and a pinch of salt.",
+    "3. In a separate bowl, cream together buttery and crumble until smooth.",
+    "4. Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "5. Scoop the dough into balls, about 1 tablespoon each.",
+    "6. Place the balls on a baking sheet lined with parchment paper.",
+    "7. Bake for 15-20 minutes or until lightly golden brown.",
+    "8. Remove from oven and let cool on the baking sheet for 5 minutes.",
+    "9. Transfer the bites to a wire rack to cool completely.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "snack",
+    "cornmeal",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2.5,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-cozy-cornmeal-crumble--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:22:17.444Z"
+}
