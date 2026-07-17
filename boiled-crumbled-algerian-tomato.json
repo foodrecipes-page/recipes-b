@@ -1,0 +1,60 @@
+{
+  "slug": "boiled-crumbled-algerian-tomato",
+  "title": "Algerian Tomato Frittata",
+  "description": "A flavorful North African-inspired frittata made with tomatoes and spices.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crumbled",
+      "amount": "1 cup feta cheese"
+    },
+    {
+      "name": "boiled",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tsp ras el hanout"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large, diced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat a tablespoon of oil over medium heat.",
+    "Add the diced tomato and cook until tender, about 5 minutes.",
+    "In a large bowl, whisk together the eggs and ras el hanout.",
+    "Pour the egg mixture over the cooked tomatoes and sprinkle with feta cheese.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "breakfast",
+    "vegetarian",
+    "eggs",
+    "feta-cheese",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiled-crumbled-algerian-tomato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:53:44.921Z"
+}
