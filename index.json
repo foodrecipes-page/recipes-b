@@ -8557,5 +8557,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "briny-gooey-ukrainian-sour-cream-pierogi--chinese",
+    "title": "Sour Cream Pierogi with Gooey Sauce",
+    "tags": [
+      "chinese",
+      "pierogi",
+      "sour-cream",
+      "goey"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
