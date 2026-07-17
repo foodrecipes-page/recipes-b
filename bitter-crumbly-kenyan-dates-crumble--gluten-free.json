@@ -1,0 +1,67 @@
+{
+  "slug": "bitter-crumbly-kenyan-dates-crumble--gluten-free",
+  "title": "Kenyan Date Crumble",
+  "description": "A warm and comforting dessert that showcases sweet dates in a crispy Kenyan-inspired topping.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "250g",
+      "notes": "pitted"
+    },
+    {
+      "name": "bitter crumble",
+      "amount": "150g",
+      "notes": "store-bought"
+    },
+    {
+      "name": "crumbly topping",
+      "amount": "100g",
+      "notes": "homemade (see notes)"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 tsp",
+      "notes": "mix of cinnamon, cardamom, and ginger"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix the dates, kenyan spices, and coconut sugar.",
+    "Transfer the date mixture to a baking dish.",
+    "In a separate bowl, mix the crumbly topping and melted butter until crumbly.",
+    "Top the date mixture with the crumbly topping.",
+    "Bake for 25-30 minutes or until the topping is golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "kenyan",
+    "dates",
+    "crumble"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crumbly-kenyan-dates-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:42:22.828Z"
+}
