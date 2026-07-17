@@ -1,0 +1,71 @@
+{
+  "slug": "buttery-crumbly-venezuelan-cheese-empanadas--thai",
+  "title": "Thai Cheese Empanada Bites",
+  "description": "A fusion twist on traditional empanadas, filled with melted cheese and a hint of venezuelan charm, served with a side of tangy thai sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "12",
+      "notes": "various fillings"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded",
+      "notes": "mozzarella or cheddar"
+    },
+    {
+      "name": "buttery venezuelan cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "such as queso venezolano"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut empanadas into quarters.",
+    "3. In a bowl, mix together cheese, venezuelan cheese, and red curry paste.",
+    "4. Spoon a small amount of the cheese mixture into each empanada quarter.",
+    "5. Top with chopped cilantro and a drizzle of honey, if desired.",
+    "6. Bake for 10-12 minutes, or until cheese is melted and empanadas are golden brown.",
+    "7. Serve warm with a side of tangy thai sauce, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "thai-cheese",
+    "veggie-snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-venezuelan-cheese-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:37:16.441Z"
+}
