@@ -3274,13 +3274,16 @@
   },
   {
     "slug": "boiled-crumbled-algerian-tomato",
-    "title": "Boiled Crumbled Algerian Tomato",
+    "title": "Algerian Tomato Frittata",
     "tags": [
-      "algerian",
-      "energizing",
-      "beef-tomato"
+      "north-african",
+      "breakfast",
+      "vegetarian",
+      "eggs",
+      "feta-cheese",
+      "tomato"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "north african",
     "totalTimeMin": 30,
     "shard": "b"
   },
