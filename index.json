@@ -8647,5 +8647,19 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-crumbly-kenyan-dates-crumble--gluten-free",
+    "title": "Kenyan Date Crumble",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "kenyan",
+      "dates",
+      "crumble"
+    ],
+    "cuisine": "African",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
