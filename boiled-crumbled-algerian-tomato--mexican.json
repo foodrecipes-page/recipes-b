@@ -1,0 +1,87 @@
+{
+  "slug": "boiled-crumbled-algerian-tomato--mexican",
+  "title": "Mexican Tacos",
+  "description": "A classic Mexican dish with a twist using algerian spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian Spiced Ground Beef",
+      "amount": "1 pound",
+      "notes": "ground beef crumbled with algerian spices"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Boiled Tortillas",
+      "amount": "4-6",
+      "notes": "corn tortillas boiled for 30 seconds"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the Algerian Spiced Ground Beef and cook until browned, breaking it up into small pieces.",
+    "Add the diced tomato and cook until the tomato is softened.",
+    "Warm the boiled tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef and tomato mixture onto a tortilla, followed by a sprinkle of cheese, diced avocado, and a dollop of sour cream.",
+    "Garnish with chopped cilantro and a squeeze of lime juice.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiled-crumbled-algerian-tomato--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:59:09.107Z"
+}
