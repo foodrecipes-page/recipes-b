@@ -633,17 +633,11 @@
   },
   {
     "slug": "bitter-chewy-turkish-plain-flour-turkish-flatbread-pide",
-    "title": "Bitter Chewy Turkish Plain Flour Turkish Flatbread Pide",
+    "title": "Turkish Flatbread",
     "tags": [
-      "bitter-taste",
-      "chewy-texture",
-      "easy-to-make",
-      "flatbread",
-      "high-carb",
-      "midnight-snack",
-      "snack-size",
       "turkish",
-      "yogurt-based"
+      "flatbread",
+      "homemade"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
@@ -8660,6 +8654,20 @@
     ],
     "cuisine": "African",
     "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-venezuelan-peanut-casserole--italian",
+    "title": "Traditional Italian Casserole",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "casserole",
+      "peanuts",
+      "cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "b"
   }
 ]
