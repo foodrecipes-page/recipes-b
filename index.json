@@ -2932,16 +2932,16 @@
   },
   {
     "slug": "bitter-velvety-syrian-plum-tomato-stir-fry",
-    "title": "Bitter Velvety Syrian Plum Tomato Stir-fry",
+    "title": "Syrian Plum Chicken Stew",
     "tags": [
-      "gluten-free",
+      "chicken",
+      "stew",
       "syrian",
-      "stir-fry",
-      "baby-plum-tomatoes",
-      "roasted-ingredients"
+      "plums",
+      "cumin"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 23,
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
@@ -8608,6 +8608,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
+    "slug": "blackberry-tangy-treat--german",
+    "title": "German Berry Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "strudel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "b"
   }
 ]
