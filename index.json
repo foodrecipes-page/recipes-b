@@ -8621,5 +8621,18 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crunchy-cozy-cornmeal-crumble--keto",
+    "title": "Keto Crumble Cornmeal Bites",
+    "tags": [
+      "keto",
+      "snack",
+      "cornmeal",
+      "crumble"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
