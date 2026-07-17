@@ -1,0 +1,54 @@
+{
+  "slug": "buttery-gooey-australian-chicken-liver-stir-fry--vegetarian",
+  "title": "Vegetarian Stir Fry",
+  "description": "A quick and easy stir fry made with australian vegetables and served with a side of gooey sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "australian vegetables (such as bell peppers and broccoli)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "buttery sauce (made from butter and stir fry sauce)",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "gooy sauce (made from stir fry sauce and water)",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat buttery sauce in a pan over medium heat.",
+    "Add australian vegetables to the pan and stir-fry for 3-4 minutes.",
+    "Serve the vegetables with a side of gooey sauce.",
+    "Optional: add stir-fry sauce to the pan and stir-fry for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "stir-fry",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-gooey-australian-chicken-liver-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:40:52.678Z"
+}
