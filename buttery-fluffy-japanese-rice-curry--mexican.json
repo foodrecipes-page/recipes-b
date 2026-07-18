@@ -1,0 +1,94 @@
+{
+  "slug": "buttery-fluffy-japanese-rice-curry--mexican",
+  "title": "Mexican Curry Rice Bowl",
+  "description": "A flavorful and nutritious Mexican-inspired curry rice bowl made with fluffy Japanese rice, savory curry, and a hint of buttery goodness.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fluffy Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "buttery",
+      "amount": "1 tablespoon",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the fluffy Japanese rice according to package instructions.",
+    "In a large pan, melt the buttery over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced red bell pepper and cook for 2-3 minutes.",
+    "Add the curry, cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve the curry over the cooked fluffy Japanese rice.",
+    "Garnish with additional buttery, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "curry",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-japanese-rice-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:44:16.356Z"
+}
