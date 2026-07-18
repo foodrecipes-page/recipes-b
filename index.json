@@ -8755,5 +8755,18 @@
     "cuisine": "North African",
     "totalTimeMin": 20,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-gooey-korean-smoked-turkey-neck-stir-fry--french",
+    "title": "Smoked Turkey Stir-Fry",
+    "tags": [
+      "french",
+      "stir-fry",
+      "smoked-turkey",
+      "korean"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
