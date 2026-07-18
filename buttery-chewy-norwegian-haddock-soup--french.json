@@ -1,0 +1,75 @@
+{
+  "slug": "buttery-chewy-norwegian-haddock-soup--french",
+  "title": "French Baked Haddock with Norwegian Soup",
+  "description": "A classic French-inspired dish featuring baked haddock and served with a side of creamy Norwegian soup.",
+  "cuisine": "french",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "norwegian soup",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "buttery breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chewy norwegian pastry",
+      "amount": "1 sheet",
+      "notes": "for serving on side"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the haddock fillets on the prepared baking sheet.",
+    "Season the haddock with salt and pepper.",
+    "Dot the top of each haddock fillet with buttery breadcrumbs.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Meanwhile, heat the Norwegian soup over medium heat.",
+    "Serve the baked haddock with a side of Norwegian soup and Norwegian pastry.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "fish",
+    "seafood",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chewy-norwegian-haddock-soup--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:46:12.703Z"
+}
