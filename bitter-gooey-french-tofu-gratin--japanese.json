@@ -1,0 +1,70 @@
+{
+  "slug": "bitter-gooey-french-tofu-gratin--japanese",
+  "title": "Japanese Tofu Gratin",
+  "description": "A Japanese-inspired tofu gratin recipe, featuring a crunchy topping and savory flavors. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "firm or extra-firm"
+    },
+    {
+      "name": "French",
+      "amount": "1 cup",
+      "notes": "bread, cubed"
+    },
+    {
+      "name": "Gooey",
+      "amount": "1 cup",
+      "notes": "melted cheese, shredded"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1 cup",
+      "notes": "bitter melon, sliced"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1 cup",
+      "notes": "gratin topping, store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the tofu into small cubes and set aside.",
+    "In a pan, sauté the bitter melon slices until tender.",
+    "In a separate pan, toast the cubed bread until golden brown.",
+    "In a 9x9-inch baking dish, create a layer of the toasted bread.",
+    "Add a layer of the sautéed bitter melon, followed by a layer of tofu cubes.",
+    "Repeat the layers until all ingredients are used, finishing with a layer of bread.",
+    "Top with the grated cheese and gratin topping.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-french-tofu-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:45:18.994Z"
+}
