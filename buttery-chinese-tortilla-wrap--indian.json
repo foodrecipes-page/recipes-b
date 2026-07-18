@@ -1,0 +1,97 @@
+{
+  "slug": "buttery-chinese-tortilla-wrap--indian",
+  "title": "Indian-Style Tortilla Wraps",
+  "description": "A fusion of Indian and Mexican flavors, these wraps are a perfect blend of spices and crunchy vegetables.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tortilla",
+      "amount": "4"
+    },
+    {
+      "name": "Buttery Naan Bread",
+      "amount": "1 cup, cubed",
+      "notes": "Available at most Indian grocery stores"
+    },
+    {
+      "name": "Chinese Cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon, ground"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add cumin, coriander, turmeric, and red chili powder. Cook for 1 minute.",
+    "Add ginger and garlic. Cook for an additional 1 minute.",
+    "Add Chinese cabbage, onions, and lime juice. Cook until the vegetables are tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the vegetable mixture onto the tortillas and topping with cubed naan bread.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "To make the naan bread more crispy, pan-fry the cubed pieces in a little bit of oil until golden brown.",
+    "Serve the wraps with a side of raita or chutney for added flavor.",
+    "Enjoy your delicious Indian-Style Tortilla Wraps!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "mexican",
+    "fusion",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chinese-tortilla-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:29:13.998Z"
+}
