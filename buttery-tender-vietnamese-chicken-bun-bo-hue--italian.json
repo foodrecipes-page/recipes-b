@@ -1,0 +1,69 @@
+{
+  "slug": "buttery-tender-vietnamese-chicken-bun-bo-hue--italian",
+  "title": "Vietnamese-Style Chicken and Hue Bun",
+  "description": "Inspired by Italian flavors with a Vietnamese twist, this dish combines tender chicken with fresh herbs and a crispy bun.",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "hue bun",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "buttery",
+      "amount": "4 tbsp",
+      "notes": null
+    },
+    {
+      "name": "tender",
+      "amount": "1/4 cup chopped fresh herbs (such as parsley or basil)",
+      "notes": null
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1/4 cup chopped fresh mint",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken with salt and pepper.",
+    "Heat buttery in a skillet over medium-high heat.",
+    "Sear the chicken until browned on all sides, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake until the chicken is cooked through, about 15-20 minutes.",
+    "Meanwhile, toast the hue bun in the oven for 2-3 minutes, or until crispy.",
+    "Assemble the dish by slicing the chicken and serving it on top of the toasted hue bun.",
+    "Garnish with chopped fresh herbs and a sprinkle of tender.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vietnamese",
+    "chicken",
+    "bun"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-tender-vietnamese-chicken-bun-bo-hue--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:10:15.702Z"
+}
