@@ -1,0 +1,46 @@
+{
+  "slug": "bitter-juicy-uruguayan-strawberries-toast--vegan",
+  "title": "Strawberry Toast",
+  "description": "A simple and delicious vegan breakfast option, perfect for a quick morning meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Strawberries",
+      "amount": "2 cups, hulled and sliced"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1/4 cup, chopped fresh herb (e.g. arugula)"
+    }
+  ],
+  "instructions": [
+    "Toast 2 slices of bread until lightly browned.",
+    "Top the toast with sliced strawberries.",
+    "Sprinkle chopped bitter over the strawberries."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "strawberry",
+    "toast",
+    "breakfast",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-juicy-uruguayan-strawberries-toast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:06:54.641Z"
+}
