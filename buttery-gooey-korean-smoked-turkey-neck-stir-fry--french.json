@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-gooey-korean-smoked-turkey-neck-stir-fry--french",
+  "title": "Smoked Turkey Stir-Fry",
+  "description": "A twist on the classic French dish, this smoked turkey stir-fry is a flavorful and easy meal option.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked turkey neck, sliced",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry",
+      "amount": "2 cups mixed vegetables",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Gooey soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of buttery in a pan over medium-high heat.",
+    "Add the sliced smoked turkey neck and cook for 3-4 minutes, or until browned.",
+    "Add the stir-fry and cook for 3-4 minutes, or until the vegetables are tender.",
+    "Add 1 tsp of Korean chili flakes and stir to combine.",
+    "Add 2 tbsp of gooey soy sauce and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "stir-fry",
+    "smoked-turkey",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-gooey-korean-smoked-turkey-neck-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:12:37.539Z"
+}
