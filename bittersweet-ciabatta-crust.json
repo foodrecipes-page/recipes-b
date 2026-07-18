@@ -1,0 +1,58 @@
+{
+  "slug": "bittersweet-ciabatta-crust",
+  "title": "Crusty Ciabatta with Bittersweet Chocolate Spread",
+  "description": "A simple dessert recipe featuring a crunchy ciabatta crust topped with rich bittersweet chocolate spread.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ciabatta",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "bittersweet chocolate",
+      "amount": "1 cup",
+      "notes": "chopped or shaved"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut the ciabatta into 1-inch (2.5 cm) cubes and place on a baking sheet.",
+    "Drizzle with 2 tablespoons of butter and toss to coat.",
+    "Bake for 10-12 minutes, or until golden brown.",
+    "In a separate bowl, melt the remaining 2 tablespoons of butter and combine with the chopped chocolate.",
+    "Spread the chocolate mixture onto the cooled ciabatta cubes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chocolate",
+    "dessert",
+    "break-fast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bittersweet-ciabatta-crust",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:53:54.509Z"
+}
