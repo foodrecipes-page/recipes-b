@@ -8668,5 +8668,31 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-tender-vietnamese-chicken-bun-bo-hue--italian",
+    "title": "Vietnamese-Style Chicken and Hue Bun",
+    "tags": [
+      "italian",
+      "vietnamese",
+      "chicken",
+      "bun"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-tender-vietnamese-chicken-bun-bo-hue--japanese",
+    "title": "Japanese-Style Hue Chicken with Bun",
+    "tags": [
+      "japanese",
+      "vietnamese",
+      "fusion",
+      "chicken"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
