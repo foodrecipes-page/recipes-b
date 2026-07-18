@@ -8768,5 +8768,31 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-turkish-plain-flour-turkish-flatbread-pide--thai",
+    "title": "Thai Pide Pizza",
+    "tags": [
+      "thai",
+      "turkish",
+      "pizza",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-juicy-uruguayan-strawberries-toast--vegan",
+    "title": "Strawberry Toast",
+    "tags": [
+      "strawberry",
+      "toast",
+      "breakfast",
+      "vegan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 7,
+    "shard": "b"
   }
 ]
