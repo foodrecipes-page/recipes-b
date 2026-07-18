@@ -1,0 +1,57 @@
+{
+  "slug": "banana-pickle-bliss--german",
+  "title": "German Pickle Banana Cake",
+  "description": "A moist banana cake with a sweet and tangy twist from the addition of German-style pickles. Perfect as a snack or dessert.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "german-style pickle, finely chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "bliss (confectioners sugar)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9-inch (23cm) round cake pan.",
+    "In a large mixing bowl, combine mashed banana and chopped pickle.",
+    "In a separate bowl, whisk together bliss (confectioners sugar), 1/2 cup (115g) unsalted butter, softened, and 2 large eggs.",
+    "Add dry ingredients to wet ingredients and mix until combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let cool in the pan for 5 minutes before transferring to a wire rack to cool completely.",
+    "Dust with additional bliss (confectioners sugar) if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-pickle-bliss--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:31:45.045Z"
+}
