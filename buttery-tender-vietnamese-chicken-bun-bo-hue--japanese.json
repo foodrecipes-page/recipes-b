@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-tender-vietnamese-chicken-bun-bo-hue--japanese",
+  "title": "Japanese-Style Hue Chicken with Bun",
+  "description": "A fusion dish combining the flavors of Japan and Vietnam, featuring tender chicken and soft bun.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "bun",
+      "amount": "8 oz",
+      "notes": "Soft and fluffy"
+    },
+    {
+      "name": "bo",
+      "amount": "2 cups",
+      "notes": "Grilled and sliced"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 tsp",
+      "notes": "Fish sauce"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "Unsalted and melted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the chicken with salt, pepper, and Vietnamese fish sauce.",
+    "3. Grill the bo over medium heat until slightly charred.",
+    "4. Slice the grilled bo into thin strips.",
+    "5. In a separate pan, melt the buttery over medium heat.",
+    "6. Add the sliced bo to the pan and cook for 2-3 minutes.",
+    "7. Add the chicken to the pan and cook until browned and cooked through.",
+    "8. Warm the bun in the oven for 2-3 minutes.",
+    "9. Assemble the dish by placing the chicken and bo on the bun.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vietnamese",
+    "fusion",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-tender-vietnamese-chicken-bun-bo-hue--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:13:15.337Z"
+}
