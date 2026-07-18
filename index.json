@@ -8719,5 +8719,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 50,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-spanish-chicken-paella--german",
+    "title": "Spanish Chicken Paella",
+    "tags": [
+      "chicken",
+      "paella",
+      "spanish",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "b"
   }
 ]
