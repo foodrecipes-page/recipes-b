@@ -1,0 +1,84 @@
+{
+  "slug": "buttery-spanish-chicken-paella--german",
+  "title": "Spanish Chicken Paella",
+  "description": "A fusion of Spanish and German flavors with chicken, paella, and a hint of Spanish spices.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "spanish paella rice",
+      "amount": "250g",
+      "notes": "uncooked"
+    },
+    {
+      "name": "buttery sausage",
+      "amount": "250g",
+      "notes": "cut into coins"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spanish smoked paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes. Remove from the pan and set aside.",
+    "Add the buttery sausage to the pan and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent, about 3 minutes.",
+    "Add the uncooked paella rice to the pan and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, smoked paprika, and salt to the pan. Stir to combine.",
+    "Return the cooked chicken to the pan and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "paella",
+    "spanish",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-spanish-chicken-paella--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:46:37.836Z"
+}
