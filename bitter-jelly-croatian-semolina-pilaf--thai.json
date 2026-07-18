@@ -1,0 +1,62 @@
+{
+  "slug": "bitter-jelly-croatian-semolina-pilaf--thai",
+  "title": "Thai-Style Semolina Pudding with Croation Pilaf Crunch",
+  "description": "A unique Thai dessert featuring semolina pudding and a crunchy pilaf topping, combining traditional Thai flavors with international flair.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "Jelly",
+      "amount": "1/2 cup",
+      "notes": "dissolved in boiling water"
+    },
+    {
+      "name": "Croation Pilaf",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine semolina and water. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "2. Remove from heat and stir in dissolved jelly.",
+    "3. Transfer the pudding mixture to individual serving cups.",
+    "4. Top each serving with crushed Croatian Pilaf.",
+    "5. Garnish with a sprinkle of bitter, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-desserts",
+    "semolina",
+    "pudding",
+    "crunchy-topping"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-jelly-croatian-semolina-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:55:51.879Z"
+}
