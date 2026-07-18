@@ -1,0 +1,65 @@
+{
+  "slug": "bitter-chewy-turkish-plain-flour-turkish-flatbread-pide--thai",
+  "title": "Thai Pide Pizza",
+  "description": "A fusion of Thai and Turkish cuisines, this pizza combines the flavors of Thailand with the crunch of pide.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "turkish pide",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "bitter",
+      "amount": "2 tablespoons",
+      "notes": " Thai bitter leaves"
+    },
+    {
+      "name": "chewy",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "plain",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pide dough to a thickness of 1/4 inch (6 mm).",
+    "Transfer the dough to a baking sheet.",
+    "Spread the bitter leaves over the dough, leaving a 1 inch (2.5 cm) border.",
+    "Top with the chewy ingredient.",
+    "Drizzle the plain ingredient over the top.",
+    "Bake for 15-20 minutes or until the crust is golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "turkish",
+    "pizza",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-turkish-plain-flour-turkish-flatbread-pide--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:02:40.721Z"
+}
