@@ -8792,5 +8792,19 @@
     "cuisine": null,
     "totalTimeMin": 7,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-fluffy-middle-easter-chickpea-falafel--german",
+    "title": "German Chickpea Falafel Bites",
+    "tags": [
+      "german",
+      "chickpea",
+      "falafel",
+      "snack",
+      "veggie"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
