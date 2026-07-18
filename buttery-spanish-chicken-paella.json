@@ -1,0 +1,84 @@
+{
+  "slug": "buttery-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A classic Spanish dish made with chicken, paella rice, and a blend of spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish chicken",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the paella rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth, tomato paste, smoked paprika, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered.",
+    "Cook for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the paella with a fork and serve hot.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella",
+    "rice",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:01:09.276Z"
+}
