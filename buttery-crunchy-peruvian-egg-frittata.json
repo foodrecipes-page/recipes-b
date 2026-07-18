@@ -1,0 +1,65 @@
+{
+  "slug": "buttery-crunchy-peruvian-egg-frittata",
+  "title": "Peruvian Egg Frittata",
+  "description": "A delicious and easy-to-make Peruvian-inspired egg dish featuring a crunchy crust.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buttery",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1/2 teaspoon, ground cumin"
+    },
+    {
+      "name": "egg",
+      "amount": "6 large eggs"
+    },
+    {
+      "name": "frittata",
+      "amount": "1/2 cup, shredded cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt 2 tablespoons of buttery over medium heat.",
+    "Add the crushed crunchy and cook for 2 minutes.",
+    "Add the ground cumin and cook for an additional minute.",
+    "In a large bowl, whisk together the eggs and shredded cheese.",
+    "Pour the egg mixture over the skillet and cook until the eggs start to set.",
+    "Transfer the skillet to the oven and bake for 12-15 minutes, or until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Slice into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "breakfast",
+    "eggs",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-peruvian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:12:58.344Z"
+}
