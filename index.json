@@ -5705,16 +5705,15 @@
   },
   {
     "slug": "buttery-crunchy-peruvian-egg-frittata",
-    "title": "Buttery Crunchy Peruvian Egg Frittata",
+    "title": "Peruvian Egg Frittata",
     "tags": [
-      "peruvian-cuisine",
-      "vegan-recipes",
-      "gluten-free",
-      "midnight-cravings",
-      "fermented-foods"
+      "peruvian",
+      "breakfast",
+      "eggs",
+      "frittata"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -8831,6 +8830,44 @@
       "crunchy-topping"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "banana-pickle-bliss--german",
+    "title": "German Pickle Banana Cake",
+    "tags": [
+      "german",
+      "cake",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-fluffy-japanese-rice-curry--mexican",
+    "title": "Mexican Curry Rice Bowl",
+    "tags": [
+      "mexican",
+      "curry",
+      "rice",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-chewy-norwegian-haddock-soup--french",
+    "title": "French Baked Haddock with Norwegian Soup",
+    "tags": [
+      "french",
+      "fish",
+      "seafood",
+      "soup"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "b"
   }
