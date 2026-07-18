@@ -6617,19 +6617,15 @@
   },
   {
     "slug": "buttery-juicy-peruvian-cashews-stew",
-    "title": "Buttery Juicy Peruvian Cashew Stew",
+    "title": "Peruvian Stew with Cashews",
     "tags": [
-      "buttery",
-      "juicy",
-      "slow-cook",
-      "diabetic-friendly",
-      "vegetarian",
-      "cashew",
       "peruvian",
-      "pressure-cooker"
+      "beef",
+      "stew",
+      "cashews"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 105,
     "shard": "b"
   },
   {
@@ -8731,6 +8727,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bittersweet-french-beetroot-stir-fry--italian",
+    "title": "Beetroot Risotto",
+    "tags": [
+      "beetroot",
+      "risotto",
+      "italian",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "b"
   }
 ]
