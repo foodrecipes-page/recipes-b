@@ -8742,5 +8742,18 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-chewy-tunisian-sausage-skewers--keto",
+    "title": "Tunisian Sausage Skewers",
+    "tags": [
+      "keto",
+      "north-african",
+      "grilled",
+      "sausage"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 20,
+    "shard": "b"
   }
 ]
