@@ -1,0 +1,71 @@
+{
+  "slug": "buttery-fluffy-middle-easter-chickpea-falafel--german",
+  "title": "German Chickpea Falafel Bites",
+  "description": "A German twist on traditional falafel, served as bite-sized treats perfect for snacking.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "falafel",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/4 cup",
+      "notes": "melted butter"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "middle",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, mash chickpeas using a fork or potato masher.",
+    "Add melted butter, flour, and mix until a dough forms.",
+    "Wrap dough in plastic wrap and refrigerate for 30 minutes.",
+    "Heat oil in a deep frying pan to 350°F (175°C).",
+    "Using a cookie scoop or spoon, drop dough into oil, making sure not to overcrowd.",
+    "Fry falafel for 3-4 minutes on each side or until golden brown.",
+    "Using a slotted spoon, remove falafel from oil and place on paper towels to drain excess oil.",
+    "Serve warm and enjoy!",
+    "Optional: Serve with a side of German-style mustard or a dollop of tzatziki sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chickpea",
+    "falafel",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-middle-easter-chickpea-falafel--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:29:35.571Z"
+}
