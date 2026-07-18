@@ -8820,5 +8820,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-jelly-croatian-semolina-pilaf--thai",
+    "title": "Thai-Style Semolina Pudding with Croation Pilaf Crunch",
+    "tags": [
+      "thai-desserts",
+      "semolina",
+      "pudding",
+      "crunchy-topping"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
