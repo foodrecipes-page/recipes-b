@@ -1,0 +1,90 @@
+{
+  "slug": "buttery-juicy-peruvian-cashews-stew",
+  "title": "Peruvian Stew with Cashews",
+  "description": "A hearty and flavorful Peruvian stew made with tender beef and crunchy cashews. This dish is perfect for a cold winter night.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "juicy stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "buttery onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "peruvian tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "2. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "3. Add the chopped aji amarillo peppers and cook for another 2 minutes.",
+    "4. Add the stew meat and cook until browned on all sides, about 5 minutes.",
+    "5. Add the garlic, tomato paste, and beef broth. Stir to combine.",
+    "6. Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "7. Stir in the chopped cashews and cook for another 10 minutes.",
+    "8. Season with salt to taste, if desired.",
+    "9. Serve hot, garnished with chopped fresh cilantro, if desired.",
+    "10. Enjoy your delicious Peruvian stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "stew",
+    "cashews"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-peruvian-cashews-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:16:34.049Z"
+}
