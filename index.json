@@ -830,14 +830,14 @@
   },
   {
     "slug": "bitter-crisp-croatian-vanilla-bean-stir-fry",
-    "title": "Bitter Crisp Croatian Vanilla Bean Stir-fry",
+    "title": "Bitter Croatian Bean Stew",
     "tags": [
-      "vanilla",
-      "stir-fry",
-      "bitter"
+      "croatian",
+      "bean",
+      "stew"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "b"
   },
   {
@@ -8804,6 +8804,20 @@
       "veggie"
     ],
     "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-chinese-tortilla-wrap--indian",
+    "title": "Indian-Style Tortilla Wraps",
+    "tags": [
+      "indian",
+      "mexican",
+      "fusion",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "b"
   }
