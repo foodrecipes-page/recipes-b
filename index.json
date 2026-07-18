@@ -8694,5 +8694,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-french-tofu-gratin--japanese",
+    "title": "Japanese Tofu Gratin",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bittersweet-french-beetroot-stir-fry--mexican",
+    "title": "Bittersweet Beetroot Tacos",
+    "tags": [
+      "beetroot",
+      "mexican",
+      "tacos",
+      "chocolate"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "b"
   }
 ]
