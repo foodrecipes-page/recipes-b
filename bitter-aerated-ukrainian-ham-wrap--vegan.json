@@ -1,0 +1,57 @@
+{
+  "slug": "bitter-aerated-ukrainian-ham-wrap--vegan",
+  "title": "Vegan Bitter Wrap",
+  "description": "A refreshing and easy-to-make vegan wrap using bitter leaves and a Ukrainian-inspired twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bitter leaves",
+      "amount": "1 bunch",
+      "notes": "Any bitter leaf variety"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large, vegan-friendly wrap"
+    },
+    {
+      "name": "Ukrainian-style hummus",
+      "amount": "1/2 cup",
+      "notes": "Make your own or use store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Add a tablespoon of oil to the pan and sauté the bitter leaves until wilted.",
+    "3. Warm the wrap in the microwave for 10-15 seconds.",
+    "4. Spread a layer of Ukrainian-style hummus on the wrap.",
+    "5. Add the wilted bitter leaves on top of the hummus.",
+    "6. Fold the wrap to enclose the filling.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "easy",
+    "snack",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-aerated-ukrainian-ham-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:57:11.164Z"
+}
