@@ -417,16 +417,15 @@
   },
   {
     "slug": "bitter-canadian-eggs-frittata",
-    "title": "Bitter Canadian Eggs Frittata",
+    "title": "Canadian Frittata",
     "tags": [
-      "bitter",
-      "canadian",
-      "crunchy",
-      "frittata",
-      "low-glycemic-friendly",
-      "veggie-dinner"
+      "breakfast",
+      "brunch",
+      "eggs",
+      "canadian-bacon",
+      "bitter"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "North American",
     "totalTimeMin": 35,
     "shard": "b"
   },
@@ -1654,18 +1653,14 @@
   },
   {
     "slug": "bitter-enriched-ukrainian-hunjiahojicha-en-croute",
-    "title": "Bitter Enriched Ukrainian Hunjiahojicha En-croute",
+    "title": "Ukrainian En Croute",
     "tags": [
-      "crumbly",
-      "en-croute",
-      "hojicha",
-      "late-night",
-      "pastry",
-      "snack",
-      "ukrainian"
+      "ukrainian",
+      "vegetarian",
+      "snack"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "b"
   },
   {
