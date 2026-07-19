@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-canadian-eggs-frittata",
+  "title": "Canadian Frittata",
+  "description": "A breakfast dish made with Canadian bacon and eggs, perfect for a weekend brunch.",
+  "cuisine": "North American",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Canadian bacon in a large skillet over medium heat until browned.",
+    "In a large bowl, whisk together eggs, salt, and pepper.",
+    "Pour the egg mixture over the cooked Canadian bacon in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle with chopped bitter.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve hot.",
+    "Garnish with additional bitter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "eggs",
+    "canadian-bacon",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-canadian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:33:17.631Z"
+}
