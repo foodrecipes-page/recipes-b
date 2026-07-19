@@ -4398,16 +4398,14 @@
   },
   {
     "slug": "buttery-aerated-venezuelan-popcorn-pilaf",
-    "title": "Buttery Aerated Venezuelan Popcorn Pilaf",
+    "title": "Airy Popcorn Pilaf",
     "tags": [
-      "kid-friendly",
-      "low-sodium",
-      "one-pan",
-      "snack",
-      "venezuelan"
+      "popcorn",
+      "pilaf",
+      "veggie"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 25,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
@@ -8924,6 +8922,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-enriched-ukrainian-hunjiahojicha-en-croute--japanese",
+    "title": "Japanese Crousteau",
+    "tags": [
+      "japanese-french-toast",
+      "breakfast-recipe",
+      "crousteau"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crispy-australian-monkfish-toast--indian",
+    "title": "Crispy Monkfish Tikka",
+    "tags": [
+      "indian",
+      "monkfish",
+      "fish",
+      "easy-dinner",
+      "seafood"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 32,
     "shard": "b"
   }
 ]
