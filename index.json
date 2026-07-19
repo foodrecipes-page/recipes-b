@@ -4130,15 +4130,14 @@
   },
   {
     "slug": "broil-gruyere-healer",
-    "title": "Broil-Gruyère Healer",
+    "title": "Gruyere Broil",
     "tags": [
-      "healer",
-      "savoury",
-      "flaky",
-      "hangover"
+      "gruyere",
+      "cheese",
+      "snack"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "Swiss",
+    "totalTimeMin": 11,
     "shard": "b"
   },
   {
@@ -8879,6 +8878,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-aerated-ukrainian-ham-wrap--vegan",
+    "title": "Vegan Bitter Wrap",
+    "tags": [
+      "vegan",
+      "easy",
+      "snack",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 7,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-saudi-arabian-lamb-skillet--german",
+    "title": "Pan-Seared German Lamb Cuts",
+    "tags": [
+      "german",
+      "lamb",
+      "skillet",
+      "easy-dinner"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
     "shard": "b"
   }
 ]
