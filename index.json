@@ -6064,17 +6064,16 @@
   },
   {
     "slug": "buttery-festive-egg-roll-bhuna",
-    "title": "Buttery Festive Egg Roll Bhuna",
+    "title": "Festive Bhuna Egg Roll",
     "tags": [
-      "festive",
-      "egg-roll",
-      "bhuna",
-      "turkish",
-      "raw-friendly",
-      "buttery"
+      "breakfast",
+      "brunch",
+      "egg",
+      "roll",
+      "bhuna"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
