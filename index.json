@@ -8917,5 +8917,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-crumbly-light-chinese-duck-leg-crumble--gluten-free",
+    "title": "Crispy Duck Leg Crumble",
+    "tags": [
+      "gluten-free",
+      "chinese",
+      "duck",
+      "crumbly"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "b"
   }
 ]
