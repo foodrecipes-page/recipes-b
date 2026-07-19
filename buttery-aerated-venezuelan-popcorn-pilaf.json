@@ -1,0 +1,53 @@
+{
+  "slug": "buttery-aerated-venezuelan-popcorn-pilaf",
+  "title": "Airy Popcorn Pilaf",
+  "description": "A simple Venezuelan-inspired pilaf dish made with aerated popcorn and a hint of buttery flavor.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "popcorn",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat buttery in a pan over medium heat.",
+    "Add pilaf and cook until lightly toasted.",
+    "Add popcorn and stir to combine.",
+    "Remove from heat and let cool slightly.",
+    "Serve warm.",
+    "Optional: add a squeeze of lime juice to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "popcorn",
+    "pilaf",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-aerated-venezuelan-popcorn-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:05:01.422Z"
+}
