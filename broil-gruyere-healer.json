@@ -1,0 +1,54 @@
+{
+  "slug": "broil-gruyere-healer",
+  "title": "Gruyere Broil",
+  "description": "A simple and rich broil recipe featuring Gruyere cheese. This dish is perfect for a quick dinner or snack.",
+  "cuisine": "Swiss",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Broil",
+      "amount": "2 slices",
+      "notes": "about 1/4 inch thick"
+    },
+    {
+      "name": "Healer (salt)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler.",
+    "Place broil slices under broiler and cook until lightly browned, about 2-3 minutes.",
+    "Flip broil slices and cook for an additional 2-3 minutes, until lightly browned.",
+    "Slice Gruyere into thin pieces.",
+    "Place cooked broil slices on a plate and top with Gruyere cheese.",
+    "Sprinkle a pinch of salt over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gruyere",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/broil-gruyere-healer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:51:24.454Z"
+}
