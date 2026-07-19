@@ -1,0 +1,58 @@
+{
+  "slug": "banana-pickle-bliss--french",
+  "title": "French Bliss Tart",
+  "description": "A unique dessert combining the sweetness of banana and bliss with a tangy surprise from the pickle. This French-inspired tart is perfect for adventurous palates.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "2 large",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "bliss",
+      "amount": "1 package",
+      "notes": "frozen and thawed"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry dough and place in a tart pan.",
+    "Arrange banana slices on the dough, leaving a 1/2-inch border.",
+    "Fold the edges of the dough over the banana, pressing gently.",
+    "Spread thawed bliss over the banana, leaving a small border.",
+    "Top the bliss with chopped pickle.",
+    "Bake for 40-45 minutes or until the pastry is golden brown.",
+    "Serve warm, garnished with additional banana slices if desired.",
+    "Refrigerate leftovers and enjoy within 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "french",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-pickle-bliss--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:18:27.340Z"
+}
