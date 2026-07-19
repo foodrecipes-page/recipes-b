@@ -1,0 +1,53 @@
+{
+  "slug": "bitter-crumbly-irish-bread-toast",
+  "title": "Irish Bread Toast",
+  "description": "A simple toasted bread recipe inspired by Irish cuisine, perfect for a quick snack.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/2 teaspoon",
+      "notes": "such as bitter orange marmalade"
+    },
+    {
+      "name": "crumbly",
+      "amount": "2 tablespoons",
+      "notes": "such as crumbled cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 350°F (175°C).",
+    "Place the slices of Irish bread into the toaster or toaster oven.",
+    "Toast the bread until it is lightly browned.",
+    "Spread a layer of bitter orange marmalade on each slice of toasted bread.",
+    "Sprinkle crumbled cheddar cheese over the marmalade.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 4,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "breakfast",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crumbly-irish-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:49:35.021Z"
+}
