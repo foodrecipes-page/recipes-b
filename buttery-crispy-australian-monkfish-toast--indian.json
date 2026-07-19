@@ -1,0 +1,99 @@
+{
+  "slug": "buttery-crispy-australian-monkfish-toast--indian",
+  "title": "Crispy Monkfish Tikka",
+  "description": "Crispy monkfish in an Indian-inspired marinade, served with toasted Australian bread.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "4 fillets, about 120g each",
+      "notes": "Fresh monkfish fillets"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp (28g)",
+      "notes": "Buttery spread for brushing"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup (120g)",
+      "notes": "Panko breadcrumbs for coating"
+    },
+    {
+      "name": "australian",
+      "amount": "4 slices of bread",
+      "notes": "Australian bread for serving"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp (30ml)",
+      "notes": "Freshly squeezed lemon juice"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp (5g)",
+      "notes": "Ground garam masala"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp (5g)",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp (5g)",
+      "notes": "Ground coriander"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp (2g)",
+      "notes": "Ground turmeric"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp (2g)",
+      "notes": "Ground red chili"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Salt for seasoning"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "for frying",
+      "notes": "For frying the monkfish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a blender or food processor, combine lemon juice, garam masala, cumin powder, coriander powder, turmeric powder, and red chili powder. Blend until smooth.",
+    "Add the monkfish fillets to the marinade and coat evenly. Let it marinate for at least 30 minutes.",
+    "Line a baking tray with parchment paper and place the marinated monkfish fillets on it.",
+    "Brush the tops of the monkfish fillets with buttery spread.",
+    "Sprinkle crispy breadcrumbs over the top of each fillet.",
+    "Bake the monkfish in the preheated oven for 10-12 minutes or until cooked through.",
+    "Meanwhile, toast the Australian bread slices until crispy.",
+    "To serve, place the toasted bread slices on a plate and top with a baked monkfish fillet. Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "monkfish",
+    "fish",
+    "easy-dinner",
+    "seafood"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-australian-monkfish-toast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:18:34.902Z"
+}
