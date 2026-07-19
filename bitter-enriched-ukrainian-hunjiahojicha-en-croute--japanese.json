@@ -1,0 +1,73 @@
+{
+  "slug": "bitter-enriched-ukrainian-hunjiahojicha-en-croute--japanese",
+  "title": "Japanese Crousteau",
+  "description": "A unique Japanese take on French toast, with a crunchy crousteau exterior and a soft bread interior.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "croute",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "en",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "hunjiahojicha",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "bitter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "enriched",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "In a shallow dish, whisk together the en, hunjiahojicha, and bitter.",
+    "Cut the croute into 1-inch slices.",
+    "Dip each slice into the egg mixture, coating both sides evenly.",
+    "Place the coated croute slices in the preheated pan.",
+    "Cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve warm with a sprinkle of enriched.",
+    "Optional: top with ukrainian for added crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-french-toast",
+    "breakfast-recipe",
+    "crousteau"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-enriched-ukrainian-hunjiahojicha-en-croute--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:55:33.822Z"
+}
