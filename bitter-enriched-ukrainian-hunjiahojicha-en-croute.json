@@ -1,0 +1,66 @@
+{
+  "slug": "bitter-enriched-ukrainian-hunjiahojicha-en-croute",
+  "title": "Ukrainian En Croute",
+  "description": "A savory pastry filled with Ukrainian flavors. This dish is a twist on a traditional en croute recipe.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croute",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "En",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Ukrainian",
+      "amount": "1/2 cup",
+      "notes": "Chopped fresh dill"
+    },
+    {
+      "name": "Bitter",
+      "amount": "2 tablespoons",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Hunjiahojicha",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the croute to a thickness of 1/8 inch.",
+    "In a bowl, mix together the en, Ukrainian, bitter, and hunjiahojicha.",
+    "Place the en mixture in the center of the croute.",
+    "Brush the edges of the croute with a little water.",
+    "Fold the croute over the en mixture and press the edges to seal.",
+    "Bake for 20-25 minutes, or until the croute is golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-enriched-ukrainian-hunjiahojicha-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:47:50.324Z"
+}
