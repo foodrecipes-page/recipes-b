@@ -8905,5 +8905,17 @@
     "cuisine": "german",
     "totalTimeMin": 27,
     "shard": "b"
+  },
+  {
+    "slug": "bittersweet-french-beetroot-stir-fry--thai",
+    "title": "Stir-Fried Beetroot with Bittersweet French Sauce",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
