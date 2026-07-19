@@ -1,0 +1,78 @@
+{
+  "slug": "bittersweet-french-beetroot-stir-fry--thai",
+  "title": "Stir-Fried Beetroot with Bittersweet French Sauce",
+  "description": "A sweet and savory Thai-inspired dish featuring stir-fried beetroot in a bittersweet French sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bittersweet French sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant.",
+    "Add the beetroot and stir-fry for 2-3 minutes.",
+    "Add the Bittersweet French sauce, soy sauce, and brown sugar. Stir-fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the stir-fry to a serving dish and garnish with chopped green onions, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bittersweet-french-beetroot-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:42:38.615Z"
+}
