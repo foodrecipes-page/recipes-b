@@ -1108,16 +1108,15 @@
   },
   {
     "slug": "bitter-crumbly-irish-bread-toast",
-    "title": "Bitter Crumbly Irish Bread Toast",
+    "title": "Irish Bread Toast",
     "tags": [
       "irish",
-      "toast",
-      "bitter",
-      "crumbly",
-      "nut-free"
+      "breakfast",
+      "snack",
+      "cheese"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 10,
+    "totalTimeMin": 6,
     "shard": "b"
   },
   {
