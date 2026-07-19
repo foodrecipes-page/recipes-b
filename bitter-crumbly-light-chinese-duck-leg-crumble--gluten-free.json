@@ -1,0 +1,74 @@
+{
+  "slug": "bitter-crumbly-light-chinese-duck-leg-crumble--gluten-free",
+  "title": "Crispy Duck Leg Crumble",
+  "description": "A flavorful and crispy duck leg crumble dish, made with a mixture of crunchy elements and a hint of bitter flavors.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "2"
+    },
+    {
+      "name": "Bitter dark chocolate",
+      "amount": "100g",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Leg of thyme",
+      "amount": "a few sprigs",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck legs with Chinese five-spice powder and a pinch of salt.",
+    "Heat a skillet over medium-high heat. Add the duck legs and brown on both sides. Set aside.",
+    "In the same skillet, melt the bitter dark chocolate over low heat.",
+    "Transfer the duck legs to a baking dish and pour the melted chocolate over them.",
+    "Top with crumble topping, spreading it evenly.",
+    "Bake for 25 minutes or until the crumble is golden brown.",
+    "Remove from oven and brush with light soy sauce.",
+    "Return to oven for an additional 5 minutes to caramelize the sauce.",
+    "Garnish with thyme sprigs and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chinese",
+    "duck",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crumbly-light-chinese-duck-leg-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:37:17.543Z"
+}
