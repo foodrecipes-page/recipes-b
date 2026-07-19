@@ -8868,5 +8868,17 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "banana-pickle-bliss--french",
+    "title": "French Bliss Tart",
+    "tags": [
+      "dessert",
+      "french",
+      "unique"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "b"
   }
 ]
