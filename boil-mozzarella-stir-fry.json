@@ -1,0 +1,50 @@
+{
+  "slug": "boil-mozzarella-stir-fry",
+  "title": "Mozzarella Boil Bites",
+  "description": "A simple and delicious snack made with mozzarella cheese, easy to boil and enjoy.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 ball",
+      "notes": "Whole milk mozzarella"
+    },
+    {
+      "name": "Water",
+      "amount": "enough to cover",
+      "notes": "For boiling"
+    }
+  ],
+  "instructions": [
+    "1. Fill a large pot with water and bring it to a boil.",
+    "2. Reduce the heat to a simmer and carefully add the mozzarella cheese.",
+    "3. Let it boil for 1-2 minutes or until the cheese is slightly softened.",
+    "4. Use a slotted spoon to remove the cheese from the water and place it on a plate.",
+    "5. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "cheese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 6,
+    "carbs": 0,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boil-mozzarella-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:29:08.882Z"
+}
