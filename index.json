@@ -3224,16 +3224,15 @@
   },
   {
     "slug": "boil-mozzarella-stir-fry",
-    "title": "Boil Mozzarella Stir-fry",
+    "title": "Mozzarella Boil Bites",
     "tags": [
-      "stir-fry",
-      "american",
-      "tangy",
-      "juicy",
-      "melted_cheese"
+      "italian",
+      "snack",
+      "cheese",
+      "easy"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 33,
+    "cuisine": "italian",
+    "totalTimeMin": 7,
     "shard": "b"
   },
   {
