@@ -1,0 +1,68 @@
+{
+  "slug": "bitter-crispy-galangal-stir-fry--japanese",
+  "title": "Crispy Stir-Fried Galangal Bites",
+  "description": "A Japanese-inspired snack featuring crispy fried galangal bites, perfect for a quick appetizer or side dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "1 medium-sized piece",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup",
+      "notes": "Vegetable oil for frying"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Cut the galangal into small, bite-sized pieces.",
+    "Dust the galangal pieces with flour and cornstarch, shaking off excess.",
+    "Heat the oil in a deep frying pan to 350°F (180°C).",
+    "Fry the galangal pieces in batches until crispy and golden brown, about 2-3 minutes.",
+    "Drain the fried galangal on paper towels.",
+    "Serve hot with stir-fry sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "galangal",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crispy-galangal-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:14:00.520Z"
+}
