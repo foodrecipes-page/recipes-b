@@ -1,0 +1,78 @@
+{
+  "slug": "bitter-molten-croatian-dish-wrap--japanese",
+  "title": "Japanese Wrap Bitter Croatian Delight",
+  "description": "A refreshing twist on the classic wrap, featuring bitter flavors and a hint of Croatian flair, all wrapped up in a Japanese-inspired package.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian dish wrap",
+      "amount": "4",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "Mixed bitter greens",
+      "amount": "2 cups",
+      "notes": "arugula, kale"
+    },
+    {
+      "name": "Sliced molten cheese",
+      "amount": "1 cup",
+      "notes": "provolone, brie"
+    },
+    {
+      "name": "Japanese pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "Grated daikon",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed bitter greens and sliced molten cheese.",
+    "2. In a small bowl, whisk together soy sauce and rice vinegar.",
+    "3. Pour the dressing over the greens and toss to combine.",
+    "4. Slice the Croatian dish wrap into thin strips.",
+    "5. Add the sliced wrap to the bowl and toss to combine.",
+    "6. Top with pickled ginger and grated daikon (if using).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-molten-croatian-dish-wrap--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:36:50.983Z"
+}
