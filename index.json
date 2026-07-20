@@ -8961,5 +8961,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 10,
     "shard": "b"
+  },
+  {
+    "slug": "baked-greek-butter-cheese-pie--chinese",
+    "title": "Cheesy Pie Baked Wontons",
+    "tags": [
+      "chinese-dessert",
+      "cheese",
+      "wontons",
+      "easy-dessert"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
