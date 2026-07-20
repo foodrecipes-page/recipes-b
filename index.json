@@ -8974,5 +8974,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-crispy-galangal-stir-fry--japanese",
+    "title": "Crispy Stir-Fried Galangal Bites",
+    "tags": [
+      "japanese",
+      "snack",
+      "galangal",
+      "fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-french-tofu-gratin--thai",
+    "title": "Thai Tofu Gratin",
+    "tags": [
+      "thaifood",
+      "tofu",
+      "gratin",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
