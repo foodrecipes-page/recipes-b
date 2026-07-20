@@ -1,0 +1,84 @@
+{
+  "slug": "broiled-tomato-gazpacho",
+  "title": "Spanish Gazpacho Soup",
+  "description": "A refreshing cold soup from Andalusia made with tomatoes, peppers, and cucumbers. Serve chilled and enjoy as a light meal or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bread",
+      "amount": "1 cup",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Peel and chop the tomatoes, cucumber, and bell pepper.",
+    "2. Place the chopped vegetables in a blender or food processor.",
+    "3. Add the bread, garlic, olive oil, salt, and pepper to the blender.",
+    "4. Blend the mixture until smooth.",
+    "5. Taste and adjust the seasoning as needed.",
+    "6. Cover and refrigerate the soup for at least 30 minutes to allow the flavors to meld.",
+    "7. Serve the gazpacho chilled, garnished with a sprinkle of olive oil and a few croutons if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "soup",
+    "cold",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/broiled-tomato-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:38:15.173Z"
+}
