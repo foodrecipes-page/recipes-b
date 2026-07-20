@@ -1,0 +1,65 @@
+{
+  "slug": "baked-greek-butter-cheese-pie--chinese",
+  "title": "Cheesy Pie Baked Wontons",
+  "description": "A fusion of Chinese wontons and Western pie, filled with a creamy cheese mixture. A fun twist on a classic dessert.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pie Crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Baked Wontons",
+      "amount": "1 package (round wontons)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the pie crust into small squares.",
+    "Place a wonton wrapper in the center of each square.",
+    "In a separate bowl, mix together the Greek yogurt, butter, and shredded cheese.",
+    "Place a small spoonful of the cheese mixture onto the center of each wonton.",
+    "Brush the edges of the wonton with water, then fold the pie crust square over to form a triangle, pressing the edges to seal.",
+    "Place the wontons on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the wontons are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-dessert",
+    "cheese",
+    "wontons",
+    "easy-dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/baked-greek-butter-cheese-pie--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:27:12.635Z"
+}
