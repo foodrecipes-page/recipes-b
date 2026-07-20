@@ -1,0 +1,53 @@
+{
+  "slug": "buttery-fluffy-australian-chinese-broccoli-stir-fry",
+  "title": "Australian Broccoli Stir Fry",
+  "description": "A simple Australian-inspired broccoli stir fry, made with love and care. Perfect for a quick weeknight dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups",
+      "notes": "Australian fluffy rice"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "Melted buttery spread"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of buttery in a large skillet or wok over medium-high heat.",
+    "Add the broccoli to the skillet and stir-fry until tender-crisp, about 3-4 minutes.",
+    "Add the fluffy rice to the skillet and stir-fry for another 2 minutes, breaking up any clumps with a spatula.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-australian-chinese-broccoli-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:11:44.771Z"
+}
