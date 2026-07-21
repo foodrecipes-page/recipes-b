@@ -1,0 +1,58 @@
+{
+  "slug": "buttery-crumbly-japanese-millet-crumble",
+  "title": "Japanese Millet Crumble",
+  "description": "A sweet and satisfying dessert, combining the delicate flavors of Japan with the crunch of a crumble topping.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "japanese",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mix together millet and Japanese ingredients.",
+    "Transfer the mixture to a baking dish.",
+    "In a separate bowl, combine buttery and crumble ingredients.",
+    "Top the millet mixture with the crumble mixture.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm, garnished with additional crumble if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "japanesecuisine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-japanese-millet-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:43:36.444Z"
+}
