@@ -1,0 +1,90 @@
+{
+  "slug": "blanch-ukrainian-rice-pilaf",
+  "title": "Ukrainian-Style Rice Pilaf",
+  "description": "A hearty and flavorful Ukrainian-inspired rice pilaf dish, perfect for a comforting meal.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 tablespoons",
+      "notes": "dry"
+    },
+    {
+      "name": "Blanch",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add uncooked rice and stir to coat with oil and mix with onion and garlic.",
+    "Add dry pilaf and stir to combine.",
+    "Add chopped blanch and stir to combine.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until rice is tender.",
+    "Fluff with a fork and season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "rice",
+    "pilaf",
+    "eastern european"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/blanch-ukrainian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:35:45.215Z"
+}
