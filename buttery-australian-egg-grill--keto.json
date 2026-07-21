@@ -1,0 +1,55 @@
+{
+  "slug": "buttery-australian-egg-grill--keto",
+  "title": "Grilled Australian Egg",
+  "description": "A keto breakfast recipe featuring a grilled Australian egg and a hint of buttery goodness.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Buttery",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Grill",
+      "amount": null,
+      "notes": "Preheated to medium heat"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "Butter the grill grates.",
+    "Place the Australian egg on the grill and cook for 3-4 minutes.",
+    "Flip the egg over and cook for another 2-3 minutes, until the whites are set and the yolks are cooked to your liking.",
+    "Serve the egg hot, with a sprinkle of buttery goodness if desired."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "butter",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 1,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-australian-egg-grill--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:51:21.560Z"
+}
