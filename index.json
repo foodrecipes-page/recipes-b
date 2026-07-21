@@ -9073,5 +9073,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crisp-lotus-root-chupe-de-camarones--mexican",
+    "title": "Camarones en Salsa de Champiñones",
+    "tags": [
+      "mexican",
+      "shrimp",
+      "mushroom",
+      "sauce"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
