@@ -1,0 +1,65 @@
+{
+  "slug": "buttery-crisp-lotus-root-chupe-de-camarones--mexican",
+  "title": "Camarones en Salsa de Champiñones",
+  "description": "A delicious Mexican dish featuring shrimp cooked in a rich and flavorful mushroom sauce. Serve with crusty bread or over rice for a satisfying meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lotus root",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chupe de camarones",
+      "amount": "1 pound"
+    },
+    {
+      "name": "de",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large skillet over medium-high heat.",
+    "Add the chupe de camarones and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Reduce heat to medium and add the lotus root to the skillet. Cook for 2-3 minutes.",
+    "Add the de to the skillet and cook for 1 minute.",
+    "Add the crisp to the skillet and cook until softened, about 3-4 minutes.",
+    "Return the shrimp to the skillet and stir to combine with the mushroom sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve the camarones en salsa de champiñones hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "mushroom",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-lotus-root-chupe-de-camarones--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:53:16.427Z"
+}
