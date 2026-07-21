@@ -1,0 +1,88 @@
+{
+  "slug": "bitter-tender-portuguese-shrimp-flatbread--french",
+  "title": "Shrimp and Portuguese Flatbread Tartine",
+  "description": "A French-inspired open-faced sandwich featuring succulent shrimp, crunchy flatbread, and a tangy bitter twist.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese flatbread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Large shrimp",
+      "amount": "1 pound, peeled and deveined",
+      "notes": null
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Tender lettuce",
+      "amount": "1 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toast the flatbread slices for 5 minutes.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1 minute.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer the shrimp to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the chopped bitter greens and tender lettuce. Cook until wilted, about 2-3 minutes.",
+    "Add the sliced red onion to the skillet and cook for an additional minute.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "To assemble the tartine, place a toasted flatbread slice on a plate, top with a few cooked shrimp, and spoon the green mixture over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "flatbread",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-tender-portuguese-shrimp-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:58:54.440Z"
+}
