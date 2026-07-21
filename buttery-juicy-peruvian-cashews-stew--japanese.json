@@ -1,0 +1,81 @@
+{
+  "slug": "buttery-juicy-peruvian-cashews-stew--japanese",
+  "title": "Japanese Cashew Stir Fry",
+  "description": "A flavorful and nutritious Japanese-inspired stir fry made with juicy chicken, crunchy cashews, and a hint of Peruvian spice. Prep in under 30 minutes for a quick and delicious meal!",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stew meat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "buttery soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the juicy chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the Peruvian aji amarillo pepper and cook for 1 minute.",
+    "Add the stew meat and cook until browned, about 3-4 minutes.",
+    "Add the cashews and cook for 1-2 minutes.",
+    "In a small bowl, whisk together buttery soy sauce, brown sugar, and rice vinegar.",
+    "Pour the sauce over the chicken and cashews, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with green onions.",
+    "Cook time may vary based on the size and thickness of the chicken breast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew",
+    "chicken",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-peruvian-cashews-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:06:15.782Z"
+}
