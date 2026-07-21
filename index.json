@@ -9040,5 +9040,17 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-vinegar-toast--vegan",
+    "title": "Avocado Toast",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 7,
+    "shard": "b"
   }
 ]
