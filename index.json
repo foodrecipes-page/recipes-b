@@ -2563,18 +2563,15 @@
   },
   {
     "slug": "bitter-portuguese-trout-roast",
-    "title": "Bitter Portuguese Trout Roast",
+    "title": "Pan-Seared Trout with Bitter Portuguese Glaze",
     "tags": [
+      "fish",
       "portuguese",
-      "bitter",
-      "crunchy",
-      "cozy",
-      "trout",
-      "halal",
-      "dinner"
+      "gluten-free",
+      "dairy-free"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 20,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
     "shard": "b"
   },
   {
@@ -5413,13 +5410,11 @@
   },
   {
     "slug": "buttery-crumbly-japanese-millet-crumble",
-    "title": "Buttery Crumbly Japanese Millet Crumble",
+    "title": "Japanese Millet Crumble",
     "tags": [
-      "buttery",
-      "crumbly",
-      "japanese",
-      "millet",
-      "raw-friendly"
+      "dessert",
+      "japanesecuisine",
+      "gluten-free"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 40,
