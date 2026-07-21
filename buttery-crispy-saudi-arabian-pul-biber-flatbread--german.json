@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-crispy-saudi-arabian-pul-biber-flatbread--german",
+  "title": "Saudi-Style Flatbread with Pul Biber",
+  "description": "A German twist on traditional Saudi flatbread, topped with spicy pul biber and crispy onions. Perfect as a snack or side dish.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian Flatbread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Sauteed Pul Biber",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Buttery Sauce",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into 4 equal pieces.",
+    "In a pan, sauté the pul biber in butter until crispy.",
+    "In another pan, caramelize the onions until crispy.",
+    "Brush the flatbread with buttery sauce.",
+    "Top each piece with sautéed pul biber and crispy onions.",
+    "Bake in the oven for 5-7 minutes, or until crispy.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "saudi",
+    "flatbread",
+    "pul-biber",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-saudi-arabian-pul-biber-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:04:10.378Z"
+}
