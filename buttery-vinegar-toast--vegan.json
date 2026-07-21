@@ -1,0 +1,57 @@
+{
+  "slug": "buttery-vinegar-toast--vegan",
+  "title": "Avocado Toast",
+  "description": "A simple and delicious vegan dish made with toasted bread, mashed avocado, and a squeeze of lemon.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1/4 cup, apple cider"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1/2"
+    }
+  ],
+  "instructions": [
+    " Toast the bread until it's lightly browned.",
+    " Mash the avocado in a bowl until it's smooth.",
+    " Spread the mashed avocado on the toasted bread.",
+    " Squeeze the lemon juice over the avocado.",
+    " Drizzle the apple cider vinegar over the avocado.",
+    " Season with salt and pepper to taste.",
+    " Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-vinegar-toast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:16:46.579Z"
+}
