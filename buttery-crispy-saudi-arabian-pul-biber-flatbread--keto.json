@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-crispy-saudi-arabian-pul-biber-flatbread--keto",
+  "title": "Saudi Arabian Pul Kebabs",
+  "description": "A keto twist on traditional kebabs, using Saudi Arabian spices and served with crispy flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buttery Crispy Flatbread",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Saudi Arabian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at Middle Eastern grocery stores"
+    },
+    {
+      "name": "Pul",
+      "amount": "1 cup",
+      "notes": "ground lamb or beef"
+    },
+    {
+      "name": "Biber Pepper",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine pul, Saudi Arabian Spice Blend, garlic, salt, and black pepper. Mix well.",
+    "Thread pul mixture onto skewers, leaving a small space between each piece.",
+    "Brush flatbread with buttery spread and grill until crispy.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, until cooked through.",
+    "Serve kebabs with crispy flatbread and a side of chopped biber pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ketogenic",
+    "middle-eastern",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-saudi-arabian-pul-biber-flatbread--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:32:13.199Z"
+}
