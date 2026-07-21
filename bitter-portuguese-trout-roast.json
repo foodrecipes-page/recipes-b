@@ -1,0 +1,64 @@
+{
+  "slug": "bitter-portuguese-trout-roast",
+  "title": "Pan-Seared Trout with Bitter Portuguese Glaze",
+  "description": "A simple and flavorful dish that showcases the sweet and tangy flavors of Portugal paired with the delicate taste of trout.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "bitter",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "portuguese",
+      "amount": "2 cups",
+      "notes": "freshly squeezed orange juice"
+    },
+    {
+      "name": "roast",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the trout fillets with salt and pepper.",
+    "Heat a skillet over medium-high heat and add a small amount of oil.",
+    "Sear the trout for 2-3 minutes on each side, then transfer to a baking sheet.",
+    "Bake the trout in the preheated oven for 8-10 minutes, or until cooked through.",
+    "While the trout is baking, combine the chopped bitter, orange juice, and chopped roast in a small saucepan.",
+    "Bring the mixture to a simmer over medium heat and cook for 5-7 minutes, or until the glaze has thickened.",
+    "Remove the trout from the oven and brush the bitter Portuguese glaze over the top of each fillet.",
+    "Serve the trout hot, garnished with additional bitter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "portuguese",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-portuguese-trout-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:21:49.379Z"
+}
