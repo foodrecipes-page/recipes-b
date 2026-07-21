@@ -1,0 +1,79 @@
+{
+  "slug": "buttery-flaky-ethiopian-squid-crumble--italian",
+  "title": "Squid Fritters Italian Style",
+  "description": "A crispy and flavorful Italian squid fritter recipe, perfect for a light lunch or dinner. This dish combines the crunch of a fritter with the delicate taste of squid.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Flaky",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Buttery Crumble",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "1/4 cup",
+      "notes": "cornstarch"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "ice-cold"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine squid, flaky, and a pinch of salt and pepper.",
+    "In a separate bowl, whisk together buttery crumble, ethiopian, and water.",
+    "Add the wet ingredients to the dry ingredients and mix well.",
+    "Cover the mixture and refrigerate for at least 30 minutes.",
+    "Heat about 1/2 inch of oil in a large frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the mixture into the oil.",
+    "Fry the fritters until golden brown, about 3-4 minutes per side.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "squid",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-flaky-ethiopian-squid-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:34:15.345Z"
+}
