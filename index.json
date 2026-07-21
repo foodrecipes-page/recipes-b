@@ -9000,5 +9000,45 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crispy-saudi-arabian-pul-biber-flatbread--german",
+    "title": "Saudi-Style Flatbread with Pul Biber",
+    "tags": [
+      "german",
+      "saudi",
+      "flatbread",
+      "pul-biber",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-peruvian-cashews-stew--japanese",
+    "title": "Japanese Cashew Stir Fry",
+    "tags": [
+      "cashew",
+      "chicken",
+      "japanese",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-tender-portuguese-shrimp-flatbread--french",
+    "title": "Shrimp and Portuguese Flatbread Tartine",
+    "tags": [
+      "french",
+      "seafood",
+      "flatbread",
+      "shrimp"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
