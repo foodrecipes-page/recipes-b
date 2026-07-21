@@ -1,0 +1,68 @@
+{
+  "slug": "bitter-chewy-mediterranean-sirloin-steak-tips-kebabs--gluten-free",
+  "title": "Grilled Steak Kebabs",
+  "description": "A simple and flavorful grilled steak kebab recipe, perfect for a gluten-free dinner. Marinate the sirloin tips in a mix of Mediterranean spices and grill to perfection.",
+  "cuisine": "Barbecue",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Tips",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Spice Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a small bowl, mix together Mediterranean Spice Mix, olive oil, salt, and pepper.",
+    "Add the sirloin tips to the marinade and coat evenly.",
+    "Let the sirloin tips marinate for at least 30 minutes.",
+    "Thread the sirloin tips onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steak",
+    "kebabs",
+    "grilled",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-mediterranean-sirloin-steak-tips-kebabs--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:58:27.268Z"
+}
