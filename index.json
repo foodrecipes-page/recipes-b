@@ -9097,5 +9097,18 @@
     "cuisine": "italian",
     "totalTimeMin": 23,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-mediterranean-sirloin-steak-tips-kebabs--gluten-free",
+    "title": "Grilled Steak Kebabs",
+    "tags": [
+      "steak",
+      "kebabs",
+      "grilled",
+      "gluten-free"
+    ],
+    "cuisine": "Barbecue",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
