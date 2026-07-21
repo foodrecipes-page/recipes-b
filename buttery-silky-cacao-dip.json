@@ -1,0 +1,53 @@
+{
+  "slug": "buttery-silky-cacao-dip",
+  "title": "Decadent Dip",
+  "description": "A rich and creamy cacao-based dip perfect for snacking. Serve with silky crackers or crudités.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cacao",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "silky",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dip",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Melt cacao in a small saucepan over low heat.",
+    "Add buttery to the cacao and stir until combined.",
+    "Gradually add silky, stirring until the mixture thickens.",
+    "Remove from heat and stir in dip.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "snack",
+    "dip"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silky-cacao-dip",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:37:55.465Z"
+}
