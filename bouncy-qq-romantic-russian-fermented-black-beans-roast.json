@@ -1,0 +1,81 @@
+{
+  "slug": "bouncy-qq-romantic-russian-fermented-black-beans-roast",
+  "title": "Russian Black Bean Roast Stew",
+  "description": "A hearty stew made with tender black beans, smoky roast, and a hint of Russian spices. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "roast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can (15 ounces)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented",
+      "amount": "2 tablespoons",
+      "notes": "Russian fermented vegetable mix"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and cook for an additional 5 minutes.",
+    "Add the roast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the tomato paste, fermented mix, beef broth, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20-25 minutes.",
+    "Add the black beans to the pot and simmer for an additional 10-15 minutes, or until the roast is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "soup",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-romantic-russian-fermented-black-beans-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:03:03.365Z"
+}
