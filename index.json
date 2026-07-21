@@ -3120,16 +3120,15 @@
   },
   {
     "slug": "blanch-ukrainian-rice-pilaf",
-    "title": "Blanch Ukrainian Rice Pilaf",
+    "title": "Ukrainian-Style Rice Pilaf",
     "tags": [
-      "blanch",
-      "one-pan",
-      "shojin-friendly",
       "ukrainian",
-      "weeknight"
+      "rice",
+      "pilaf",
+      "eastern european"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 20,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 30,
     "shard": "b"
   },
   {
@@ -7193,15 +7192,14 @@
   },
   {
     "slug": "buttery-silky-cacao-dip",
-    "title": "Buttery Silky Cacao Dip",
+    "title": "Decadent Dip",
     "tags": [
-      "cacao dip",
-      "silky",
-      "buttery",
-      "nut-free-friendly"
+      "chocolate",
+      "snack",
+      "dip"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 7,
     "shard": "b"
   },
   {
@@ -9085,6 +9083,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-flaky-ethiopian-squid-crumble--italian",
+    "title": "Squid Fritters Italian Style",
+    "tags": [
+      "italian",
+      "fish",
+      "squid",
+      "fritters"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 23,
     "shard": "b"
   }
 ]
