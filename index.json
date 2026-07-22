@@ -1556,14 +1556,16 @@
   },
   {
     "slug": "bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry",
-    "title": "Bitter Dense Romantic Portuguese Pork Back Ribs Stir-fry",
+    "title": "Portuguese Pork Ribs",
     "tags": [
-      "bitter-dense-portuguese-pork-back-ribs-stir-fry",
-      "romantic-meal",
-      "kosher-friendly"
+      "portuguese",
+      "pork",
+      "ribs",
+      "slow-cooked",
+      "comfort-food"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 65,
+    "totalTimeMin": 165,
     "shard": "b"
   },
   {
@@ -3623,15 +3625,15 @@
   },
   {
     "slug": "bouncy-qq-salty-turkish-flour-tortilla-quesadilla",
-    "title": "Bouncy-qq Salty Turkish Flour Tortilla Quesadilla",
+    "title": "Crunchy Quesadilla Fritters",
     "tags": [
-      "hot-pot",
+      "mexican",
+      "snack",
       "quesadilla",
-      "turkish",
-      "weeknight"
+      "fried"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "b"
   },
   {
