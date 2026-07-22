@@ -1,0 +1,79 @@
+{
+  "slug": "bitter-fluffy-saudia-fish-stir-fry--italian",
+  "title": "Saudia Style Italian Fish Fry",
+  "description": "A unique Italian dish using saudia spices and ingredients. The fish is marinated in a mixture of saudia spices and herbs, then pan-fried to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod)",
+      "amount": "4 pieces",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Saudia Spices",
+      "amount": "2 tsp",
+      "notes": "Blend of saudia spices"
+    },
+    {
+      "name": "Fluffy Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Italian-style breadcrumbs"
+    },
+    {
+      "name": "Bitter Lettuce",
+      "amount": "1 head",
+      "notes": "For serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 slices",
+      "notes": "For serving"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced for marinade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a bowl, mix together the saudia spices and garlic.",
+    "3. Add the fish pieces to the bowl and marinate for at least 30 minutes.",
+    "4. In a separate bowl, mix together the fluffy breadcrumbs and a pinch of salt.",
+    "5. Remove the fish from the marinade and coat in the breadcrumb mixture.",
+    "6. Heat the olive oil in a pan over medium heat.",
+    "7. Fry the coated fish pieces until golden brown and cooked through.",
+    "8. Serve the fish hot with bitter lettuce, lemon slices, and a side of Italian-style pasta or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "saudia",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fluffy-saudia-fish-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:26:07.075Z"
+}
