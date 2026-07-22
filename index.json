@@ -5488,15 +5488,16 @@
   },
   {
     "slug": "buttery-crumbly-turkish-delight",
-    "title": "Buttery Crumbly Turkish Delight",
+    "title": "Turkish Delight Crumble Bars",
     "tags": [
-      "british-dessert",
-      "date-night-special",
-      "turkish-delight",
-      "bhuna-spice-turkey"
+      "dessert",
+      "balkan",
+      "crumble",
+      "bars",
+      "turkish"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 35,
+    "cuisine": "balkan",
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
