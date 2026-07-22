@@ -1,0 +1,84 @@
+{
+  "slug": "buttery-crispy-mexican-bean-stew--thai",
+  "title": "Thai-Style Bean Stew",
+  "description": "A hearty and flavorful Thai-style bean stew made with a variety of spices and ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mexican bean",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Buttery crispy",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the stew and cook for 5 minutes, stirring occasionally.",
+    "Add the Mexican bean, coconut milk, fish sauce, and brown sugar.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 10-15 minutes or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "bean-stew",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-mexican-bean-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:08:06.443Z"
+}
