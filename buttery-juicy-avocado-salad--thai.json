@@ -1,0 +1,80 @@
+{
+  "slug": "buttery-juicy-avocado-salad--thai",
+  "title": "Thai Avocado Salad",
+  "description": "A refreshing Thai-inspired salad featuring juicy avocado and mixed greens. Perfect for a quick and easy lunch.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "juicy avocado",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "mixed greens (salad)",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, diced avocado, and chopped peanuts.",
+    "2. In a small bowl, whisk together fish sauce, lime juice, and chili flakes.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Garnish with chopped Thai basil and serve immediately.",
+    "5. Drizzle with buttery for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "avocado",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-avocado-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:40:09.612Z"
+}
