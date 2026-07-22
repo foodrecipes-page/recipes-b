@@ -1,0 +1,83 @@
+{
+  "slug": "buttery-crumbly-turkish-delight",
+  "title": "Turkish Delight Crumble Bars",
+  "description": "A sweet and crumbly dessert bar inspired by Turkish Delight.",
+  "cuisine": "balkan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buttery Crumble Topping",
+      "amount": "1 cup",
+      "notes": "use a food processor to crumble the topping"
+    },
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line an 8-inch square baking dish with parchment paper.",
+    "In a medium bowl, whisk together the flour and sugar.",
+    "Add in the cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press half of the crumb mixture into the prepared baking dish.",
+    "Bake for 15 minutes or until lightly browned.",
+    "While the crust is baking, melt the butter in a small saucepan over low heat.",
+    "Add in the Turkish Delight and stir until melted and smooth.",
+    "Remove the crust from the oven and spread the Turkish Delight mixture over the top.",
+    "Top with the remaining crumb mixture.",
+    "Return to the oven and bake for an additional 20-25 minutes or until the top is golden brown.",
+    "Let cool completely before cutting into bars."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "balkan",
+    "crumble",
+    "bars",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-turkish-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:08:59.976Z"
+}
