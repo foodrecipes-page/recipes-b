@@ -1,0 +1,66 @@
+{
+  "slug": "bouncy-qq-salty-turkish-flour-tortilla-quesadilla",
+  "title": "Crunchy Quesadilla Fritters",
+  "description": "A crispy, savory twist on traditional quesadillas, perfect as a snack or side dish. Crunchy exterior meets gooey cheese and tortilla interior.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tortilla",
+      "amount": "4",
+      "notes": "cut into quarters"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "2",
+      "notes": "shredded"
+    },
+    {
+      "name": "salty",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "qq",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, qq, and salty.",
+    "Gradually add in water to form a thick batter.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "When oil is hot, dip tortilla quarters into the batter, coating both sides.",
+    "Fry battered tortilla in hot oil until crispy and golden brown.",
+    "Flip and fry the other side until crispy and golden brown.",
+    "Using a slotted spoon, remove fried tortillas from oil and place on paper towels to drain excess oil.",
+    "Serve warm with shredded quesadilla cheese on top or on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "quesadilla",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-salty-turkish-flour-tortilla-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:57:08.634Z"
+}
