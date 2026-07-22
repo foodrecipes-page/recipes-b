@@ -1,0 +1,75 @@
+{
+  "slug": "bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry",
+  "title": "Portuguese Pork Ribs",
+  "description": "A classic Portuguese-inspired recipe featuring tender pork ribs, slow-cooked to perfection. These flavorful ribs are perfect for a cozy dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "bitter orange marmalade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "romantic rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "portuguese red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dense olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the onion and cook until caramelized, about 10 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the pork ribs and cook until browned on all sides, about 5 minutes.",
+    "Add the red wine, marmalade, and rosemary to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the ribs are tender and falling off the bone.",
+    "Remove the pot from the oven and let it rest for 10 minutes.",
+    "Serve the ribs hot, garnished with additional rosemary if desired.",
+    "Strain the sauce from the pot and serve it on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "pork",
+    "ribs",
+    "slow-cooked",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:55:06.410Z"
+}
