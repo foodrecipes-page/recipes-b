@@ -1,0 +1,89 @@
+{
+  "slug": "braised-vietnamese-chuck-roast-stir-fry",
+  "title": "Braised Chuck Roast",
+  "description": "A hearty, comforting dish of slow-cooked chuck roast in a rich, flavorful sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chuck Roast",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Star Anise",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Cinnamon Sticks",
+      "amount": "2 sticks"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chuck roast with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chuck roast until browned on all sides, about 2-3 minutes per side.",
+    "Remove the chuck roast from the pot and set aside.",
+    "Add the garlic, ginger, fish sauce, soy sauce, and brown sugar to the pot.",
+    "Stir to combine and cook for 1-2 minutes, until fragrant.",
+    "Add the star anise and cinnamon sticks to the pot.",
+    "Add the water to the pot and bring to a boil.",
+    "Return the chuck roast to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 to 3 hours, or until the meat is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan.",
+    "Serve the braised chuck roast with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "vietnamese",
+    "braised",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/braised-vietnamese-chuck-roast-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:40:48.332Z"
+}
