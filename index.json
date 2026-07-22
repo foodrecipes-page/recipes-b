@@ -3795,14 +3795,14 @@
   },
   {
     "slug": "braised-vietnamese-chuck-roast-stir-fry",
-    "title": "Braised Vietnamese Chuck Roast Stir-fry",
+    "title": "Braised Chuck Roast",
     "tags": [
-      "butterbean-stir-fry",
-      "halal-friendly",
-      "earthly-brunch-dish"
+      "vietnamese",
+      "braised",
+      "roast"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 80,
+    "totalTimeMin": 200,
     "shard": "b"
   },
   {
@@ -9118,6 +9118,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 10,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crunchy-mediterranean-lamb-flatbread--gluten-free",
+    "title": "Crunchy Lamb Flatbread",
+    "tags": [
+      "gluten-free",
+      "lamb",
+      "mediterranean"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "b"
   }
 ]
