@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-crunchy-mediterranean-lamb-flatbread--gluten-free",
+  "title": "Crunchy Lamb Flatbread",
+  "description": "A flavorful and crunchy flatbread topped with lamb and Mediterranean spices. Perfect for a quick gluten-free snack.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1/2 pound",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "2 tablespoons",
+      "notes": "Mediterranean spice mix"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": "Melted butter"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/2 cup",
+      "notes": "Crunchy flatbread crumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a pan over medium heat, cook the ground lamb until browned.",
+    "Add the Mediterranean spice mix to the lamb and stir to combine.",
+    "On a baking sheet, arrange the flatbread slices in a single layer.",
+    "Brush the melted butter evenly over the flatbread.",
+    "Sprinkle the crunchy flatbread crumbs over the flatbread.",
+    "Top each flatbread slice with the lamb mixture.",
+    "Bake in the preheated oven for 10-12 minutes, or until the flatbread is crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Cut into slices and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-mediterranean-lamb-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:41:47.199Z"
+}
