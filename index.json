@@ -9146,5 +9146,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crispy-mexican-bean-stew--thai",
+    "title": "Thai-Style Bean Stew",
+    "tags": [
+      "thai",
+      "bean-stew",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
