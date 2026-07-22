@@ -9105,5 +9105,18 @@
     "cuisine": "Barbecue",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-avocado-salad--thai",
+    "title": "Thai Avocado Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "avocado",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "b"
   }
 ]
