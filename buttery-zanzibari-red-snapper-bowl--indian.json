@@ -1,0 +1,73 @@
+{
+  "slug": "buttery-zanzibari-red-snapper-bowl--indian",
+  "title": "Red Snapper in Indian-Style Butter Sauce",
+  "description": "A flavorful and aromatic dish where red snapper is cooked in a rich and creamy butter sauce, inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red snapper fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Zanzibari",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the red snapper fillets with salt and pepper on both sides.",
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the red chili powder and garam masala powder to the skillet and cook for 1 minute, until fragrant.",
+    "Add the red snapper fillets to the skillet, skin side up, and cook for 2-3 minutes, until the skin is crispy.",
+    "Flip the fillets over and cook for an additional 2-3 minutes, until cooked through.",
+    "Transfer the skillet to the preheated oven and bake for 5-7 minutes, until the fish is cooked to your liking.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "indian",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-zanzibari-red-snapper-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:03:29.756Z"
+}
