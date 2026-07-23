@@ -1,0 +1,92 @@
+{
+  "slug": "buttery-juicy-peruvian-cashews-stew--french",
+  "title": "Creamy Stew à la Française",
+  "description": "A hearty French stew made with juicy beef, stew vegetables, and cashews, finished with a pat of buttery goodness.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Peruvian Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the remaining 2 tablespoons of butter to the pot and melt.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes and cook for an additional 5 minutes.",
+    "Add the beef broth, flour, and browned beef back to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Stir in the chopped cashews and Peruvian red pepper flakes, if using.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beef",
+    "stew",
+    "comfort-food",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-peruvian-cashews-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:31:47.673Z"
+}
