@@ -9236,5 +9236,17 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-zanzibari-red-snapper-bowl--indian",
+    "title": "Red Snapper in Indian-Style Butter Sauce",
+    "tags": [
+      "fish",
+      "indian",
+      "low-carb"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "b"
   }
 ]
