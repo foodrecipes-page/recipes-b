@@ -1,0 +1,63 @@
+{
+  "slug": "bitter-chewy-moroccan-tahini-flatbread",
+  "title": "Moroccan Flatbread with Bitter Tahini Spread",
+  "description": "A simple and flavorful flatbread paired with a rich and creamy tahini spread, perfect for snacking or as a side dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bitter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the flatbread into smaller pieces and place on a baking sheet.",
+    "3. Drizzle with a little water and sprinkle with salt. Toss to coat.",
+    "4. Bake in the preheated oven for 5-7 minutes, or until crispy.",
+    "5. In a blender or food processor, blend the tahini and bitter until smooth.",
+    "6. With the blender running, slowly add the water until the desired consistency is reached.",
+    "7. Taste and adjust the seasoning as needed.",
+    "8. Serve the warm flatbread with the tahini spread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "flatbread",
+    "tahini",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-moroccan-tahini-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:17:14.367Z"
+}
