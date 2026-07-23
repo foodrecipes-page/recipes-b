@@ -1,0 +1,73 @@
+{
+  "slug": "buttery-aerated-venezuelan-popcorn-pilaf--thai",
+  "title": "Thai Popcorn Pilaf",
+  "description": "A Thai-inspired twist on a traditional pilaf dish, featuring crunchy popcorn and aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan buttery sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "aerated soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "venezuelan cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegan buttery sauce in a large saucepan over medium heat.",
+    "2. Add the pilaf rice and cook, stirring constantly, for 2-3 minutes.",
+    "3. Add the popcorn kernels and cook, stirring constantly, for 1-2 minutes.",
+    "4. Add the aerated soy sauce, venezuelan cumin powder, Thai red chili flakes, and salt.",
+    "5. Stir-fry for 1-2 minutes, until the rice is lightly toasted and fragrant.",
+    "6. Add 2 cups of water to the saucepan and bring to a boil.",
+    "7. Reduce the heat to low, cover the saucepan, and simmer for 15-20 minutes, or until the water is absorbed.",
+    "8. Fluff the pilaf with a fork and serve hot.",
+    "9. Garnish with additional popcorn kernels, if desired.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-aerated-venezuelan-popcorn-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:19:46.303Z"
+}
