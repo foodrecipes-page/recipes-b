@@ -1,0 +1,83 @@
+{
+  "slug": "briny-saudi-arabian-masarepa-fritters--japanese",
+  "title": "Japanese-Style Masarepa Fritters",
+  "description": "A tasty fusion of Japanese flavors with the crunchy texture of fritters. These delicious bites are great as a snack or appetizer.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fritters",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "briny",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine masarepa, arabian, fritters, briny, saudi, and water.",
+    "Mix well until a dough forms.",
+    "Heat oil in a large skillet over medium heat.",
+    "Using a cookie scoop or spoon, drop dough into oil, making sure not to overcrowd the skillet.",
+    "Cook fritters for 3-4 minutes on each side, or until golden brown.",
+    "Remove fritters from oil and place on paper towels to drain excess oil.",
+    "Sprinkle with green onions, sesame seeds, and salt to taste.",
+    "Serve warm and enjoy!",
+    "Note: If desired, you can also shape fritters into desired shapes before frying.",
+    "For a crisper exterior, you can chill the dough in the refrigerator for 30 minutes before frying.",
+    "Be careful when handling hot oil and fritters."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fritters",
+    "masarepa"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-saudi-arabian-masarepa-fritters--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:41:03.759Z"
+}
