@@ -1,7 +1,7 @@
 {
   "slug": "buttery-festive-egg-roll-bhuna",
-  "title": "Festive Bhuna Egg Roll",
-  "description": "A delicious and easy-to-make dish that combines the flavors of an egg roll with the spices of a bhuna sauce. Perfect for a quick breakfast or snack.",
+  "title": "Bhuna Egg Rolls",
+  "description": "A delicious and festive breakfast dish that combines the flavors of India and the West. Crispy egg rolls filled with a savory bhuna egg mixture.",
   "cuisine": "Indian",
   "diet": [
     "vegetarian"
@@ -9,61 +9,50 @@
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "roll",
-      "amount": "1",
-      "notes": "store-bought or homemade"
-    },
-    {
       "name": "egg",
-      "amount": "2",
-      "notes": "beaten"
+      "amount": "4"
     },
     {
       "name": "bhuna",
-      "amount": "1/4 cup",
-      "notes": "store-bought or homemade"
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "roll",
+      "amount": "4"
     },
     {
       "name": "buttery",
-      "amount": "1 tsp",
-      "notes": "for brushing"
-    },
-    {
-      "name": "festival spices",
-      "amount": "to taste",
-      "notes": "optional"
+      "amount": "2 tbsp"
     }
   ],
   "instructions": [
-    "1. Preheat a non-stick pan or griddle to medium heat.",
-    "2. Brush the pan with buttery and place the roll in it.",
-    "3. Crack the eggs into the pan and scramble them with the roll.",
-    "4. Add the bhuna sauce and mix well.",
-    "5. Cook for 2-3 minutes or until the eggs are cooked through.",
-    "6. Add festival spices to taste and mix well.",
-    "7. Serve hot and enjoy!",
-    "8. Optional: Serve with toast or hash browns for a filling breakfast."
+    "1. In a large bowl, whisk the eggs and set aside.",
+    "2. Heat the bhuna in a large skillet over medium heat.",
+    "3. Add the eggs to the skillet and stir to combine with the bhuna.",
+    "4. Add the egg rolls to the skillet and stir to combine with the egg mixture.",
+    "5. Cook for 2-3 minutes or until the egg rolls are crispy.",
+    "6. Remove from heat and stir in the buttery.",
+    "7. Serve hot and enjoy!"
   ],
-  "prepTimeMin": 5,
+  "prepTimeMin": 10,
   "cookTimeMin": 5,
-  "totalTimeMin": 10,
-  "servings": 1,
+  "totalTimeMin": 15,
+  "servings": 4,
   "difficulty": "easy",
   "tags": [
     "breakfast",
-    "brunch",
-    "egg",
-    "roll",
-    "bhuna"
+    "indian",
+    "egg-rolls",
+    "festive"
   ],
   "nutrition": {
-    "calories": 250,
+    "calories": 320,
     "protein": 18,
     "carbs": 20,
-    "fat": 12
+    "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/buttery-festive-egg-roll-bhuna",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T01:56:21.297Z"
+  "createdAt": "2026-07-19T11:25:52.131Z"
 }
