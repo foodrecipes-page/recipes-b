@@ -1,0 +1,68 @@
+{
+  "slug": "buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry--japanese",
+  "title": "Japanese Stir Fry with Sun-Dried Tomatoes",
+  "description": "A unique and flavorful Japanese-inspired dish featuring sun-dried tomatoes, perfect for a quick weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "middle eastern stir fry",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "creamy",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "eastern",
+      "amount": "1 tablespoon soy sauce",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large skillet over medium-high heat.",
+    "Add the middle eastern stir fry and cook until the vegetables are tender.",
+    "Add the sun-dried tomatoes and cook for an additional 2 minutes.",
+    "Stir in the creamy and eastern soy sauce.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional sun-dried tomatoes if desired.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:47:43.658Z"
+}
