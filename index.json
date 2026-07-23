@@ -6048,16 +6048,15 @@
   },
   {
     "slug": "buttery-festive-egg-roll-bhuna",
-    "title": "Festive Bhuna Egg Roll",
+    "title": "Bhuna Egg Rolls",
     "tags": [
       "breakfast",
-      "brunch",
-      "egg",
-      "roll",
-      "bhuna"
+      "indian",
+      "egg-rolls",
+      "festive"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
@@ -9199,6 +9198,44 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 110,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-creamy-middle-eastern-sun-dried-tomatoes-stir-fry--japanese",
+    "title": "Japanese Stir Fry with Sun-Dried Tomatoes",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "quick-dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-flaky-ethiopian-squid-crumble--keto",
+    "title": "Keto Ethiopian Squid Crumble",
+    "tags": [
+      "keto",
+      "eastern-ethiopian",
+      "seafood",
+      "snack"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-creamy-midnight-cardamom-stir-fry--italian",
+    "title": "Italian Midnight Creamy Bitter Risotto",
+    "tags": [
+      "italian",
+      "creamy",
+      "bitter",
+      "cardamom"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "b"
   }
 ]
