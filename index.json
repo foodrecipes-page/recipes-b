@@ -9159,5 +9159,46 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-uruguayan-turkey-tacos--thai",
+    "title": "Thai Turkey Tacos",
+    "tags": [
+      "thai",
+      "mexican",
+      "fusion",
+      "turkey",
+      "chorizo"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-silky-cacao-dip--vegetarian",
+    "title": "Satisfying Chocolate Pudding",
+    "tags": [
+      "chocolate",
+      "pudding",
+      "dessert",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-peruvian-cashews-stew--french",
+    "title": "Creamy Stew à la Française",
+    "tags": [
+      "french",
+      "beef",
+      "stew",
+      "comfort-food",
+      "winter-recipe"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
+    "shard": "b"
   }
 ]
