@@ -1,0 +1,92 @@
+{
+  "slug": "buckwheat-bowties--vegan",
+  "title": "Vegan Buckwheat Bowtie Pasta",
+  "description": "A vegan twist on traditional pasta dishes, using buckwheat bowties and rich vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat bowties",
+      "amount": "8 oz"
+    },
+    {
+      "name": "mushrooms (such as cremini)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "vegan vegetable broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the buckwheat bowties according to package instructions.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced onions and sauté until they begin to soften, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Pour in the vegan vegetable broth and stir to combine.",
+    "Reduce heat to low and let the sauce simmer while the pasta finishes cooking.",
+    "Once the pasta is al dente, drain it and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce and season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "pasta",
+    "bowties",
+    "mushrooms",
+    "onions",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buckwheat-bowties--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:45:54.835Z"
+}
