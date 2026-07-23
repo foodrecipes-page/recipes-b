@@ -1,0 +1,83 @@
+{
+  "slug": "buttery-juicy-uruguayan-turkey-tacos--thai",
+  "title": "Thai Turkey Tacos",
+  "description": "A fusion of Thai and Mexican flavors, this dish combines the juiciness of turkey with the spices of Thailand.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "tacos",
+      "amount": "4-6",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "uruguayan chorizo",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a small bowl, mix together melted buttery, coconut milk, fish sauce, and lime juice.",
+    "3. Brush the mixture on the turkey breast and cook for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, cook the sliced uruguayan chorizo in a skillet over medium heat until crispy.",
+    "5. Warm the tacos according to package instructions.",
+    "6. Slice the grilled turkey breast and assemble the tacos with chorizo, cilantro, and any desired toppings.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "mexican",
+    "fusion",
+    "turkey",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-uruguayan-turkey-tacos--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:45:06.651Z"
+}
