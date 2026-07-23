@@ -9263,5 +9263,17 @@
     "cuisine": null,
     "totalTimeMin": 30,
     "shard": "b"
+  },
+  {
+    "slug": "briny-saudi-arabian-masarepa-fritters--japanese",
+    "title": "Japanese-Style Masarepa Fritters",
+    "tags": [
+      "japanese",
+      "fritters",
+      "masarepa"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "b"
   }
 ]
