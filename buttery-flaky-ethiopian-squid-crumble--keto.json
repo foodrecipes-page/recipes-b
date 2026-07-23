@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-flaky-ethiopian-squid-crumble--keto",
+  "title": "Keto Ethiopian Squid Crumble",
+  "description": "A keto take on traditional Ethiopian cuisine, featuring crispy squid crumble on a bed of flaky pastry.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "400g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "buttery crumble",
+      "amount": "200g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the squid into small pieces and season with salt.",
+    "Roll out the flaky pastry on a lightly floured surface.",
+    "Place the squid pieces on one half of the pastry, leaving a 1-inch border.",
+    "Brush the edges of the pastry with egg wash.",
+    "Fold the other half of the pastry over the squid and press the edges to seal.",
+    "Brush the top of the pastry with egg wash and make a few slits in the top to allow steam to escape.",
+    "Sprinkle the buttery crumble over the top of the pastry.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the squid is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "eastern-ethiopian",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-flaky-ethiopian-squid-crumble--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:13:45.841Z"
+}
