@@ -9248,5 +9248,20 @@
     "cuisine": "indian",
     "totalTimeMin": 20,
     "shard": "b"
+  },
+  {
+    "slug": "buckwheat-bowties--vegan",
+    "title": "Vegan Buckwheat Bowtie Pasta",
+    "tags": [
+      "vegan",
+      "pasta",
+      "bowties",
+      "mushrooms",
+      "onions",
+      "garlic"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
