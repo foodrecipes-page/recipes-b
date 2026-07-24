@@ -1,0 +1,55 @@
+{
+  "slug": "banana-pickle-bliss--japanese",
+  "title": "Japanese Bliss Banana Fritters",
+  "description": "A unique Japanese-inspired dessert using bliss and banana. Serve warm with a side of pickled banana slices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "3"
+    },
+    {
+      "name": "bliss",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mash the bananas with a fork.",
+    "In a separate bowl, mix the bliss and pickle juice until well combined.",
+    "Gradually add the bliss mixture to the bananas and mix until a smooth dough forms.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Drop spoonfuls of the dough into the pan and flatten slightly.",
+    "Cook for 2-3 minutes or until the edges start to brown.",
+    "Flip the fritters and cook for another 2 minutes.",
+    "Serve warm with pickled banana slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "japanese",
+    "banana",
+    "bliss"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-pickle-bliss--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:37:40.655Z"
+}
