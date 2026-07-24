@@ -1,0 +1,71 @@
+{
+  "slug": "bitter-crisp-peruvian-pork-stir-fry--thai",
+  "title": "Thai Pork Stir Fry",
+  "description": "A quick and flavorful dish made with pork and a variety of Thai spices, perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Crunchy fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add pork and cook until browned, about 3-4 minutes.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add bitter melon and cook until tender, about 3-4 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with crunchy fried shallots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "pork",
+    "stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-peruvian-pork-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:28:50.860Z"
+}
