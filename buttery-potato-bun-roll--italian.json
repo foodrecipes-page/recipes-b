@@ -1,0 +1,58 @@
+{
+  "slug": "buttery-potato-bun-roll--italian",
+  "title": "Italian-Style Potato Roll",
+  "description": "A crispy Italian-inspired potato roll that's perfect as a snack or side dish.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Bun",
+      "amount": "1"
+    },
+    {
+      "name": "Roll",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a bowl, mix together sliced potatoes and butter until well combined.",
+    "Place the bun and roll on a baking sheet.",
+    "Top each bun and roll with a spoonful of the potato-butter mixture.",
+    "Bake for 15-20 minutes or until the potatoes are golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "potato",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-potato-bun-roll--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:09:39.783Z"
+}
