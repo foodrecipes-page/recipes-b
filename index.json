@@ -9381,5 +9381,30 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-moroccan-tahini-flatbread--mexican",
+    "title": "Moroccan Chicken Tacos",
+    "tags": [
+      "moroccan",
+      "chicken",
+      "tacos",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-vietnamese-haddock-tart--keto",
+    "title": "Crispy Haddock with Tart Crust",
+    "tags": [
+      "ketogenic",
+      "fish",
+      "dinner"
+    ],
+    "cuisine": "fish",
+    "totalTimeMin": 22,
+    "shard": "b"
   }
 ]
