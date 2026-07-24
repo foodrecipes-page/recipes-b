@@ -9355,5 +9355,18 @@
     "cuisine": "italian",
     "totalTimeMin": 60,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-pork-stir-fry--vegetarian",
+    "title": "Bitter Stir-Fried Vegetables",
+    "tags": [
+      "vegetarian",
+      "stir-fry",
+      "bitter-greens",
+      "easy-dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
