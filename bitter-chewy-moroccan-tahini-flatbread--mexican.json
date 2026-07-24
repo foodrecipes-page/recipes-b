@@ -1,0 +1,106 @@
+{
+  "slug": "bitter-chewy-moroccan-tahini-flatbread--mexican",
+  "title": "Moroccan Chicken Tacos",
+  "description": "A twist on traditional Mexican tacos, this Moroccan-inspired recipe combines the flavors of Morocco with the comfort of a warm taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 tortillas",
+      "notes": ""
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup chopped cilantro",
+      "notes": ""
+    },
+    {
+      "name": "chewy",
+      "amount": "8 ounces cooked chickpeas",
+      "notes": ""
+    },
+    {
+      "name": "moroccan",
+      "amount": "2 tablespoons olive oil",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together cumin, coriander, red pepper flakes, and salt.",
+    "Add the chicken breast and toss to coat.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 6-7 minutes.",
+    "Transfer the chicken to a plate and cover with foil.",
+    "In the same skillet, add the chickpeas and cook until lightly browned, about 3-4 minutes.",
+    "Add the cilantro and stir to combine.",
+    "Warm the tortillas on a dry skillet or in the microwave.",
+    "Assemble the tacos by placing a piece of chicken on each tortilla, followed by a spoonful of the chickpea mixture.",
+    "Drizzle with tahini and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "tacos",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-moroccan-tahini-flatbread--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:55:21.606Z"
+}
