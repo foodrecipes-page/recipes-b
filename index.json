@@ -9288,5 +9288,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-potato-bun-roll--italian",
+    "title": "Italian-Style Potato Roll",
+    "tags": [
+      "italian",
+      "snack",
+      "potato",
+      "bread"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
