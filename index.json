@@ -9368,5 +9368,18 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-crisp-peruvian-pork-stir-fry--thai",
+    "title": "Thai Pork Stir Fry",
+    "tags": [
+      "thai-cuisine",
+      "pork",
+      "stir-fry",
+      "quick-dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
