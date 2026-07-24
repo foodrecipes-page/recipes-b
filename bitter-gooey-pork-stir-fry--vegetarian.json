@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-gooey-pork-stir-fry--vegetarian",
+  "title": "Bitter Stir-Fried Vegetables",
+  "description": "A simple vegetarian stir-fry recipe featuring bitter greens, gooey sauce, and a variety of vegetables. This dish is quick, easy, and nutritious.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bitter Greens",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Gooey Sauce (made with non-pork ingredients)",
+      "amount": "1/4 cup",
+      "notes": "See notes for homemade sauce recipe"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add onions and garlic, cook until softened (3-4 minutes).",
+    "Add bell peppers, cook until tender (4-5 minutes).",
+    "Add bitter greens, cook until wilted (2-3 minutes).",
+    "Mix in gooey sauce and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "stir-fry",
+    "bitter-greens",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-pork-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:14:51.817Z"
+}
