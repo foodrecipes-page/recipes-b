@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-crumbly-vietnamese-haddock-tart--keto",
+  "title": "Crispy Haddock with Tart Crust",
+  "description": "A keto-friendly haddock dish with a crunchy tart crust and a side of flavor.",
+  "cuisine": "fish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "tart",
+      "amount": "1 (14 oz) package",
+      "notes": ""
+    },
+    {
+      "name": "buttery",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the haddock fillets on the prepared baking sheet.",
+    "Mix the tart, buttery, and crumbly ingredients together.",
+    "Sprinkle the mixture evenly over the haddock fillets.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ketogenic",
+    "fish",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-vietnamese-haddock-tart--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:11:28.338Z"
+}
