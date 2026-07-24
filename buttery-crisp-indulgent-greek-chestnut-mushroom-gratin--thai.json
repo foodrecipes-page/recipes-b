@@ -1,0 +1,80 @@
+{
+  "slug": "buttery-crisp-indulgent-greek-chestnut-mushroom-gratin--thai",
+  "title": "Thai Mushroom and Chestnut Gratin",
+  "description": "A rich and creamy Thai-inspired gratin featuring mushrooms and chestnuts in a crispy buttery sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chestnut",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "indulgent",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "greek",
+      "amount": "2 tbsp",
+      "notes": "yogurt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté mushroom and chestnut in butter until tender.",
+    "Combine gratin, crisp, and indulgent in a bowl.",
+    "Add greek yogurt and mix well.",
+    "Transfer mushroom and chestnut mixture to a baking dish.",
+    "Top with gratin mixture.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaichicken",
+    "thaicuisine",
+    "thaifood",
+    "thaipasta",
+    "thaicooking",
+    "thaifoodie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-indulgent-greek-chestnut-mushroom-gratin--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:51:40.097Z"
+}
