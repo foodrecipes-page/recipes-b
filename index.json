@@ -9406,5 +9406,45 @@
     "cuisine": "fish",
     "totalTimeMin": 22,
     "shard": "b"
+  },
+  {
+    "slug": "banana-pickle-bliss--japanese",
+    "title": "Japanese Bliss Banana Fritters",
+    "tags": [
+      "dessert",
+      "japanese",
+      "banana",
+      "bliss"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-kenyan-cacao-brew--german",
+    "title": "Kenyan Bitter Beer Braised Cacao Beef",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "cocoa",
+      "coffee"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-light-mexican-paneer-stew--german",
+    "title": "German Stew with Paneer and Mexican Spices",
+    "tags": [
+      "german",
+      "stew",
+      "paneer",
+      "mexican"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
