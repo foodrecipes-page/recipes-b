@@ -1,0 +1,75 @@
+{
+  "slug": "bitter-gooey-french-tofu-gratin--vegan",
+  "title": "French Tofu Gratin",
+  "description": "A rich and creamy French-inspired dish, made entirely with plant-based ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "250g",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "french bread",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "gratin",
+      "amount": "100g",
+      "notes": "dairy-free alternative"
+    },
+    {
+      "name": "bitter leaves",
+      "amount": "1 bunch",
+      "notes": "such as kale or collard greens"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Grease a baking dish with olive oil.",
+    "Arrange a layer of cubed bread at the bottom of the dish.",
+    "Top the bread with a layer of cubed tofu.",
+    "Drizzle with lemon juice and sprinkle with gratin.",
+    "Repeat the layers one more time, ending with a layer of bread on top.",
+    "Transfer the dish to the oven and bake for 25 minutes.",
+    "Remove from the oven and let it rest for 5 minutes.",
+    "Garnish with bitter leaves and serve hot.",
+    "Optional: broil for an additional 2-3 minutes to achieve a crispy top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "vegan",
+    "lunch",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-french-tofu-gratin--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:49:41.404Z"
+}
