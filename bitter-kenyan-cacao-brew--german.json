@@ -1,0 +1,83 @@
+{
+  "slug": "bitter-kenyan-cacao-brew--german",
+  "title": "Kenyan Bitter Beer Braised Cacao Beef",
+  "description": "A hearty German-inspired beef stew made with Kenyan coffee, Bitter beer, and Cacao, perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Kenyan coffee",
+      "amount": "2 tbsp",
+      "notes": "brewed and reduced to a thick paste"
+    },
+    {
+      "name": "Bitter beer",
+      "amount": "1 cup",
+      "notes": "any German-style lager or pilsner works well"
+    },
+    {
+      "name": "Cacao powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the coffee paste, beer, cacao powder, caraway seeds, salt, and pepper to the pot.",
+    "Stir to combine and bring to a boil.",
+    "Return the beef to the pot and cover with a lid.",
+    "Transfer the pot to the oven and braise the beef for 2.5 hours, or until tender.",
+    "Serve hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "cocoa",
+    "coffee"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "24g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-kenyan-cacao-brew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:39:40.875Z"
+}
