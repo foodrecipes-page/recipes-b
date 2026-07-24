@@ -1,0 +1,62 @@
+{
+  "slug": "bouncy-qq-croatian-elderflower-muffins--italian",
+  "title": "Elderflower Muffin Crostata",
+  "description": "A unique Italian dessert featuring a crostata crust topped with elderflower-infused muffin mixture. The combination of textures and flavors creates a delightful experience.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "muffins",
+      "amount": "2 cups",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "elderflower",
+      "amount": "1/4 cup",
+      "notes": "elderflower syrup or extract"
+    },
+    {
+      "name": "bouncy",
+      "amount": "1/2 cup",
+      "notes": "unsweetened whipped cream"
+    },
+    {
+      "name": "qq",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the crostata crust by mixing together croatian biscotti crumbs and elderflower syrup or extract.",
+    "In a separate bowl, crumble the muffins into small pieces.",
+    "In a separate bowl, whip the bouncy until stiff peaks form.",
+    "Combine the crumbled muffins, whipped bouncy, and qq, mixing until just combined.",
+    "Transfer the mixture to the prepared crostata crust and smooth the top.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Allow the crostata to cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "muffin",
+    "crostata",
+    "elderflower",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-croatian-elderflower-muffins--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:06:35.046Z"
+}
