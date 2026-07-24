@@ -9313,5 +9313,33 @@
     "cuisine": "Australian",
     "totalTimeMin": 50,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crisp-indulgent-greek-chestnut-mushroom-gratin--thai",
+    "title": "Thai Mushroom and Chestnut Gratin",
+    "tags": [
+      "thaichicken",
+      "thaicuisine",
+      "thaifood",
+      "thaipasta",
+      "thaicooking",
+      "thaifoodie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-french-tofu-gratin--vegan",
+    "title": "French Tofu Gratin",
+    "tags": [
+      "tofu",
+      "vegan",
+      "lunch",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
