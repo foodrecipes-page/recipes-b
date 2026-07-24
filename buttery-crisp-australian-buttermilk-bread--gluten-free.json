@@ -1,0 +1,84 @@
+{
+  "slug": "buttery-crisp-australian-buttermilk-bread--gluten-free",
+  "title": "Australian Style Gluten-Free Bread",
+  "description": "A simple recipe for gluten-free bread using Australian ingredients and a buttermilk substitute.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Crisp bread",
+      "amount": "3 slices",
+      "notes": "Blend into crumbs"
+    },
+    {
+      "name": "Australian buttermilk substitute",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "Gluten-free flour",
+      "amount": "2 cups",
+      "notes": "can be replaced with almond flour"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C)",
+    "2. In a blender, blend the crisp bread into crumbs.",
+    "3. In a large bowl, whisk together the gluten-free flour, salt, sugar, and xanthan gum (if using).",
+    "4. Add the softened butter and mix until the dough resembles coarse crumbs.",
+    "5. In a separate bowl, whisk together the buttermilk substitute and eggs.",
+    "6. Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "7. Add the bread crumbs and mix until the dough is smooth.",
+    "8. Knead the dough for 10 minutes until it becomes elastic.",
+    "9. Place the dough in a greased loaf pan and bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "10. Let the bread cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-australian-buttermilk-bread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:04:08.866Z"
+}
