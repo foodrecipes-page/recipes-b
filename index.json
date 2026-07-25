@@ -9580,5 +9580,18 @@
     "cuisine": null,
     "totalTimeMin": 18,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-fluffy-canadian-chicken-pilaf--vegetarian",
+    "title": "Canadian Chicken and Pilaf",
+    "tags": [
+      "canadian",
+      "pilaf",
+      "vegetarian",
+      "chicken"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
