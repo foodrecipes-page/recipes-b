@@ -1,0 +1,94 @@
+{
+  "slug": "braised-vietnamese-chuck-roast-stir-fry--thai",
+  "title": "Thai Braised Chuck Roast",
+  "description": "A tender and flavorful Thai-inspired braise made with chuck roast, served with steamed vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chuck roast with salt and pepper.",
+    "Heat oil in a Dutch oven over medium-high heat. Sear the chuck roast until browned on all sides.",
+    "Remove the roast from the pot and set aside.",
+    "Add the minced garlic and sliced ginger to the pot and cook until fragrant.",
+    "Add the fish sauce, soy sauce, brown sugar, star anise, and bay leaves to the pot.",
+    "Return the chuck roast to the pot and pour in the coconut milk and water.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the chuck roast for 2 1/2 to 3 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the braised chuck roast with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaibraised",
+    "chuckroast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/braised-vietnamese-chuck-roast-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:49:15.055Z"
+}
