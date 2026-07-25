@@ -1,0 +1,68 @@
+{
+  "slug": "bitter-crunchy-british-onion-wrap--vegan",
+  "title": "Vegan Wrap",
+  "description": "A delicious vegan wrap filled with crunchy lettuce, tangy bitter gourd, and flavorful onion, perfect for a quick snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat wrap",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "crunchy lettuce",
+      "amount": "1/2",
+      "notes": "fresh"
+    },
+    {
+      "name": "bitter gourd",
+      "amount": "1/2",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vintage british hummus",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan with a small amount of oil over medium heat.",
+    "Add the sliced onion and sauté until translucent.",
+    "Add the grated bitter gourd and cook for 2-3 minutes.",
+    "Stir in the crunchy lettuce and cook for a minute.",
+    "Warm the whole wheat wrap in a separate pan or in the microwave.",
+    "Spread a layer of vintage british hummus on the wrap.",
+    "Add the cooked onion and bitter gourd mixture on top.",
+    "Fold the wrap in half and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "wrap",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-british-onion-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:23:50.758Z"
+}
