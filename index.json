@@ -3884,17 +3884,15 @@
   },
   {
     "slug": "brine-wet-glassy-jelly-croatian-snapper-fish-one-pot",
-    "title": "Brine-wet Glassy-jelly Croatian Snapper Fish One-Pot",
+    "title": "Pan-Seared Snapper with Croatian Salsa",
     "tags": [
-      "croatian",
       "fish",
-      "glassy-jelly",
-      "keto-friendly",
-      "one-pan",
-      "umami"
+      "seafood",
+      "mediterranean",
+      "croatian"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 22,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 32,
     "shard": "b"
   },
   {
@@ -9515,6 +9513,32 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 11,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-chewy-indulgent-yogurt-crumble--chinese",
+    "title": "Crispy Bitter Crumble Dessert",
+    "tags": [
+      "dessert",
+      "chinese",
+      "yogurt",
+      "bitter",
+      "crumble"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 28,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-chill--japanese",
+    "title": "Japanese Pan-Seared Salmon",
+    "tags": [
+      "japanesecuisine",
+      "salmon",
+      "panseared"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "b"
   }
 ]
