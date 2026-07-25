@@ -1,0 +1,86 @@
+{
+  "slug": "buttery-crispy-chicken-algerian-crumble",
+  "title": "Chicken Crumble with Algerian Spice",
+  "description": "A flavorful and spicy chicken dish topped with a crunchy crumble. Serve as a main course or enjoy as a snack.",
+  "cuisine": "North African",
+  "diet": [
+    "Gluten-free",
+    "Pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "algerian spice mix",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "buttery crumble topping",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the skillet and cook until browned on both sides.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes or until cooked through.",
+    "While the chicken is cooking, prepare the crumble topping by mixing the buttery crumble topping with a pinch of salt.",
+    "Remove the chicken from the oven and top with the crumble topping.",
+    "Return the chicken to the oven and bake for an additional 5-7 minutes or until the topping is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "crumble-topping"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crispy-chicken-algerian-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:20:16.323Z"
+}
