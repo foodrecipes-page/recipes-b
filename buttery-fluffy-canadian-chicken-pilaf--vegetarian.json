@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-fluffy-canadian-chicken-pilaf--vegetarian",
+  "title": "Canadian Chicken and Pilaf",
+  "description": "A flavorful vegetarian dish featuring fluffy pilaf and crispy chicken.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadians",
+      "amount": "4",
+      "notes": "chicken breast"
+    },
+    {
+      "name": "fluffy pilaf",
+      "amount": "2 cups",
+      "notes": "cooked according to package directions"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter, melted"
+    },
+    {
+      "name": "chicken",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Rinse the Canadians and pat dry with a paper towel.",
+    "3. In a large skillet, melt buttery over medium-high heat.",
+    "4. Add the chopped chicken to the skillet and cook until browned, about 5 minutes.",
+    "5. Transfer the skillet to the oven and bake for 10-12 minutes, or until cooked through.",
+    "6. While the chicken is baking, prepare the fluffy pilaf according to package directions.",
+    "7. Once the chicken is done, remove it from the oven and let it rest for a few minutes.",
+    "8. Serve the chicken on top of the fluffy pilaf.",
+    "9. Sprinkle with salt to taste.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "pilaf",
+    "vegetarian",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-canadian-chicken-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:24:32.380Z"
+}
