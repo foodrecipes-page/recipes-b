@@ -9478,5 +9478,16 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "b"
+  },
+  {
+    "slug": "braised-vietnamese-chuck-roast-stir-fry--thai",
+    "title": "Thai Braised Chuck Roast",
+    "tags": [
+      "thaibraised",
+      "chuckroast"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 170,
+    "shard": "b"
   }
 ]
