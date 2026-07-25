@@ -1,0 +1,75 @@
+{
+  "slug": "buttery-chill--japanese",
+  "title": "Japanese Pan-Seared Salmon",
+  "description": "A simple and flavorful Japanese-inspired dish featuring pan-seared salmon with a crispy exterior and tender interior.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Chill",
+      "amount": "1",
+      "notes": "chopped scallions"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "1. Season the salmon fillets with salt and pepper.",
+    "2. Heat the sesame oil in a large skillet over medium-high heat.",
+    "3. Add the salmon fillets to the skillet, skin side up (if they have skin).",
+    "4. Cook for 3-4 minutes, until the skin is crispy.",
+    "5. Flip the salmon over and cook for an additional 3-4 minutes, until cooked through.",
+    "6. In a small bowl, whisk together the soy sauce, brown sugar, and grated ginger.",
+    "7. Pour the sauce over the salmon and cook for an additional minute.",
+    "8. Garnish with chopped chill and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanesecuisine",
+    "salmon",
+    "panseared"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-chill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:49:53.013Z"
+}
