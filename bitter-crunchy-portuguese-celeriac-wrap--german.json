@@ -1,0 +1,67 @@
+{
+  "slug": "bitter-crunchy-portuguese-celeriac-wrap--german",
+  "title": "Celeriac and Cucumber Schnitzel Wrap",
+  "description": "A light and crispy German-inspired schnitzel wrap featuring celeriac, cucumber, and a hint of bitterness from the bitter greens.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "bitter greens",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "portuguese wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Dredge the celeriac slices in a mixture of flour and salt.",
+    "Add the celeriac to the pan and cook until golden brown, about 3-4 minutes per side.",
+    "Meanwhile, toast the wrap in the pan for a few seconds on each side.",
+    "Assemble the wrap by spreading the toasted wrap with the cooked celeriac, cucumber, and bitter greens.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "snack",
+    "celeriac",
+    "cucumber",
+    "bitter-greens"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-portuguese-celeriac-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:02:40.216Z"
+}
