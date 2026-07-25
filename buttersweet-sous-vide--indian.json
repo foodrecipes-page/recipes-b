@@ -1,0 +1,96 @@
+{
+  "slug": "buttersweet-sous-vide--indian",
+  "title": "Sous Vide Chicken Tikka Masala",
+  "description": "A twist on the classic Indian dish, using sous vide to cook the chicken to perfection. Serve with basmati rice and naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Buttersweet",
+      "amount": "120g",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Sous vide machine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Kashmiri red chili powder",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "250g",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "250g",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, garam masala, cumin powder, coriander powder, and Kashmiri red chili powder.",
+    "In a blender, blend the yogurt, buttersweet, and 1 cup of water to make a marinade.",
+    "Add the marinade to the chicken and mix well.",
+    "Seal the chicken in a sous vide bag and cook at 63°C (145°F) for 2 hours.",
+    "Heat some oil in a pan and sauté the onions until they're lightly browned.",
+    "Add the tomatoes and cook for 10-12 minutes or until the sauce thickens.",
+    "Stir in the heavy cream and bring the sauce to a simmer.",
+    "Add the cooked chicken to the sauce and mix well.",
+    "Serve the chicken in the sauce with basmati rice and naan bread.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttersweet-sous-vide--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:54:33.309Z"
+}
