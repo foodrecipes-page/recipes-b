@@ -1,0 +1,96 @@
+{
+  "slug": "boiling-kid-friendly-algerian-water-tagine",
+  "title": "Delicious Algerian Kid Tagine",
+  "description": "A traditional Algerian dish, this recipe is a flavorful and hearty stew made with tender lamb, vegetables, and aromatic spices. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat",
+    "easy-to-digest"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kid (lamb)",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for the tagine"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the lamb pieces and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the water, Algerian spice blend, tomato paste (if using), salt, and black pepper.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low, cover the tagine, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "kid",
+    "stew",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiling-kid-friendly-algerian-water-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:48:30.845Z"
+}
