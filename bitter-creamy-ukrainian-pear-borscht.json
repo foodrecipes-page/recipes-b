@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-creamy-ukrainian-pear-borscht",
+  "title": "Borscht Soup",
+  "description": "A traditional Ukrainian soup made with beets, vegetables, and sour cream. This recipe serves 4-6 people and can be made ahead of time.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium, peeled and grated"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large, peeled and grated"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Borscht",
+      "amount": "2 cups, vegetable or beef broth"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup, for serving"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add beets, carrots, and borscht. Bring to a boil, then reduce heat and simmer until vegetables are tender, about 20-25 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of sour cream and a sprinkle of chopped fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "borscht",
+    "ukrainian",
+    "soup",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-creamy-ukrainian-pear-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:15:10.887Z"
+}
