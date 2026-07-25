@@ -5078,18 +5078,14 @@
   },
   {
     "slug": "buttery-crispy-chicken-algerian-crumble",
-    "title": "Buttery Crispy Chicken Algerian Cumble",
+    "title": "Chicken Crumble with Algerian Spice",
     "tags": [
-      "algerian",
-      "buttery",
-      "cuisine-specific",
-      "crispy",
-      "dinner-snack",
-      "dish-for-sick-day",
-      "raw-friendly"
+      "chicken",
+      "north-african",
+      "crumble-topping"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "b"
   },
   {
