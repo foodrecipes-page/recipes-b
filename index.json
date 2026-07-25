@@ -9593,5 +9593,17 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttersweet-sous-vide--indian",
+    "title": "Sous Vide Chicken Tikka Masala",
+    "tags": [
+      "indian",
+      "chicken",
+      "sous-vide"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 150,
+    "shard": "b"
   }
 ]
