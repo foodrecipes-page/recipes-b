@@ -9464,5 +9464,19 @@
     "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-fluffy-saudia-fish-stir-fry--french",
+    "title": "Pan-Seared Fish with Bitter Fritters",
+    "tags": [
+      "fish",
+      "vegetarian",
+      "french",
+      "lunch",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "b"
   }
 ]
