@@ -798,16 +798,13 @@
   },
   {
     "slug": "bitter-creamy-ukrainian-pear-borscht",
-    "title": "Bitter Creamy Ukrainian Pear Borscht",
+    "title": "Borscht Soup",
     "tags": [
+      "borscht",
       "ukrainian",
-      "pear",
-      "bitter",
-      "creamy",
-      "low-calorie",
+      "soup",
       "vegetarian",
-      "meal-prep",
-      "borscht"
+      "gluten-free"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
@@ -3351,17 +3348,16 @@
   },
   {
     "slug": "boiling-kid-friendly-algerian-water-tagine",
-    "title": "Kid-friendly Algerian Water Tagine",
+    "title": "Delicious Algerian Kid Tagine",
     "tags": [
       "algerian",
-      "briny",
-      "cheese-pull",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "kid",
+      "stew",
+      "lamb",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 110,
     "shard": "b"
   },
   {
@@ -9444,6 +9440,19 @@
       "mexican"
     ],
     "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-silky-american-chicken-bisque--indian",
+    "title": "Creamy Chicken Bisque",
+    "tags": [
+      "indian",
+      "soup",
+      "chicken",
+      "bisque"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "b"
   }
