@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-zanzibari-red-snapper-bowl--chinese",
+  "title": "Pan-Seared Snapper with Zanzibari Sauce",
+  "description": "A flavorful Chinese-inspired dish featuring pan-seared snapper topped with a zesty zanzibari sauce. This recipe serves 2 and can be prepared in under 30 minutes.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper",
+      "amount": "2 fillets",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "zanzibari",
+      "amount": "2 tablespoons",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "Large, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Pat the snapper fillets dry with a paper towel.",
+    "Add the buttery to the skillet and melt.",
+    "Sear the snapper fillets for 3-4 minutes per side, or until cooked through.",
+    "While the snapper cooks, mix the zanzibari, red, and a pinch of salt in a small bowl.",
+    "Serve the snapper fillets topped with the zanzibari sauce.",
+    "Garnish with additional zanzibari, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "seafood",
+    "pan-seared-fish",
+    "zanzibari-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-zanzibari-red-snapper-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:15:39.529Z"
+}
