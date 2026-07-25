@@ -1,0 +1,60 @@
+{
+  "slug": "buttery-crisp-middle-eastern-flatbread-grill--keto",
+  "title": "Keto Eastern-Style Flatbread",
+  "description": "A tasty and crispy flatbread recipe suitable for a keto diet, inspired by the flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery Flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Eastern Spice Mix",
+      "amount": "1 tsp",
+      "notes": "mix of paprika, garlic powder, salt, and pepper"
+    },
+    {
+      "name": "Grilled Crisp",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crunchy Chopped Herbs",
+      "amount": "1/4 cup",
+      "notes": "optional: chopped parsley, cilantro, or dill"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium heat.",
+    "2. Cut the buttery flatbread into desired shapes or sizes.",
+    "3. Brush both sides of the flatbread with a small amount of oil.",
+    "4. Sprinkle the eastern spice mix evenly over the flatbread.",
+    "5. Grill the flatbread for 2-3 minutes per side, or until crispy and golden brown.",
+    "6. Sprinkle the grilled crisp over the flatbread, followed by crunchy chopped herbs if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "middle-eastern",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-middle-eastern-flatbread-grill--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:59:55.034Z"
+}
