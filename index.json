@@ -9451,5 +9451,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-aerated-chinese-rice-fried-rice--vegan",
+    "title": "Vegan Fried Rice",
+    "tags": [
+      "chinese",
+      "vegan",
+      "fried-rice",
+      "rice-based"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
