@@ -9489,5 +9489,19 @@
     "cuisine": "thai",
     "totalTimeMin": 170,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crispy-saudi-arabian-pul-biber-flatbread--indian",
+    "title": "Crispy Flatbread with Spicy Pul Sauce",
+    "tags": [
+      "indian",
+      "snack",
+      "flatbread",
+      "pul",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
