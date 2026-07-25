@@ -1,0 +1,75 @@
+{
+  "slug": "bitter-fluffy-saudia-fish-stir-fry--french",
+  "title": "Pan-Seared Fish with Bitter Fritters",
+  "description": "A classic French dish featuring pan-seared fish served with crispy bitter fritters and a side of fluffy rice.",
+  "cuisine": "french",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4",
+      "notes": "White fish such as cod or tilapia"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Saudia spice blend",
+      "amount": "1 tsp",
+      "notes": "French spice mix"
+    },
+    {
+      "name": "Stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "Fry batter",
+      "amount": "1 cup",
+      "notes": "All-purpose flour and egg mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "Season fish fillets with saudia spice blend",
+    "Pan-sear fish in stir-fry oil for 3-4 minutes per side",
+    "Bake fish in oven for 8-10 minutes or until cooked through",
+    "Mix fluffy rice with chopped bitter greens",
+    "Prepare fry batter and dip bitter greens in batter",
+    "Fry bitter greens in stir-fry oil until crispy",
+    "Serve pan-seared fish with crispy bitter fritters and fluffy rice"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "vegetarian",
+    "french",
+    "lunch",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-fluffy-saudia-fish-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:42:11.271Z"
+}
