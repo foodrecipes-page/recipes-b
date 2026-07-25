@@ -1,0 +1,72 @@
+{
+  "slug": "bitter-chewy-indulgent-yogurt-crumble--chinese",
+  "title": "Crispy Bitter Crumble Dessert",
+  "description": "A sweet and crunchy dessert inspired by Chinese flavors, featuring a crumbly topping and creamy yogurt.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bitter chocolate",
+      "amount": "1 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "Chewy oatmeal",
+      "amount": "1/2 cup",
+      "notes": "old-fashioned"
+    },
+    {
+      "name": "Indulgent brown sugar",
+      "amount": "1/4 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, whisk together the chocolate, oatmeal, and brown sugar.",
+    "3. Add the yogurt and mix until a dough forms.",
+    "4. Roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "5. Cut into desired shapes using a cookie cutter or the rim of a glass.",
+    "6. Place on a baking sheet lined with parchment paper.",
+    "7. Sprinkle the crumble topping evenly over the dough.",
+    "8. Bake for 18-20 minutes or until the edges are golden brown.",
+    "9. Remove from the oven and let cool on a wire rack for 5 minutes.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "chinese",
+    "yogurt",
+    "bitter",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-indulgent-yogurt-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:39:44.938Z"
+}
