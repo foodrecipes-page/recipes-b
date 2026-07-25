@@ -9540,5 +9540,45 @@
     "cuisine": "japanese",
     "totalTimeMin": 18,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-crunchy-portuguese-celeriac-wrap--german",
+    "title": "Celeriac and Cucumber Schnitzel Wrap",
+    "tags": [
+      "german",
+      "snack",
+      "celeriac",
+      "cucumber",
+      "bitter-greens"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-zanzibari-red-snapper-bowl--chinese",
+    "title": "Pan-Seared Snapper with Zanzibari Sauce",
+    "tags": [
+      "chinese-food",
+      "seafood",
+      "pan-seared-fish",
+      "zanzibari-sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-crunchy-british-onion-wrap--vegan",
+    "title": "Vegan Wrap",
+    "tags": [
+      "vegan",
+      "snack",
+      "wrap",
+      "british"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
+    "shard": "b"
   }
 ]
