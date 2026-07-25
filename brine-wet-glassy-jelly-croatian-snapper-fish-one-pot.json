@@ -1,0 +1,76 @@
+{
+  "slug": "brine-wet-glassy-jelly-croatian-snapper-fish-one-pot",
+  "title": "Pan-Seared Snapper with Croatian Salsa",
+  "description": "A flavorful and easy-to-make fish dish featuring pan-seared snapper served with a refreshing Croatian-inspired salsa.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Croatian salsa (see below for ingredients)",
+      "amount": "1 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Glassy croatian fish",
+      "amount": "1/4 cup",
+      "notes": "Finely chopped, for garnish"
+    },
+    {
+      "name": "Wet brine",
+      "amount": "1/4 cup",
+      "notes": "Used for marinating snapper"
+    },
+    {
+      "name": "Jelly",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for thickening salsa"
+    },
+    {
+      "name": "Pot of water",
+      "amount": "4 cups",
+      "notes": "For boiling snapper before searing"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the snapper fillets and pat them dry with paper towels.",
+    "2. In a large bowl, mix together wet brine, snapper fillets, and a pinch of salt. Refrigerate for at least 30 minutes.",
+    "3. Preheat a skillet over medium-high heat.",
+    "4. Remove snapper fillets from brine, shaking off excess liquid.",
+    "5. Add 2 tablespoons of oil to the skillet and sear snapper fillets for 3-4 minutes per side.",
+    "6. Transfer snapper fillets to a plate and cover with foil to keep warm.",
+    "7. In the same skillet, add 1/4 cup of chopped glassy croatian fish and cook for 1-2 minutes.",
+    "8. Stir in 1 cup of Croatian salsa and bring to a simmer.",
+    "9. Reduce heat to low and let the salsa simmer for 2-3 minutes.",
+    "10. To serve, place a snapper fillet on each plate, spoon some salsa over the top, and garnish with additional chopped glassy croatian fish if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "mediterranean",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brine-wet-glassy-jelly-croatian-snapper-fish-one-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:35:27.890Z"
+}
