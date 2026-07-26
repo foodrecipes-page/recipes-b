@@ -1,0 +1,81 @@
+{
+  "slug": "bitter-crisp-peruvian-pork-stir-fry--italian",
+  "title": "Italian-Style Stir-Fried Pork Chops",
+  "description": "A fusion of Italian flavors with a Peruvian twist, this stir-fry is a unique and delicious meal option.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably thinly sliced"
+    },
+    {
+      "name": "bitter greens",
+      "amount": "1 bunch",
+      "notes": "such as arugula or kale"
+    },
+    {
+      "name": "crisp bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian aji amarillo pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork chops and cook until browned, about 2-3 minutes per side.",
+    "Remove the pork chops from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the bitter greens and crisp bell peppers to the skillet and cook until the vegetables are tender-crisp, about 2-3 minutes.",
+    "Add the cooked pork chops back into the skillet and stir in the peruvian aji amarillo pepper flakes, if using.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir-fry hot, garnished with additional bitter greens if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "stir-fry",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-peruvian-pork-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:08:31.484Z"
+}
