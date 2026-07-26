@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-festive-egg-roll-bhuna--german",
+  "title": "German Festive Bhuna Roll",
+  "description": "A German-inspired dish featuring a festive bhuna roll filled with a rich egg mixture.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "festive roll",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "bhuna",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "Beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Unroll the festive roll and place it on a baking sheet.",
+    "In a bowl, mix together the bhuna and beaten egg.",
+    "Spread the bhuna-egg mixture evenly onto the center of the roll, leaving a 1-inch border around the edges.",
+    "Fold the edges of the roll over the filling to form a rectangular shape.",
+    "Brush the top of the roll with the buttery.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "festival"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-festive-egg-roll-bhuna--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:02:43.903Z"
+}
