@@ -1,0 +1,57 @@
+{
+  "slug": "bitter-juicy-uruguayan-strawberries-toast--mexican",
+  "title": "Strawberry Tostada",
+  "description": "A sweet Mexican twist on the classic breakfast tostada, featuring fresh strawberries and a hint of bitterness.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "uruguayan toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "bitter strawberries",
+      "amount": "1 pint, hulled and sliced"
+    },
+    {
+      "name": "juicy strawberries",
+      "amount": "1 pint, hulled and sliced"
+    },
+    {
+      "name": "strawberry jam",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Toast the uruguayan toast until lightly browned.",
+    "In a separate bowl, mix together the sliced bitter and juicy strawberries.",
+    "Top each toasted slice with a spoonful of the strawberry mixture and a dollop of strawberry jam.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "mexican",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-juicy-uruguayan-strawberries-toast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:53:43.109Z"
+}
