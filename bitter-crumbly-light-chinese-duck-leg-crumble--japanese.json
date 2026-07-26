@@ -1,0 +1,80 @@
+{
+  "slug": "bitter-crumbly-light-chinese-duck-leg-crumble--japanese",
+  "title": "Japanese Crispy Duck Leg",
+  "description": "A crispy Japanese inspired dish made with pan-seared duck leg and a crunchy topping.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck Leg",
+      "amount": "2",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Light Breading",
+      "amount": "1 cup",
+      "notes": "panko"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup",
+      "notes": "pork-free"
+    },
+    {
+      "name": "Bitter Chinese Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Rinse the duck leg and pat it dry.",
+    "2. Season the duck leg with salt and pepper.",
+    "3. Mix the light breading and crumble in a shallow dish.",
+    "4. Dip the duck leg in the breading mixture, coating it evenly.",
+    "5. Heat the vegetable oil in a pan over medium-high heat.",
+    "6. Sear the duck leg for 5 minutes on each side, until crispy.",
+    "7. Transfer the duck leg to the oven and bake at 400°F (200°C) for 15-20 minutes, until cooked through.",
+    "8. Meanwhile, heat the bitter Chinese sauce in a saucepan over medium heat.",
+    "9. Brush the sauce over the duck leg during the last 2 minutes of cooking.",
+    "10. Let the duck leg rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "crispy",
+    "duck-leg"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crumbly-light-chinese-duck-leg-crumble--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:35:29.937Z"
+}
