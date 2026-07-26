@@ -9452,15 +9452,15 @@
   },
   {
     "slug": "bitter-aerated-chinese-rice-fried-rice--vegan",
-    "title": "Vegan Fried Rice",
+    "title": "Crispy Vegan Fried Rice",
     "tags": [
-      "chinese",
       "vegan",
-      "fried-rice",
-      "rice-based"
+      "snack",
+      "chinese",
+      "fried-rice"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
