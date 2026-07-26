@@ -3063,14 +3063,14 @@
   },
   {
     "slug": "blackberry-knit",
-    "title": "Blackberry Knit",
+    "title": "Blackberry Crisp",
     "tags": [
       "blackberry",
-      "garlic",
-      "whole30"
+      "crisp",
+      "dessert"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "b"
   },
   {
@@ -9743,6 +9743,33 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 60,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-mexican-mars-bar-taco--vegetarian",
+    "title": "Mars Taco Bars",
+    "tags": [
+      "tacos",
+      "cheese",
+      "mexican",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-silk-pasta-stir-fry--mexican",
+    "title": "Mexican Stir-Fry Pasta",
+    "tags": [
+      "quick-and-easy",
+      "mexican",
+      "tofu",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "b"
   }
 ]
