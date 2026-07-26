@@ -1,0 +1,59 @@
+{
+  "slug": "bok-choy-baiser",
+  "title": "Braised Bok Choy with Garlic and Ginger",
+  "description": "A simple and flavorful side dish made with bok choy, garlic, and ginger. This recipe is great for a quick weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choy",
+      "amount": "1 large bunch"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large skillet or wok over medium-high heat.",
+    "2. Add garlic and ginger to the skillet and stir-fry for 1-2 minutes until fragrant.",
+    "3. Add bok choy to the skillet and stir-fry for 2-3 minutes until wilted.",
+    "4. Season with salt and pepper to taste.",
+    "5. Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bok-choy",
+    "garlic",
+    "ginger",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bok-choy-baiser",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:11:41.518Z"
+}
