@@ -1,0 +1,79 @@
+{
+  "slug": "bouncy-qq-salty-turkish-flour-tortilla-quesadilla--german",
+  "title": "German Quesadilla Bratwurst",
+  "description": "A twist on traditional German bratwurst, wrapped in a crispy tortilla with melted cheese and savory spices.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausage",
+      "amount": "4"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "Cheese (Semi-Smoked Cheddar)",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Salty Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Turkish Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bouncy Beer (optional)",
+      "amount": "1 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "QQ Caramelized Onions",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet to medium-high heat.",
+    "2. Add the Bratwurst sausages to the skillet and cook until browned on all sides, about 5 minutes.",
+    "3. Meanwhile, mix the shredded cheese with the Turkish pepper and set aside.",
+    "4. Place a large tortilla in the skillet and sprinkle with the cheese mixture.",
+    "5. Add a cooked Bratwurst sausage on half of the tortilla, leaving a small border around the edges.",
+    "6. Fold the tortilla in half to enclose the sausage.",
+    "7. Cook for an additional 2-3 minutes or until the cheese is melted and the tortilla is crispy.",
+    "8. Repeat with the remaining sausages and tortillas.",
+    "9. Serve hot with a side of QQ Caramelized Onions and a dollop of Bouncy Beer-infused sour cream (if using).",
+    "10. Garnish with chopped fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "quesadilla",
+    "cheese",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-qq-salty-turkish-flour-tortilla-quesadilla--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:20:30.374Z"
+}
