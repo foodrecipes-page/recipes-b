@@ -9785,5 +9785,17 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-thai-chicken-pilaf--indian",
+    "title": "Indian-Style Chicken and Pilaf",
+    "tags": [
+      "indian-food",
+      "chicken-recipes",
+      "pilaf-recipes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
