@@ -1,0 +1,85 @@
+{
+  "slug": "buttery-silk-pasta-stir-fry--mexican",
+  "title": "Mexican Stir-Fry Pasta",
+  "description": "Quick and flavorful Mexican-inspired stir-fry pasta dish made with silk tofu and a hint of buttery goodness.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silk tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to the package instructions and set aside.",
+    "In a pan, melt butter over medium heat.",
+    "Add chili flakes, cumin, and garlic. Sauté for 1 minute.",
+    "Add silk tofu and stir-fry until golden brown.",
+    "Add lime juice and stir-fry for another minute.",
+    "Add cooked pasta and toss everything together.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick-and-easy",
+    "mexican",
+    "tofu",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-silk-pasta-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:40:34.302Z"
+}
