@@ -1,0 +1,80 @@
+{
+  "slug": "bake-blend-seafood-bake",
+  "title": "Pan-Seared Fish with Lemon",
+  "description": "A simple and flavorful dish that showcases the freshness of seafood. Perfect for a weeknight dinner.",
+  "cuisine": "Seafood",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Cod or tilapia work well"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "Juice and slices"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillets with salt and pepper.",
+    "In a skillet, melt 1 tablespoon of butter over medium heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the fish fillets and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes.",
+    "While the fish is cooking, squeeze the lemon juice over the top and sprinkle with parsley.",
+    "Remove the skillet from the oven and serve the fish hot.",
+    "Serve with additional lemon wedges and parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "fish",
+    "lemon",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bake-blend-seafood-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:45:29.214Z"
+}
