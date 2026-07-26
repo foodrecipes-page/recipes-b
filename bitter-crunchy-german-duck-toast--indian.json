@@ -1,0 +1,93 @@
+{
+  "slug": "bitter-crunchy-german-duck-toast--indian",
+  "title": "Pan-Seared Duck in Indian Spice Crust",
+  "description": "A flavorful and aromatic duck dish with a crunchy German-inspired spice crust, served with toasted bread. This Indian-inspired recipe combines the bold flavors of cumin and coriander with the richness of duck.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "German bread (for toast)",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Bitter gourd (optional)",
+      "amount": "1",
+      "notes": "optional for added flavor"
+    },
+    {
+      "name": "Crunchy rice flakes",
+      "amount": "1/4 cup",
+      "notes": "for spice crust"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and black pepper.",
+    "Mix together cumin, coriander, garam masala, and salt for the spice crust.",
+    "Coat the duck breast with the spice crust mixture, pressing gently to adhere.",
+    "Heat 1 tablespoon of vegetable oil in an oven-safe skillet over medium-high heat. Sear the duck breast until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the duck for 12-15 minutes, or until cooked to your liking.",
+    "Meanwhile, toast the German bread and slice into 1-inch pieces.",
+    "If using bitter gourd, slice into thin rounds and set aside.",
+    "To serve, slice the roasted duck breast and serve with toasted bread, bitter gourd (if using), and a sprinkle of crunchy rice flakes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "duck-recipe",
+    "german-spice-crust",
+    "crunchy-snack"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-german-duck-toast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:06:06.173Z"
+}
