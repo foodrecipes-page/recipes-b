@@ -1,76 +1,62 @@
 {
   "slug": "bitter-aerated-chinese-rice-fried-rice--vegan",
-  "title": "Vegan Fried Rice",
-  "description": "A classic Chinese-inspired vegan dish made with fried rice, vegetables, and spices.",
-  "cuisine": "Chinese",
+  "title": "Crispy Vegan Fried Rice",
+  "description": "A vegan version of the classic Chinese dish, made with fried rice and served as a crispy snack.",
+  "cuisine": null,
   "diet": [
     "vegan"
   ],
-  "meal": "lunch",
+  "meal": "snack",
   "ingredients": [
     {
-      "name": "Rice",
-      "amount": "2 cups cooked"
+      "name": "Chinese rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
     },
     {
-      "name": "Bitter melon",
-      "amount": "1 cup sliced"
+      "name": "Fried rice",
+      "amount": "1 cup",
+      "notes": "preferably cold"
     },
     {
-      "name": "Aerated water",
-      "amount": "1 cup"
+      "name": "Bitter",
+      "amount": "1 tablespoon",
+      "notes": "bitter melon, finely chopped"
     },
     {
-      "name": "Vegan oil",
-      "amount": "2 tablespoons"
-    },
-    {
-      "name": "Ginger",
-      "amount": "1 tablespoon grated",
-      "notes": "optional"
-    },
-    {
-      "name": "Soy sauce (vegan)",
-      "amount": "1 tablespoon"
-    },
-    {
-      "name": "Salt",
-      "amount": "to taste"
-    },
-    {
-      "name": "Fried shallots",
-      "amount": "1/4 cup"
+      "name": "Aerated",
+      "amount": "1/4 cup",
+      "notes": "club soda"
     }
   ],
   "instructions": [
-    "Heat the vegan oil in a wok or large skillet over medium-high heat.",
-    "Add the ginger and bitter melon, and stir-fry for 2-3 minutes.",
-    "Add the cooked rice to the wok, breaking up any clumps with a spatula.",
-    "Stir-fry the rice for 2-3 minutes, until it's heated through and starting to brown.",
-    "Add the aerated water to the wok, and stir-fry for another 2-3 minutes, until the rice is lightly separated.",
-    "Add the soy sauce and salt to the wok, and stir-fry for 1 minute.",
-    "Transfer the fried rice to a serving platter, and garnish with fried shallots.",
-    "Serve immediately."
+    "Heat a non-stick pan over medium-high heat.",
+    "Add the chopped bitter melon and cook until it starts to brown.",
+    "Add the cold fried rice to the pan and stir-fry for 2-3 minutes.",
+    "Pour in the club soda and stir-fry for another minute.",
+    "Use a spatula to break up any clumps and separate the rice into individual grains.",
+    "Continue cooking for another 2-3 minutes, stirring frequently.",
+    "Remove from heat and serve immediately."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
-  "servings": 4,
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "chinese",
     "vegan",
-    "fried-rice",
-    "rice-based"
+    "snack",
+    "chinese",
+    "fried-rice"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 5,
-    "carbs": 60,
-    "fat": 10
+    "calories": 250,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 5
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/bitter-aerated-chinese-rice-fried-rice--vegan",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T16:23:26.753Z"
+  "createdAt": "2026-07-21T20:45:04.586Z"
 }
