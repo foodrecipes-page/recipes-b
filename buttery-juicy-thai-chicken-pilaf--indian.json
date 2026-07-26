@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-juicy-thai-chicken-pilaf--indian",
+  "title": "Indian-Style Chicken and Pilaf",
+  "description": "A flavorful and aromatic chicken pilaf dish inspired by Indian cuisine. This recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless, cut into 1-inch pieces"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "juicy",
+      "amount": "1 large onion",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "thai",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of melted butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of melted butter. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the uncooked pilaf to the skillet and stir to combine with the onion and garlic mixture.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes or until the pilaf is cooked and fluffy.",
+    "Return the cooked chicken to the skillet and stir to combine with the pilaf.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "chicken-recipes",
+    "pilaf-recipes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-thai-chicken-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:00:52.348Z"
+}
