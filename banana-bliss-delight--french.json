@@ -1,0 +1,75 @@
+{
+  "slug": "banana-bliss-delight--french",
+  "title": "Banana Delight Tart",
+  "description": "A French-inspired dessert featuring caramelized banana, topped with a crunchy delight crust.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "3"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for crust"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "bliss",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour and sugar.",
+    "Add cold butter and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press mixture into a 9-inch tart pan with a removable bottom.",
+    "Bake for 18-20 minutes or until lightly golden.",
+    "In a separate bowl, whisk together eggs, bliss, and vanilla extract.",
+    "Arrange bananas on top of the baked crust.",
+    "Pour egg mixture over bananas.",
+    "Return to oven and bake for an additional 20-25 minutes or until the filling is set.",
+    "Allow to cool before serving.",
+    "Garnish with additional bliss, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "french",
+    "bananas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/banana-bliss-delight--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:40:27.278Z"
+}
