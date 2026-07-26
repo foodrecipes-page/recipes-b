@@ -9631,5 +9631,18 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-creamy-dates-stir-fry--chinese",
+    "title": "Stir Fried Dates",
+    "tags": [
+      "chinese",
+      "dessert",
+      "sweet",
+      "dates"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "b"
   }
 ]
