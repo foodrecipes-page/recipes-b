@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-juicy-suet-croissant--french",
+  "title": "French Croissant Suet Puff Pastry",
+  "description": "A flaky and buttery French pastry puff made with suet and croissant dough. Perfect for a snack or dessert.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Croissant dough",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Suet",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out croissant dough to a thickness of 1/4 inch.",
+    "Brush melted suet and buttery over the dough, leaving a 1-inch border around the edges.",
+    "Brush beaten egg over the edges of the dough to seal.",
+    "Fold the dough in half lengthwise, and press edges to seal.",
+    "Cut into desired shapes using a pastry cutter or knife.",
+    "Place on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Let cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pastry",
+    "suet",
+    "croissant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-suet-croissant--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:54:47.322Z"
+}
