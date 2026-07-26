@@ -9605,5 +9605,31 @@
     "cuisine": "indian",
     "totalTimeMin": 150,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-kenyan-cacao-brew--keto",
+    "title": "Kenyan Cacao Brew",
+    "tags": [
+      "coffee",
+      "cacao",
+      "keto",
+      "coffecacao"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 5,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-crunchy-german-duck-toast--indian",
+    "title": "Pan-Seared Duck in Indian Spice Crust",
+    "tags": [
+      "indian-food",
+      "duck-recipe",
+      "german-spice-crust",
+      "crunchy-snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "b"
   }
 ]
