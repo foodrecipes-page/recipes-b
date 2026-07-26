@@ -3362,15 +3362,15 @@
   },
   {
     "slug": "bok-choy-baiser",
-    "title": "Bok Choy Baiser",
+    "title": "Braised Bok Choy with Garlic and Ginger",
     "tags": [
-      "bok choy",
-      "raspberry",
-      "roasted",
-      "buttery"
+      "bok-choy",
+      "garlic",
+      "ginger",
+      "vegetarian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
     "shard": "b"
   },
   {
@@ -9680,6 +9680,57 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-crisp-peruvian-pork-stir-fry--italian",
+    "title": "Italian-Style Stir-Fried Pork Chops",
+    "tags": [
+      "italian",
+      "pork",
+      "stir-fry",
+      "peruvian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-fluffy-japanese-rice-curry--french",
+    "title": "Japanese Curry over French Rice",
+    "tags": [
+      "japanese",
+      "curry",
+      "french",
+      "rice"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 8,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-crumbly-light-chinese-duck-leg-crumble--japanese",
+    "title": "Japanese Crispy Duck Leg",
+    "tags": [
+      "japanese",
+      "crispy",
+      "duck-leg"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-juicy-uruguayan-strawberries-toast--mexican",
+    "title": "Strawberry Tostada",
+    "tags": [
+      "breakfast",
+      "mexican",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
     "shard": "b"
   }
 ]
