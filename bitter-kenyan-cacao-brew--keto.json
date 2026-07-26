@@ -1,0 +1,66 @@
+{
+  "slug": "bitter-kenyan-cacao-brew--keto",
+  "title": "Kenyan Cacao Brew",
+  "description": "A rich and bold keto coffee drink inspired by the flavors of Kenya.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan coffee",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brewed cacao powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sweetener (e.g. erythritol)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brew a cup of Kenyan coffee according to the package instructions.",
+    "In a separate bowl, mix together brewed cacao powder and heavy cream until smooth.",
+    "Add granulated sweetener to the cacao mixture and stir until combined.",
+    "Pour the cacao mixture into the coffee and stir well.",
+    "Fill a glass with ice and pour the coffee-cacao mixture over the ice.",
+    "Stir well and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "coffee",
+    "cacao",
+    "keto",
+    "coffecacao"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 5,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-kenyan-cacao-brew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:07:42.424Z"
+}
