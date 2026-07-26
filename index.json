@@ -9644,5 +9644,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-crisp-peruvian-pork-stir-fry--japanese",
+    "title": "Japanese-Style Pork Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "pork"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "b"
   }
 ]
