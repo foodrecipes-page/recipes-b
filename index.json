@@ -9732,5 +9732,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 15,
     "shard": "b"
+  },
+  {
+    "slug": "banana-bliss-delight--french",
+    "title": "Banana Delight Tart",
+    "tags": [
+      "dessert",
+      "french",
+      "bananas"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "b"
   }
 ]
