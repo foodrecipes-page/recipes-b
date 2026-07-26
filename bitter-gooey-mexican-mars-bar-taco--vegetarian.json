@@ -1,0 +1,80 @@
+{
+  "slug": "bitter-gooey-mexican-mars-bar-taco--vegetarian",
+  "title": "Mars Taco Bars",
+  "description": "A vegetarian twist on traditional taco bars, featuring gooey cheese and crunchy taco shells.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taco shells",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Mars cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Mexican seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Taco sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Bitter lettuce",
+      "amount": "1 head, shredded",
+      "notes": null
+    },
+    {
+      "name": "Bar fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Arrange taco shells in a single layer on a baking sheet.",
+    "Sprinkle Mars cheddar cheese over the top of the taco shells.",
+    "Bake for 5-7 minutes, or until cheese is melted and bubbly.",
+    "While cheese is baking, mix together taco sauce and Mexican seasoning in a small bowl.",
+    "Remove taco shells from oven and top each shell with a spoonful of the taco sauce mixture.",
+    "Sprinkle gooey cheese over the top of each taco shell.",
+    "Bake for an additional 2-3 minutes, or until cheese is melted and bubbly.",
+    "Top with bitter lettuce and bar fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "cheese",
+    "mexican",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-mexican-mars-bar-taco--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:13:10.545Z"
+}
