@@ -1,0 +1,60 @@
+{
+  "slug": "buttery-creamy-dates-stir-fry--chinese",
+  "title": "Stir Fried Dates",
+  "description": "A simple Chinese-inspired dessert recipe, perfect for warm weather. This sweet treat takes only minutes to prepare and is a great way to showcase the natural sweetness of dates.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Stir",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fry",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Add the melted buttery to the pan.",
+    "3. Add the dates to the pan and cook for 2-3 minutes on each side, until they are caramelized.",
+    "4. Serve the dates hot, garnished with a stir and fry."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "dessert",
+    "sweet",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 1,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-dates-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:20:59.608Z"
+}
