@@ -1,0 +1,70 @@
+{
+  "slug": "buttery-crunchy-indian-shrimp-wrap--chinese",
+  "title": "Crunchy Shrimp Wrap",
+  "description": "A quick and easy Chinese-inspired shrimp wrap, perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "wrap",
+      "amount": "4 large flour tortillas",
+      "notes": "any brand"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted butter"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "chopped scallions"
+    },
+    {
+      "name": "indian",
+      "amount": "2 teaspoons",
+      "notes": "chopped cilantro"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan or wok over medium-high heat.",
+    "Add the shrimp and cook for 2-3 minutes, or until pink and fully cooked.",
+    "Remove the shrimp from the pan and set aside.",
+    "Add the melted butter to the pan and stir-fry for 30 seconds.",
+    "Add the chopped scallions and cook for 1 minute, or until slightly softened.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing the cooked shrimp in the center, then topping with the scallion mixture and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "shrimp",
+    "wrap",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crunchy-indian-shrimp-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:50:58.826Z"
+}
