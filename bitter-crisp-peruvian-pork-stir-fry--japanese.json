@@ -1,0 +1,83 @@
+{
+  "slug": "bitter-crisp-peruvian-pork-stir-fry--japanese",
+  "title": "Japanese-Style Pork Stir Fry",
+  "description": "A quick and easy stir fry recipe using pork and Japanese-inspired flavors. Perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork loin (1 pound)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bitter gourd (1 medium)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Crisp-fried shallots (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper (1 small)",
+      "amount": "1",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cooking oil (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil (1 teaspoon)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of cooking oil in a large skillet over medium-high heat.",
+    "2. Add the pork loin to the skillet and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "3. Transfer the pork loin to a plate and set aside.",
+    "4. Add the bitter gourd to the skillet and cook for 2-3 minutes, or until slightly tender.",
+    "5. Add the crisp-fried shallots and Peruvian aji amarillo pepper (if using) to the skillet and cook for an additional minute.",
+    "6. Return the pork loin to the skillet and stir in soy sauce and sesame oil.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve the pork loin with the stir fry mixture spooned over the top.",
+    "9. Garnish with additional crisp-fried shallots and Peruvian aji amarillo pepper (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crisp-peruvian-pork-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:48:10.280Z"
+}
