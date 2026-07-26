@@ -9656,5 +9656,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-suet-croissant--french",
+    "title": "French Croissant Suet Puff Pastry",
+    "tags": [
+      "french",
+      "pastry",
+      "suet",
+      "croissant"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-festive-egg-roll-bhuna--german",
+    "title": "German Festive Bhuna Roll",
+    "tags": [
+      "german",
+      "breakfast",
+      "festival"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "b"
   }
 ]
