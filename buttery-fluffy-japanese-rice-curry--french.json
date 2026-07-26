@@ -1,0 +1,48 @@
+{
+  "slug": "buttery-fluffy-japanese-rice-curry--french",
+  "title": "Japanese Curry over French Rice",
+  "description": "A flavorful dish combining the spices of Japan with the elegance of French cuisine.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese Curry",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy Rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Japanese Curry in a pan over medium heat.",
+    "Add 1 tablespoon of buttery to the pan and stir until melted.",
+    "Add 1 cup of fluffy rice to the pan and stir until coated in the curry mixture.",
+    "Cook for 2-3 minutes, until the rice is heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "curry",
+    "french",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-japanese-rice-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:23:13.628Z"
+}
