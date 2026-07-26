@@ -1,15 +1,15 @@
 [
   {
     "slug": "bake-blend-seafood-bake",
-    "title": "Bake & Blend Seafood Bake",
+    "title": "Pan-Seared Fish with Lemon",
     "tags": [
-      "bake-and-blend",
-      "seafood-bake",
-      "whole30-friendly",
-      "light-dish"
+      "seafood",
+      "fish",
+      "lemon",
+      "butter"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "Seafood",
+    "totalTimeMin": 22,
     "shard": "b"
   },
   {
@@ -9770,6 +9770,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-qq-salty-turkish-flour-tortilla-quesadilla--german",
+    "title": "German Quesadilla Bratwurst",
+    "tags": [
+      "german",
+      "bratwurst",
+      "quesadilla",
+      "cheese",
+      "sausage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "b"
   }
 ]
