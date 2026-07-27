@@ -9860,5 +9860,30 @@
     "cuisine": "middle eastern",
     "totalTimeMin": 15,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-indian-post-workout-samosas--chinese",
+    "title": "Deep-Fried Samosas with Sweet Chili Sauce",
+    "tags": [
+      "chinese",
+      "snack",
+      "fry",
+      "sweet-chili-sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-suet-croissant--chinese",
+    "title": "Chinese Suet Croissant Pastry",
+    "tags": [
+      "chinese",
+      "dessert",
+      "pastry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "b"
   }
 ]
