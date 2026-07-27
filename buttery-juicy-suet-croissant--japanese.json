@@ -1,0 +1,79 @@
+{
+  "slug": "buttery-juicy-suet-croissant--japanese",
+  "title": "Japanese Suet Croissant",
+  "description": "A unique fusion of Japanese and French pastry, where suet replaces butter for a rich, savory flavor.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Suet",
+      "amount": "1 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Croissant dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 teaspoon",
+      "notes": "For color and flavor"
+    },
+    {
+      "name": "Red bean paste",
+      "amount": "1/2 cup",
+      "notes": "For filling"
+    },
+    {
+      "name": "Green tea leaves",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Matcha glaze",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Roll out the croissant dough to a thickness of 1/4 inch.",
+    "3. Cut the dough into rectangles, approximately 3x4 inches.",
+    "4. Mix the chopped suet with honey and matcha powder, if using.",
+    "5. Spread a layer of suet mixture on one half of the dough rectangle.",
+    "6. Place a spoonful of red bean paste on top of the suet mixture.",
+    "7. Fold the other half of the dough rectangle over the filling, pressing the edges to seal.",
+    "8. Place the suet croissant on a baking sheet lined with parchment paper.",
+    "9. Brush the tops with matcha glaze, if using.",
+    "10. Bake for 20-25 minutes, or until golden brown.",
+    "11. Garnish with green tea leaves and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "pastries",
+    "matcha"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-suet-croissant--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:34:39.337Z"
+}
