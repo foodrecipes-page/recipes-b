@@ -1,0 +1,54 @@
+{
+  "slug": "buttery-indian-post-workout-samosas--chinese",
+  "title": "Deep-Fried Samosas with Sweet Chili Sauce",
+  "description": "A Chinese-inspired twist on the Indian classic, perfect as a snack or dessert. Sweet chili sauce adds a spicy kick.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "samosas",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat buttery in a deep frying pan over medium-high heat.",
+    "2. Fry the samosas in batches until golden brown, about 3-4 minutes.",
+    "3. Drain the samosas on paper towels.",
+    "4. Serve the fried samosas with sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "fry",
+    "sweet-chili-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-indian-post-workout-samosas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:59:40.133Z"
+}
