@@ -1,0 +1,54 @@
+{
+  "slug": "buttery-crisp-middle-eastern-flatbread-grill--vegan",
+  "title": "Eastern-Style Vegan Flatbread",
+  "description": "A delicious and easy-to-make flatbread inspired by the flavors of the Middle East, now adapted to be vegan-friendly. Perfect for a quick snack or light meal.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 sheet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "middle eastern flatbread topping",
+      "amount": "1/4 cup",
+      "notes": "can be found in most supermarkets or replaced with a mixture of olive oil, chopped herbs, and spices"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "4 cups",
+      "notes": "any variety of crisp lettuce works well"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Brush the flatbread with the middle eastern flatbread topping.",
+    "Top with crisp lettuce.",
+    "Bake for 10-12 minutes, or until the flatbread is crispy and the lettuce is slightly wilted."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "easy",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crisp-middle-eastern-flatbread-grill--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:46:43.050Z"
+}
