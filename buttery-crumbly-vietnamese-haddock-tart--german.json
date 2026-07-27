@@ -1,0 +1,80 @@
+{
+  "slug": "buttery-crumbly-vietnamese-haddock-tart--german",
+  "title": "German Crispy Fish with Tart Crust",
+  "description": "A traditional German dish featuring crispy haddock in a buttery tart crust.",
+  "cuisine": "german",
+  "diet": [
+    "fish",
+    "gluten",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "to make tart crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for tart crust"
+    },
+    {
+      "name": "tart crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for fish"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for fish"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the haddock fillets with salt and black pepper.",
+    "Roll out the tart crust to a thickness of 1/8 inch.",
+    "Transfer the tart crust to a 9-inch tart pan with a removable bottom.",
+    "Place the haddock fillets on one half of the tart crust, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the tart crust over the fish, pressing the edges to seal.",
+    "Brush the tart crust with the melted butter.",
+    "Bake for 12-15 minutes or until the fish is cooked through and the crust is golden brown.",
+    "Serve with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-vietnamese-haddock-tart--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:54:57.862Z"
+}
