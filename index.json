@@ -9922,5 +9922,17 @@
     "cuisine": "thai",
     "totalTimeMin": 55,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-vietnamese-haddock-tart--german",
+    "title": "German Crispy Fish with Tart Crust",
+    "tags": [
+      "german",
+      "fish",
+      "tart"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "b"
   }
 ]
