@@ -9835,5 +9835,30 @@
     "cuisine": null,
     "totalTimeMin": 5,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-juicy-suet-croissant--japanese",
+    "title": "Japanese Suet Croissant",
+    "tags": [
+      "japanese",
+      "dessert",
+      "pastries",
+      "matcha"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crisp-middle-eastern-flatbread-grill--vegan",
+    "title": "Eastern-Style Vegan Flatbread",
+    "tags": [
+      "vegan",
+      "easy",
+      "middle-eastern"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 15,
+    "shard": "b"
   }
 ]
