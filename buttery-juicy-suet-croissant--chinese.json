@@ -1,0 +1,61 @@
+{
+  "slug": "buttery-juicy-suet-croissant--chinese",
+  "title": "Chinese Suet Croissant Pastry",
+  "description": "A sweet and flaky pastry filled with a hint of suet, perfect for a Chinese-inspired dessert or snack.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Croissant dough",
+      "amount": "1 package ( thawed )",
+      "notes": ""
+    },
+    {
+      "name": "Suet",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Juicy ( apple or pear )",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Roll out the croissant dough and spread the melted buttery evenly.",
+    "Sprinkle the grated suet and diced juicy over the dough.",
+    "Fold the dough in half and press the edges to seal.",
+    "Cut into desired shapes and place on a baking sheet.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-juicy-suet-croissant--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:49:29.966Z"
+}
