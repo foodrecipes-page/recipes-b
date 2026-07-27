@@ -1,0 +1,73 @@
+{
+  "slug": "bitter-chewy-indulgent-yogurt-crumble--french",
+  "title": "French Crumble Tart",
+  "description": "A delicious French dessert featuring a crumble topping over a yogurt and indulgent filling.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bitter dark chocolate",
+      "amount": "150g",
+      "notes": null
+    },
+    {
+      "name": "yogurt",
+      "amount": "250g",
+      "notes": "full-fat"
+    },
+    {
+      "name": "indulgent caramel sauce",
+      "amount": "100ml",
+      "notes": "store-bought"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "250g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Melt chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "In a separate bowl, mix together yogurt and caramel sauce.",
+    "Roll out the crumble topping to a thickness of about 1cm (1/2 inch).",
+    "Place the crumble topping over the yogurt mixture in a 20cm (8 inch) tart pan.",
+    "Bake for 25-30 minutes or until the topping is golden brown and the filling is set.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Dust with flour and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tart",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-chewy-indulgent-yogurt-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:03:01.690Z"
+}
