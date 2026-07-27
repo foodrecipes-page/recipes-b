@@ -1,0 +1,77 @@
+{
+  "slug": "brine-wet-glassy-jelly-croatian-snapper-fish-one-pot--indian",
+  "title": "Croatian Fish Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with snapper, a hint of Croatian spices, and a tangy brine.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Croatian Paprika",
+      "amount": "2 tsp",
+      "notes": "Adds a smoky depth"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for a punch"
+    },
+    {
+      "name": "Brine",
+      "amount": "1/4 cup",
+      "notes": "Helps tenderize the fish"
+    },
+    {
+      "name": "Jelly (optional)",
+      "amount": "2 tbsp",
+      "notes": "Adds a sweet and tangy glaze"
+    },
+    {
+      "name": "Fish Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Customizable to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the snapper fillets and sear until golden brown, about 3-4 minutes per side.",
+    "Remove the fish and set aside.",
+    "Add the ginger and garlic to the pot and sauté until fragrant, about 1 minute.",
+    "Add the Croatian paprika, fish spice blend, and brine to the pot and stir to combine.",
+    "Return the fish to the pot and simmer until cooked through, about 8-10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro and a drizzle of jelly (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish-curry",
+    "croatian-spices"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brine-wet-glassy-jelly-croatian-snapper-fish-one-pot--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:55:40.473Z"
+}
