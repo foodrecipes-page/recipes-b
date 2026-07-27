@@ -1,0 +1,70 @@
+{
+  "slug": "berry-frozen-delight--vegan",
+  "title": "Berry Delight Smoothie",
+  "description": "A delicious and refreshing smoothie made with frozen delight and mixed berries. Perfect for a quick breakfast or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "frozen delight",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "berries",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "or other sweetener of choice"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Add all ingredients to a blender and blend until smooth.",
+    "Taste and adjust sweetness as needed.",
+    "Pour into a glass and serve immediately.",
+    "Garnish with additional berries, if desired.",
+    "Serve chilled or over ice for a thicker consistency.",
+    "Store leftover smoothie in the refrigerator for up to 24 hours.",
+    "Blend again before serving, if desired.",
+    "Consider adding a handful of spinach or kale for a green smoothie twist.",
+    "Experiment with different types of non-dairy milk and sweeteners to find your favorite combination."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoothie",
+    "breakfast",
+    "snack",
+    "vegan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/berry-frozen-delight--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:48:53.949Z"
+}
