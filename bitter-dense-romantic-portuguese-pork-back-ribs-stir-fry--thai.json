@@ -1,0 +1,94 @@
+{
+  "slug": "bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry--thai",
+  "title": "Thai-Style Pork Ribs",
+  "description": "A classic Thai dish featuring tender pork ribs in a sweet and sour sauce. This recipe is perfect for a romantic dinner for two or a fun gathering with friends.",
+  "cuisine": "thai",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "1 pound",
+      "notes": "back ribs work best for this dish"
+    },
+    {
+      "name": "portuguese red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with regular red wine vinegar"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "or substitute with a sweet and sour mix"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": "such as peanut or vegetable oil"
+    },
+    {
+      "name": "romantic red pepper",
+      "amount": "1 dried",
+      "notes": "or substitute with a sweet red pepper"
+    },
+    {
+      "name": "dried kaffir lime leaves",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with regular sugar"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, but recommended for authentic flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Line a baking sheet with aluminum foil and place the ribs on it.",
+    "In a small bowl, whisk together the red wine vinegar, brown sugar, fish sauce, garlic, and ginger.",
+    "Brush the mixture evenly onto both sides of the ribs.",
+    "Bake the ribs for 20 minutes, then brush with stir-fry oil and continue baking for another 10 minutes.",
+    "While the ribs are baking, stir-fry the bitter melon and dried red pepper in a pan with a little oil until tender.",
+    "Add the kaffir lime leaves to the pan and stir-fry for another minute.",
+    "When the ribs are done, remove them from the oven and brush with the remaining sauce.",
+    "Serve the ribs with the stir-fry mixture spooned over the top.",
+    "Garnish with fresh cilantro or basil leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "porkribs",
+    "thairecipes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:39:45.205Z"
+}
