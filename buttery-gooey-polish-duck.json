@@ -1,0 +1,71 @@
+{
+  "slug": "buttery-gooey-polish-duck",
+  "title": "Pan-Seared Duck Breast with Polish Sausage",
+  "description": "A savory dish featuring seared duck breast paired with Polish sausage, potatoes, and a hint of buttery flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "2",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 lb",
+      "notes": "kielbasa"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "salted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the duck breast with salt and pepper.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the duck breast for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and cook for 12-15 minutes.",
+    "Meanwhile, cook the Polish sausage in a separate pan over medium heat, breaking it up with a spoon as it cooks.",
+    "Add the cubed potatoes to the pan with the sausage and cook until they're tender.",
+    "Once the duck is cooked, remove it from the oven and let it rest for 5 minutes.",
+    "Slice the duck breast and serve with the sausage and potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "polish-cuisine",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-gooey-polish-duck",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:47:23.811Z"
+}
