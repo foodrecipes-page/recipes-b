@@ -1,83 +1,73 @@
 {
   "slug": "buttery-crumbly-turkish-delight",
-  "title": "Turkish Delight Crumble Bars",
-  "description": "A sweet and crumbly dessert bar inspired by Turkish Delight.",
-  "cuisine": "balkan",
-  "diet": [
-    "vegetarian"
-  ],
+  "title": "Buttery Turkish Delight Shortbread",
+  "description": "A classic shortbread recipe infused with the sweet flavors of Turkish Delight. Perfect for a dessert or snack.",
+  "cuisine": "british",
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "Buttery Crumble Topping",
-      "amount": "1 cup",
-      "notes": "use a food processor to crumble the topping"
+      "name": "Buttery, crumbly shortbread mixture",
+      "amount": "225g",
+      "notes": ""
     },
     {
       "name": "Turkish Delight",
-      "amount": "1 cup",
-      "notes": "cut into small pieces"
+      "amount": "100g",
+      "notes": "chopped or crushed"
     },
     {
-      "name": "Granulated Sugar",
-      "amount": "1/2 cup",
+      "name": "Granulated sugar",
+      "amount": "100g",
       "notes": ""
     },
     {
-      "name": "All-purpose Flour",
-      "amount": "1/2 cup",
+      "name": "All-purpose flour",
+      "amount": "45g",
       "notes": ""
     },
     {
-      "name": "Unsalted Butter",
-      "amount": "1/4 cup",
+      "name": "Salt",
+      "amount": "2g",
       "notes": ""
     },
     {
-      "name": "Egg",
-      "amount": "1",
-      "notes": ""
-    },
-    {
-      "name": "Vanilla Extract",
-      "amount": "1 tsp",
+      "name": "Unsalted butter, softened",
+      "amount": "115g",
       "notes": ""
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
-    "Line an 8-inch square baking dish with parchment paper.",
-    "In a medium bowl, whisk together the flour and sugar.",
-    "Add in the cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
-    "Press half of the crumb mixture into the prepared baking dish.",
-    "Bake for 15 minutes or until lightly browned.",
-    "While the crust is baking, melt the butter in a small saucepan over low heat.",
-    "Add in the Turkish Delight and stir until melted and smooth.",
-    "Remove the crust from the oven and spread the Turkish Delight mixture over the top.",
-    "Top with the remaining crumb mixture.",
-    "Return to the oven and bake for an additional 20-25 minutes or until the top is golden brown.",
-    "Let cool completely before cutting into bars."
+    "Preheat oven to 300°F (150°C). Line a baking sheet with parchment paper.",
+    "In a medium-sized bowl, whisk together the flour, salt, and sugar.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or your fingers to work it into a crumbly mixture.",
+    "Stir in the chopped Turkish Delight.",
+    "Turn the mixture out onto a lightly floured surface and knead a few times until it comes together.",
+    "Roll the dough out to a thickness of about 1/4 inch (6 mm).",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place the shortbread on the prepared baking sheet and bake for 18-20 minutes, or until lightly golden.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+    "Serve and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 35,
-  "totalTimeMin": 50,
-  "servings": 9,
-  "difficulty": "medium",
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
   "tags": [
+    "shortbread",
+    "turkishdelight",
     "dessert",
-    "balkan",
-    "crumble",
-    "bars",
-    "turkish"
+    "buttery"
   ],
   "nutrition": {
-    "calories": 220,
+    "calories": 170,
     "protein": 2,
-    "carbs": 30,
+    "carbs": 22,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-turkish-delight",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T19:08:59.976Z"
+  "createdAt": "2026-07-21T23:56:41.263Z"
 }
