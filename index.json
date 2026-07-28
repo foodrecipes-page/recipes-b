@@ -10021,5 +10021,19 @@
     "cuisine": null,
     "totalTimeMin": 27,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-crunchy-portuguese-celeriac-wrap--thai",
+    "title": "Celeriac and Cabbage Thai Wrap",
+    "tags": [
+      "celeriac",
+      "cabbage",
+      "thai",
+      "wrap",
+      "veggie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "b"
   }
 ]
