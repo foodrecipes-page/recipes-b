@@ -1,7 +1,7 @@
 {
   "slug": "buttery-creamy-dates-stir-fry--chinese",
   "title": "Stir Fried Dates",
-  "description": "A simple Chinese-inspired dessert recipe, perfect for warm weather. This sweet treat takes only minutes to prepare and is a great way to showcase the natural sweetness of dates.",
+  "description": "A simple and sweet Chinese-inspired dessert made with pan-fried dates in a buttery sauce.",
   "cuisine": "chinese",
   "diet": [
     "vegetarian",
@@ -10,51 +10,57 @@
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "Dates",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "dates",
+      "amount": "12",
+      "notes": "pitted"
     },
     {
-      "name": "Buttery",
-      "amount": "2 tbsp",
+      "name": "buttery",
+      "amount": "2 tablespoons",
       "notes": "melted"
     },
     {
-      "name": "Stir",
-      "amount": "",
-      "notes": "for serving"
+      "name": "creamy",
+      "amount": "1 tablespoon",
+      "notes": "optional"
     },
     {
-      "name": "Fry",
+      "name": "stir",
       "amount": "",
-      "notes": "for serving"
+      "notes": "for garnish"
+    },
+    {
+      "name": "fry",
+      "amount": "",
+      "notes": "for garnish"
     }
   ],
   "instructions": [
-    "1. Preheat a non-stick pan over medium heat.",
-    "2. Add the melted buttery to the pan.",
-    "3. Add the dates to the pan and cook for 2-3 minutes on each side, until they are caramelized.",
-    "4. Serve the dates hot, garnished with a stir and fry."
+    "1. Heat the melted buttery in a non-stick pan over medium heat.",
+    "2. Add the pitted dates to the pan and cook for 2-3 minutes on each side, or until caramelized.",
+    "3. If using creamy, stir it in during the last minute of cooking.",
+    "4. Remove the pan from the heat and let it cool slightly.",
+    "5. Garnish with a sprinkle of stir and fry.",
+    "6. Serve the pan-fried dates warm, or at room temperature."
   ],
   "prepTimeMin": 5,
-  "cookTimeMin": 10,
-  "totalTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "chinese",
-    "dessert",
-    "sweet",
-    "dates"
+    "chinese-dessert",
+    "easy-recipe",
+    "date-recipe"
   ],
   "nutrition": {
-    "calories": 250,
+    "calories": 150,
     "protein": 1,
-    "carbs": 60,
-    "fat": 10
+    "carbs": 35,
+    "fat": 6
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-dates-stir-fry--chinese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T07:20:59.608Z"
+  "createdAt": "2026-07-22T21:00:10.740Z"
 }
