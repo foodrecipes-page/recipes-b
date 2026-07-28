@@ -1,0 +1,72 @@
+{
+  "slug": "buttery-crumbly-turkish-delight--japanese",
+  "title": "Turkish Delight Mochi",
+  "description": "A unique Japanese-inspired dessert using crumbly Turkish Delight and buttery mochi.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "200g"
+    },
+    {
+      "name": "Mochi Flour",
+      "amount": "250g",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Water",
+      "amount": "150ml"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Matcha Powder",
+      "amount": "1 tsp",
+      "notes": "Optional for a green tea flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Combine Mochi Flour, Water, and Sugar in a saucepan.",
+    "Cook over medium heat, stirring constantly until the dough forms a ball.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Add Matcha Powder (if using) and knead for an additional minute.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Roll out the dough to a thickness of 1 cm.",
+    "Cut out small squares of dough.",
+    "Place a small piece of Turkish Delight in the center of each square.",
+    "Fold the dough over the Turkish Delight to form a triangle or square shape.",
+    "Press the edges of the dough to seal the mochi.",
+    "Serve warm with a drizzle of butter on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "mochi",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-turkish-delight--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:31:40.067Z"
+}
