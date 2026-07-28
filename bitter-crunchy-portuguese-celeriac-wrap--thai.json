@@ -1,0 +1,90 @@
+{
+  "slug": "bitter-crunchy-portuguese-celeriac-wrap--thai",
+  "title": "Celeriac and Cabbage Thai Wrap",
+  "description": "A crunchy and refreshing Thai-inspired wrap with celeriac and cabbage slaw.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "1 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/2 head",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Peel and grate the celeriac.",
+    "2. Shred the cabbage.",
+    "3. In a large bowl, combine the celeriac, cabbage, fish sauce, rice vinegar, honey, chili flakes, salt, and pepper.",
+    "4. Toss to combine and adjust seasoning as needed.",
+    "5. Lay the wrap flat and spread the celeriac slaw down the center of the wrap.",
+    "6. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "7. Slice in half and serve immediately.",
+    "8. Serve with additional chili flakes or fish sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "celeriac",
+    "cabbage",
+    "thai",
+    "wrap",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-portuguese-celeriac-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:04:02.380Z"
+}
