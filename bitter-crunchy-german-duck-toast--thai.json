@@ -1,0 +1,56 @@
+{
+  "slug": "bitter-crunchy-german-duck-toast--thai",
+  "title": "Thai Crispy Duck Bites",
+  "description": "Crispy fried duck bites in a tangy Thai sauce, served with fresh toast for dipping.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Crunchy German breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bitter orange marmalade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Cut the duck breast into bite-sized pieces.",
+    "2. In a shallow dish, mix together the breadcrumbs and a pinch of salt.",
+    "3. Dredge the duck pieces in the breadcrumb mixture, pressing gently to coat.",
+    "4. Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "5. Fry the duck pieces until crispy and golden brown, about 3-4 minutes.",
+    "6. Remove the duck from the oil and place on a paper towel-lined plate to drain.",
+    "7. In a small bowl, mix together the orange marmalade and a squeeze of fresh lime juice.",
+    "8. Serve the crispy duck bites with the tangy marmalade sauce for dipping, accompanied by fresh toast slices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-snack",
+    "crispy-duck",
+    "easy-appetizer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-crunchy-german-duck-toast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:58:43.966Z"
+}
