@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-creamy-dutch-chicken-roast",
+  "title": "Roast Chicken with Creamy Dutch Butter Sauce",
+  "description": "A classic roast chicken dish with a creamy and delicious Dutch butter sauce.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roast chicken",
+      "amount": "1",
+      "notes": "4 pounds whole chicken"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted butter"
+    },
+    {
+      "name": "Creamy",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "Dutch",
+      "amount": "2 tablespoons",
+      "notes": "Dutch butter (such as Beurre Blanc)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "Season the chicken with salt and pepper.",
+    "Place the chicken in a roasting pan and put in the oven.",
+    "Roast the chicken for 45 minutes.",
+    "While the chicken is roasting, melt the butter in a saucepan over medium heat.",
+    "Add the heavy cream to the saucepan and stir until the sauce thickens.",
+    "Remove the chicken from the oven and brush the Dutch butter sauce all over it.",
+    "Return the chicken to the oven and roast for an additional 15 minutes.",
+    "Let the chicken rest for 10 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dutch",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-creamy-dutch-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:58:22.325Z"
+}
