@@ -1,0 +1,76 @@
+{
+  "slug": "boiling-kid-friendly-algerian-water-tagine--italian",
+  "title": "Italian-Style Kid-Friendly Tagine",
+  "description": "A hearty and comforting Italian-inspired meal that's perfect for a family dinner. The tagine is a traditional North African cooking vessel, but we'll adapt the recipe to fit a more Italian flavor profile.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Italian tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large pan over medium heat.",
+    "2. Add the onion and garlic and cook until the onion is translucent.",
+    "3. Add the chicken breast and cook until browned.",
+    "4. Add the tomato sauce, cumin, and tagine spice blend. Stir to combine.",
+    "5. Bring the mixture to a simmer and cook for 20 minutes.",
+    "6. Add the water and continue to simmer for another 10 minutes.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "kid-friendly",
+    "easy",
+    "chicken",
+    "tomato-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiling-kid-friendly-algerian-water-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:31:13.562Z"
+}
