@@ -1,0 +1,67 @@
+{
+  "slug": "buttery-flaky-ethiopian-squid-crumble--german",
+  "title": "Crumble-Top Schnitzel",
+  "description": "A German-inspired twist on the classic schnitzel, topped with a crunchy crumble.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buttery, flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "1 tsp",
+      "notes": "such as berbere or niter kibbeh"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": "made with buttery, flaky pastry dough"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork cutlets with salt and pepper.",
+    "Dredge the pork cutlets in flour, then dip in beaten eggs.",
+    "Dredge the pork cutlets in the crumble topping, pressing gently to adhere.",
+    "Place the coated pork cutlets on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the crumble topping is golden brown and the pork is cooked through.",
+    "Serve with a dollop of sour cream and a sprinkle of Ethiopian spices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "crumble",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-flaky-ethiopian-squid-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:43:58.934Z"
+}
