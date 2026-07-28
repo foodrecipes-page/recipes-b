@@ -1,0 +1,63 @@
+{
+  "slug": "buttery-fluffy-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A flavorful and aromatic North African stew made with lamb and a blend of spices, slow-cooked to perfection in a traditional clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "meat-dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound boneless shoulder, cut into 2-inch pieces"
+    },
+    {
+      "name": "tunisian",
+      "amount": "2 tablespoons, spice blend"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons, unsalted butter"
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups, fluffy couscous"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups, chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a large clay pot over medium heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the tunisian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Fluff the fluffy couscous with a fork and serve alongside the tagine.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "north-african",
+    "stew",
+    "slow-cooked",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-fluffy-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:34:18.613Z"
+}
