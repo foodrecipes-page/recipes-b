@@ -10035,5 +10035,45 @@
     "cuisine": "thai",
     "totalTimeMin": 10,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry--keto",
+    "title": "Portuguese Keto Pork Ribs",
+    "tags": [
+      "keto",
+      "portuguese",
+      "pork",
+      "ribs"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 170,
+    "shard": "b"
+  },
+  {
+    "slug": "boiling-kid-friendly-algerian-water-tagine--italian",
+    "title": "Italian-Style Kid-Friendly Tagine",
+    "tags": [
+      "italian",
+      "kid-friendly",
+      "easy",
+      "chicken",
+      "tomato-sauce"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-flaky-ethiopian-squid-crumble--german",
+    "title": "Crumble-Top Schnitzel",
+    "tags": [
+      "german",
+      "schnitzel",
+      "crumble",
+      "pork"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
