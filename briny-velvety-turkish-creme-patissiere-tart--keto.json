@@ -1,0 +1,84 @@
+{
+  "slug": "briny-velvety-turkish-creme-patissiere-tart--keto",
+  "title": "Turkish Cream Tart",
+  "description": "A keto dessert featuring a velvety Turkish cream filling in a briny pastry crust. A delicious twist on a classic dessert.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pastry Crust",
+      "amount": "1 1/2 cups almond flour",
+      "notes": "use a food processor to mix the crust"
+    },
+    {
+      "name": "Turkish Cream Filling",
+      "amount": "1 cup heavy cream",
+      "notes": "chill in the fridge for at least 2 hours"
+    },
+    {
+      "name": "Briny Filling",
+      "amount": "1/4 cup unsalted butter, softened",
+      "notes": "adjust the salt to taste"
+    },
+    {
+      "name": "Patissiere Cream",
+      "amount": "1/2 cup granulated sweetener",
+      "notes": "adjust the sweetener to taste"
+    },
+    {
+      "name": "Tart",
+      "amount": "1/4 cup unsalted butter, softened",
+      "notes": "adjust the butter to taste"
+    },
+    {
+      "name": "Creme Fraiche",
+      "amount": "1/4 cup unsalted butter, softened",
+      "notes": "adjust the butter to taste"
+    },
+    {
+      "name": "Turkish Spice",
+      "amount": "1/2 teaspoon ground cinnamon",
+      "notes": "adjust the spice to taste"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "2 tablespoons granulated sweetener",
+      "notes": "adjust the sweetener to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a food processor, mix together almond flour, unsalted butter and salt until a dough forms.",
+    "Press dough into a 9-inch tart pan.",
+    "Bake for 20-25 minutes or until lightly golden.",
+    "In a separate bowl, mix together heavy cream, unsalted butter and Patissiere Cream.",
+    "Pour the mixture into the baked tart shell.",
+    "Bake for an additional 15-20 minutes or until lightly golden.",
+    "Let cool completely before serving.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "turkish",
+    "keto",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/briny-velvety-turkish-creme-patissiere-tart--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:22:55.978Z"
+}
