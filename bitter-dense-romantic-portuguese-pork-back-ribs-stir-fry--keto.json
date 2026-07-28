@@ -1,0 +1,83 @@
+{
+  "slug": "bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry--keto",
+  "title": "Portuguese Keto Pork Ribs",
+  "description": "A keto twist on a classic Portuguese dish, featuring tender pork ribs in a rich, savory sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese pork ribs",
+      "amount": "4 pounds",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "1 can",
+      "notes": "drained and crushed"
+    },
+    {
+      "name": "Bitter red wine",
+      "amount": "1/2 cup",
+      "notes": "such as Cabernet Sauvignon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a small bowl, mix together olive oil, garlic, salt, and black pepper.",
+    "Rub the mixture all over the pork ribs, making sure to coat them evenly.",
+    "Place the ribs in a large Dutch oven or oven-safe pot.",
+    "Pour in the dense tomatoes, bitter red wine, and stir-fry sauce.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the ribs are tender and falling off the bone.",
+    "Remove the pot from the oven and let the ribs rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "portuguese",
+    "pork",
+    "ribs"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-dense-romantic-portuguese-pork-back-ribs-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:14:43.120Z"
+}
