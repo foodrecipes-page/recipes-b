@@ -9633,13 +9633,12 @@
     "slug": "buttery-creamy-dates-stir-fry--chinese",
     "title": "Stir Fried Dates",
     "tags": [
-      "chinese",
-      "dessert",
-      "sweet",
-      "dates"
+      "chinese-dessert",
+      "easy-recipe",
+      "date-recipe"
     ],
     "cuisine": "chinese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "b"
   },
   {
@@ -10073,6 +10072,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "b"
+  },
+  {
+    "slug": "bouncy-earthy-potatoes-stone-bowl-dolsot--chinese",
+    "title": "Stir-Fried Potatoes with Dolsot Crust",
+    "tags": [
+      "chinese",
+      "potatoes",
+      "dolsot"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 65,
     "shard": "b"
   }
 ]
