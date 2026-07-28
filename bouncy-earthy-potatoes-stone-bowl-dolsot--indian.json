@@ -1,0 +1,65 @@
+{
+  "slug": "bouncy-earthy-potatoes-stone-bowl-dolsot--indian",
+  "title": "Dolsot Potatoes",
+  "description": "A simple and flavorful Indian-inspired dish featuring potatoes cooked in a dolsot. This recipe is vegan-friendly and can be made in under an hour.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "Choose high-starch potatoes for the best results"
+    },
+    {
+      "name": "earthly",
+      "amount": "1 tsp",
+      "notes": "You may substitute with a combination of earthy spices (e.g., cumin, coriander) if unavailable"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 large",
+      "notes": "for serving"
+    },
+    {
+      "name": "stone",
+      "amount": "1 medium",
+      "notes": "for cooking"
+    },
+    {
+      "name": "dolsot",
+      "amount": "1",
+      "notes": "a traditional Korean stone bowl"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Wash and peel the potatoes, then cut them into 1-inch cubes.",
+    "Place the potatoes in a bowl and drizzle with a little water. Cover with plastic wrap and microwave on high for 3-4 minutes, or until they start to soften.",
+    "Transfer the potatoes to the stone and cook in the oven for 15-20 minutes, or until they're tender and lightly browned.",
+    "Remove the potatoes from the stone and stir in the earthly spice. Serve hot in the dolsot bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bouncy-earthy-potatoes-stone-bowl-dolsot--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:20:18.400Z"
+}
