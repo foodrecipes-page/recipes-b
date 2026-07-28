@@ -9971,5 +9971,43 @@
     "cuisine": "Turkish",
     "totalTimeMin": 75,
     "shard": "b"
+  },
+  {
+    "slug": "brine-dry-british-sea-bass-finger-sandwich--italian",
+    "title": "British Bass with Italian-Style Brine",
+    "tags": [
+      "italian",
+      "fish",
+      "seafood",
+      "bass"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-crunchy-german-duck-toast--thai",
+    "title": "Thai Crispy Duck Bites",
+    "tags": [
+      "thai-snack",
+      "crispy-duck",
+      "easy-appetizer"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-turkish-delight--japanese",
+    "title": "Turkish Delight Mochi",
+    "tags": [
+      "japanese",
+      "dessert",
+      "mochi",
+      "turkish-delight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "b"
   }
 ]
