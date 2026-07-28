@@ -1,0 +1,55 @@
+{
+  "slug": "buttery-potato-bun-roll--gluten-free",
+  "title": "Gluten-Free Potato Buns",
+  "description": "A simple recipe to make gluten-free potato buns at home. Perfect for sandwiches or toast.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttery",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Mashed or finely grated"
+    },
+    {
+      "name": "bun",
+      "amount": "2",
+      "notes": "Regular buns"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grate or mash the potatoes.",
+    "In a bowl, mix together the grated potatoes, buttery, and a pinch of salt.",
+    "Split the regular buns in half and hollow out the centers.",
+    "Fill the buns with the potato mixture.",
+    "Place the buns on a baking sheet and bake for 10-12 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "potato",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-potato-bun-roll--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:05:02.834Z"
+}
