@@ -9934,5 +9934,42 @@
     "cuisine": "german",
     "totalTimeMin": 27,
     "shard": "b"
+  },
+  {
+    "slug": "bouncy-earthy-potatoes-stone-bowl-dolsot--indian",
+    "title": "Dolsot Potatoes",
+    "tags": [
+      "indian",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-shattering-australian-sirloin-steak-wrap--vegetarian",
+    "title": "Grilled Steak Wrap",
+    "tags": [
+      "grilled",
+      "steak",
+      "wrap"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
+    "shard": "b"
+  },
+  {
+    "slug": "briny-velvety-turkish-creme-patissiere-tart--keto",
+    "title": "Turkish Cream Tart",
+    "tags": [
+      "tart",
+      "turkish",
+      "keto",
+      "cream"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 75,
+    "shard": "b"
   }
 ]
