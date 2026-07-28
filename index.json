@@ -10009,5 +10009,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "b"
+  },
+  {
+    "slug": "buttery-potato-bun-roll--gluten-free",
+    "title": "Gluten-Free Potato Buns",
+    "tags": [
+      "potato",
+      "gluten-free",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 27,
+    "shard": "b"
   }
 ]
