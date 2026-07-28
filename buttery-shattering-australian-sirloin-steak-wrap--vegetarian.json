@@ -1,0 +1,51 @@
+{
+  "slug": "buttery-shattering-australian-sirloin-steak-wrap--vegetarian",
+  "title": "Grilled Steak Wrap",
+  "description": "A delicious and easy-to-make wrap filled with grilled steak, perfect for a quick lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buttery Australian Steak",
+      "amount": "1 x 1-inch thick steak",
+      "notes": "Look for a marbling score of 3-5 for the best flavor and tenderness"
+    },
+    {
+      "name": "Wrap",
+      "amount": "2-3 wraps",
+      "notes": "Choose a sturdy wrap that can hold the filling"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the steak with salt and pepper on both sides.",
+    "Add the steak to the grill and cook for 3-4 minutes per side, or until it reaches an internal temperature of 135°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing sliced steak in the center and serving with your favorite toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-shattering-australian-sirloin-steak-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:16:29.520Z"
+}
