@@ -1,0 +1,76 @@
+{
+  "slug": "boiling-kid-friendly-algerian-water-tagine--vegetarian",
+  "title": "Vegetarian Algerian Tagine",
+  "description": "A hearty and flavorful vegetarian tagine made with tender vegetables and aromatic spices, perfect for a cozy night in.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian spices",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the onion, carrots, potatoes, and red bell pepper. Cook until the vegetables are tender, about 20 minutes.",
+    "Add the Algerian spices, tomatoes, and water. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "north-african",
+    "tagine",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/boiling-kid-friendly-algerian-water-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:23:24.643Z"
+}
