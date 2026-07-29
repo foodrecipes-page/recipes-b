@@ -1,0 +1,48 @@
+{
+  "slug": "blackberry-knit--keto",
+  "title": "Blackberry Keto Sorbet",
+  "description": "A refreshing and sweet sorbet made with blackberries, perfect for hot summer days. This keto-friendly dessert is low in carbs and high in flavor.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Blackberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sweetener (e.g. Swerve or Erythritol)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine blackberries and sweetener in a blender.",
+    "Blend until smooth.",
+    "Pour mixture into an ice cream maker and churn according to manufacturer's instructions.",
+    "Freeze for at least 2 hours.",
+    "Scoop and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "sorbet",
+    "dessert",
+    "blackberry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/blackberry-knit--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:15:40.010Z"
+}
