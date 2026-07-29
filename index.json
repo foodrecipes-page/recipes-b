@@ -10110,5 +10110,44 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
     "shard": "b"
+  },
+  {
+    "slug": "bitter-gooey-mexican-mars-bar-taco--vegan",
+    "title": "Vegan Mexican Taco Bar",
+    "tags": [
+      "tacos",
+      "vegan",
+      "mexican",
+      "dessert"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "b"
+  },
+  {
+    "slug": "blackberry-knit--keto",
+    "title": "Blackberry Keto Sorbet",
+    "tags": [
+      "keto",
+      "sorbet",
+      "dessert",
+      "blackberry"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 120,
+    "shard": "b"
+  },
+  {
+    "slug": "boiling-kid-friendly-algerian-water-tagine--vegetarian",
+    "title": "Vegetarian Algerian Tagine",
+    "tags": [
+      "vegetarian",
+      "north-african",
+      "tagine",
+      "lunch"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 55,
+    "shard": "b"
   }
 ]
