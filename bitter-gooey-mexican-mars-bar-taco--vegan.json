@@ -1,0 +1,77 @@
+{
+  "slug": "bitter-gooey-mexican-mars-bar-taco--vegan",
+  "title": "Vegan Mexican Taco Bar",
+  "description": "A vibrant and flavorful vegan taco bar featuring Mexican-inspired flavors and gooey, sweet treats. Perfect for a fun and casual gathering with friends and family.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mexican taco seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Gooey, sweet date filling",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Taco shells (corn, vegan)",
+      "amount": "8-10 shells",
+      "notes": null
+    },
+    {
+      "name": "Bar-style vegan chocolate chips",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Crispy, crunchy taco toppings",
+      "amount": "1 cup",
+      "notes": "your choice (e.g., diced tomatoes, shredded lettuce, sliced avocado)"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Spread 1-2 tablespoons of Mexican taco seasoning onto each taco shell and bake for 5-7 minutes, or until crispy.",
+    "Spoon 1-2 tablespoons of gooey date filling onto each taco shell.",
+    "Melt 1/4 cup of bar-style vegan chocolate chips in the microwave or in a double boiler.",
+    "Drizzle the melted chocolate over the date filling.",
+    "Garnish with chopped fresh cilantro and a squeeze of lime juice.",
+    "Serve with crunchy taco toppings and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "vegan",
+    "mexican",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-gooey-mexican-mars-bar-taco--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:56:47.346Z"
+}
