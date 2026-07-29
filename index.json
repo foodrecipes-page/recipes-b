@@ -10085,5 +10085,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 65,
     "shard": "b"
+  },
+  {
+    "slug": "brine-wet-glassy-jelly-croatian-snapper-fish-one-pot--vegetarian",
+    "title": "Braised Snapper in Croatian-Style Brine",
+    "tags": [
+      "mediterranean",
+      "snapper",
+      "vegetarian",
+      "braised"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-peruvian-jjante--vegetarian",
+    "title": "Peruvian Roasted Vegetables",
+    "tags": [
+      "peruvian",
+      "vegetarian",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "b"
   }
 ]
