@@ -1,0 +1,64 @@
+{
+  "slug": "buttery-crumbly-syrian-chickpea-flour-crumble--french",
+  "title": "French Crumbly Chickpea Tart",
+  "description": "A French-inspired pastry filled with a crumbly chickpea mixture. Perfect as a snack or light lunch.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 1/2 cups cooked"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups all-purpose"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "buttery",
+      "amount": "1/4 cup unsalted butter, melted"
+    },
+    {
+      "name": "syrian",
+      "amount": "1/2 tsp ground cumin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a bowl, mix together the chickpea mixture ingredients.",
+    "Pour the chickpea mixture into the pastry shell.",
+    "Top with the crumble mixture.",
+    "Drizzle with the melted butter.",
+    "Bake for 35-40 minutes or until the crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tart",
+    "chickpea",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/buttery-crumbly-syrian-chickpea-flour-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:31:48.751Z"
+}
