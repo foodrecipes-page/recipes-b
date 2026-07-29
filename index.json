@@ -2339,15 +2339,15 @@
     "slug": "bitter-kale-delight",
     "title": "Bitter Kale Delight",
     "tags": [
-      "moroccan",
-      "bitterkale",
-      "creamy",
-      "energizing",
-      "chinesecabbage",
-      "nutfree"
+      "salad",
+      "kale",
+      "bitter-greens",
+      "easy",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "cuisine": "Vegetarian",
+    "totalTimeMin": 5,
     "shard": "b"
   },
   {
@@ -10148,6 +10148,45 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 55,
+    "shard": "b"
+  },
+  {
+    "slug": "buttery-crumbly-syrian-chickpea-flour-crumble--french",
+    "title": "French Crumbly Chickpea Tart",
+    "tags": [
+      "french",
+      "tart",
+      "chickpea",
+      "crumble"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "b"
+  },
+  {
+    "slug": "brownie-buena--german",
+    "title": "Käsespätzle mit Apfelbutter",
+    "tags": [
+      "german-cuisine",
+      "comfort-food",
+      "spätzle",
+      "apple-butter"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "b"
+  },
+  {
+    "slug": "bitter-kale-delight--chinese",
+    "title": "Stir-Fried Bitter Kale Delight",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "kale",
+      "winter-squash"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
     "shard": "b"
   }
 ]
