@@ -1,0 +1,64 @@
+{
+  "slug": "bitter-kale-delight",
+  "title": "Bitter Kale Delight",
+  "description": "A refreshing salad combining the earthy flavors of kale with the tangy taste of bitter greens.",
+  "cuisine": "Vegetarian",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bitter Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Delight Apple Cider Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, massage the kale with your hands for about 2 minutes to soften it.",
+    "2. Add the bitter greens to the bowl and toss to combine.",
+    "3. In a small bowl, whisk together the apple cider vinegar and olive oil.",
+    "4. Pour the dressing over the kale and bitter greens, and toss to coat.",
+    "5. Season with salt to taste.",
+    "6. Serve immediately, garnished with additional bitter greens if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "kale",
+    "bitter-greens",
+    "easy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-kale-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:44:57.833Z"
+}
