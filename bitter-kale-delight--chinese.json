@@ -1,0 +1,50 @@
+{
+  "slug": "bitter-kale-delight--chinese",
+  "title": "Stir-Fried Bitter Kale Delight",
+  "description": "A quick and nutritious Chinese-inspired dish made with bitter kale and a hint of delight.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bitter Kale",
+      "amount": "2 cups, stems removed and discarded, leaves chopped"
+    },
+    {
+      "name": "Delight (likely referring to Delicata squash or a sweet winter squash)",
+      "amount": "1 medium, peeled and diced",
+      "notes": "Use a sweet winter squash for best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped kale and cook until wilted, about 3-4 minutes.",
+    "Add the diced Delight to the skillet and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "kale",
+    "winter-squash"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/bitter-kale-delight--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:59:12.266Z"
+}
