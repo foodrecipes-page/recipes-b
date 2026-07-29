@@ -1,0 +1,85 @@
+{
+  "slug": "brine-wet-glassy-jelly-croatian-snapper-fish-one-pot--vegetarian",
+  "title": "Braised Snapper in Croatian-Style Brine",
+  "description": "A flavorful, slow-cooked snapper dish with a twist from Croatian cuisine, suitable for vegetarians. This recipe is a fusion of traditional flavors with a Mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Snapper",
+      "amount": "1 (6 oz) fillet",
+      "notes": ""
+    },
+    {
+      "name": "Fish",
+      "amount": "1 cup",
+      "notes": "Used for stock (vegetarian fish stock)"
+    },
+    {
+      "name": "Glassy",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jelly",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "One",
+      "amount": "1",
+      "notes": "Used for serving"
+    },
+    {
+      "name": "Pot",
+      "amount": "1",
+      "notes": "Used for braising"
+    },
+    {
+      "name": "Brine",
+      "amount": "1 cup",
+      "notes": "Vegetarian brine for snapper"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. Season the snapper fillet with Croatian seasoning.",
+    "3. In a braising pot, combine fish stock, glassy, jelly, and brine. Bring to a boil, then reduce heat to low.",
+    "4. Add the snapper fillet to the braising liquid and cover the pot.",
+    "5. Transfer the pot to the preheated oven and braise for 20 minutes or until the fish is cooked through.",
+    "6. Serve the snapper hot, garnished with additional Croatian seasoning if desired.",
+    "7. Serve in individual portions (one per serving)",
+    "8. Garnish with a sprig of fresh herbs, if desired.",
+    "9. Serve immediately and enjoy.",
+    "10. Refrigerate leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "snapper",
+    "vegetarian",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/brine-wet-glassy-jelly-croatian-snapper-fish-one-pot--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:27:46.945Z"
+}
